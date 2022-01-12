@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: desired -->
+  <AM_Death_Desired.label>渴望</AM_Death_Desired.label>
+  <!-- EN: Death is what makes us truly human. It shouldn't be avoided, but actively sought.\n\n<color=#E5E54C>Gameplay effect:</color>\n - Colonists will receive a positive mood if ANY human casualties take place on the colony. -->
+  <AM_Death_Desired.description>唯有经历死亡才能让我们变成真正的人类。不要逃避，让我们积极地迎接死亡的降临吧。\n\n&lt;color=#E5E54C>游戏效果：&lt;/color>\n - 如果殖民地中有人死亡，其他殖民者将获得心情增益。</AM_Death_Desired.description>
+  
+</LanguageData>

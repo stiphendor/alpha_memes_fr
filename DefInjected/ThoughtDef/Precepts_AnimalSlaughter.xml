@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: slaughtered animal -->
+  <AN_SlaughteredAnimal_Desired.stages.slaughtered_animal.label>屠宰了动物</AN_SlaughteredAnimal_Desired.stages.slaughtered_animal.label>
+  <!-- EN: I slaughtered an animal. We are doing a vital and necessary job. -->
+  <AN_SlaughteredAnimal_Desired.stages.slaughtered_animal.description>我屠宰了一只动物，这对我们来说是十分必要的。</AN_SlaughteredAnimal_Desired.stages.slaughtered_animal.description>
+  
+  <!-- EN: slaughtered animal -->
+  <AN_SlaughteredAnimal_Know_Desired.stages.slaughtered_animal.label>屠宰了动物</AN_SlaughteredAnimal_Know_Desired.stages.slaughtered_animal.label>
+  
+  <!-- EN: animal slaughtered -->
+  <AN_SlaughteredAnimal_Know_Desired_Mood.stages.animal_slaughtered.label>动物被屠宰</AN_SlaughteredAnimal_Know_Desired_Mood.stages.animal_slaughtered.label>
+  <!-- EN: Someone slaughtered an animal. We are doing a vital and necessary job. -->
+  <AN_SlaughteredAnimal_Know_Desired_Mood.stages.animal_slaughtered.description>有人屠宰了一只动物，这对我们来说是十分必要的。</AN_SlaughteredAnimal_Know_Desired_Mood.stages.animal_slaughtered.description>
+  
+</LanguageData>

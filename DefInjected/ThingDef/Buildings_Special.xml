@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: animal database -->
+  <AM_AnimalDatabase.label>生物数据基站</AM_AnimalDatabase.label>
+  <!-- EN: An animal database containing detailed data of all scanned animals.\n\nIf the database gets somehow destroyed it will lose all its data, so you'd better protect it well.\n\nIt will display a total database completion on its infobox. Bear in mind you ABSOLUTELY do not need 100% completion, as it will most likely be impossible to attain, specially if you are using modded animals that only appear under special circumstances. -->
+  <AM_AnimalDatabase.description>收录有被扫描动物详细情报的生物数据基站。\n\n如果基站被摧毁，那么其中的情报数据也将尽数丢失。因此，保护好基站才是重中之重。\n\n基站的基因解析表会显示情报数据的录入情况。不过请记住，你绝对没必要达成100%的录入率，因为你安装的mod里面很有可能会出现无法正常生成的特殊生物。</AM_AnimalDatabase.description>
+  
+</LanguageData>

@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: forbidden -->
+  <AM_Reliquaries_Forbidden.label>禁忌</AM_Reliquaries_Forbidden.label>
+  <!-- EN: Relic worship and idolatry are obscene. We refuse to have a reliquary on our colony, as the only acceptable reason to have a relic is to destroy it as soon as possible. -->
+  <AM_Reliquaries_Forbidden.description>圣物崇拜与偶像崇拜可憎至极。我们绝不会在殖民地里建造圣物展台，而唯一持有圣物的理由也是为了尽快销毁它们。</AM_Reliquaries_Forbidden.description>
+  
+</LanguageData>

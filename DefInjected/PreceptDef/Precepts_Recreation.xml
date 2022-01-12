@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: abhorrent -->
+  <AM_Recreation_Abhorrent.label>厌恶</AM_Recreation_Abhorrent.label>
+  <!-- EN: Recreation is a complete waste of time. We have much more important things to do than indulging in meaningless recreative activities.\n\n<color=#E5E54C>Stats:</color>\n - Colonists get -15 mood for half a day after doing a recreation job. -->
+  <AM_Recreation_Abhorrent.description>娱乐放松完全就是浪费时间。我们还有更重要的事情要做。\n\n&lt;color=#E5E54C>状态：&lt;/color>\n - 殖民者在娱乐过后会获得持续12小时的 -15 心情减益。</AM_Recreation_Abhorrent.description>
+  
+</LanguageData>

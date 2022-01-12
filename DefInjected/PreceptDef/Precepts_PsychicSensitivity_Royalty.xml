@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: affinity -->
+  <AM_PsychicSensitivity_Affinity.label>亲和</AM_PsychicSensitivity_Affinity.label>
+  <!-- EN: Our minds will be like a bulwark against the psychic powers. A labyrinth that only the most skilled will be able to navigate.\n\n<color=#E5E54C>Gameplay effect:</color>\n - A colony starting with this precept will start the gameplay with a free psylink neuroformer. -->
+  <AM_PsychicSensitivity_Affinity.description>让我们的心灵成为坚固的灵能障壁。唯有最娴熟的灵能者才能在这座思想迷宫中找到方向。\n\n&lt;color=#E5E54C>游戏效果：&lt;/color>\n - 开始游戏后，殖民地将会获得1个免费的启灵装置。</AM_PsychicSensitivity_Affinity.description>
+  
+  <!-- EN: increased -->
+  <AM_PsychicSensitivity_Heightened.label>增强</AM_PsychicSensitivity_Heightened.label>
+  <!-- EN: Our minds will stay wide open to the vast universe of possibilities we are facing. We are not afraid. -->
+  <AM_PsychicSensitivity_Heightened.description>我们的心灵应对近乎无限的可能性保持开放。我们无所畏惧。</AM_PsychicSensitivity_Heightened.description>
+  
+</LanguageData>

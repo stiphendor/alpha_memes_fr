@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: animal released -->
+  <AM_AnimalRelease_Discouraged.stages.animal_released.label>放生了动物</AM_AnimalRelease_Discouraged.stages.animal_released.label>
+  <!-- EN: We released an animal into the wild, damaging the ecosystem. -->
+  <AM_AnimalRelease_Discouraged.stages.animal_released.description>我们将一只动物放生了。这破坏了边缘世界的生态系统。</AM_AnimalRelease_Discouraged.stages.animal_released.description>
+  
+  <!-- EN: animal released -->
+  <AM_AnimalRelease_Encouraged.stages.animal_released.label>放生了动物</AM_AnimalRelease_Encouraged.stages.animal_released.label>
+  <!-- EN: We released an animal into the wild, enriching the ecosystem. -->
+  <AM_AnimalRelease_Encouraged.stages.animal_released.description>我们将一只动物放生了。边缘世界的生态系统正逐渐变得多样化起来。</AM_AnimalRelease_Encouraged.stages.animal_released.description>
+  
+</LanguageData>

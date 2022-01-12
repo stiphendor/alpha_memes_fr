@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: jewish fine stone tiles -->
+  <AM_Floor_JewishFineTiles.label>犹太风格精致地砖</AM_Floor_JewishFineTiles.label>
+  
+  <!-- EN: jewish stone tiles -->
+  <AM_Floor_JewishTiles.label>犹太风格地砖</AM_Floor_JewishTiles.label>
+  
+  <!-- EN: kemetic fine stone tiles -->
+  <AM_Floor_KemeticFineTiles.label>埃及风格精致地砖</AM_Floor_KemeticFineTiles.label>
+  
+  <!-- EN: kemetic stone tiles -->
+  <AM_Floor_KemeticTiles.label>埃及风格地砖</AM_Floor_KemeticTiles.label>
+  
+  <!-- EN: steampunk stone tiles -->
+  <AM_Floor_SteampunkTiles.label>蒸汽朋克风格地砖</AM_Floor_SteampunkTiles.label>
+  
+</LanguageData>

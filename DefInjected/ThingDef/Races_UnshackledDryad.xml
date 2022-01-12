@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: unshackled dryad -->
+  <AM_UnshackledDryad.label>无拘树精</AM_UnshackledDryad.label>
+  <!-- EN: Dryads are small mammalian creatures that have a symbiotic relationship with the Gauranlen tree.\n\nThis particular dryad seems to be unshackled, and it will not leave the region if no Gauranlen trees are around. It seems to be bound to the colonists. -->
+  <AM_UnshackledDryad.description>树精是与母树有共生关系的小型哺乳类动物。\n\n这种特殊的树精似乎不受母树的束缚。即使周围没有母树的存在，它也不会离开地图或因此死亡。它与殖民者之间似乎有更紧密的联系。</AM_UnshackledDryad.description>
+  <!-- EN: left claw -->
+  <AM_UnshackledDryad.tools.left_claw.label>左爪</AM_UnshackledDryad.tools.left_claw.label>
+  <!-- EN: right claw -->
+  <AM_UnshackledDryad.tools.right_claw.label>右爪</AM_UnshackledDryad.tools.right_claw.label>
+  <!-- EN: head -->
+  <AM_UnshackledDryad.tools.head.label>头</AM_UnshackledDryad.tools.head.label>
+  
+</LanguageData>

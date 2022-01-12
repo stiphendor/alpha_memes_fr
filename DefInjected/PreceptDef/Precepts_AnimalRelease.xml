@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: discouraged -->
+  <AM_AnimalRelease_Discouraged.label>反感</AM_AnimalRelease_Discouraged.label>
+  <!-- EN: Releasing animals to the wild is like releasing a dangerous plague. The last thing the fragile, unnatural ecosystems around us need is yet more genetic abominations roaming around. -->
+  <AM_AnimalRelease_Discouraged.description>将动物放生就如同散播致命的瘟疫。边缘世界脆弱的生态系统不需要更多可憎的生物基因。</AM_AnimalRelease_Discouraged.description>
+  
+  <!-- EN: encouraged -->
+  <AM_AnimalRelease_Encouraged.label>认可</AM_AnimalRelease_Encouraged.label>
+  <!-- EN: Releasing animals to the wild is a noble endeavour. By raising or rescuing animals and them freeing them to repopulate the ecosystem we are enriching the amazing biodiversity around us. -->
+  <AM_AnimalRelease_Encouraged.description>将动物放生是一项崇高的事业。边缘世界的生态系统正因我们而逐渐变得多样化起来。</AM_AnimalRelease_Encouraged.description>
+  
+</LanguageData>

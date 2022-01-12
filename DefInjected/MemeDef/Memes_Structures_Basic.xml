@@ -1,0 +1,302 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: atheism -->
+  <AM_Structure_Atheist.label>广义无神论</AM_Structure_Atheist.label>
+  <!-- EN: There are no gods, no supernatural beings guiding our path or watching over us. Unfalsifiable concepts cannot be used as a basis for a rational society. -->
+  <AM_Structure_Atheist.description>这个世界根本没有守护并引导我们的神明或超自然存在。自圆其说的虚伪概念无法成为构建理性社会的基石。</AM_Structure_Atheist.description>
+  <!-- EN:
+    <li>memeAdjective->atheist</li>
+    <li>memeAdjective->godless</li>
+    <li>memeAdjective->irreligious</li>
+    <li>memeAdjective->nonreligious</li>
+    <li>memeAdjective->unbelieving</li>
+    <li>memeAdjective->secular</li>
+    <li>memeLeaderNoun->overseer</li>
+    <li>memeLeaderNoun->theorizer</li>
+    <li>memeLeaderAdjective->secular</li>
+    <li>memeLeaderAdjective->laic</li>
+    <li>memeMoralist->theoretician</li>
+    <li>memeMoralist->thinker</li>
+    <li>memeMoralist->moralist</li>
+    <li>memeMoralist->speculator</li>
+    <li>memeMoralist->theorist</li>
+    <li>memeMoralist->academic</li>
+    <li>memeMoralist->dialectician</li>
+  -->
+  <AM_Structure_Atheist.generalRules.rulesStrings>
+    <li>memeAdjective->无神论者</li>
+    <li>memeAdjective->无神论</li>
+    <li>memeAdjective->无信仰</li>
+    <li>memeAdjective->无宗教</li>
+    <li>memeAdjective->无神论</li>
+    <li>memeAdjective->世俗</li>
+    <li>memeLeaderNoun->监察者</li>
+    <li>memeLeaderNoun->理论家</li>
+    <li>memeLeaderAdjective->世俗</li>
+    <li>memeLeaderAdjective->凡人</li>
+    <li>memeMoralist->理论家</li>
+    <li>memeMoralist->思想家</li>
+    <li>memeMoralist->道德家</li>
+    <li>memeMoralist->思辨者</li>
+    <li>memeMoralist->论述家</li>
+    <li>memeMoralist->学者</li>
+    <li>memeMoralist->辩证家</li>
+  </AM_Structure_Atheist.generalRules.rulesStrings>
+  <!-- EN: atheist -->
+  <AM_Structure_Atheist.symbolPacks.0.adjective>无神论</AM_Structure_Atheist.symbolPacks.0.adjective>
+  <!-- EN: atheist -->
+  <AM_Structure_Atheist.symbolPacks.0.member>无神论者</AM_Structure_Atheist.symbolPacks.0.member>
+  <!-- EN: atheism -->
+  <AM_Structure_Atheist.symbolPacks.0.theme>无神论</AM_Structure_Atheist.symbolPacks.0.theme>
+  <!-- EN: forum -->
+  <AM_Structure_Atheist.worshipRoomLabel>集会广场</AM_Structure_Atheist.worshipRoomLabel>
+  
+  <!-- EN: jain origin -->
+  <AM_Structure_Jainism.label>耆那教起源</AM_Structure_Jainism.label>
+  <!-- EN: This ideoligion is a descendant of ancient Jainism. It may have very different precepts than those of thousands of years ago, but its symbols are similar. -->
+  <AM_Structure_Jainism.description>这种思想宗教是远古耆那教的延续。它的戒律可能与几千年前的戒律大不相同，但它的符号却很相似。</AM_Structure_Jainism.description>
+  <!-- EN:
+    <li>memeAdjective->pacifist</li>
+    <li>memeAdjective->nonviolent</li>
+    <li>memeAdjective->mendicant</li>
+    <li>memeLeaderNoun->acharya</li>
+    <li>memeLeaderNoun->tirthankara</li>
+    <li>memeLeaderNoun->jina</li>
+    <li>memeLeaderAdjective->learned</li>
+    <li>memeLeaderAdjective->ascetic</li>
+    <li>memeLeaderAdjective->venerable</li>
+    <li>memeMoralist->upadhyay</li>
+    <li>memeMoralist->sthavira</li>
+    <li>memeMoralist->pravartaka</li>
+    <li>memeMoralist->panyasa</li>
+  -->
+  <AM_Structure_Jainism.generalRules.rulesStrings>
+    <li>memeAdjective->和平</li>
+    <li>memeAdjective->非暴力</li>
+    <li>memeAdjective->化缘</li>
+    <li>memeLeaderNoun->阿闍黎</li>
+    <li>memeLeaderNoun->渡津者</li>
+    <li>memeLeaderNoun->耆那</li>
+    <li>memeLeaderAdjective->学识渊博</li>
+    <li>memeLeaderAdjective->苦行</li>
+    <li>memeLeaderAdjective->可敬</li>
+    <li>memeMoralist->尼干子</li>
+    <li>memeMoralist->尊者</li>
+    <li>memeMoralist->善转</li>
+    <li>memeMoralist->大雄</li>
+  </AM_Structure_Jainism.generalRules.rulesStrings>
+  <!-- EN: jain -->
+  <AM_Structure_Jainism.symbolPacks.0.adjective>耆那</AM_Structure_Jainism.symbolPacks.0.adjective>
+  <!-- EN: jain -->
+  <AM_Structure_Jainism.symbolPacks.0.member>耆那</AM_Structure_Jainism.symbolPacks.0.member>
+  <!-- EN: jainism -->
+  <AM_Structure_Jainism.symbolPacks.0.theme>耆那教徒</AM_Structure_Jainism.symbolPacks.0.theme>
+  <!-- EN: derasar -->
+  <AM_Structure_Jainism.worshipRoomLabel>耆那庙宇</AM_Structure_Jainism.worshipRoomLabel>
+  
+  <!-- EN: jewish origin -->
+  <AM_Structure_Jewish.label>犹太教起源</AM_Structure_Jewish.label>
+  <!-- EN: This ideoligion is a descendant of ancient Judaism. It may have very different precepts than those of thousands of years ago, but its symbols are similar. -->
+  <AM_Structure_Jewish.description>这种思想宗教是远古犹太教的延续。它的戒律可能与几千年前的戒律大不相同，但它的符号却很相似。</AM_Structure_Jewish.description>
+  <!-- EN:
+    <li>memeAdjective->traditional</li>
+    <li>memeAdjective->orthodox</li>
+    <li>memeAdjective->rabbinical</li>
+    <li>memeAdjective->spiritual</li>
+    <li>memeLeaderNoun->rabbi</li>
+    <li>memeLeaderNoun->rebbe</li>
+    <li>memeLeaderAdjective->wise</li>
+    <li>memeLeaderAdjective->sagely</li>
+    <li>memeLeaderAdjective->respected</li>
+    <li>memeMoralist->kohen</li>
+    <li>memeMoralist->chazzan</li>
+    <li>memeMoralist->kohein</li>
+    <li>memeMoralist->gabbai</li>
+  -->
+  <AM_Structure_Jewish.generalRules.rulesStrings>
+    <li>memeAdjective->传统</li>
+    <li>memeAdjective->正教</li>
+    <li>memeAdjective->犹太教</li>
+    <li>memeAdjective->心灵</li>
+    <li>memeLeaderNoun->拉比</li>
+    <li>memeLeaderNoun->尊师</li>
+    <li>memeLeaderAdjective->慧智</li>
+    <li>memeLeaderAdjective->贤明</li>
+    <li>memeLeaderAdjective->受敬</li>
+    <li>memeMoralist->科恩</li>
+    <li>memeMoralist->领唱者</li>
+    <li>memeMoralist->大祭司</li>
+    <li>memeMoralist->司募</li>
+  </AM_Structure_Jewish.generalRules.rulesStrings>
+  <!-- EN: jewish -->
+  <AM_Structure_Jewish.symbolPacks.0.adjective>犹太</AM_Structure_Jewish.symbolPacks.0.adjective>
+  <!-- EN: jew -->
+  <AM_Structure_Jewish.symbolPacks.0.member>犹太</AM_Structure_Jewish.symbolPacks.0.member>
+  <!-- EN: judaism -->
+  <AM_Structure_Jewish.symbolPacks.0.theme>犹太教徒</AM_Structure_Jewish.symbolPacks.0.theme>
+  <!-- EN: synagogue -->
+  <AM_Structure_Jewish.worshipRoomLabel>犹太教堂</AM_Structure_Jewish.worshipRoomLabel>
+  
+  <!-- EN: Kemetic origin -->
+  <AM_Structure_Kemetism.label>埃及教起源</AM_Structure_Kemetism.label>
+  <!-- EN: This ideoligion is a descendant of Egyptian Neopaganism, also known as Kemetism. It may have very different precepts than those of thousands of years ago, but its symbols are similar. -->
+  <AM_Structure_Kemetism.description>这种思想宗教是埃及新异教主义的延续。它的戒律可能与几千年前的戒律大不相同，但它的符号却很相似。</AM_Structure_Kemetism.description>
+  <!-- EN: The Creator God -->
+  <AM_Structure_Kemetism.fixedDeityNameTypes.0.type>造物主</AM_Structure_Kemetism.fixedDeityNameTypes.0.type>
+  <!-- EN: God of the Sun -->
+  <AM_Structure_Kemetism.fixedDeityNameTypes.1.type>太阳之神</AM_Structure_Kemetism.fixedDeityNameTypes.1.type>
+  <!-- EN: Goddess of Earth -->
+  <AM_Structure_Kemetism.fixedDeityNameTypes.2.type>大地女神</AM_Structure_Kemetism.fixedDeityNameTypes.2.type>
+  <!-- EN: God of Air -->
+  <AM_Structure_Kemetism.fixedDeityNameTypes.3.type>空间之神</AM_Structure_Kemetism.fixedDeityNameTypes.3.type>
+  <!-- EN: Goddess of Moisture -->
+  <AM_Structure_Kemetism.fixedDeityNameTypes.4.type>水之女神</AM_Structure_Kemetism.fixedDeityNameTypes.4.type>
+  <!-- EN: God of Justice -->
+  <AM_Structure_Kemetism.fixedDeityNameTypes.5.type>正义之神</AM_Structure_Kemetism.fixedDeityNameTypes.5.type>
+  <!-- EN: Goddess of Motherhood -->
+  <AM_Structure_Kemetism.fixedDeityNameTypes.6.type>慈爱女神</AM_Structure_Kemetism.fixedDeityNameTypes.6.type>
+  <!-- EN: God of the Sky -->
+  <AM_Structure_Kemetism.fixedDeityNameTypes.7.type>天空之神</AM_Structure_Kemetism.fixedDeityNameTypes.7.type>
+  <!-- EN: God of Deception -->
+  <AM_Structure_Kemetism.fixedDeityNameTypes.8.type>诡计之神</AM_Structure_Kemetism.fixedDeityNameTypes.8.type>
+  <!-- EN: Goddess of Balance -->
+  <AM_Structure_Kemetism.fixedDeityNameTypes.9.type>公平女神</AM_Structure_Kemetism.fixedDeityNameTypes.9.type>
+  <!-- EN: God of Death -->
+  <AM_Structure_Kemetism.fixedDeityNameTypes.10.type>死亡之神</AM_Structure_Kemetism.fixedDeityNameTypes.10.type>
+  <!-- EN: Goddess of Funerals -->
+  <AM_Structure_Kemetism.fixedDeityNameTypes.11.type>丧葬女神</AM_Structure_Kemetism.fixedDeityNameTypes.11.type>
+  <!-- EN: Goddess of Drunkenness -->
+  <AM_Structure_Kemetism.fixedDeityNameTypes.12.type>酒之女神</AM_Structure_Kemetism.fixedDeityNameTypes.12.type>
+  <!-- EN: Goddess of Beauty -->
+  <AM_Structure_Kemetism.fixedDeityNameTypes.13.type>美之女神</AM_Structure_Kemetism.fixedDeityNameTypes.13.type>
+  <!-- EN: God of Intellect -->
+  <AM_Structure_Kemetism.fixedDeityNameTypes.14.type>智慧之神</AM_Structure_Kemetism.fixedDeityNameTypes.14.type>
+  <!-- EN: God of Memphis -->
+  <AM_Structure_Kemetism.fixedDeityNameTypes.15.type>孟菲斯之神</AM_Structure_Kemetism.fixedDeityNameTypes.15.type>
+  <!-- EN: God of the Moon -->
+  <AM_Structure_Kemetism.fixedDeityNameTypes.16.type>月亮之神</AM_Structure_Kemetism.fixedDeityNameTypes.16.type>
+  <!-- EN: God of Potters -->
+  <AM_Structure_Kemetism.fixedDeityNameTypes.17.type>陶艺之神</AM_Structure_Kemetism.fixedDeityNameTypes.17.type>
+  <!-- EN: God of Fertility -->
+  <AM_Structure_Kemetism.fixedDeityNameTypes.18.type>丰饶之神</AM_Structure_Kemetism.fixedDeityNameTypes.18.type>
+  <!-- EN: God of the Nile -->
+  <AM_Structure_Kemetism.fixedDeityNameTypes.19.type>尼罗河之神</AM_Structure_Kemetism.fixedDeityNameTypes.19.type>
+  <!-- EN: God of Entertainment -->
+  <AM_Structure_Kemetism.fixedDeityNameTypes.20.type>欢愉之神</AM_Structure_Kemetism.fixedDeityNameTypes.20.type>
+  <!-- EN: Goddess of Childbirth -->
+  <AM_Structure_Kemetism.fixedDeityNameTypes.21.type>生育女神</AM_Structure_Kemetism.fixedDeityNameTypes.21.type>
+  <!-- EN: Goddess of Arrows -->
+  <AM_Structure_Kemetism.fixedDeityNameTypes.22.type>箭术女神</AM_Structure_Kemetism.fixedDeityNameTypes.22.type>
+  <!-- EN: Goddess of Vultures -->
+  <AM_Structure_Kemetism.fixedDeityNameTypes.23.type>欲望女神</AM_Structure_Kemetism.fixedDeityNameTypes.23.type>
+  <!-- EN: Goddess of Kingship -->
+  <AM_Structure_Kemetism.fixedDeityNameTypes.24.type>王权女神</AM_Structure_Kemetism.fixedDeityNameTypes.24.type>
+  <!-- EN: God of the Underworld -->
+  <AM_Structure_Kemetism.fixedDeityNameTypes.25.type>地底之神</AM_Structure_Kemetism.fixedDeityNameTypes.25.type>
+  <!-- EN: God of Perfume -->
+  <AM_Structure_Kemetism.fixedDeityNameTypes.26.type>芳香之神</AM_Structure_Kemetism.fixedDeityNameTypes.26.type>
+  <!-- EN: Goddess of Nursing -->
+  <AM_Structure_Kemetism.fixedDeityNameTypes.27.type>医护女神</AM_Structure_Kemetism.fixedDeityNameTypes.27.type>
+  <!-- EN: God of Magic -->
+  <AM_Structure_Kemetism.fixedDeityNameTypes.28.type>魔法之神</AM_Structure_Kemetism.fixedDeityNameTypes.28.type>
+  <!-- EN:
+    <li>memeAdjective->reconstructed</li>
+    <li>memeAdjective->revised</li>
+    <li>memeHyphenPrefix->neo</li>
+    <li>memeLeaderNoun->pharaoh</li>
+    <li>memeLeaderAdjective->solemn</li>
+    <li>memeLeaderAdjective->absolute</li>
+    <li>memeLeaderAdjective->divine</li>
+    <li>memeMoralist->lector priest</li>
+    <li>memeMoralist->hem-netjer</li>
+    <li>memeMoralist->wab priest</li>
+    <li>memeMoralist->sem priest</li>
+    <li>memeMoralist->ka-priest</li>
+    <li>memeMoralist->swnw</li>
+  -->
+  <AM_Structure_Kemetism.generalRules.rulesStrings>
+    <li>memeAdjective->重构</li>
+    <li>memeAdjective->修正</li>
+    <li>memeHyphenPrefix->新生</li>
+    <li>memeLeaderNoun->法老</li>
+    <li>memeLeaderAdjective->肃穆</li>
+    <li>memeLeaderAdjective->真理</li>
+    <li>memeLeaderAdjective->神圣</li>
+    <li>memeMoralist->大祭司</li>
+    <li>memeMoralist->第一仆从</li>
+    <li>memeMoralist->瓦博大祭司</li>
+    <li>memeMoralist->塞姆大祭司</li>
+    <li>memeMoralist->卡大祭司</li>
+    <li>memeMoralist->医师</li>
+  </AM_Structure_Kemetism.generalRules.rulesStrings>
+  <!-- EN: kemetic -->
+  <AM_Structure_Kemetism.symbolPacks.0.adjective>埃及</AM_Structure_Kemetism.symbolPacks.0.adjective>
+  <!-- EN: kemetic -->
+  <AM_Structure_Kemetism.symbolPacks.0.member>埃及教徒</AM_Structure_Kemetism.symbolPacks.0.member>
+  <!-- EN: kemetism -->
+  <AM_Structure_Kemetism.symbolPacks.0.theme>新异教</AM_Structure_Kemetism.symbolPacks.0.theme>
+  <!-- EN: temple -->
+  <AM_Structure_Kemetism.worshipRoomLabel>神庙</AM_Structure_Kemetism.worshipRoomLabel>
+  
+  <!-- EN: Sikh origin -->
+  <AM_Structure_Sikhism.label>锡克教起源</AM_Structure_Sikhism.label>
+  <!-- EN: This ideoligion is a descendant of ancient Sikhism. It may have very different precepts than those of thousands of years ago, but its symbols are similar. -->
+  <AM_Structure_Sikhism.description>这种思想宗教是远古锡克教的延续。它的戒律可能与几千年前的戒律大不相同，但它的符号却很相似。</AM_Structure_Sikhism.description>
+  <!-- EN:
+    <li>memeAdjective->true</li>
+    <li>memeAdjective->righteous</li>
+    <li>memeAdjective->spiritual</li>
+    <li>memeLeaderNoun->granthi</li>
+    <li>memeMoralist->Guru Granth Sahib scholar</li>
+  -->
+  <AM_Structure_Sikhism.generalRules.rulesStrings>
+    <li>memeAdjective->真理</li>
+    <li>memeAdjective->公正</li>
+    <li>memeAdjective->心灵</li>
+    <li>memeLeaderNoun->结</li>
+    <li>memeMoralist->锡克教圣书学者</li>
+  </AM_Structure_Sikhism.generalRules.rulesStrings>
+  <!-- EN: sikh -->
+  <AM_Structure_Sikhism.symbolPacks.0.adjective>锡克教</AM_Structure_Sikhism.symbolPacks.0.adjective>
+  <!-- EN: sikh -->
+  <AM_Structure_Sikhism.symbolPacks.0.member>锡克教徒</AM_Structure_Sikhism.symbolPacks.0.member>
+  <!-- EN: sikhism -->
+  <AM_Structure_Sikhism.symbolPacks.0.theme>锡克教</AM_Structure_Sikhism.symbolPacks.0.theme>
+  <!-- EN: gurdwara -->
+  <AM_Structure_Sikhism.worshipRoomLabel>谒师所</AM_Structure_Sikhism.worshipRoomLabel>
+  
+  <!-- EN: steampunk revival -->
+  <AM_Structure_SteampunkRevival.label>蒸汽朋克</AM_Structure_SteampunkRevival.label>
+  <!-- EN: With the advent of zero-emissions steam engines powered by flameless ceramic heat cells in the 22nd century, steam powered technology experienced a sudden revival. This ideoligion has kept the overall style and sentiment of that era. -->
+  <AM_Structure_SteampunkRevival.description>在22世纪，随着由无焰陶瓷热能单元驱动的零排放蒸汽机的出现，蒸汽动力技术再次复兴于世。这种文化形态保留着那个时代的整体风格与情调观感。</AM_Structure_SteampunkRevival.description>
+  <!-- EN:
+    <li>memeAdjective->steampunk</li>
+    <li>memeAdjective->analytical</li>
+    <li>memeAdjective->retrofuturistic</li>
+    <li>memeAdjective->aetheric</li>
+    <li>memeAdjective->neo-victorian</li>
+    <li>memeLeaderNoun->overseer</li>
+    <li>memeLeaderNoun->cogmaster</li>
+    <li>memeMoralist->tinkerer</li>
+  -->
+  <AM_Structure_SteampunkRevival.generalRules.rulesStrings>
+    <li>memeAdjective->蒸汽朋克</li>
+    <li>memeAdjective->解析</li>
+    <li>memeAdjective->后现代主义</li>
+    <li>memeAdjective->以太</li>
+    <li>memeAdjective->新维多利亚时代</li>
+    <li>memeLeaderNoun->监工</li>
+    <li>memeLeaderNoun->齿轮大师</li>
+    <li>memeMoralist->蒸汽工匠</li>
+  </AM_Structure_SteampunkRevival.generalRules.rulesStrings>
+  <!-- EN: steampunk -->
+  <AM_Structure_SteampunkRevival.symbolPacks.0.adjective>蒸汽朋克</AM_Structure_SteampunkRevival.symbolPacks.0.adjective>
+  <!-- EN: worker -->
+  <AM_Structure_SteampunkRevival.symbolPacks.0.member>工匠</AM_Structure_SteampunkRevival.symbolPacks.0.member>
+  <!-- EN: steampunk -->
+  <AM_Structure_SteampunkRevival.symbolPacks.0.theme>蒸汽朋克</AM_Structure_SteampunkRevival.symbolPacks.0.theme>
+  <!-- EN: parlor -->
+  <AM_Structure_SteampunkRevival.worshipRoomLabel>会客厅</AM_Structure_SteampunkRevival.worshipRoomLabel>
+  
+</LanguageData>

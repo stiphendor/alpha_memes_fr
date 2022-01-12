@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: observed corpse -->
+  <AM_Corpses_Sublime_ObservedLayingCorpse.stages.observed_corpse.label>看见尸体</AM_Corpses_Sublime_ObservedLayingCorpse.stages.observed_corpse.label>
+  <!-- EN: I saw a dead body laying on the ground. What a glorious sight! -->
+  <AM_Corpses_Sublime_ObservedLayingCorpse.stages.observed_corpse.description>我看见地上躺着一具尸体。多么美妙的景色啊！</AM_Corpses_Sublime_ObservedLayingCorpse.stages.observed_corpse.description>
+  
+  <!-- EN: observed rotting corpse -->
+  <AM_Corpses_Sublime_ObservedLayingRottingCorpse.stages.observed_rotting_corpse.label>看见腐烂的尸体</AM_Corpses_Sublime_ObservedLayingRottingCorpse.stages.observed_rotting_corpse.label>
+  <!-- EN: I saw a rotting corpse laying on the ground. What a glorious sight! -->
+  <AM_Corpses_Sublime_ObservedLayingRottingCorpse.stages.observed_rotting_corpse.description>我看见地上躺着一具正在腐烂的尸体。多么美妙的景色啊！</AM_Corpses_Sublime_ObservedLayingRottingCorpse.stages.observed_rotting_corpse.description>
+  
+</LanguageData>

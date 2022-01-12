@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: no art nearby -->
+  <AM_Art_Desired.stages.no_art_nearby.label>附近没有艺术品</AM_Art_Desired.stages.no_art_nearby.label>
+  <!-- EN: This colony is barren of fine art. A disgrace. -->
+  <AM_Art_Desired.stages.no_art_nearby.description>殖民地里一件艺术品都没有。这真是太丢人了。</AM_Art_Desired.stages.no_art_nearby.description>
+  <!-- EN: very little art around -->
+  <AM_Art_Desired.stages.very_little_art_around.label>较少的艺术品</AM_Art_Desired.stages.very_little_art_around.label>
+  <!-- EN: There are only a bunch of art pieces around: where the spirit does not work with the hand, there is no art. -->
+  <AM_Art_Desired.stages.very_little_art_around.description>殖民地里摆放的艺术品太少了。心与手不合一,就不能称为艺术。</AM_Art_Desired.stages.very_little_art_around.description>
+  <!-- EN: a few art pieces around -->
+  <AM_Art_Desired.stages.a_few_art_pieces_around.label>少量的艺术品</AM_Art_Desired.stages.a_few_art_pieces_around.label>
+  <!-- EN: This colony is starting to look like a proper art gallery. Life beats down and crushes the soul and art reminds you that you have one. -->
+  <AM_Art_Desired.stages.a_few_art_pieces_around.description>殖民地总算有些像真正的艺术品展览馆了。现实总是会打击并伤害人的灵魂,但是艺术却能唤醒它。</AM_Art_Desired.stages.a_few_art_pieces_around.description>
+  <!-- EN: several art pieces around -->
+  <AM_Art_Desired.stages.several_art_pieces_around.label>较多的艺术品</AM_Art_Desired.stages.several_art_pieces_around.label>
+  <!-- EN: The colony is adorned with several art pieces. Human life is full of chaos and suffering and the name of the remedy is ‘beauty’. -->
+  <AM_Art_Desired.stages.several_art_pieces_around.description>殖民地里摆放着一些艺术品。现实生活总是充满着混乱与苦痛，而唯一的治愈方法便是“美”。</AM_Art_Desired.stages.several_art_pieces_around.description>
+  <!-- EN: lots of art pieces around -->
+  <AM_Art_Desired.stages.lots_of_art_pieces_around.label>许多的艺术品</AM_Art_Desired.stages.lots_of_art_pieces_around.label>
+  <!-- EN: There are a lot of art pieces in this colony. This warms my soul. -->
+  <AM_Art_Desired.stages.lots_of_art_pieces_around.description>殖民地里摆放着许多艺术品。它们温暖了我的灵魂。</AM_Art_Desired.stages.lots_of_art_pieces_around.description>
+  <!-- EN: surrounded by art -->
+  <AM_Art_Desired.stages.surrounded_by_art.label>徜徉于艺术的海洋中</AM_Art_Desired.stages.surrounded_by_art.label>
+  <!-- EN: Art washes away from the soul the dust of everyday life. -->
+  <AM_Art_Desired.stages.surrounded_by_art.description>艺术可以洗去日常生活中蒙在灵魂上的尘垢。</AM_Art_Desired.stages.surrounded_by_art.description>
+  
+</LanguageData>

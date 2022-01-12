@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: enhanced -->
+  <AM_Dryads_Enhanced.label>增强</AM_Dryads_Enhanced.label>
+  <!-- EN: Dryads are sacred creatures, and they can help us defend the colony and protect ourselves from those who try to do us harm.\n\n<color=#E5E54C>Gameplay effect:</color>\n - All dryads in the colony will get a huge boost, making them extremely useful in combat. -->
+  <AM_Dryads_Enhanced.description>树精是一种神圣崇高的生物，它们能保护我们的殖民地以免受敌人的侵袭。\n\n&lt;color=#E5E54C>游戏效果：&lt;/color>\n - 殖民地中的所有树精都将获得大幅属性加成，它们变得比以往更加实用了。</AM_Dryads_Enhanced.description>
+  
+</LanguageData>

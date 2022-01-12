@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: destroyed a relic -->
+  <AM_RelicDestruction_Desired.stages.destroyed_a_relic.label>销毁了圣物（1件）</AM_RelicDestruction_Desired.stages.destroyed_a_relic.label>
+  <!-- EN: We destroyed a relic. Feels good to get rid of such obscene idols. -->
+  <AM_RelicDestruction_Desired.stages.destroyed_a_relic.description>我们销毁了1件圣物。这种感觉可真不错。</AM_RelicDestruction_Desired.stages.destroyed_a_relic.description>
+  <!-- EN: destroyed two relics -->
+  <AM_RelicDestruction_Desired.stages.destroyed_two_relics.label>销毁了圣物（2件）</AM_RelicDestruction_Desired.stages.destroyed_two_relics.label>
+  <!-- EN: We destroyed two relics. We won't rest until we have destroyed all the false images. -->
+  <AM_RelicDestruction_Desired.stages.destroyed_two_relics.description>我们销毁了2件圣物。在销毁所有的迷信偶像前，我们是不会停歇的。</AM_RelicDestruction_Desired.stages.destroyed_two_relics.description>
+  <!-- EN: destroyed three or more relics -->
+  <AM_RelicDestruction_Desired.stages.destroyed_three_or_more_relics.label>销毁了圣物（3件及以上）</AM_RelicDestruction_Desired.stages.destroyed_three_or_more_relics.label>
+  <!-- EN: We destroyed three or more relics. The entire world will be purged of such obscene representations. -->
+  <AM_RelicDestruction_Desired.stages.destroyed_three_or_more_relics.description>我们销毁了3件或更多的圣物。整个世界的迷信偶像都将被清除殆尽。</AM_RelicDestruction_Desired.stages.destroyed_three_or_more_relics.description>
+  
+</LanguageData>

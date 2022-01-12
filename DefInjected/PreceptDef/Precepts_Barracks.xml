@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: preferred -->
+  <AM_Barracks_Preferred.label>喜好</AM_Barracks_Preferred.label>
+  <!-- EN: A communal living space allows us to meditate and contemplate the meaning of this life together. Private rooms are an unnecessary frivolity.\n\n<color=#E5E54C>Gameplay effect:</color>\n - Colonists receive positive mood by sleeping in barracks, but the room should be above Awful and below Extremely impressive.\n - Colonists receive negative mood by sleeping in a private room. -->
+  <AM_Barracks_Preferred.description>宽敞的大通铺有助于我们一同冥想并思考人生的意义。我们并不需要精致奢华的单人卧室。\n\n&lt;color=#E5E54C>游戏效果：&lt;/color>\n - 睡在多人宿舍中的殖民者将会获得情绪增益，但房间观感必须高于“可怕”并低于“印象极度深刻”。\n - 睡在单人卧室中的殖民者将会获得情绪减益。</AM_Barracks_Preferred.description>
+  
+</LanguageData>

@@ -1,0 +1,82 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: tavor TS12 bullpup shotgun -->
+  <AM_Jewish_ChainShotgun.overrideLabel>TS12无托霰弹枪</AM_Jewish_ChainShotgun.overrideLabel>
+  
+  <!-- EN: chanith -->
+  <AM_Jewish_Chanith.overrideLabel>短矛</AM_Jewish_Chanith.overrideLabel>
+  
+  <!-- EN: duckbill axe -->
+  <AM_Jewish_DuckBillAxe.overrideLabel>鸭嘴斧</AM_Jewish_DuckBillAxe.overrideLabel>
+  
+  <!-- EN: javelin -->
+  <AM_Jewish_Javelin.overrideLabel>标枪</AM_Jewish_Javelin.overrideLabel>
+  
+  <!-- EN: leaf dagger -->
+  <AM_Jewish_Knife.overrideLabel>柳叶短剑</AM_Jewish_Knife.overrideLabel>
+  
+  <!-- EN: jericho 941 pistol -->
+  <AM_Jewish_Pistol.overrideLabel>杰里科941手枪</AM_Jewish_Pistol.overrideLabel>
+  
+  <!-- EN: webley revolver -->
+  <AM_Jewish_Revolver.overrideLabel>韦伯利左轮手枪</AM_Jewish_Revolver.overrideLabel>
+  
+  <!-- EN: tavor TAR-21 assault rifle -->
+  <AM_Jewish_Rifle.overrideLabel>TAR-21突击步枪</AM_Jewish_Rifle.overrideLabel>
+  
+  <!-- EN: dan .338 sniper rifle -->
+  <AM_Jewish_Sniper.overrideLabel>IWI DAN狙击步枪</AM_Jewish_Sniper.overrideLabel>
+  
+  <!-- EN: kidhohn -->
+  <AM_Jewish_Spear.overrideLabel>长矛</AM_Jewish_Spear.overrideLabel>
+  
+  <!-- EN: leaf sword -->
+  <AM_Jewish_Sword.overrideLabel>柳叶长剑</AM_Jewish_Sword.overrideLabel>
+  
+  <!-- EN: barbed spear -->
+  <AM_Kemetic_BarbedSpear.overrideLabel>荆棘刺矛</AM_Kemetic_BarbedSpear.overrideLabel>
+  
+  <!-- EN: battle axe -->
+  <AM_Kemetic_BattleAxe.overrideLabel>战斧</AM_Kemetic_BattleAxe.overrideLabel>
+  
+  <!-- EN: rasheed carbine -->
+  <AM_Kemetic_Carbine.overrideLabel>拉希德卡宾枪</AM_Kemetic_Carbine.overrideLabel>
+  
+  <!-- EN: javelin -->
+  <AM_Kemetic_Javelin.overrideLabel>标枪</AM_Kemetic_Javelin.overrideLabel>
+  
+  <!-- EN: khopesh -->
+  <AM_Kemetic_Khopesh.overrideLabel>镰刃剑</AM_Kemetic_Khopesh.overrideLabel>
+  
+  <!-- EN: discoidal mace -->
+  <AM_Kemetic_Mace.overrideLabel>盘锥锤</AM_Kemetic_Mace.overrideLabel>
+  
+  <!-- EN: port said machinegun -->
+  <AM_Kemetic_MachineGun.overrideLabel>卡尔·古斯塔夫冲锋枪</AM_Kemetic_MachineGun.overrideLabel>
+  
+  <!-- EN: palm axe -->
+  <AM_Kemetic_PalmAxe.overrideLabel>埃及斧</AM_Kemetic_PalmAxe.overrideLabel>
+  
+  <!-- EN: helwan 951 pistol -->
+  <AM_Kemetic_Pistol.overrideLabel>赫勒万951手枪</AM_Kemetic_Pistol.overrideLabel>
+  
+  <!-- EN: misr assault rifle -->
+  <AM_Kemetic_Rifle.overrideLabel>勿斯里突击步枪</AM_Kemetic_Rifle.overrideLabel>
+  
+  <!-- EN: short sword -->
+  <AM_Kemetic_ShortSword.overrideLabel>短剑</AM_Kemetic_ShortSword.overrideLabel>
+  
+  <!-- EN: laser staff -->
+  <AM_Kemetic_Staff.overrideLabel>激光权杖</AM_Kemetic_Staff.overrideLabel>
+  
+  <!-- EN: aviator hat -->
+  <AM_SteampunkRevival_AviatorHat.overrideLabel>飞行员帽</AM_SteampunkRevival_AviatorHat.overrideLabel>
+  
+  <!-- EN: steampunk goggles -->
+  <AM_SteampunkRevival_Goggles.overrideLabel>蒸汽朋克护目镜</AM_SteampunkRevival_Goggles.overrideLabel>
+  
+  <!-- EN: flat cap -->
+  <AM_SteampunkRevival_Tuque.overrideLabel>平顶圆帽</AM_SteampunkRevival_Tuque.overrideLabel>
+  
+</LanguageData>

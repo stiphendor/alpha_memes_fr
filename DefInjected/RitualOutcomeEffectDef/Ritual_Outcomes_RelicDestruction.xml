@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: If the relic destruction ritual goes well (positive outcome) it will provide a mood bonus. A negative outcome will cause a mood penalty. In any case, the relic will be destroyed and all followers of the same ideo will get a permanent stat bonus. -->
+  <AM_RelicDestructionOutcome.description>如果圣物销毁仪式顺利举行(积极的结果)，所有参与者都将获得心情增益。相反，消极的结果会为参与者带来心情减益。无论结果如何，祭坛中的圣物会被销毁，同一文化的所有殖民者都将获得永久的属性加成。</AM_RelicDestructionOutcome.description>
+  <!-- EN: room impressiveness -->
+  <AM_RelicDestructionOutcome.comps.0.label>令人难忘的房间</AM_RelicDestructionOutcome.comps.0.label>
+  <!-- EN: participant count -->
+  <AM_RelicDestructionOutcome.comps.1.label>参与者数量</AM_RelicDestructionOutcome.comps.1.label>
+  <!-- EN: {PAWN_labelShort}'s social impact -->
+  <AM_RelicDestructionOutcome.comps.2.label> {PAWN_labelShort} 的社交影响</AM_RelicDestructionOutcome.comps.2.label>
+  <!-- EN: speaker's social impact -->
+  <AM_RelicDestructionOutcome.comps.2.labelAbstract>演讲者的社交影响</AM_RelicDestructionOutcome.comps.2.labelAbstract>
+  <!-- EN: Boring -->
+  <AM_RelicDestructionOutcome.outcomeChances.0.label>无聊的</AM_RelicDestructionOutcome.outcomeChances.0.label>
+  <!-- EN: The {0} was a bit boring, but we got rid of an obscene idol, and that will only make our beliefs stronger. -->
+  <AM_RelicDestructionOutcome.outcomeChances.0.description>{0}有些无聊，但至少我们除掉了一个可憎至极的迷信偶像，这会让我们的文化信仰更加坚定。</AM_RelicDestructionOutcome.outcomeChances.0.description>
+  <!-- EN: Entertaining -->
+  <AM_RelicDestructionOutcome.outcomeChances.1.label>令人满意的</AM_RelicDestructionOutcome.outcomeChances.1.label>
+  <!-- EN: The {0} was entertaining. We got rid of an obscene idol, and that will only make our beliefs stronger. -->
+  <AM_RelicDestructionOutcome.outcomeChances.1.description>{0}令人满意。我们除掉了一个可憎至极的迷信偶像，这会让我们的文化信仰更加坚定。</AM_RelicDestructionOutcome.outcomeChances.1.description>
+  
+</LanguageData>

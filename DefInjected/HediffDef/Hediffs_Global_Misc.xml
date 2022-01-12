@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: cathartic adrenaline -->
+  <AM_CatharsisHediff.label>肾上腺素激发（宣泄情绪）</AM_CatharsisHediff.label>
+  <!-- EN: The exhilaration caused after a mental break is causing this person to have increased pain tolerance and strength. This will last for about a day. -->
+  <AM_CatharsisHediff.description>精神崩溃后带来的兴奋感增强了此单位的各项属性。此效果将持续一整天。</AM_CatharsisHediff.description>
+  
+  <!-- EN: combat dryad supremacy boost -->
+  <AM_CombatDryadHediff.label>战斗型树精强化</AM_CombatDryadHediff.label>
+  <!-- EN: This dryad is being strengthened due to the existing improved psychic link between the Gauranlen trees and your colonists. -->
+  <AM_CombatDryadHediff.description>由于母树与殖民者间的心灵链接得到了增幅，这只树精也变得更加强大了。</AM_CombatDryadHediff.description>
+  
+  <!-- EN: generic dryad supremacy boost -->
+  <AM_GenericDryadHediff.label>通用型树精强化</AM_GenericDryadHediff.label>
+  <!-- EN: This dryad is being strengthened due to the existing improved psychic link between the Gauranlen trees and your colonists. -->
+  <AM_GenericDryadHediff.description>由于母树与殖民者间的心灵链接得到了增幅，这只树精也变得更加强大了。</AM_GenericDryadHediff.description>
+  
+  <!-- EN: feeling righteous -->
+  <AM_IconoclastHediff.label>使命感</AM_IconoclastHediff.label>
+  <!-- EN: The destruction of an ancient relic is filling this person with increased confidence and righteousness. -->
+  <AM_IconoclastHediff.description>销毁远古圣物使此单位充满了信心与使命感。</AM_IconoclastHediff.description>
+  
+  <!-- EN: utility dryad supremacy boost -->
+  <AM_UtilityDryadHediff.label>实用型树精强化</AM_UtilityDryadHediff.label>
+  <!-- EN: This dryad is being strengthened due to the existing improved psychic link between the Gauranlen trees and your colonists. -->
+  <AM_UtilityDryadHediff.description>由于母树与殖民者间的心灵链接得到了增幅，这只树精也变得更加强大了。</AM_UtilityDryadHediff.description>
+  
+</LanguageData>

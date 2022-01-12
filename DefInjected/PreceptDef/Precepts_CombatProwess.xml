@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: distance -->
+  <AM_CombatProwess_Increased.label>远程</AM_CombatProwess_Increased.label>
+  <!-- EN: Sniper rifles, carbines, revolvers, all ranged weapons are our expertise. We will master their use and defend ourselves from anyone who dares oppose us.\n\n<color=#E5E54C>Gameplay effect:</color>\n - Any ranged weapons used by colonists receive a 20% range increase. Mortars and other artillery weapons are not counted as ranged for this purpose. -->
+  <AM_CombatProwess_Increased.description>狙击步枪、卡宾枪、左轮手枪...我们精通所有种类的远程武器。\n\n&lt;color=#E5E54C>游戏效果：&lt;/color>\n - 殖民者使用远程武器时，射程增加20%。对迫击炮以及其它火炮类武器无效。</AM_CombatProwess_Increased.description>
+  
+  <!-- EN: melee -->
+  <AM_CombatProwess_Melee.label>近战</AM_CombatProwess_Melee.label>
+  <!-- EN: Swords, maces, axes, all melee weapons are our expertise. We will master their use and defend ourselves from anyone who dares oppose us.\n\n<color=#E5E54C>Gameplay effect:</color>\n - Any melee attacks by colonists have a 20% stun chance. -->
+  <AM_CombatProwess_Melee.description>刀剑、棍棒、战斧...我们精通所有种类的近战武器。\n\n&lt;color=#E5E54C>游戏效果：&lt;/color>\n - 殖民者使用近战武器时，有20%的几率击晕目标。</AM_CombatProwess_Melee.description>
+  
+  <!-- EN: reduced -->
+  <AM_CombatProwess_Reduced.label>降低</AM_CombatProwess_Reduced.label>
+  <!-- EN: Although we won't hesitate to defend ourselves if the situation warrants it, we have grown dependent on our dryads for our defense. -->
+  <AM_CombatProwess_Reduced.description>虽然我们不会在自我防卫上犹豫不决，但我们还是更喜欢驱使树精来保护殖民地。</AM_CombatProwess_Reduced.description>
+  
+</LanguageData>

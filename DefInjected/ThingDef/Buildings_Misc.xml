@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: relic smashing altar -->
+  <AM_RelicSmashingAltar.label>圣物粉碎祭坛</AM_RelicSmashingAltar.label>
+  <!-- EN: A small bowl with capacity for one relic. Relics can be slotted in the altar to start a relic destruction ritual, but the colonists won't extract the relic from it. -->
+  <AM_RelicSmashingAltar.description>正好能装下一件圣物的钵体，用于执行“圣物销毁”仪式。</AM_RelicSmashingAltar.description>
+  
+</LanguageData>

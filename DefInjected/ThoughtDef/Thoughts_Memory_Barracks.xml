@@ -1,0 +1,50 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: awful barrack -->
+  <AM_SleptInBarracksMonastic.stages.awful_barrack.label>可怕的营房</AM_SleptInBarracksMonastic.stages.awful_barrack.label>
+  <!-- EN: We appreciate the monastic, austere lifestyle, but this place is a PIT. -->
+  <AM_SleptInBarracksMonastic.stages.awful_barrack.description>虽然我们喜欢苦行简朴的生活方式，但这里实在是令人难以忍受。</AM_SleptInBarracksMonastic.stages.awful_barrack.description>
+  <!-- EN: dull barrack -->
+  <AM_SleptInBarracksMonastic.stages.dull_barrack.label>乏味的营房</AM_SleptInBarracksMonastic.stages.dull_barrack.label>
+  <!-- EN: We appreciate the monastic, austere lifestyle, but this place could use a little bit of cleaning and organization. -->
+  <AM_SleptInBarracksMonastic.stages.dull_barrack.description>虽然我们喜欢苦行简朴的生活方式，但这里还是收拾打扫一下比较好。</AM_SleptInBarracksMonastic.stages.dull_barrack.description>
+  <!-- EN: austere barrack -->
+  <AM_SleptInBarracksMonastic.stages.austere_barrack.label>简朴的营房</AM_SleptInBarracksMonastic.stages.austere_barrack.label>
+  <!-- EN: I slept in a barrack with my brothers and sisters. This pleases me. -->
+  <AM_SleptInBarracksMonastic.stages.austere_barrack.description>我和我的兄弟姐妹们住在一间营房里。这让我感到很高兴。</AM_SleptInBarracksMonastic.stages.austere_barrack.description>
+  <!-- EN: well organized barrack -->
+  <AM_SleptInBarracksMonastic.stages.well_organized_barrack.label>井井有条的营房</AM_SleptInBarracksMonastic.stages.well_organized_barrack.label>
+  <!-- EN: I slept in a decent, well organized barrack. This is really perfect: the correct way to share a communal living space. I love it. -->
+  <AM_SleptInBarracksMonastic.stages.well_organized_barrack.description>我住在一间打理的井井有条的体面营房里。这里十分完美，同时也是和别人共享卧室的得体方式。我喜欢。</AM_SleptInBarracksMonastic.stages.well_organized_barrack.description>
+  <!-- EN: contemplative barrack -->
+  <AM_SleptInBarracksMonastic.stages.contemplative_barrack.label>发人深醒的营房</AM_SleptInBarracksMonastic.stages.contemplative_barrack.label>
+  <!-- EN: I got to sleep in a pretty nice barrack. A nice place to meditate and contemplate the reality of human condition, but I'd prefer it if it was simpler. -->
+  <AM_SleptInBarracksMonastic.stages.contemplative_barrack.description>我住的营房是个好地方。这里很适合冥想与思考人生现状，但如果能再简朴一些的话就更好了。</AM_SleptInBarracksMonastic.stages.contemplative_barrack.description>
+  <!-- EN: impressive barrack -->
+  <AM_SleptInBarracksMonastic.stages.impressive_barrack.label>令人印象深刻的营房</AM_SleptInBarracksMonastic.stages.impressive_barrack.label>
+  <!-- EN: I got to sleep in an impressive barrack. I honestly think it is too much. I would prefer simpler accomodations. -->
+  <AM_SleptInBarracksMonastic.stages.impressive_barrack.description>我住的营房令人印象深刻。不过说实话，我还是喜欢更简朴一些的住处。</AM_SleptInBarracksMonastic.stages.impressive_barrack.description>
+  <!-- EN: too luxurious barrack -->
+  <AM_SleptInBarracksMonastic.stages.too_luxurious_barrack.label>过于奢华的营房</AM_SleptInBarracksMonastic.stages.too_luxurious_barrack.label>
+  <!-- EN: I slept in a quite luxurious barrack. I honestly think it is too much. I would prefer simpler accomodations. -->
+  <AM_SleptInBarracksMonastic.stages.too_luxurious_barrack.description>我住的营房有些过于奢华了。我还是喜欢更简朴一些的住处。</AM_SleptInBarracksMonastic.stages.too_luxurious_barrack.description>
+  <!-- EN: extremely impressive barrack -->
+  <AM_SleptInBarracksMonastic.stages.extremely_impressive_barrack.label>令人印象极度深刻的营房</AM_SleptInBarracksMonastic.stages.extremely_impressive_barrack.label>
+  <!-- EN: I slept in an extremely impressive barrack. I honestly think this is way too much. We need to tone down the obscene display of wealth. -->
+  <AM_SleptInBarracksMonastic.stages.extremely_impressive_barrack.description>我住的营房令人印象极度深刻。这里有些奢华的过分了，我们不能被财富的污秽蒙蔽了双眼。</AM_SleptInBarracksMonastic.stages.extremely_impressive_barrack.description>
+  <!-- EN: unbelievably impressive barrack -->
+  <AM_SleptInBarracksMonastic.stages.unbelievably_impressive_barrack.label>难以置信的营房</AM_SleptInBarracksMonastic.stages.unbelievably_impressive_barrack.label>
+  <!-- EN: The barrack I slept in was too impressive. We are not princes and living in such a palace is obscene. -->
+  <AM_SleptInBarracksMonastic.stages.unbelievably_impressive_barrack.description>我住的营房真是令人难以置信。我们并非王公权贵，这样奢华至极的行宫对我们来说充满了污秽。</AM_SleptInBarracksMonastic.stages.unbelievably_impressive_barrack.description>
+  <!-- EN: wondrously impressive barrack -->
+  <AM_SleptInBarracksMonastic.stages.wondrously_impressive_barrack.label>奇迹非凡的营房</AM_SleptInBarracksMonastic.stages.wondrously_impressive_barrack.label>
+  <!-- EN: Disgusting. An obscene display of wealth and vice. -->
+  <AM_SleptInBarracksMonastic.stages.wondrously_impressive_barrack.description>这种炫耀财富的恶行真是令人作呕。</AM_SleptInBarracksMonastic.stages.wondrously_impressive_barrack.description>
+  
+  <!-- EN: private room -->
+  <AM_SleptInPrivateRoomMonastic.stages.private_room.label>私人卧室</AM_SleptInPrivateRoomMonastic.stages.private_room.label>
+  <!-- EN: A private room seems like an unnecessary luxury on the Rim. I'd rather sleep in a barracks with my brothers and sisters. -->
+  <AM_SleptInPrivateRoomMonastic.stages.private_room.description>私人卧室对生活在边缘世界的我们来说是毫无必要的奢侈品。我宁愿和我的兄弟姐妹们住在一间营房里。</AM_SleptInPrivateRoomMonastic.stages.private_room.description>
+  
+</LanguageData>

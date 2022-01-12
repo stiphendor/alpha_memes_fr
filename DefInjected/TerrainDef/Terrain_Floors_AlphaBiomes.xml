@@ -1,0 +1,104 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: jewish fine cragstone tile -->
+  <AM_JewishFineTileCragstone.label>犹太风格精致地砖（峭壁岩石）</AM_JewishFineTileCragstone.label>
+  <!-- EN: Fine stone tiles in a jewish style for expressing economic status. Slow to construct. -->
+  <AM_JewishFineTileCragstone.description>犹太风格的精美地砖。铺设速度较慢。</AM_JewishFineTileCragstone.description>
+  
+  <!-- EN: jewish fine mudstone tile -->
+  <AM_JewishFineTileMudstone.label>犹太风格精致地砖（泥岩）</AM_JewishFineTileMudstone.label>
+  <!-- EN: Fine stone tiles in a jewish style for expressing economic status. Slow to construct. -->
+  <AM_JewishFineTileMudstone.description>犹太风格的精美地砖。铺设速度较慢。</AM_JewishFineTileMudstone.description>
+  
+  <!-- EN: jewish fine obsidian tile -->
+  <AM_JewishFineTileObsidian.label>犹太风格精致地砖（黑曜石）</AM_JewishFineTileObsidian.label>
+  <!-- EN: Fine stone tiles in a jewish style for expressing economic status. Slow to construct. -->
+  <AM_JewishFineTileObsidian.description>犹太风格的精美地砖。铺设速度较慢。</AM_JewishFineTileObsidian.description>
+  
+  <!-- EN: jewish fine rose quartz tile -->
+  <AM_JewishFineTileRoseQuartz.label>犹太风格精致地砖（玫瑰石英）</AM_JewishFineTileRoseQuartz.label>
+  <!-- EN: Fine stone tiles in a jewish style for expressing economic status. Slow to construct. -->
+  <AM_JewishFineTileRoseQuartz.description>犹太风格的精美地砖。铺设速度较慢。</AM_JewishFineTileRoseQuartz.description>
+  
+  <!-- EN: jewish cragstone tile -->
+  <AM_JewishTileCragstone.label>犹太风格地砖（峭壁岩石）</AM_JewishTileCragstone.label>
+  <!-- EN: Carefully-cut and fit stone tiles in a Jewish style. They are pretty to look at, but they take a long time to lay. -->
+  <AM_JewishTileCragstone.description>坚固的犹太风格石质地砖。看起来很漂亮，就是铺设速度较慢。</AM_JewishTileCragstone.description>
+  
+  <!-- EN: jewish mudstone tile -->
+  <AM_JewishTileMudstone.label>犹太风格地砖（泥岩）</AM_JewishTileMudstone.label>
+  <!-- EN: Carefully-cut and fit stone tiles in a Jewish style. They are pretty to look at, but they take a long time to lay. -->
+  <AM_JewishTileMudstone.description>坚固的犹太风格石质地砖。看起来很漂亮，就是铺设速度较慢。</AM_JewishTileMudstone.description>
+  
+  <!-- EN: jewish obsidian tile -->
+  <AM_JewishTileObsidian.label>犹太风格地砖（黑曜石）</AM_JewishTileObsidian.label>
+  <!-- EN: Carefully-cut and fit stone tiles in a Jewish style. They are pretty to look at, but they take a long time to lay. -->
+  <AM_JewishTileObsidian.description>坚固的犹太风格石质地砖。看起来很漂亮，就是铺设速度较慢。</AM_JewishTileObsidian.description>
+  
+  <!-- EN: jewish rose quartz tile -->
+  <AM_JewishTileRoseQuartz.label>犹太风格地砖（玫瑰石英）</AM_JewishTileRoseQuartz.label>
+  <!-- EN: Carefully-cut and fit stone tiles in a Jewish style. They are pretty to look at, but they take a long time to lay. -->
+  <AM_JewishTileRoseQuartz.description>坚固的犹太风格石质地砖。看起来很漂亮，就是铺设速度较慢。</AM_JewishTileRoseQuartz.description>
+  
+  <!-- EN: kemetic fine cragstone tile -->
+  <AM_KemeticFineTileCragstone.label>埃及风格精致地砖（峭壁岩石）</AM_KemeticFineTileCragstone.label>
+  <!-- EN: Fine stone tiles in a kemetic style for expressing economic status. Slow to construct. -->
+  <AM_KemeticFineTileCragstone.description>埃及风格的精美地砖。铺设速度较慢。</AM_KemeticFineTileCragstone.description>
+  
+  <!-- EN: kemetic fine mudstone tile -->
+  <AM_KemeticFineTileMudstone.label>埃及风格精致地砖（泥岩）</AM_KemeticFineTileMudstone.label>
+  <!-- EN: Fine stone tiles in a kemetic style for expressing economic status. Slow to construct. -->
+  <AM_KemeticFineTileMudstone.description>埃及风格的精美地砖。铺设速度较慢。</AM_KemeticFineTileMudstone.description>
+  
+  <!-- EN: kemetic fine obsidian tile -->
+  <AM_KemeticFineTileObsidian.label>埃及风格精致地砖（黑曜石）</AM_KemeticFineTileObsidian.label>
+  <!-- EN: Fine stone tiles in a kemetic style for expressing economic status. Slow to construct. -->
+  <AM_KemeticFineTileObsidian.description>埃及风格的精美地砖。铺设速度较慢。</AM_KemeticFineTileObsidian.description>
+  
+  <!-- EN: kemetic fine rose quartz tile -->
+  <AM_KemeticFineTileRoseQuartz.label>埃及风格精致地砖（玫瑰石英）</AM_KemeticFineTileRoseQuartz.label>
+  <!-- EN: Fine stone tiles in a kemetic style for expressing economic status. Slow to construct. -->
+  <AM_KemeticFineTileRoseQuartz.description>埃及风格的精美地砖。铺设速度较慢。</AM_KemeticFineTileRoseQuartz.description>
+  
+  <!-- EN: kemetic cragstone tile -->
+  <AM_KemeticTileCragstone.label>埃及风格地砖（峭壁岩石）</AM_KemeticTileCragstone.label>
+  <!-- EN: Carefully-cut and fit stone tiles in a Kemetic style. They are pretty to look at, but they take a long time to lay. -->
+  <AM_KemeticTileCragstone.description>坚固的埃及风格石质地砖。看起来很漂亮，就是铺设速度较慢。</AM_KemeticTileCragstone.description>
+  
+  <!-- EN: kemetic mudstone tile -->
+  <AM_KemeticTileMudstone.label>埃及风格地砖（泥岩）</AM_KemeticTileMudstone.label>
+  <!-- EN: Carefully-cut and fit stone tiles in a Kemetic style. They are pretty to look at, but they take a long time to lay. -->
+  <AM_KemeticTileMudstone.description>坚固的埃及风格石质地砖。看起来很漂亮，就是铺设速度较慢。</AM_KemeticTileMudstone.description>
+  
+  <!-- EN: kemetic obsidian tile -->
+  <AM_KemeticTileObsidian.label>埃及风格地砖（黑曜石）</AM_KemeticTileObsidian.label>
+  <!-- EN: Carefully-cut and fit stone tiles in a Kemetic style. They are pretty to look at, but they take a long time to lay. -->
+  <AM_KemeticTileObsidian.description>坚固的埃及风格石质地砖。看起来很漂亮，就是铺设速度较慢。</AM_KemeticTileObsidian.description>
+  
+  <!-- EN: kemetic rose quartz tile -->
+  <AM_KemeticTileRoseQuartz.label>埃及风格地砖（玫瑰石英）</AM_KemeticTileRoseQuartz.label>
+  <!-- EN: Carefully-cut and fit stone tiles in a Kemetic style. They are pretty to look at, but they take a long time to lay. -->
+  <AM_KemeticTileRoseQuartz.description>坚固的埃及风格石质地砖。看起来很漂亮，就是铺设速度较慢。</AM_KemeticTileRoseQuartz.description>
+  
+  <!-- EN: steampunk cragstone tile -->
+  <AM_SteampunkTileCragstone.label>蒸汽朋克风格地砖（峭壁岩石）</AM_SteampunkTileCragstone.label>
+  <!-- EN: Carefully-cut and fit stone tiles in a Steampunk style. They are pretty to look at, but they take a long time to lay. -->
+  <AM_SteampunkTileCragstone.description>坚固的蒸汽朋克风格石质地砖。看起来很漂亮，就是铺设速度较慢。</AM_SteampunkTileCragstone.description>
+  
+  <!-- EN: steampunk mudstone tile -->
+  <AM_SteampunkTileMudstone.label>蒸汽朋克风格地砖（泥岩）</AM_SteampunkTileMudstone.label>
+  <!-- EN: Carefully-cut and fit stone tiles in a Steampunk style. They are pretty to look at, but they take a long time to lay. -->
+  <AM_SteampunkTileMudstone.description>坚固的蒸汽朋克风格石质地砖。看起来很漂亮，就是铺设速度较慢。</AM_SteampunkTileMudstone.description>
+  
+  <!-- EN: steampunk obsidian tile -->
+  <AM_SteampunkTileObsidian.label>蒸汽朋克风格地砖（黑曜石）</AM_SteampunkTileObsidian.label>
+  <!-- EN: Carefully-cut and fit stone tiles in a Steampunk style. They are pretty to look at, but they take a long time to lay. -->
+  <AM_SteampunkTileObsidian.description>坚固的蒸汽朋克风格石质地砖。看起来很漂亮，就是铺设速度较慢。</AM_SteampunkTileObsidian.description>
+  
+  <!-- EN: steampunk rose quartz tile -->
+  <AM_SteampunkTileRoseQuartz.label>蒸汽朋克风格地砖（玫瑰石英）</AM_SteampunkTileRoseQuartz.label>
+  <!-- EN: Carefully-cut and fit stone tiles in a Steampunk style. They are pretty to look at, but they take a long time to lay. -->
+  <AM_SteampunkTileRoseQuartz.description>坚固的蒸汽朋克风格石质地砖。看起来很漂亮，就是铺设速度较慢。</AM_SteampunkTileRoseQuartz.description>
+  
+</LanguageData>

@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: exalted -->
+  <AM_Madness_Exalted.label>高尚</AM_Madness_Exalted.label>
+  <!-- EN: A twisted mind is a sign of holiness. Distrust those who call themselves "sane", for they are just fools.\n\n<color=#E5E54C>Gameplay effect:</color>\n - The catharsis status will have an increased effect of +60 mood.\n - Upon recovering from a mental break colonists will receive a huge stat bonus to most categories that lasts for a whole day. -->
+  <AM_Madness_Exalted.description>扭曲怪异的心灵才是真正的神迹。那些自认为“精神健全”的人都是些十足的蠢蛋。\n\n&lt;color=#E5E54C>游戏效果：&lt;/color>\n - 宣泄情绪将获得 +60 的心情增益。\n - 从精神崩溃中恢复过来后，殖民者将获得持续一整天的巨幅属性加成。</AM_Madness_Exalted.description>
+  
+</LanguageData>

@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: relic destruction -->
+  <AM_RelicDestructionPrecept.label>圣物销毁</AM_RelicDestructionPrecept.label>
+  <!-- EN: A ceremony of relic destruction. Colonists will receive a permanent bonus for each relic that gets destroyed. -->
+  <AM_RelicDestructionPrecept.description>一场销毁圣物的仪式。根据销毁圣物的数量，殖民者将获得永久的属性加成。</AM_RelicDestructionPrecept.description>
+  
+</LanguageData>

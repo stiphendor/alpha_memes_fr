@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: religious beliefs -->
+  <AM_Religion_Despised.stages.religious_beliefs.label>宗教信仰</AM_Religion_Despised.stages.religious_beliefs.label>
+  
+  <!-- EN: religious beliefs -->
+  <AM_Religion_Disliked.stages.religious_beliefs.label>宗教信仰</AM_Religion_Disliked.stages.religious_beliefs.label>
+  
+  <!-- EN: religious beliefs -->
+  <AM_Religion_Loved.stages.religious_beliefs.label>宗教信仰</AM_Religion_Loved.stages.religious_beliefs.label>
+  
+  <!-- EN: proselytizing behaviour -->
+  <AM_Religion_ProselytismDisliked.stages.proselytizing_behaviour.label>传教行为</AM_Religion_ProselytismDisliked.stages.proselytizing_behaviour.label>
+  
+</LanguageData>

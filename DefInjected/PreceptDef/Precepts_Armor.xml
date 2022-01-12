@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: blunt -->
+  <AM_Armour_Blunt.label>钝器</AM_Armour_Blunt.label>
+  <!-- EN: Defense is paramount to any military strategy. We will be like a bulwark that stops all attacks our enemies try to direct against us.\n\n<color=#E5E54C>Gameplay effect:</color>\n - Colonists wearing any kind of apparel will get +25% blunt armour bonus. -->
+  <AM_Armour_Blunt.description>防护对任何军事行动来说都无比重要，我们将把自身武装成能抵御敌人一切攻击的坚固壁垒。\n\n&lt;color=#E5E54C>游戏效果：&lt;/color>\n - 穿戴着任意衣物的殖民者将额外获得+25%的钝器护甲。</AM_Armour_Blunt.description>
+  <!-- EN: No metallic armor -->
+  <AM_Armour_Blunt.comps.0.thoughtStageDescriptions.0>没有金属护甲</AM_Armour_Blunt.comps.0.thoughtStageDescriptions.0>
+  <!-- EN: Strong armor -->
+  <AM_Armour_Blunt.comps.0.thoughtStageDescriptions.1>坚固的护甲</AM_Armour_Blunt.comps.0.thoughtStageDescriptions.1>
+  
+  <!-- EN: heat -->
+  <AM_Armour_Heat.label>热能</AM_Armour_Heat.label>
+  <!-- EN: Defense is paramount to any military strategy. We will be like a bulwark that stops all attacks our enemies try to direct against us.\n\n<color=#E5E54C>Gameplay effect:</color>\n - Colonists wearing any kind of apparel will get +25% heat armour bonus. -->
+  <AM_Armour_Heat.description>防护对任何军事行动来说都无比重要，我们将把自身武装成能抵御敌人一切攻击的坚固壁垒。\n\n&lt;color=#E5E54C>游戏效果：&lt;/color>\n - 穿戴着任意衣物的殖民者将额外获得+25%的热能护甲。</AM_Armour_Heat.description>
+  <!-- EN: No metallic armor -->
+  <AM_Armour_Heat.comps.0.thoughtStageDescriptions.0>没有金属护甲</AM_Armour_Heat.comps.0.thoughtStageDescriptions.0>
+  <!-- EN: Strong armor -->
+  <AM_Armour_Heat.comps.0.thoughtStageDescriptions.1>坚固的护甲</AM_Armour_Heat.comps.0.thoughtStageDescriptions.1>
+  
+  <!-- EN: sharp -->
+  <AM_Armour_Sharp.label>利器</AM_Armour_Sharp.label>
+  <!-- EN: Defense is paramount to any military strategy. We will be like a bulwark that stops all attacks our enemies try to direct against us.\n\n<color=#E5E54C>Gameplay effect:</color>\n - Colonists wearing any kind of apparel will get +25% sharp armour bonus. -->
+  <AM_Armour_Sharp.description>防护对任何军事行动来说都无比重要，我们将把自身武装成能抵御敌人一切攻击的坚固壁垒。\n\n&lt;color=#E5E54C>游戏效果：&lt;/color>\n - 穿戴着任意衣物的殖民者将额外获得+25%的利器护甲。</AM_Armour_Sharp.description>
+  <!-- EN: No metallic armor -->
+  <AM_Armour_Sharp.comps.0.thoughtStageDescriptions.0>没有金属护甲</AM_Armour_Sharp.comps.0.thoughtStageDescriptions.0>
+  <!-- EN: Strong armor -->
+  <AM_Armour_Sharp.comps.0.thoughtStageDescriptions.1>坚固的护甲</AM_Armour_Sharp.comps.0.thoughtStageDescriptions.1>
+  
+</LanguageData>

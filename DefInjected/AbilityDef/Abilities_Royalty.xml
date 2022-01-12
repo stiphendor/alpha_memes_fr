@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: psychic death knell -->
+  <AM_PsychicDeathKnell.label>心灵丧钟</AM_PsychicDeathKnell.label>
+  <!-- EN: Forcefully extract the latent psychic energy from a downed foe. Animals don't have enough intelligence to be of any use in this regard.\n\nIf the person casting the ability doesn't have psychic powers, they'll just receive a minor healing effect and a mood boost. If the person does have at least level 1 psychic powers this ability will recharge his or her focus, but will generate 30% of maximum psychic heat. -->
+  <AM_PsychicDeathKnell.description>从倒地的敌人身上强制掠取心灵能量。动物因智力不足而无法作为目标。\n\n如果施术者没有构建启灵神经，则只能获得轻微的治疗效果与心情增益。如果施术者至少拥有1级的启灵神经，则将获得一定量的精神力与30%的最大心灵熵。</AM_PsychicDeathKnell.description>
+  
+</LanguageData>

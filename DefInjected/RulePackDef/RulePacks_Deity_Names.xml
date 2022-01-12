@@ -1,0 +1,77 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN:
+    <li>r_deityType->Timeless Primal Being</li>
+    <li>r_deityType->One Creator</li>
+    <li>r_deityType->True Name</li>
+    <li>r_deityType->Wonderful Teacher</li>
+    <li>r_deityType->Destroyer of Fear</li>
+    <li>r_deityType->Dispeller of Pain</li>
+    <li>r_deityType->Lover of His Saints</li>
+    <li>r_deityType->Preserver of the World</li>
+    <li>r_deityType->Supreme being</li>
+  -->
+  <AM_DeityTypeMakerSikh.rulePack.rulesStrings>
+    <li>r_deityType->永恒原初</li>
+    <li>r_deityType->造物主</li>
+    <li>r_deityType->无上神明</li>
+    <li>r_deityType->博学智者</li>
+    <li>r_deityType->恐惧灭除者</li>
+    <li>r_deityType->苦痛驱散者</li>
+    <li>r_deityType->圣人挚爱</li>
+    <li>r_deityType->世界守卫者</li>
+    <li>r_deityType->至高之神</li>
+  </AM_DeityTypeMakerSikh.rulePack.rulesStrings>
+  
+  <!-- EN:
+    <li>r_deityName(p=3)->Yahweh</li>
+    <li>r_deityName->Elohim</li>
+    <li>r_deityName->YHWH</li>
+    <li>r_deityName->El</li>
+    <li>r_deityName->Eloah</li>
+    <li>r_deityName->Shaddai</li>
+    <li>r_deityName->Ehyeh</li>
+    <li>r_deityName->Tzevaot</li>
+  -->
+  <AM_NamerDeityJewish.rulePack.rulesStrings>
+    <li>r_deityName(p=3)->Yahweh</li>
+    <li>r_deityName->Elohim</li>
+    <li>r_deityName->YHWH</li>
+    <li>r_deityName->El</li>
+    <li>r_deityName->Eloah</li>
+    <li>r_deityName->Shaddai</li>
+    <li>r_deityName->Ehyeh</li>
+    <li>r_deityName->Tzevaot</li>
+  </AM_NamerDeityJewish.rulePack.rulesStrings>
+  
+  <!-- EN:
+    <li>r_deityName->Akal Purakh</li>
+    <li>r_deityName->Ek Onkar</li>
+    <li>r_deityName->Satnam</li>
+    <li>r_deityName->Waheguru</li>
+    <li>r_deityName->Bhao Khandan</li>
+    <li>r_deityName->Dukh Bhanjno</li>
+    <li>r_deityName->Bhagat Vachhal</li>
+    <li>r_deityName->Hari</li>
+    <li>r_deityName->Govinda</li>
+    <li>r_deityName->Bhagavan</li>
+    <li>r_deityName->Rabh</li>
+    <li>r_deityName->Uppar Valah</li>
+  -->
+  <AM_NamerDeitySikh.rulePack.rulesStrings>
+    <li>r_deityName->Akal Purakh</li>
+    <li>r_deityName->Ek Onkar</li>
+    <li>r_deityName->Satnam</li>
+    <li>r_deityName->Waheguru</li>
+    <li>r_deityName->Bhao Khandan</li>
+    <li>r_deityName->Dukh Bhanjno</li>
+    <li>r_deityName->Bhagat Vachhal</li>
+    <li>r_deityName->Hari</li>
+    <li>r_deityName->Govinda</li>
+    <li>r_deityName->Bhagavan</li>
+    <li>r_deityName->Rabh</li>
+    <li>r_deityName->Uppar Valah</li>
+  </AM_NamerDeitySikh.rulePack.rulesStrings>
+  
+</LanguageData>

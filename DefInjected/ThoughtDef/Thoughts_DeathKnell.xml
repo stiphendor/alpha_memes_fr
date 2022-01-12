@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: death knell -->
+  <AM_DeathKnellThought.stages.death_knell.label>心灵丧钟</AM_DeathKnellThought.stages.death_knell.label>
+  <!-- EN: I absorbed the latent psychic power of a downed enemy, So invigorating. -->
+  <AM_DeathKnellThought.stages.death_knell.description>我从倒地的敌人身上掠取了精神力。这种振奋提神的感觉真是令人陶醉。</AM_DeathKnellThought.stages.death_knell.description>
+  
+</LanguageData>

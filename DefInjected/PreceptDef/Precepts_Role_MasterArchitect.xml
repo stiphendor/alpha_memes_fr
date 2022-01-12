@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: master architect -->
+  <AM_IdeoRole_MasterArchitect.label>建筑大师</AM_IdeoRole_MasterArchitect.label>
+  <!-- EN: A master builder, capable of designing amnd planning intricate designs and turning them into huge structures to awe even the most skeptical bystanders. -->
+  <AM_IdeoRole_MasterArchitect.description>一名精通复杂规划设计的建筑大师，其高超的技巧能让最怀疑的旁观者也感到深深地敬佩。</AM_IdeoRole_MasterArchitect.description>
+  
+</LanguageData>

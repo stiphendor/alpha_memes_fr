@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: pristine limestone blocks -->
+  <AM_BlocksPristineLimestone.label>古朴石灰岩砖</AM_BlocksPristineLimestone.label>
+  <!-- EN: Blocks of pristine limestone. -->
+  <AM_BlocksPristineLimestone.description>坚固美观的石灰岩砖块，其颜色很适合用于建造金字塔。</AM_BlocksPristineLimestone.description>
+  <!-- EN: pristine limestone -->
+  <AM_BlocksPristineLimestone.stuffProps.stuffAdjective>古朴石灰岩</AM_BlocksPristineLimestone.stuffProps.stuffAdjective>
+  
+</LanguageData>

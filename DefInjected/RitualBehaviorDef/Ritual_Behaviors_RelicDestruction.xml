@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: speaker -->
+  <AM_RelicDestructionBehavior.roles.0.label>演讲者</AM_RelicDestructionBehavior.roles.0.label>
+  <!-- EN: participate -->
+  <AM_RelicDestructionBehavior.spectatorGerund>参加</AM_RelicDestructionBehavior.spectatorGerund>
+  <!-- EN: Participants -->
+  <AM_RelicDestructionBehavior.spectatorsLabel>参与者</AM_RelicDestructionBehavior.spectatorsLabel>
+  
+</LanguageData>

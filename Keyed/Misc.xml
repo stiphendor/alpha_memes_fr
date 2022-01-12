@@ -1,0 +1,59 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+	<!-- Ideoligions -->
+	
+	<!-- EN: Art production speed: increased precept -->
+  <AM_ArtTableExtraSpeed>艺术制作速度：提高 戒律</AM_ArtTableExtraSpeed>
+	<!-- EN: Armour: blunt precept -->
+  <AM_ExtraBluntArmorFactor>护甲：钝器 戒律</AM_ExtraBluntArmorFactor>
+	<!-- EN: Armour: sharp precept -->
+  <AM_ExtraSharpArmorFactor>护甲：利器 戒律</AM_ExtraSharpArmorFactor>
+	<!-- EN: Armour: heat precept -->
+  <AM_ExtraHeatArmorFactor>护甲：热能 戒律</AM_ExtraHeatArmorFactor>
+	<!-- EN: Despised Animals -->
+  <AM_DespisedAnimals>害兽</AM_DespisedAnimals>
+	<!-- EN: Despised Animal -->
+  <AM_AddDespisedAnimals>害兽</AM_AddDespisedAnimals>
+	<!-- EN: This ability must target a downed sapient humanoid -->
+  <AM_AbilityNeedsADownedPawn>此技能必须以倒地的人形生物作为目标。</AM_AbilityNeedsADownedPawn>
+	<!-- EN: This ability must target a living, non-dryad animal -->
+  <AM_AbilityNeedsAValidAnimal>此技能必须以活着的非树精生物作为目标。</AM_AbilityNeedsAValidAnimal>
+	<!-- EN: This ability needs to target a building frame that is under construction -->
+  <AM_AbilityNeedsABlueprint>此技能必须以正在建造的建筑作为目标。</AM_AbilityNeedsABlueprint>
+	<!-- EN: All resources must have been delivered to the building frame -->
+  <AM_AbilityNeedsResourcesDelivered>所需的资源必须全部运送至建筑蓝图中。</AM_AbilityNeedsResourcesDelivered>
+	<!-- EN: You'll need to build an animal database before this ability can be used -->
+  <AM_NoDataBaseFound>在使用此技能前，你需要建造一个生物数据基站。</AM_NoDataBaseFound>
+	<!-- EN: Not scanned -->
+  <AM_NotAnalyzed>未扫描</AM_NotAnalyzed>
+	<!-- EN: Genome analyzed -->
+  <AM_Analyzed>解析完毕</AM_Analyzed>
+	<!-- EN: Only tagged animals -->
+  <AM_OnlyTaggedAnimals>仅显示扫描过的生物</AM_OnlyTaggedAnimals>
+	<!-- EN: Show genome analysis -->
+  <AM_ShowAnimalAnalysis>查看基因解析表</AM_ShowAnimalAnalysis>
+	<!-- EN: This will show you a list of possible animals that need to be scanned. -->
+  <AM_ShowAnimalAnalysisDesc>显示所有扫描与未扫描生物的列表。</AM_ShowAnimalAnalysisDesc>
+	<!-- EN: Only one database can be built -->
+  <AM_OnlyOneDatabase>只能建造一台数据基站。</AM_OnlyOneDatabase>
+	<!-- EN: This animal has already been scanned for the database -->
+  <AM_AnimalAlreadyScanned>这种生物已经扫描过了。</AM_AnimalAlreadyScanned>
+	<!-- EN: {0} has been scanned into the animal database -->
+  <AM_AnimalScanned>{0}的情报数据已录入至生物数据基站中。</AM_AnimalScanned>
+	<!-- EN: Database completion rate at {0} -->
+  <AM_CompletionDescription>情报数据录入率：{0}</AM_CompletionDescription>
+	<!-- EN: Install in relic smashing altar -->
+  <AM_InstallInReliquary>安装在圣物粉碎祭坛中</AM_InstallInReliquary>
+	<!-- EN: no empty accessible relic smashing altar -->
+  <AM_NoEmptyReliquary>没有空的可接近的圣物粉碎祭坛</AM_NoEmptyReliquary>
+	<!-- EN: Relic smashing altar needs to have a relic installed to start the ritual -->
+  <AM_NeedsFullAltar>需要在圣物粉碎祭坛中安装圣物才能开始仪式</AM_NeedsFullAltar>
+	<!-- EN: This ability can't be used if the colonist's ideo doesn't have the necessary meme -->
+  <AM_AbilityNeedsMeme>如果殖民者的文化中没有必要的模因，此技能将无法使用。</AM_AbilityNeedsMeme>
+	<!-- EN: Make the "Change Style" ability use styles not possessed by the player's main ideoligion -->
+  <AM_MakeChangeStyleAbilityUseAllStyles>解锁“风格变更”技能的可选风格限制</AM_MakeChangeStyleAbilityUseAllStyles>
+	<!-- EN: Make the "Change Style" ability use styles not possessed by the player's main ideoligion. By default this leader role ability will swap an item's style through the styles present in the colony's main ideo. By activating this toggle you will make it use ALL styles currently present in the game (vanilla or modded) -->
+  <AM_MakeChangeStyleAbilityUseAllStyles_Tooltip>解锁“风格变更”技能的可选风格限制。默认设置下，此技能可用作替换的风格样式仅限于殖民地主流文化形态所拥有的风格样式。启用此项后，所有的文化风格样式都可以用作替换。</AM_MakeChangeStyleAbilityUseAllStyles_Tooltip>
+
+	
+</LanguageData>

@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: deranged maddening chant -->
+  <AM_DerangedMaddeningChant.stages.deranged_maddening_chant.label>错乱的癫狂圣歌</AM_DerangedMaddeningChant.stages.deranged_maddening_chant.label>
+  <!-- EN: One person's craziness is another person's reality. -->
+  <AM_DerangedMaddeningChant.stages.deranged_maddening_chant.description>一个人的癫狂，即是另一个人的现实。</AM_DerangedMaddeningChant.stages.deranged_maddening_chant.description>
+  
+  <!-- EN: insane maddening chant -->
+  <AM_InsaneMaddeningChant.stages.insane_maddening_chant.label>癫狂的癫狂圣歌</AM_InsaneMaddeningChant.stages.insane_maddening_chant.label>
+  <!-- EN: Sweet, crazy conversations full of half sentences, daydreams and misunderstandings more thrilling than understanding could ever be. -->
+  <AM_InsaneMaddeningChant.stages.insane_maddening_chant.description>甜蜜疯狂的胡话与白日梦比善解人意更让人激动不已。</AM_InsaneMaddeningChant.stages.insane_maddening_chant.description>
+  
+  <!-- EN: psychotic maddening chant -->
+  <AM_PsychoticMaddeningChant.stages.psychotic_maddening_chant.label>失常的癫狂圣歌</AM_PsychoticMaddeningChant.stages.psychotic_maddening_chant.label>
+  <!-- EN: There's a fine line between genius and insanity. We have erased this line. -->
+  <AM_PsychoticMaddeningChant.stages.psychotic_maddening_chant.description>天才与疯子间只有一线之隔，而我们已经将它抹去了。</AM_PsychoticMaddeningChant.stages.psychotic_maddening_chant.description>
+  
+  <!-- EN: rational maddening chant -->
+  <AM_RationalMaddeningChant.stages.rational_maddening_chant.label>神志清醒的癫狂圣歌</AM_RationalMaddeningChant.stages.rational_maddening_chant.label>
+  <!-- EN: What was that? There was no shared insanity, no cackling forbidden whispers of madness. What a bore. -->
+  <AM_RationalMaddeningChant.stages.rational_maddening_chant.description>既没有一同陷入癫狂，也没有充斥着咯咯邪笑的禁忌低语。真无聊。</AM_RationalMaddeningChant.stages.rational_maddening_chant.description>
+  
+</LanguageData>

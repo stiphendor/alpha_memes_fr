@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: harvested organ -->
+  <AM_OrganUse_Know_Torturous.stages.harvested_organ.label>摘取器官</AM_OrganUse_Know_Torturous.stages.harvested_organ.label>
+  
+  <!-- EN: organ harvested -->
+  <AM_OrganUse_Know_Torturous_Mood.stages.organ_harvested.label>器官被摘取</AM_OrganUse_Know_Torturous_Mood.stages.organ_harvested.label>
+  <!-- EN: A colonist tortured someone and harvested organs while he was still alive. Glorious! -->
+  <AM_OrganUse_Know_Torturous_Mood.stages.organ_harvested.description>我们的殖民者当着某人的面摘取了他的器官。这可真棒！</AM_OrganUse_Know_Torturous_Mood.stages.organ_harvested.description>
+  
+  <!-- EN: harvested organ -->
+  <AM_OrganUse_Torturous.stages.harvested_organ.label>摘取器官</AM_OrganUse_Torturous.stages.harvested_organ.label>
+  <!-- EN: I tortured someone and harvested organs while he was still alive. What an exquisite deliverance of suffering. -->
+  <AM_OrganUse_Torturous.stages.harvested_organ.description>我当着某人的面摘取了他的器官。这种雅致的折磨方式能将他从苦痛中解救出来。</AM_OrganUse_Torturous.stages.harvested_organ.description>
+  
+</LanguageData>

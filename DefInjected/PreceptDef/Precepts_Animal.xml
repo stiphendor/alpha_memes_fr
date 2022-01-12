@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: despised -->
+  <AM_AnimalDespised.label>害兽</AM_AnimalDespised.label>
+  <!-- EN: This animal is considered by believers to be specially abhorrent, which means it must be hunted and exterminated at all costs. -->
+  <AM_AnimalDespised.description>信徒们认为这种动物可憎至极，这意味着必须不计代价地将它赶尽杀绝。</AM_AnimalDespised.description>
+  
+</LanguageData>

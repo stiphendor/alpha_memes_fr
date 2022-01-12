@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: used non-ranged attack -->
+  <AM_UsedMelee.label>使用非远程攻击</AM_UsedMelee.label>
+  
+  <!-- EN: used ranged attack -->
+  <AM_UsedRanged.label>使用远程攻击</AM_UsedRanged.label>
+  
+</LanguageData>

@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: someone died -->
+  <AM_Death_Desired.stages.someone_died.label>有人死亡</AM_Death_Desired.stages.someone_died.label>
+  <!-- EN: The grim spectre of death is welcome among us, for it reveals to us what it means to be truly human. -->
+  <AM_Death_Desired.stages.someone_died.description>我们欢迎可怖亡灵的到来，是它向我们展示了真正人类的意义。</AM_Death_Desired.stages.someone_died.description>
+  
+</LanguageData>

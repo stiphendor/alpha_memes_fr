@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: despised -->
+  <AM_Religion_Despised.label>厌恶</AM_Religion_Despised.label>
+  <!-- EN: We call religion the one great curse, the one great intrinsic depravity, the one great instinct of revenge, for which no means are venomous enough, or secret, subterranean and small enough – we call it the one immortal blemish upon the human race.\n\n<color=#E5E54C>Gameplay effect:</color>\n - Colonists get a considerable opinion penalty on other colonists with religious beliefs. This covers all religious structures from this mod, VE Memes and Structures as well as vanilla Ideology, plus God Emperor meme in VE. -->
+  <AM_Religion_Despised.description>宗教就是场巨大的骗局，将其称之为人类永恒的污点都不为过。\n\n&lt;color=#E5E54C>游戏效果：&lt;/color>\n - 殖民者会对拥有其他宗教信仰的殖民者抱有强烈的负面看法(包括本mod、原版模因扩展和文化DLC的宗教结构，以及原版模因扩展的“无上神皇”模因)。</AM_Religion_Despised.description>
+  
+  <!-- EN: disliked -->
+  <AM_Religion_Disliked.label>反感</AM_Religion_Disliked.label>
+  <!-- EN: What millions believe is often just fairy tales for children. Glory lies in searching for the truth not in believing the irrational legends.\n\n<color=#E5E54C>Gameplay effect:</color>\n - Colonists get an opinion penalty on other colonists with religious beliefs. This covers all religious structures from this mod, VE Memes and Structures as well as vanilla Ideology, plus God Emperor meme in VE. -->
+  <AM_Religion_Disliked.description>无数人信仰的宗教神话不过是给小孩子看的童话故事罢了。真正的荣耀在于追寻真理，而不是相信那些不合逻辑的传说。\n\n&lt;color=#E5E54C>游戏效果：&lt;/color>\n - 殖民者会对拥有其他宗教信仰的殖民者抱有负面看法(包括本mod、原版模因扩展和文化DLC的宗教结构，以及原版模因扩展的“无上神皇”模因)。</AM_Religion_Disliked.description>
+  
+  <!-- EN: loved -->
+  <AM_Religion_Loved.label>喜好</AM_Religion_Loved.label>
+  <!-- EN: Religion is an amazing human concept that brings everyone together.\n\n<color=#E5E54C>Gameplay effect:</color>\n - Colonists get an opinion bonus on other colonists with religious beliefs. This covers all religious structures from this mod, VE Memes and Structures as well as vanilla Ideology, plus God Emperor meme in VE. -->
+  <AM_Religion_Loved.description>宗教是一种奇妙的人文观念，它能够将人们团结在一起。\n\n&lt;color=#E5E54C>游戏效果：&lt;/color>\n - 殖民者会对拥有其他宗教信仰的殖民者抱有正面看法(包括本mod、原版模因扩展和文化DLC的宗教结构，以及原版模因扩展的“无上神皇”模因)。</AM_Religion_Loved.description>
+  
+  <!-- EN: proselytism disliked -->
+  <AM_Religion_ProselytismDisliked.label>反感（传教）</AM_Religion_ProselytismDisliked.label>
+  <!-- EN: Everyone is entitled to their own beliefs. Forcing such beliefs upon others, however, is not right.\n\n<color=#E5E54C>Gameplay effect:</color>\n - Colonists get an opinion penalty on other colonists with Proselytizer or Violent Conversion on their ideos. -->
+  <AM_Religion_ProselytismDisliked.description>众人皆享有宗教信仰自由的权利。将自己的宗教信仰强加于人是错误的行为。\n\n&lt;color=#E5E54C>游戏效果：&lt;/color>\n - 殖民者会对文化形态中拥有“传教热忱”或“暴力传教”模因的其他殖民者抱有负面看法。</AM_Religion_ProselytismDisliked.description>
+  
+</LanguageData>

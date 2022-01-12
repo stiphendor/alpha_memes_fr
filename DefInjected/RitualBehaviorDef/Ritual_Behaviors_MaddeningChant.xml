@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: speaker -->
+  <AM_MaddeningChantBehavior.roles.0.label>演讲</AM_MaddeningChantBehavior.roles.0.label>
+  <!-- EN: participate -->
+  <AM_MaddeningChantBehavior.spectatorGerund>参加</AM_MaddeningChantBehavior.spectatorGerund>
+  <!-- EN: Participants -->
+  <AM_MaddeningChantBehavior.spectatorsLabel>参与者</AM_MaddeningChantBehavior.spectatorsLabel>
+  
+</LanguageData>

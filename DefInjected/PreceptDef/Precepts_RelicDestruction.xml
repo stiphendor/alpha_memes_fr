@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: desired -->
+  <AM_RelicDestruction_Desired.label>渴望</AM_RelicDestruction_Desired.label>
+  <!-- EN: We will get rid of any obscene idols. They are disgusting and need to be destroyed. -->
+  <AM_RelicDestruction_Desired.description>污秽的迷信偶像必须被销毁。</AM_RelicDestruction_Desired.description>
+  <!-- EN: Destroyed a relic -->
+  <AM_RelicDestruction_Desired.comps.0.thoughtStageDescriptions.0>销毁了圣物（1件）</AM_RelicDestruction_Desired.comps.0.thoughtStageDescriptions.0>
+  <!-- EN: Destroyed two relics -->
+  <AM_RelicDestruction_Desired.comps.0.thoughtStageDescriptions.1>销毁了圣物（2件）</AM_RelicDestruction_Desired.comps.0.thoughtStageDescriptions.1>
+  <!-- EN: Destroyed three or more relics -->
+  <AM_RelicDestruction_Desired.comps.0.thoughtStageDescriptions.2>销毁了圣物（3件及以上）</AM_RelicDestruction_Desired.comps.0.thoughtStageDescriptions.2>
+  
+</LanguageData>

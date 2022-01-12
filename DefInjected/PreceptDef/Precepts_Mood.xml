@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: volatile -->
+  <AM_Mood_Volatile.label>无常</AM_Mood_Volatile.label>
+  <!-- EN: We won't let our fragile egos dictate our lives. We refuse to be shackled by the thin veil of reality. We will peer beyond.\n\n<color=#E5E54C>Gameplay effect:</color>\n - Colonist mood will fluctuate every day at random between -15 and +15. -->
+  <AM_Mood_Volatile.description>我们绝不容忍生活被脆弱的自我摆布。我们拒绝被现实的薄纱束缚在原地。我们会站得更高，望得更远。\n\n&lt;color=#E5E54C>游戏效果：&lt;/color>\n - 殖民者的心情每天都会在 -15 到 +15 间随机波动。</AM_Mood_Volatile.description>
+  <!-- EN: Spiders in my face -->
+  <AM_Mood_Volatile.comps.0.thoughtStageDescriptions.0>有蜘蛛在我脸上爬</AM_Mood_Volatile.comps.0.thoughtStageDescriptions.0>
+  <!-- EN: Clown in the sky looking at me -->
+  <AM_Mood_Volatile.comps.0.thoughtStageDescriptions.1>有小丑躲在天上盯着我</AM_Mood_Volatile.comps.0.thoughtStageDescriptions.1>
+  <!-- EN: Liquorice tastes like betrayal -->
+  <AM_Mood_Volatile.comps.0.thoughtStageDescriptions.2>甘草糖的味道有点像背叛</AM_Mood_Volatile.comps.0.thoughtStageDescriptions.2>
+  <!-- EN: The voices won't stop -->
+  <AM_Mood_Volatile.comps.0.thoughtStageDescriptions.3>耳边一直回荡着声音</AM_Mood_Volatile.comps.0.thoughtStageDescriptions.3>
+  <!-- EN: I feel like turpentine -->
+  <AM_Mood_Volatile.comps.0.thoughtStageDescriptions.4>我好像在吃松节油</AM_Mood_Volatile.comps.0.thoughtStageDescriptions.4>
+  <!-- EN: All cheese is obnoxious -->
+  <AM_Mood_Volatile.comps.0.thoughtStageDescriptions.5>所有的奶酪都令我恶心</AM_Mood_Volatile.comps.0.thoughtStageDescriptions.5>
+  <!-- EN: Have you ever seen tomorrow? -->
+  <AM_Mood_Volatile.comps.0.thoughtStageDescriptions.6>你看见明天了吗？</AM_Mood_Volatile.comps.0.thoughtStageDescriptions.6>
+  <!-- EN: I can feel the inside of my skin -->
+  <AM_Mood_Volatile.comps.0.thoughtStageDescriptions.7>我能感受到皮肤内部</AM_Mood_Volatile.comps.0.thoughtStageDescriptions.7>
+  <!-- EN: My flesh vessel is itchy -->
+  <AM_Mood_Volatile.comps.0.thoughtStageDescriptions.8>我的血肉皮囊瘙痒不止</AM_Mood_Volatile.comps.0.thoughtStageDescriptions.8>
+  
+</LanguageData>

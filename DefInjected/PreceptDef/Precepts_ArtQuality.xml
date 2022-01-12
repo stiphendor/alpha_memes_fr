@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: expected -->
+  <AM_ArtQuality_Expected.label>渴望</AM_ArtQuality_Expected.label>
+  <!-- EN: The true work of art is but a shadow of divine perfection. There is no valid excuse for shoddily executed art, and we shouldn't have to suffer it.\n\n<color=#E5E54C>Gameplay effect:</color>\n - Colonists with "High" expectations or higher will demand high quality art. Art quality will be averaged between all art pieces present in the colony. -->
+  <AM_ArtQuality_Expected.description>真正的艺术品也仅仅是至臻瑰宝的一道投影。我们无法容忍粗制滥造的艺术品出现在殖民地中。\n\n&lt;color=#E5E54C>游戏效果：&lt;/color>\n - 拥有“很高的期望”及以上的殖民者将会要求在殖民地中摆放高品质的艺术品。艺术品质带来的心情增益取决于殖民地中所有艺术品的平均值。</AM_ArtQuality_Expected.description>
+  <!-- EN: Awful art -->
+  <AM_ArtQuality_Expected.comps.0.thoughtStageDescriptions.0>极差的艺术品</AM_ArtQuality_Expected.comps.0.thoughtStageDescriptions.0>
+  <!-- EN: Poor art -->
+  <AM_ArtQuality_Expected.comps.0.thoughtStageDescriptions.1>较差的艺术品</AM_ArtQuality_Expected.comps.0.thoughtStageDescriptions.1>
+  <!-- EN: Normal art -->
+  <AM_ArtQuality_Expected.comps.0.thoughtStageDescriptions.2>一般的艺术品</AM_ArtQuality_Expected.comps.0.thoughtStageDescriptions.2>
+  <!-- EN: Good art -->
+  <AM_ArtQuality_Expected.comps.0.thoughtStageDescriptions.3>良好的艺术品</AM_ArtQuality_Expected.comps.0.thoughtStageDescriptions.3>
+  <!-- EN: Excellent art -->
+  <AM_ArtQuality_Expected.comps.0.thoughtStageDescriptions.4>极佳的艺术品</AM_ArtQuality_Expected.comps.0.thoughtStageDescriptions.4>
+  <!-- EN: Masterwork art -->
+  <AM_ArtQuality_Expected.comps.0.thoughtStageDescriptions.5>大师级艺术品</AM_ArtQuality_Expected.comps.0.thoughtStageDescriptions.5>
+  <!-- EN: Legendary art -->
+  <AM_ArtQuality_Expected.comps.0.thoughtStageDescriptions.6>传奇级艺术品</AM_ArtQuality_Expected.comps.0.thoughtStageDescriptions.6>
+  
+</LanguageData>

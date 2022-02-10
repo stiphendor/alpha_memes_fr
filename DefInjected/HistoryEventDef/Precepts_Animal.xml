@@ -2,9 +2,9 @@
 <LanguageData>
   
   <!-- EN: animal died -->
-  <AM_AnimalDied.label>动物死亡</AM_AnimalDied.label>
+  <AM_AnimalDied.label>animal mort</AM_AnimalDied.label>
   
   <!-- EN: despised animal died -->
-  <AM_DespisedAnimalDied.label>厌恶的动物死亡</AM_DespisedAnimalDied.label>
+  <AM_DespisedAnimalDied.label>un animal méprisé est mort</AM_DespisedAnimalDied.label>
   
 </LanguageData>

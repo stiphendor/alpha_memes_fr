@@ -2,21 +2,21 @@
 <LanguageData>
   
   <!-- EN: atheist -->
-  <AM_Atheist.label>无神文化</AM_Atheist.label>
+  <AM_Atheist.label>athéiste</AM_Atheist.label>
   
   <!-- EN: jain -->
-  <AM_Jain.label>耆那文化</AM_Jain.label>
+  <AM_Jain.label>jaïn</AM_Jain.label>
   
   <!-- EN: jewish -->
-  <AM_Jewish.label>犹太文化</AM_Jewish.label>
+  <AM_Jewish.label>juif</AM_Jewish.label>
   
   <!-- EN: kemetic -->
-  <AM_Kemetic.label>埃及文化</AM_Kemetic.label>
+  <AM_Kemetic.label>kémétique</AM_Kemetic.label>
   
   <!-- EN: sikh -->
-  <AM_Sikh.label>锡克文化</AM_Sikh.label>
+  <AM_Sikh.label>sikh</AM_Sikh.label>
   
   <!-- EN: steampunk -->
-  <AM_SteampunkRevival.label>蒸汽朋克文化</AM_SteampunkRevival.label>
+  <AM_SteampunkRevival.label>steampunk</AM_SteampunkRevival.label>
   
 </LanguageData>

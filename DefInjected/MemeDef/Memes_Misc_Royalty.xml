@@ -2,9 +2,9 @@
 <LanguageData>
   
   <!-- EN: psychic vampirism -->
-  <AM_PsychicVampirism.label>灵能掠取</AM_PsychicVampirism.label>
+  <AM_PsychicVampirism.label>vampirisme psychique</AM_PsychicVampirism.label>
   <!-- EN: Meditation is useless and a waste of time. If we want to master the powers of the mind we will have to rip the psychic energy from the still pulsating brains of our enemies. -->
-  <AM_PsychicVampirism.description>冥想是浪费时间的无用之举。若想将心灵能力运用至炉火纯青，从敌人鲜活的大脑中掠取心灵能量才是最佳选择。</AM_PsychicVampirism.description>
+  <AM_PsychicVampirism.description>La méditation est inutile et une perte de temps. Si nous voulons maîtriser les pouvoirs de l'esprit, nous devrons arracher l'énergie psychique des cerveaux encore palpitants de nos ennemis.</AM_PsychicVampirism.description>
   <!-- EN:
     <li>creation(tag=meme_PsychicVampirism)        ->[deity0_name] gifted humanity with psychic powers so we can follow [deity0_possessive] will.</li>
     <li>episode(uses=1,tag=meme_PsychicVampirism)  ->[deity0_name] said to all the [memberNamePlural], "The power of the mind is limitless. Drain the mind of your enemies and you will be unstoppable."</li>
@@ -59,37 +59,37 @@
     <li>memeMoralist->warlock</li>
   -->
   <AM_PsychicVampirism.generalRules.rulesStrings>
-    <li>memeAdjective->掠取</li>
-    <li>memeAdjective->心灵</li>
-    <li>memeHyphenPrefix->心智</li>
-    <li>memeConcept->心灵掠取</li>
-    <li>memeLeaderNoun->掠夺术师</li>
-    <li>memeMoralist->巫师</li>
-    <li>memeMoralist->术士</li>
+    <li>memeAdjective->drainant</li>
+    <li>memeAdjectif->psychique</li>
+    <li>memeHyphenPrefix->esprit</li>
+    <li>memeConcept->vidange psychique</li>
+    <li>memeLeaderNoun->thaumaturge</li>
+    <li>memeMoralist->sorcier</li>
+    <li>memeMoralist->warlock</li>
   </AM_PsychicVampirism.generalRules.rulesStrings>
   <!-- EN: psychic -->
-  <AM_PsychicVampirism.symbolPacks.0.adjective>心灵</AM_PsychicVampirism.symbolPacks.0.adjective>
+  <AM_PsychicVampirism.symbolPacks.0.adjective>psychique</AM_PsychicVampirism.symbolPacks.0.adjective>
   <!-- EN: Psychics -->
-  <AM_PsychicVampirism.symbolPacks.0.ideoName>心灵</AM_PsychicVampirism.symbolPacks.0.ideoName>
+  <AM_PsychicVampirism.symbolPacks.0.ideoName>psychiques</AM_PsychicVampirism.symbolPacks.0.ideoName>
   <!-- EN: psychic -->
-  <AM_PsychicVampirism.symbolPacks.0.member>心灵</AM_PsychicVampirism.symbolPacks.0.member>
+  <AM_PsychicVampirism.symbolPacks.0.member>psychique</AM_PsychicVampirism.symbolPacks.0.member>
   <!-- EN: pshychic powers -->
-  <AM_PsychicVampirism.symbolPacks.0.theme>灵能</AM_PsychicVampirism.symbolPacks.0.theme>
+  <AM_PsychicVampirism.symbolPacks.0.theme>pouvoirs psychiques</AM_PsychicVampirism.symbolPacks.0.theme>
   <!-- EN: mentalist -->
-  <AM_PsychicVampirism.symbolPacks.1.adjective>灵能者</AM_PsychicVampirism.symbolPacks.1.adjective>
+  <AM_PsychicVampirism.symbolPacks.1.adjective>mentaliste</AM_PsychicVampirism.symbolPacks.1.adjective>
   <!-- EN: Mentalism -->
-  <AM_PsychicVampirism.symbolPacks.1.ideoName>灵能主义</AM_PsychicVampirism.symbolPacks.1.ideoName>
+  <AM_PsychicVampirism.symbolPacks.1.ideoName>Mentalisme</AM_PsychicVampirism.symbolPacks.1.ideoName>
   <!-- EN: mentalist -->
-  <AM_PsychicVampirism.symbolPacks.1.member>灵能者</AM_PsychicVampirism.symbolPacks.1.member>
+  <AM_PsychicVampirism.symbolPacks.1.member>mentalise</AM_PsychicVampirism.symbolPacks.1.member>
   <!-- EN: mentalism -->
-  <AM_PsychicVampirism.symbolPacks.1.theme>灵能主义</AM_PsychicVampirism.symbolPacks.1.theme>
+  <AM_PsychicVampirism.symbolPacks.1.theme>mentalisme</AM_PsychicVampirism.symbolPacks.1.theme>
   <!-- EN: psionic -->
-  <AM_PsychicVampirism.symbolPacks.2.adjective>异能</AM_PsychicVampirism.symbolPacks.2.adjective>
+  <AM_PsychicVampirism.symbolPacks.2.adjective>psionique</AM_PsychicVampirism.symbolPacks.2.adjective>
   <!-- EN: Psionics -->
-  <AM_PsychicVampirism.symbolPacks.2.ideoName>异能</AM_PsychicVampirism.symbolPacks.2.ideoName>
+  <AM_PsychicVampirism.symbolPacks.2.ideoName>Psioniques</AM_PsychicVampirism.symbolPacks.2.ideoName>
   <!-- EN: psion -->
-  <AM_PsychicVampirism.symbolPacks.2.member>异能</AM_PsychicVampirism.symbolPacks.2.member>
+  <AM_PsychicVampirism.symbolPacks.2.member>psion</AM_PsychicVampirism.symbolPacks.2.member>
   <!-- EN: psionics -->
-  <AM_PsychicVampirism.symbolPacks.2.theme>异能</AM_PsychicVampirism.symbolPacks.2.theme>
+  <AM_PsychicVampirism.symbolPacks.2.theme>psioniques</AM_PsychicVampirism.symbolPacks.2.theme>
   
 </LanguageData>

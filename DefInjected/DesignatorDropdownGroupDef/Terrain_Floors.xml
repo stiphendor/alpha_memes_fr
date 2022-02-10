@@ -2,18 +2,18 @@
 <LanguageData>
   
   <!-- EN: jewish fine stone tiles -->
-  <AM_Floor_JewishFineTiles.label>犹太风格精致地砖</AM_Floor_JewishFineTiles.label>
+  <AM_Floor_JewishFineTiles.label>carrelage juif raffiné</AM_Floor_JewishFineTiles.label>
   
   <!-- EN: jewish stone tiles -->
-  <AM_Floor_JewishTiles.label>犹太风格地砖</AM_Floor_JewishTiles.label>
+  <AM_Floor_JewishTiles.label>carrelage juif</AM_Floor_JewishTiles.label>
   
   <!-- EN: kemetic fine stone tiles -->
-  <AM_Floor_KemeticFineTiles.label>埃及风格精致地砖</AM_Floor_KemeticFineTiles.label>
+  <AM_Floor_KemeticFineTiles.label>carrelage raffiné kémétique</AM_Floor_KemeticFineTiles.label>
   
   <!-- EN: kemetic stone tiles -->
-  <AM_Floor_KemeticTiles.label>埃及风格地砖</AM_Floor_KemeticTiles.label>
+  <AM_Floor_KemeticTiles.label>carrelage kémétique</AM_Floor_KemeticTiles.label>
   
   <!-- EN: steampunk stone tiles -->
-  <AM_Floor_SteampunkTiles.label>蒸汽朋克风格地砖</AM_Floor_SteampunkTiles.label>
+  <AM_Floor_SteampunkTiles.label>carrelage steampunk</AM_Floor_SteampunkTiles.label>
   
 </LanguageData>

@@ -2,10 +2,10 @@
 <LanguageData>
   
   <!-- EN: speaker -->
-  <AM_RelicDestructionBehavior.roles.0.label>演讲者</AM_RelicDestructionBehavior.roles.0.label>
+  <AM_RelicDestructionBehavior.roles.0.label>orateur</AM_RelicDestructionBehavior.roles.0.label>
   <!-- EN: participate -->
-  <AM_RelicDestructionBehavior.spectatorGerund>参加</AM_RelicDestructionBehavior.spectatorGerund>
+  <AM_RelicDestructionBehavior.spectatorGerund>participe</AM_RelicDestructionBehavior.spectatorGerund>
   <!-- EN: Participants -->
-  <AM_RelicDestructionBehavior.spectatorsLabel>参与者</AM_RelicDestructionBehavior.spectatorsLabel>
+  <AM_RelicDestructionBehavior.spectatorsLabel>participant</AM_RelicDestructionBehavior.spectatorsLabel>
   
 </LanguageData>

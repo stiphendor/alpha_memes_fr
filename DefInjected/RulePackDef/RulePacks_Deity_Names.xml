@@ -13,15 +13,15 @@
     <li>r_deityType->Supreme being</li>
   -->
   <AM_DeityTypeMakerSikh.rulePack.rulesStrings>
-    <li>r_deityType->永恒原初</li>
-    <li>r_deityType->造物主</li>
-    <li>r_deityType->无上神明</li>
-    <li>r_deityType->博学智者</li>
-    <li>r_deityType->恐惧灭除者</li>
-    <li>r_deityType->苦痛驱散者</li>
-    <li>r_deityType->圣人挚爱</li>
-    <li>r_deityType->世界守卫者</li>
-    <li>r_deityType->至高之神</li>
+    <li>r_deityType->Être primordial intemporel</li>
+    <li>r_deityType->Un créateur</li>
+    <li>r_deityType->Vrai nom</li>
+    <li>r_deityType->Enseignant merveilleux</li>
+    <li>r_deityType->Destructeur de peur</li>
+    <li>r_deityType->Dissipateur de douleur</li>
+    <li>r_deityType->Amoureux de ses saints</li>
+    <li>r_deityType->Conservateur du monde</li>
+    <li>r_deityType->Être suprême</li>
   </AM_DeityTypeMakerSikh.rulePack.rulesStrings>
   
   <!-- EN:
@@ -39,7 +39,7 @@
     <li>r_deityName->Elohim</li>
     <li>r_deityName->YHWH</li>
     <li>r_deityName->El</li>
-    <li>r_deityName->Eloah</li>
+    <li>r_deityName->Éloah</li>
     <li>r_deityName->Shaddai</li>
     <li>r_deityName->Ehyeh</li>
     <li>r_deityName->Tzevaot</li>

@@ -2,6 +2,6 @@
 <LanguageData>
   
   <!-- EN: installing TargetA in TargetB -->
-  <AM_InstallRelic.reportString>正在将TargetA装入TargetB中。</AM_InstallRelic.reportString>
+  <AM_InstallRelic.reportString>installation de TargetA dans TargetB/AM_InstallRelic.reportString>
   
 </LanguageData>

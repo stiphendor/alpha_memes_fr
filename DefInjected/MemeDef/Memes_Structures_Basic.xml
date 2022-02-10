@@ -2,9 +2,9 @@
 <LanguageData>
   
   <!-- EN: atheism -->
-  <AM_Structure_Atheist.label>广义无神论</AM_Structure_Atheist.label>
+  <AM_Structure_Atheist.label>athéisme</AM_Structure_Atheist.label>
   <!-- EN: There are no gods, no supernatural beings guiding our path or watching over us. Unfalsifiable concepts cannot be used as a basis for a rational society. -->
-  <AM_Structure_Atheist.description>这个世界根本没有守护并引导我们的神明或超自然存在。自圆其说的虚伪概念无法成为构建理性社会的基石。</AM_Structure_Atheist.description>
+  <AM_Structure_Atheist.description>Il n'y a pas de dieux, pas d'êtres surnaturels guidant notre chemin ou veillant sur nous. Les concepts infalsifiables ne peuvent servir de base à une société rationnelle.</AM_Structure_Atheist.description>
   <!-- EN:
     <li>memeAdjective->atheist</li>
     <li>memeAdjective->godless</li>
@@ -25,32 +25,32 @@
     <li>memeMoralist->dialectician</li>
   -->
   <AM_Structure_Atheist.generalRules.rulesStrings>
-    <li>memeAdjective->无神论者</li>
-    <li>memeAdjective->无神论</li>
-    <li>memeAdjective->无信仰</li>
-    <li>memeAdjective->无宗教</li>
-    <li>memeAdjective->无神论</li>
-    <li>memeAdjective->世俗</li>
-    <li>memeLeaderNoun->监察者</li>
-    <li>memeLeaderNoun->理论家</li>
-    <li>memeLeaderAdjective->世俗</li>
-    <li>memeLeaderAdjective->凡人</li>
-    <li>memeMoralist->理论家</li>
-    <li>memeMoralist->思想家</li>
-    <li>memeMoralist->道德家</li>
-    <li>memeMoralist->思辨者</li>
-    <li>memeMoralist->论述家</li>
-    <li>memeMoralist->学者</li>
-    <li>memeMoralist->辩证家</li>
+    <li>memeAdjective->athée</li>
+    <li>memeAdjective->impie</li>
+    <li>memeAdjective->irréligieux</li>
+    <li>memeAdjective->non religieux</li>
+    <li>memeAdjective->incroyant</li>
+    <li>memeAdjective->séculaire</li>
+    <li>memeLeaderNoun->surveillant</li>
+    <li>memeLeaderNoun->théoricien</li>
+    <li>memeLeaderAdjective->laïque</li>
+    <li>memeLeaderAdjective->laic</li>
+    <li>memeMoraliste->théoricien</li>
+    <li>memeMoraliste->penseur</li>
+    <li>memeMoraliste->moraliste</li>
+    <li>memeMoralist->spéculateur</li>
+    <li>memeMoraliste->théoricien</li>
+    <li>memeMoralist->académique</li>
+    <li>memeMoraliste->dialectiste</li>
   </AM_Structure_Atheist.generalRules.rulesStrings>
   <!-- EN: atheist -->
-  <AM_Structure_Atheist.symbolPacks.0.adjective>无神论</AM_Structure_Atheist.symbolPacks.0.adjective>
+  <AM_Structure_Atheist.symbolPacks.0.adjective>athéiste</AM_Structure_Atheist.symbolPacks.0.adjective>
   <!-- EN: atheist -->
-  <AM_Structure_Atheist.symbolPacks.0.member>无神论者</AM_Structure_Atheist.symbolPacks.0.member>
+  <AM_Structure_Atheist.symbolPacks.0.member>athée</AM_Structure_Atheist.symbolPacks.0.member>
   <!-- EN: atheism -->
-  <AM_Structure_Atheist.symbolPacks.0.theme>无神论</AM_Structure_Atheist.symbolPacks.0.theme>
+  <AM_Structure_Atheist.symbolPacks.0.theme>athéisme</AM_Structure_Atheist.symbolPacks.0.theme>
   <!-- EN: forum -->
-  <AM_Structure_Atheist.worshipRoomLabel>集会广场</AM_Structure_Atheist.worshipRoomLabel>
+  <AM_Structure_Atheist.worshipRoomLabel>forum</AM_Structure_Atheist.worshipRoomLabel>
   
   <!-- EN: jain origin -->
   <AM_Structure_Jainism.label>耆那教起源</AM_Structure_Jainism.label>

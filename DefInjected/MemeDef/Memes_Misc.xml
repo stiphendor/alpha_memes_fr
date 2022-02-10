@@ -2,9 +2,9 @@
 <LanguageData>
   
   <!-- EN: artist -->
-  <AM_Artist.label>灵妙艺创</AM_Artist.label>
+  <AM_Artist.label>artiste</AM_Artist.label>
   <!-- EN: Art is unquestionably one of the purest and highest elements in human happiness. It trains the mind through the eye, and the eye through the mind. As the sun colours flowers, so does art colour life. -->
-  <AM_Artist.description>艺术无疑是人类福祉最纯净至高的构成元素之一。它通过眼力来培养思想，它通过思想来培养眼力。如同太阳赋予繁花色彩一样,艺术也使生活变得绚丽多彩。</AM_Artist.description>
+  <AM_Artist.description>L'art est incontestablement l'un des éléments les plus purs et les plus élevés du bonheur humain. Il entraîne l'esprit par l'œil et l'œil par l'esprit. Comme le soleil colore les fleurs, l'art colore la vie.</AM_Artist.description>
   <!-- EN:
     <li>creation(tag=meme_Artist)        ->[deity0_name] taught all of [deity0_possessive] followers to paint, write and sculpt, for all those activities were sacred to [deity0_objective].</li>
     <li>episode(uses=1,tag=meme_Artist)  ->Speaking to [deity0_possessive] believers, [deity0_name] said: "Every child is an artist. The problem is how to remain an artist once he grows up".</li>
@@ -66,28 +66,28 @@
     <li>memeConcept->art</li>
   -->
   <AM_Artist.generalRules.rulesStrings>
-    <li>memeAdjective->艺创</li>
-    <li>memeAdjective->创意</li>
-    <li>memeAdjective->想象力</li>
-    <li>memeAdjective->表现力</li>
-    <li>memeAdjective->美学</li>
-    <li>memeLeaderNoun->雕塑家</li>
-    <li>memeMoralist->艺术评论家</li>
-    <li>memeConcept->艺术</li>
+    <li>memeAdjectif->artistique</li>
+    <li>memeAdjectif->créatif</li>
+    <li>memeAdjective->imaginatif</li>
+    <li>memeAdjectif->expressif</li>
+    <li>memeAdjective->esthétique</li>
+    <li>memeLeaderNoun->sculpteur</li>
+    <li>memeMoralist->critique d'art</li>
+    <li>memeConcept->art</li>
   </AM_Artist.generalRules.rulesStrings>
   <!-- EN: artistic -->
-  <AM_Artist.symbolPacks.0.adjective>艺创</AM_Artist.symbolPacks.0.adjective>
+  <AM_Artist.symbolPacks.0.adjective>artistique</AM_Artist.symbolPacks.0.adjective>
   <!-- EN: Art -->
-  <AM_Artist.symbolPacks.0.ideoName>艺术</AM_Artist.symbolPacks.0.ideoName>
+  <AM_Artist.symbolPacks.0.ideoName>artistique</AM_Artist.symbolPacks.0.ideoName>
   <!-- EN: artist -->
-  <AM_Artist.symbolPacks.0.member>艺术家</AM_Artist.symbolPacks.0.member>
+  <AM_Artist.symbolPacks.0.member>artiste</AM_Artist.symbolPacks.0.member>
   <!-- EN: art -->
-  <AM_Artist.symbolPacks.0.theme>艺术</AM_Artist.symbolPacks.0.theme>
+  <AM_Artist.symbolPacks.0.theme>art</AM_Artist.symbolPacks.0.theme>
   
   <!-- EN: biological defilers -->
-  <AM_BiologicalDefilers.label>生物净化</AM_BiologicalDefilers.label>
+  <AM_BiologicalDefilers.label>profanateurs biologiques</AM_BiologicalDefilers.label>
   <!-- EN: For several centuries humanity has been planting the seeds of terrestrial life in a myriad of worlds. This was a mistake. One that we need to rectify.\n\n<color=#E5E54C>Gameplay effect:</color>\n - Unlocks "Despised Animal" precepts. -->
-  <AM_BiologicalDefilers.description>数个世纪以来，人类一直在银河系各处繁育来自古地球的万千生命。我们必须要纠正这种错误的行为，并对边缘世界的自然生态施以“净化”。\n\n&lt;color=#E5E54C>游戏效果：&lt;/color>\n - 可以设定与“圣兽”相对应的“害兽”。</AM_BiologicalDefilers.description>
+  <AM_BiologicalDefilers.description>Depuis plusieurs siècles, l'humanité a semé les graines de la vie terrestre dans une myriade de mondes. C'était une erreur que nous devons rectifier.\n\n<color=#E5E54C>Effet sur le jeu :</color>\n - Déverrouille les préceptes "Animal méprisé".</AM_BiologicalDefilers.description>
   <!-- EN:
     <li>creation(tag=meme_BiologicalDefilers)        ->[deity0_name] spoke to [deity0_possessive] followers: "Humanity has gone too far. I am the sole creator of life, and all these... monstrosities you have created are obscene to me. They must be eradicated."</li>
     <li>episode(uses=1,tag=meme_BiologicalDefilers)  ->Following [deity0_name]'s teachings, we combed the galaxy in search of genetic abominations, and culled their numbers.</li>
@@ -146,27 +146,27 @@
     <li>memeConcept->extinction</li>
   -->
   <AM_BiologicalDefilers.generalRules.rulesStrings>
-    <li>memeAdjective->净化</li>
-    <li>memeAdjective->湮灭</li>
-    <li>memeAdjective->根除</li>
-    <li>memeAdjective->灭绝</li>
-    <li>memeLeaderAdjective->反生态</li>
-    <li>memeConcept->根除</li>
-    <li>memeConcept->净化</li>
+    <li>memeAdjective->ravageant</li>
+    <li>memeAdjective->annihilant</li>
+    <li>memeAdjective->éradication</li>
+    <li>memeAdjective->exterminer</li>
+    <li>memeLeaderAdjective->anti-écologiste</li>
+    <li>memeConcept->extermination</li>
+    <li>memeConcept->extinction</li>
   </AM_BiologicalDefilers.generalRules.rulesStrings>
   <!-- EN: exterminating -->
-  <AM_BiologicalDefilers.symbolPacks.0.adjective>净化</AM_BiologicalDefilers.symbolPacks.0.adjective>
+  <AM_BiologicalDefilers.symbolPacks.0.adjective>exterminant</AM_BiologicalDefilers.symbolPacks.0.adjective>
   <!-- EN: Extermination -->
-  <AM_BiologicalDefilers.symbolPacks.0.ideoName>根除</AM_BiologicalDefilers.symbolPacks.0.ideoName>
+  <AM_BiologicalDefilers.symbolPacks.0.ideoName>extermination</AM_BiologicalDefilers.symbolPacks.0.ideoName>
   <!-- EN: exterminator -->
-  <AM_BiologicalDefilers.symbolPacks.0.member>净化者</AM_BiologicalDefilers.symbolPacks.0.member>
+  <AM_BiologicalDefilers.symbolPacks.0.member>exterminateur</AM_BiologicalDefilers.symbolPacks.0.member>
   <!-- EN: extermination -->
-  <AM_BiologicalDefilers.symbolPacks.0.theme>生物净化</AM_BiologicalDefilers.symbolPacks.0.theme>
+  <AM_BiologicalDefilers.symbolPacks.0.theme>extermination</AM_BiologicalDefilers.symbolPacks.0.theme>
   
   <!-- EN: biological reconstructors -->
-  <AM_BiologicalReconstructors.label>生物再造</AM_BiologicalReconstructors.label>
+  <AM_BiologicalReconstructors.label>reconstructeurs biologiques</AM_BiologicalReconstructors.label>
   <!-- EN: Life is precious, a gift from Old Earth. We shall try to replicate as much of it as possible and use it to populate the worlds of the Rim with a myriad of lifeforms. -->
-  <AM_BiologicalReconstructors.description>万千生命是来自古地球的宝贵馈赠。为了繁荣边缘世界的自然生态，我们将尽全力去再造它们。</AM_BiologicalReconstructors.description>
+  <AM_BiologicalReconstructors.description>La vie est précieuse, un cadeau de l'Ancienne Terre. Nous essaierons d'en reproduire autant que possible et de l'utiliser pour peupler les mondes du Rim avec une myriade de formes de vie.</AM_BiologicalReconstructors.description>
   <!-- EN:
     <li>creation(tag=meme_BiologicalReconstructors)        ->[deity0_name] spoke to [deity0_possessive] followers: "Humanity has been honouring me for centuries, creating all sorts of marvelous creatures. This pleases me."</li>
     <li>episode(uses=1,tag=meme_BiologicalReconstructors)  ->Following [deity0_name]'s teachings, we combed the galaxy in search of these genetic wonders, cataloguing their multitude of forms.</li>
@@ -228,28 +228,28 @@
     <li>memeMoralist->ecofreak</li>
   -->
   <AM_BiologicalReconstructors.generalRules.rulesStrings>
-    <li>memeAdjective->动物学</li>
-    <li>memeAdjective->自然保护</li>
-    <li>memeAdjective->环境</li>
-    <li>memeAdjective->绿化</li>
-    <li>memeConcept->再造</li>
-    <li>memeHyphenPrefix->生态</li>
-    <li>memeLeaderNoun->生态学家</li>
-    <li>memeMoralist->生态保护狂人</li>
+    <li>memeAdjective->zoologique</li>
+    <li>memeAdjective->conservationniste</li>
+    <li>memeAdjective->écologiste</li>
+    <li>memeAdjectif->vert</li>
+    <li>memeConcept->conservation</li>
+    <li>memeHyphenPrefix->éco</li>
+    <li>memeLeaderNoun->écologiste</li>
+    <li>memeMoralist->écofreak</li>
   </AM_BiologicalReconstructors.generalRules.rulesStrings>
   <!-- EN: ecologist -->
-  <AM_BiologicalReconstructors.symbolPacks.0.adjective>生态</AM_BiologicalReconstructors.symbolPacks.0.adjective>
+  <AM_BiologicalReconstructors.symbolPacks.0.adjective>écologiste</AM_BiologicalReconstructors.symbolPacks.0.adjective>
   <!-- EN: Reconstruction -->
-  <AM_BiologicalReconstructors.symbolPacks.0.ideoName>再造</AM_BiologicalReconstructors.symbolPacks.0.ideoName>
+  <AM_BiologicalReconstructors.symbolPacks.0.ideoName>Reconstruction</AM_BiologicalReconstructors.symbolPacks.0.ideoName>
   <!-- EN: eco-activist -->
-  <AM_BiologicalReconstructors.symbolPacks.0.member>生态保护者</AM_BiologicalReconstructors.symbolPacks.0.member>
+  <AM_BiologicalReconstructors.symbolPacks.0.member>éco-activiste</AM_BiologicalReconstructors.symbolPacks.0.member>
   <!-- EN: ecologism -->
-  <AM_BiologicalReconstructors.symbolPacks.0.theme>生物再造</AM_BiologicalReconstructors.symbolPacks.0.theme>
+  <AM_BiologicalReconstructors.symbolPacks.0.theme>écologisme</AM_BiologicalReconstructors.symbolPacks.0.theme>
   
   <!-- EN: bulwark -->
-  <AM_Bulwark.label>坚甲御身</AM_Bulwark.label>
+  <AM_Bulwark.label>rempart</AM_Bulwark.label>
   <!-- EN: A proper defense is the only way to stay safe on the Rim. All weapons in the universe will be useless if your soldiers are dead. -->
-  <AM_Bulwark.description>坚固可靠的护甲是在边缘世界活下来的重要保障。如果不幸丢掉小命，那么再强大的武器也毫无用处。</AM_Bulwark.description>
+  <AM_Bulwark.description>Une défense adéquate est le seul moyen de rester en sécurité sur le Rim. Toutes les armes de l'univers seront inutiles si vos soldats sont morts.</AM_Bulwark.description>
   <!-- EN:
     <li>creation(tag=meme_Bulwark)        ->[deity0_name] spoke to [deity0_possessive] followers: "The night is far spent, the day is at hand: let us therefore cast off the works of darkness, and let us put on the armour of light."</li>
     <li>episode(uses=1,tag=meme_Bulwark)  ->Following [deity0_name]'s teachings, we consecrated our armors so that we may be able to stand against the wiles of the devil.</li>
@@ -311,23 +311,23 @@
     <li>memeLeaderNoun->bastion</li>
   -->
   <AM_Bulwark.generalRules.rulesStrings>
-    <li>memeAdjective->防护</li>
-    <li>memeAdjective->护甲</li>
-    <li>memeAdjective->坚甲</li>
-    <li>memeAdjective->加固</li>
-    <li>memeLeaderAdjective->钢甲</li>
-    <li>memeConcept->装甲</li>
-    <li>memeConcept->防御</li>
-    <li>memeLeaderNoun->坚壁守卫</li>
+    <li>memeAdjectif->protecteur</li>
+    <li>memeAdjective->blindé</li>
+    <li>memeAdjective->armure de fer</li>
+    <li>memeAdjectif->renforcé</li>
+    <li>memeLeaderAdjective->acier plaqué</li>
+    <li>memeConcept->armure</li>
+    <li>memeConcept->défense</li>
+    <li>memeLeaderNoun->bastion</li>
   </AM_Bulwark.generalRules.rulesStrings>
   <!-- EN: armoured -->
-  <AM_Bulwark.symbolPacks.0.adjective>护甲</AM_Bulwark.symbolPacks.0.adjective>
+  <AM_Bulwark.symbolPacks.0.adjective>blindé</AM_Bulwark.symbolPacks.0.adjective>
   <!-- EN: Defense -->
-  <AM_Bulwark.symbolPacks.0.ideoName>防御</AM_Bulwark.symbolPacks.0.ideoName>
+  <AM_Bulwark.symbolPacks.0.ideoName>défense</AM_Bulwark.symbolPacks.0.ideoName>
   <!-- EN: defender -->
-  <AM_Bulwark.symbolPacks.0.member>防卫者</AM_Bulwark.symbolPacks.0.member>
+  <AM_Bulwark.symbolPacks.0.member>défenseur</AM_Bulwark.symbolPacks.0.member>
   <!-- EN: defense -->
-  <AM_Bulwark.symbolPacks.0.theme>壁垒</AM_Bulwark.symbolPacks.0.theme>
+  <AM_Bulwark.symbolPacks.0.theme>défense</AM_Bulwark.symbolPacks.0.theme>
   
   <!-- EN: gauranlen supremacy -->
   <AM_GauranlenSupremacy.label>母树至上</AM_GauranlenSupremacy.label>

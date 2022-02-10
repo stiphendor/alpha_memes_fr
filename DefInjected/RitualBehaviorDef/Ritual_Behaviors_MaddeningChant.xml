@@ -2,10 +2,10 @@
 <LanguageData>
   
   <!-- EN: speaker -->
-  <AM_MaddeningChantBehavior.roles.0.label>演讲</AM_MaddeningChantBehavior.roles.0.label>
+  <AM_MaddeningChantBehavior.roles.0.label>orateur</AM_MaddeningChantBehavior.roles.0.label>
   <!-- EN: participate -->
-  <AM_MaddeningChantBehavior.spectatorGerund>参加</AM_MaddeningChantBehavior.spectatorGerund>
+  <AM_MaddeningChantBehavior.spectatorGerund>participe</AM_MaddeningChantBehavior.spectatorGerund>
   <!-- EN: Participants -->
-  <AM_MaddeningChantBehavior.spectatorsLabel>参与者</AM_MaddeningChantBehavior.spectatorsLabel>
+  <AM_MaddeningChantBehavior.spectatorsLabel>participant</AM_MaddeningChantBehavior.spectatorsLabel>
   
 </LanguageData>

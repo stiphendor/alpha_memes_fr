@@ -4,6 +4,6 @@
   <!-- EN: blunt trap -->
   <AM_TrapBlunt.label>piège contondant</AM_TrapBlunt.label>
   <!-- EN: A heavy burlap sack filled with sand, connected to a touch-activated trigger. When the victim disturbs the trigger, the sack springs forth and bludgeons the victim. Contrary to other traps, these can be placed next to each other. Animals can sense these when calm. -->
-  <AM_TrapBlunt.description>Un lourd sac en toile de jute rempli de sable, relié à une gâchette tactile. Lorsque la victime perturbe la gâchette, le sac jaillit et matraque la victime. Contrairement aux autres pièges, ceux-ci peuvent être placés les uns à côté des autres. Les animaux peuvent les ressentir lorsqu'ils sont calmes.</AM_TrapBlunt.description>
+  <AM_TrapBlunt.description>Un lourd sac en toile de jute rempli de sable, relié à une gâchette tactile. Lorsque la victime perturbe la gâchette, le sac jaillit et matraque la victime. Contrairement aux autres pièges, ceux-ci peuvent être placés les uns à côté des autres. Les animaux peuvent les sentir lorsqu'ils sont calmes.</AM_TrapBlunt.description>
   
 </LanguageData>

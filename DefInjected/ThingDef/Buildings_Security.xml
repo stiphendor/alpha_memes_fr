@@ -2,8 +2,8 @@
 <LanguageData>
   
   <!-- EN: blunt trap -->
-  <AM_TrapBlunt.label>钝击陷阱</AM_TrapBlunt.label>
+  <AM_TrapBlunt.label>piège contondant</AM_TrapBlunt.label>
   <!-- EN: A heavy burlap sack filled with sand, connected to a touch-activated trigger. When the victim disturbs the trigger, the sack springs forth and bludgeons the victim. Contrary to other traps, these can be placed next to each other. Animals can sense these when calm. -->
-  <AM_TrapBlunt.description>用一个巧妙的触发机关将装满砂石的麻袋压住。当目标触发机关时，麻袋弹出使目标受到钝器伤害。与尖刺陷阱相反，钝击陷阱可以相邻建造或放置。动物可以在非狂暴状态下感知陷阱。</AM_TrapBlunt.description>
+  <AM_TrapBlunt.description>Un lourd sac en toile de jute rempli de sable, relié à une gâchette tactile. Lorsque la victime perturbe la gâchette, le sac jaillit et matraque la victime. Contrairement aux autres pièges, ceux-ci peuvent être placés les uns à côté des autres. Les animaux peuvent les ressentir lorsqu'ils sont calmes.</AM_TrapBlunt.description>
   
 </LanguageData>

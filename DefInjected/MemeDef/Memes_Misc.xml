@@ -330,9 +330,9 @@
   <AM_Bulwark.symbolPacks.0.theme>défense</AM_Bulwark.symbolPacks.0.theme>
   
   <!-- EN: gauranlen supremacy -->
-  <AM_GauranlenSupremacy.label>母树至上</AM_GauranlenSupremacy.label>
+  <AM_GauranlenSupremacy.label>suprématie gauranlen</AM_GauranlenSupremacy.label>
   <!-- EN: The symbiotic relationship between humanity, gauranlen trees and their dryads is sacred. We will defend and nurture the trees, and in return they will help us protect our colony.\n\n<color=#E5E54C>Restrictions:</color>\n - This meme can only be chosen if the Tree Connection meme is chosen too (alternatively, the Biological Corruptors meme in Alpha Animals).\n\n<color=#E5E54C>Gameplay effect:</color>\n - Colony will start with three Unshackled dryads. -->
-  <AM_GauranlenSupremacy.description>人类、母树与树精，三者间的共生关系圣洁且崇高。我们会呵护并照料它们，而它们也会守卫我们的殖民地。\n\n&lt;color=#E5E54C>组合限制：&lt;/color>\n - 此模因依赖于“灵木共鸣”或“生物腐化者”模因(需要安装Alpha Animals)。\n\n&lt;color=#E5E54C>游戏效果：&lt;/color>\n - 开始游戏后，殖民地将会获得三只无拘树精。</AM_GauranlenSupremacy.description>
+  <AM_GauranlenSupremacy.description>La relation symbiotique entre l'humanité, les arbres gauranlen et leurs dryades est sacrée. Nous défendrons et prendrons soin des arbres, et en retour ils nous aideront à protéger notre colonie.\n\n<color=#E5E54C>Restrictions :</color>\n - Ce mème ne peut être choisi que si le mème Connexion aux arbres est choisi aussi (alternativement, le mème Corrupteur biologique dans Alpha Animals).\n\n<color=#E5E54C>Effet de gameplay :</color>\n - La colonie commencera avec trois dryades non entraînées.</AM_GauranlenSupremacy.description>
   <!-- EN:
     <li>creation(tag=meme_GauranlenSupremacy)        ->[deity0_name] created the Gauranlen trees and the dryads, two symbiotic lifeforms that share a psychic link with humanity.</li>
     <li>episode(uses=1,tag=meme_GauranlenSupremacy)  ->The Gauranlen dryads are sacred beings, children of [deity0_name], and we should honour and respect them.</li>
@@ -415,9 +415,9 @@
   </AM_GauranlenSupremacy.generalRules.rulesStrings>
   
   <!-- EN: gladiator -->
-  <AM_Gladiator.label>豪勇斗士</AM_Gladiator.label>
+  <AM_Gladiator.label>gladiateur</AM_Gladiator.label>
   <!-- EN: True glory can only be achieved in hand to hand combat. Ranged weapons are for cowards, and using them is shameful. -->
-  <AM_Gladiator.description>唯有近身格斗才能唤醒斗士们的荣耀感。远程武器？只有贪生怕死的懦夫才会去用。</AM_Gladiator.description>
+  <AM_Gladiator.description>La vraie gloire ne peut être atteinte qu'au corps à corps. Les armes à distance sont pour les lâches, et les utiliser est honteux.</AM_Gladiator.description>
   <!-- EN:
     <li>creation(tag=meme_Gladiator)        ->[deity0_name] spoke to [deity0_possessive] followers: "If you can't see the white of your enemy's eyes when you slay him, you are a coward to me."</li>
     <li>episode(uses=1,tag=meme_Gladiator)  ->Following [deity0_name]'s teachings, we became experts in melee weaponry, gladly throwing ourselves into the fray.</li>
@@ -498,9 +498,9 @@
   <AM_Gladiator.symbolPacks.0.theme>近战</AM_Gladiator.symbolPacks.0.theme>
   
   <!-- EN: iconoclast -->
-  <AM_Iconoclast.label>迷信破除</AM_Iconoclast.label>
+  <AM_Iconoclast.label>iconoclaste</AM_Iconoclast.label>
   <!-- EN: Religious images, icons, relics, artefacts, they are all obscene and should be destroyed.\n\n<color=#E5E54C>Gameplay effect:</color>\n - This meme doesn't change the way you acquire the relics. -->
-  <AM_Iconoclast.description>与宗教文化有关的雕像、符号、圣物和工艺品皆为应被销毁的污秽之物。我们无法容忍任何形式的盲目迷信与偶像崇拜。\n\n&lt;color=#E5E54C>游戏效果：&lt;/color>\n - 此模因不会改变你获取圣物的方式。</AM_Iconoclast.description>
+  <AM_Iconoclast.description>Les images religieuses, icônes, reliques, artefacts, sont tous obscènes et doivent être détruits.\n\n<color=#E5E54C>Effet sur le gameplay :</color>\n - Ce mème ne change pas la façon dont vous acquérez les reliques.</AM_Iconoclast.description>
   <!-- EN:
     <li>creation(tag=meme_Iconoclast)        ->[deity0_name] spoke to [deity0_possessive] followers: "You shall never erect a figure in my image, for idolatry is the greatest sin."</li>
     <li>episode(uses=1,tag=meme_Iconoclast)  ->Speaking to the believers, [deity0_name] said: "Relics and icons are obscene to me. He who offers God a second place offers Him no place".</li>
@@ -575,9 +575,9 @@
   <AM_Iconoclast.symbolPacks.0.theme>偶像废止</AM_Iconoclast.symbolPacks.0.theme>
   
   <!-- EN: madness -->
-  <AM_Madness.label>精神失常</AM_Madness.label>
+  <AM_Madness.label>folie</AM_Madness.label>
   <!-- EN: A setback of the heart is often one floor above you, onomatopoeia as a weapon of mental destruction. Are the roosters fighting?! I hope not! All turtles are stupid.\n\n<color=#33d733>*ahem* The non-crazy part... This meme is based around getting huge bonuses after mental breaks... At the expense of having mental breaks quite often. Powerful... if you can get around the crazed shenanigans.</color> -->
-  <AM_Madness.description>受挫的感情总是比你高上一等，象声词是一种能够湮灭心灵的武器。那些咯咯叫的大公鸡在互相伤害吗？但愿不会！所有的王八都是些蠢蛋。\n\n&lt;color=#33d733>*咳哼*这里是不那么疯癫的简介部分...此模因的增益是建立在殖民者精神崩溃的基础上的，你可以借此来获得强大的力量。当然，你还要想办法来规避叙事者们搞人心态的“恶作剧”...&lt;/color></AM_Madness.description>
+  <AM_Madness.description>Un revers du cœur est souvent un étage au-dessus de vous, l'onomatopée comme arme de destruction mentale. Les coqs se battent ?! J'espère que non! Toutes les tortues sont stupides.\n\n<color=#33d733>*ahem* La partie non folle... Ce mème est basé sur l'obtention d'énormes bonus après des crises de nerf... Au détriment d'avoir des crises assez souvent. Puissant... si vous pouvez contourner les folles manigances.</color></AM_Madness.description>
   <!-- EN:
     <li>creation(tag=meme_Madness)        ->[deity0_name] faced [deity0_possessive] followers and turned their minds inside out.</li>
     <li>episode(uses=1,tag=meme_Madness)  ->Speaking to [deity0_possessive] believers, [deity0_name] said: "My children, you must face the dirty truth about knitting". Which didn't apply to the current situation at all, but that's why [deity0_pronoun] is the deity of Madness.</li>
@@ -656,9 +656,9 @@
   <AM_Madness.symbolPacks.0.theme>狂乱</AM_Madness.symbolPacks.0.theme>
   
   <!-- EN: monastic -->
-  <AM_Monastic.label>苦行清修</AM_Monastic.label>
+  <AM_Monastic.label>monastique</AM_Monastic.label>
   <!-- EN: We renounce worldly pursuits and  devote ourselves fully to spiritual work. Only through quiet contemplation and an ascetic lifestyle can we discover the true nature of the world.\n\n<color=#E5E54C>Gameplay effect:</color>\n - All colonists in an ideo with this meme will have the Ascetic trait. -->
-  <AM_Monastic.description>舍弃世俗的欢愉与欲望，我们将全身心投入于精神修行中。唯有实践苦行清修的生活方式，我们才能参透世界的终极本质。\n\n&lt;color=#E5E54C>游戏效果：&lt;/color>\n - 处于此模因下的殖民者都将获得“苦行者”特性。</AM_Monastic.description>
+  <AM_Monastic.description>Nous renonçons aux poursuites mondaines et nous consacrons pleinement au travail spirituel. Ce n'est que par une contemplation silencieuse et un style de vie ascétique que nous pourrons découvrir la vraie nature du monde.\n\n<color=#E5E54C>Effet sur le gameplay :</color>\n - Tous les colons d'une idéo avec ce mème auront le trait ascétique.</AM_Monastic.description>
   <!-- EN:
     <li>creation(tag=meme_Monastic)        ->[deity0_name] spoke to [deity0_possessive] followers: "Silence will illuminate you in my eyes... and deliver you from phantoms of ignorance."</li>
     <li>episode(uses=1,tag=meme_Monastic)  ->Speaking to the believers, [deity0_name] said: "Study the scriptures, observe monastic discipline, and sing the daily services in church; study, teaching, and write, for all these things please me".</li>
@@ -749,9 +749,9 @@
   <AM_Monastic.symbolPacks.0.theme>禁欲</AM_Monastic.symbolPacks.0.theme>
   
   <!-- EN: vow of nonviolence -->
-  <AM_NonViolence.label>和平血誓</AM_NonViolence.label>
+  <AM_NonViolence.label>vœu de non-violence</AM_NonViolence.label>
   <!-- EN: We are committed to bringing about a world of peace, harmony, laughter, and love. We take this vow to be nonviolent in our thoughts, our speech, and our actions.\n\n<color=#33d733>This is a very challenging meme, as ALL colonists of this ideoligion will be incapable of combat, and can only defend themselves in three ways: traps, turrets, and having a multi-ideo colony with some "defenders" who don't share the same values.</color>\n\nOskar quote: "please no xd this is actually game breaking". -->
-  <AM_NonViolence.description>“绝不使用思想、言语以及行为暴力”的血誓已然立下，我们将力图创造一个充满爱与希望的和谐世界。\n\n&lt;color=#33d733>此模因极具挑战性，处于此文化形态下的所有殖民者都将无法战斗。你只有三种方法来进行自卫：安放陷阱、建造炮塔或招募其他文化形态的殖民者以作为“守卫”来使用。&lt;/color>\n\nOskar有话说：“这个模因还是免了吧XD对游戏体验的坏影响，不可估量...”</AM_NonViolence.description>
+  <AM_NonViolence.description> Nous nous engageons à créer un monde de paix, d'harmonie, de rire et d'amour. Nous faisons ce vœu d'être non-violents dans nos pensées, nos paroles et nos actions.\n\n<color=#33d733>C'est un mème très difficile, car TOUS les colons de cette idéoligion seront incapables de combattre et ne pourront que se défendre de trois manières : pièges, tourelles et avoir une colonie multi-idéoligions avec des "défenseurs" qui ne partagent pas les mêmes valeurs.</color>.</AM_NonViolence.description>
   <!-- EN:
     <li>creation(tag=meme_NonViolence)        ->[deity0_name] made all of [deity0_possessive] followers swear a solemn vow of nonviolence.</li>
     <li>episode(uses=1,tag=meme_NonViolence)  ->Speaking to the believers, [deity0_name] said: "Violence is the ultimate sin. It is preferable to be slaughtered than to raise a hand against other human being".</li>
@@ -828,9 +828,9 @@
   <AM_NonViolence.symbolPacks.0.theme>和平血誓</AM_NonViolence.symbolPacks.0.theme>
   
   <!-- EN: sadist -->
-  <AM_Sadist.label>施虐狂热</AM_Sadist.label>
+  <AM_Sadist.label>sadisme</AM_Sadist.label>
   <!-- EN: There is nothing more sublime than inflicting pain upon others, to watch another's life wane and witness their soul leave behind a discarded husk. -->
-  <AM_Sadist.description>为他人施予痛苦是世上最美妙的事情。生命因虐待而逐渐枯竭的过程值得我们细细玩味。</AM_Sadist.description>
+  <AM_Sadist.description>Il n'y a rien de plus sublime que d'infliger de la douleur aux autres, de voir la vie d'un autre décliner et de voir son âme laisser derrière elle une écorce abandonnée.</AM_Sadist.description>
   <!-- EN:
     <li>creation(tag=meme_Sadist)        ->[deity0_name] was without mercy. [deity0_pronoun] ordered all the apostates and heretics to be flayed alive, until the cacophony of their agonizing screams was the only sound that could be heard.</li>
     <li>episode(uses=1,tag=meme_Sadist)  ->Speaking to [deity0_possessive] believers, [deity0_name] said: "To see others suffer does one good, to make others suffer even more".</li>
@@ -927,9 +927,9 @@
   <AM_Sadist.symbolPacks.2.theme>折磨</AM_Sadist.symbolPacks.2.theme>
   
   <!-- EN: sharpshooter -->
-  <AM_Sharpshooter.label>机敏射手</AM_Sharpshooter.label>
+  <AM_Sharpshooter.label>tireur d'élite</AM_Sharpshooter.label>
   <!-- EN: Our enemies won't see us coming. We will set our sights on them and they'll be taken silently, without any fanfare or celebration. -->
-  <AM_Sharpshooter.description>我们隐匿于敌人视线之外。我们将寂静无声地为他们带去死亡。</AM_Sharpshooter.description>
+  <AM_Sharpshooter.description>Nos ennemis ne nous verront pas venir. Nous jetterons notre dévolu sur eux et ils partiront en silence, sans fanfare ni célébration.</AM_Sharpshooter.description>
   <!-- EN:
     <li>creation(tag=meme_Sharpshooter)        ->[deity0_name] spoke to [deity0_possessive] followers: "You will be beset by countless enemies, stronger than you, but it is my Will that you be the instrument of my vengeance. Your strikes will be swift and precise."</li>
     <li>episode(uses=1,tag=meme_Sharpshooter)  ->Following [deity0_name]'s teachings, we became experts in long range weaponry, being able to strike at our enemies before they could even see us coming.</li>
@@ -1010,9 +1010,9 @@
   <AM_Sharpshooter.symbolPacks.0.theme>射击</AM_Sharpshooter.symbolPacks.0.theme>
   
   <!-- EN: youth -->
-  <AM_Youth.label>后生可畏</AM_Youth.label>
+  <AM_Youth.label>jeunisme</AM_Youth.label>
   <!-- EN: The future of the world belongs to the youth, and it is from the youth and not from the old that the fire of life will warm and enlighten the world. -->
-  <AM_Youth.description>世界的未来掌握在年轻人手中。与风烛残年的老人相比，年轻人的生命之火才能温暖并照亮这个世界。</AM_Youth.description>
+  <AM_Youth.description>L'avenir du monde appartient à la jeunesse, et c'est de la jeunesse et non des vieux que le feu de la vie réchauffera et éclairera le monde.</AM_Youth.description>
   <!-- EN:
     <li>creation(tag=meme_Youth)        ->[deity0_name] spoke to [deity0_possessive] followers: "Youth comes but once in a lifetime."</li>
     <li>episode(uses=1,tag=meme_Youth)  ->Following [deity0_name]'s teachings, we honoured our youth, putting their needs above those of others.</li>

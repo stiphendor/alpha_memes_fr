@@ -189,43 +189,43 @@
     <li>lessonReinforcement->No one can argue with that.</li>
   -->
   <AM_JewishDescription.rules.rulesStrings>
-    <li>lesson(priority=-1)->事情发生了</li>
-    <li>r_pattern->“[r_jewishlessonIntro][r_lesson]。[r_lessonReinforcement][r_jewlessonReinforcement]”\n\n  - [lessonAttribution]</li>
-    <li>lessonAttribution->[founder_nameFull]，对[book]的[revision]</li>
-    <li>lessonAttribution->[founder_nameFull]，对[book]的[revision]，[edition]</li>
-    <li>revision->修订</li>
-    <li>revision->校订</li>
-    <li>revision->编辑</li>
-    <li>revision->校正</li>
-    <li>revision->更改</li>
-    <li>book->《旧约圣经》</li>
-    <li>book->《律法书》</li>
-    <li>book->《摩西五经》</li>
-    <li>book->《先知书》</li>
-    <li>book->《圣文集》</li>
-    <li>book->《犹太法典》</li>
-    <li>edition->第二十五版</li>
-    <li>edition->第三版</li>
-    <li>edition->第十二版</li>
-    <li>edition->第三十七版</li>
-    <li>jewishlessonIntro->不可以报复你的人民，也不可以心怀怨恨。做到爱人如己，你即是天主。我想让你懂得：</li>
-    <li>jewishlessonIntro->摩西说：“向我展现您的荣耀吧。”天主说：“我要让自己的恩惠从你们面前溜走，我要在你们面前宣告，我即是天主。我会宽恕那些需要宽恕的人，我会怜悯那些需要怜悯的人。”这教导我们</li>
-    <li>jewishlessonIntro->愿天主保佑你，庇护你；愿天主照耀你，恩待你；天主转过头来，向你赐予平安。天主确实教会了我一件事：</li>
-    <li>jewishlessonIntro->通过在[place_summary][place_name]上传授《律法书》，我意识到</li>
-    <li>jewishlessonIntro->天主并非一个人，祂能够编织谎言，天主并非人类，祂能够改变心意。祂先说然后不做吗？祂先承诺然后不履行吗？你会认识到</li>
-    <li>jewishlessonIntro->天主说，我要按照自身的形象来创造人类，并让他们管理水里的鱼儿，空中的飞鸟，地上的牲畜。祂试图教导我们</li>
-    <li>jewishlessonIntro->造物的生命已沐于鲜血之中，我已经将其赐予你们，你们要在祭坛上为自己赎罪；以自身的血来为生命赎罪。有件事会将愈发明朗：那就是</li>
-    <li>jewishlessonIntro->无论是男人还是女人，只要以任何方式伤害他人，并且对天主不忠，那么便是有罪之人，他们必须承认自身所犯下的罪行。之后，他们会理解</li>
-    <li>jewishlessonIntro->在你永不止息之爱的庇佑下，你必将引导你所拯救过的民众。你要用自身的力量引导他们去往圣所。一旦达成，你将会理解</li>
-    <li>jewlessonReinforcement->凡事包容，凡事相信，凡事盼望，凡事忍耐。</li>
-    <li>jewlessonReinforcement->如果你不知道活着的意义，那么你还没有真正地活着。 </li>
-    <li>jewlessonReinforcement->常存敬畏，便为有福。心如坚铁，必陷祸患。</li>
-    <li>jewlessonReinforcement->我不言语是因为我有言语的能力；我言语是因为我没有保持沉默的能力。</li>
-    <li>jewlessonReinforcement->人之嫉恨，酿成烈怒。报仇之时，决不留情。</li>
-    <li>jewlessonReinforcement->用眼传神，用脚示意，用指点划。</li>
-    <li>jewlessonReinforcement->努力就有回报。</li>
-    <li>jewlessonReinforcement->愿主保佑！</li>
-    <li>lessonReinforcement->没人能反驳这一点。</li>
+    <li>lesson(priority=-1)->des chosent arrivent</li>
+    <li>r_pattern->“[r_jewishlessonIntro][r_lesson]. [r_lessonReinforcement][r_jewlessonReinforcement]"\n\n  - [lessonAttribution]</li>
+    <li>lessonAttribution->[founder_nameFull] [revision] du [book]</li>
+    <li>lessonAttribution->[founder_nameFull] [revision] du [book], [edition]</li>
+    <li>revision->révision</li>
+    <li>revision->correction</li>
+    <li>revision->édition</li>
+    <li>revision->correction</li>
+    <li>revision->modification</li>
+    <li>book->Tanakh</li>
+    <li>book->Torah</li>
+    <li>book->Pentateuque</li>
+    <li>book->Nevi'im</li>
+    <li>book->Ketuvim</li>
+    <li>book->Talmud</li>
+    <li>edition->25e édition</li>
+    <li>edition->3e édition</li>
+    <li>edition->12e édition</li>
+    <li>edition->37e édition</li>
+    <li>jewishlessonIntro->Ne cherche pas à te venger ni à en vouloir à personne parmi ton peuple, mais aime ton prochain comme toi-même. Je suis l'Éternel. Je veux que vous compreniez :</li>
+    <li>jewishlessonIntro->Moïse dit alors : 'Maintenant, montre-moi ta gloire.' Et le Seigneur dit : « Je ferai passer devant toi toute ma bonté, et je proclamerai mon nom, le Seigneur, devant toi. J'aurai pitié de qui j'aurai pitié, et j'aurai compassion de qui j'aurai compassion. Cela nous apprend que</li>
+    <li>jewishlessonIntro->Le SEIGNEUR vous bénisse et vous garde; que l'Éternel fasse briller sa face sur toi et te fasse grâce; l'Éternel tourne sa face vers toi et te donne la paix. Le SEIGNEUR m'a appris une chose :</li>
+    <li>jewishlessonIntro->En enseignant la Torah sur le [place_summary] [place_name], j'ai réalisé que</li>
+    <li>jewishlessonIntro->Dieu n'est pas un humain, qu'il doit mentir, pas un être humain, qu'il doit changer d'avis. Est-ce qu'il parle et n'agit pas? Promet-il et ne tient-il pas ? Vous vous en rendrez compte</li>
+    <li>jewishlessonIntro->Et Dieu dit : Faisons l'homme à notre image, selon notre ressemblance, et qu'il domine sur les poissons de la mer, sur les oiseaux du ciel, sur le bétail, et sur tous La terre. Il enseignait que</li>
+    <li>jewishlessonIntro->Car la vie d'une créature est dans le sang, et je vous l'ai donné pour faire propitiation pour vous sur l'autel; c'est le sang qui fait l'expiation pour sa vie. Une chose deviendra alors de plus en plus claire : que</li>
+    <li>jewishlessonIntro->Tout homme ou toute femme qui fait du tort à autrui de quelque manière que ce soit et qui est donc infidèle au Seigneur est coupable et doit confesser le péché qu'il a commis. Ensuite, ils verront que</li>
+    <li>jewishlessonIntro->Dans ton amour indéfectible, tu dirigeras le peuple que tu as racheté. Dans ta force, tu les guideras vers ta sainte demeure. Une fois que cela est réalisé, vous verrez que</li>
+    <li>jewlessonReinforcement->Un homme juste tombe sept fois et se relève.</li>
+    <li>jewlessonReinforcement->Si vous ne savez pas pourquoi vous vivez, vous n'avez pas encore vécu.</li>
+    <li>jewlessonReinforcement->Gam zu l'tova. Cela aussi est pour le bien.</li>
+    <li>jewlessonReinforcement->Je ne parle pas parce que j'ai le pouvoir de parler ; Je parle parce que je n'ai pas le pouvoir de me taire.</li>
+    <li>jewlessonReinforcement->Il n'y a pas de problèmes, seulement des opportunités de croissance.</li>
+    <li>jewlessonReinforcement->Le salut de Dieu est comme un clin d'œil.</li>
+    <li>jewlessonReinforcement->L'fum tzara agra, selon l'effort est la récompense.</li>
+    <li>jewlessonReinforcement->L'Chaim !</li>
+    <li>lessonReinforcement->Personne ne peut contester cela.</li>
   </AM_JewishDescription.rules.rulesStrings>
   
   <!-- EN:
@@ -265,40 +265,40 @@
     <li>lessonReinforcement->No one can argue with that.</li>
   -->
   <AM_KemeticDescription.rules.rulesStrings>
-    <li>lesson(priority=-1)->事情发生了</li>
-    <li>r_pattern->“[r_kemeticlessonIntro][r_lesson]。[r_lessonReinforcement][r_kemeticlessonReinforcement]”\n\n  - [lessonAttribution]</li>
-    <li>lessonAttribution->[museum]发现的[edited][book]片段</li>
-    <li>edited->被大量修改过的</li>
-    <li>edited->翻译糟糕的</li>
-    <li>edited->破损的</li>
-    <li>edited->被遗忘的</li>
-    <li>edited->被复原的</li>
-    <li>book->《死灵之书》</li>
-    <li>book->草纸文献</li>
-    <li>book->随葬文稿</li>
-    <li>museum->在卡萨斯四世的考古博物馆中</li>
-    <li>museum->在伊瑞蒂尔的黑市中</li>
-    <li>museum->在索菲亚蒙达的一艘帝国飞船内</li>
-    <li>museum->在阿拉塞纳六世的新修道院中</li>
-    <li>museum->在提康德罗加号的残骸中</li>
-    <li>museum->由伊尔瓦巴上的神器猎人</li>
-    <li>kemeticlessonIntro->啊，舒神年轻的子民们，你们有权力去支配那些被太阳照耀的族裔。你需要理解：</li>
-    <li>kemeticlessonIntro->看啊，欧西里斯收录了诸神的圣物，他说：</li>
-    <li>kemeticlessonIntro->向万灵殿中的诸神送上赞颂吧。祂们平衡着天空与大地，祂们为人类提供着丰盛的食物与肉类。祂们教会了我们一件事：</li>
-    <li>kemeticlessonIntro->王子的宫中举办着佳节庆典，宅邸里响彻着欢快的声音。诸神们感到十分愉悦，我们也意识到</li>
-    <li>kemeticlessonIntro->看啊欧西里斯，基纳的商人，他说：“向汝致敬。在汝升格时，汝——阿特姆，正戴着美丽的王冠。升起吧。闪耀吧。直至黎明时分。”啊，在此宣扬</li>
-    <li>kemeticlessonIntro->向你致敬，你这身怀荣耀的存在啊，你是被赐予一切的天选之人。啊，神圣的阿特姆神，当你升格至天界的分界处时，众人齐声高呼：</li>
-    <li>kemeticlessonIntro->吾乃阿特姆-凯佩拉，降生于神圣母亲的大腿之上。那些与努恩神合而为一的是被创造出的饿狼，而那些在神王之中的人也成为了神明。吾意识到</li>
-    <li>kemeticlessonIntro->赞颂你，神圣的阿门塔公牛。我被带往你这里，我即是拉神用于渡送老人的船桨；不要让我被埋没或消灭。我谨此声明：</li>
-    <li>kemeticlessonReinforcement->赞颂您，伟大的阿特姆神。请授予我您鼻中甜美无比的鼻息。</li>
-    <li>kemeticlessonReinforcement->啊，平和的心啊，你冉冉升起了！啊，平和的心啊，你闪耀着温暖的光芒！</li>
-    <li>kemeticlessonReinforcement->伊西斯神的鲜血，伊西斯神的魅力，伊西斯神的权能，对我这名首领来说都是一种保护，是它们粉碎了我所憎恶的东西。</li>
-    <li>kemeticlessonReinforcement->我即是拉神的灵魂，我即是引领众神走向冥界的引导者。灵魂们涌现于大地之上，他们会遵照卡王的意志行事。</li>
-    <li>kemeticlessonReinforcement->啊，伟大的阿门泰特神啊，我拜倒在您的面前。我的身上并无罪孽。</li>
-    <li>kemeticlessonReinforcement->赞颂你，来自努恩神手下的持摇铃之人，我的话语中绝无傲慢轻蔑之意。</li>
-    <li>kemeticlessonReinforcement->向您们致敬，居住在正义与真理圣殿的诸神啊，您们的圣躯中没有一丝罪恶。</li>
-    <li>kemeticlessonReinforcement->我在蝗虫田北面的西米特歇息。在那里，神圣的水手们会在夜晚洗涤自身。</li>
-    <li>lessonReinforcement->没人能反驳这一点。</li>
+    <li>lesson(priority=-1)->des chosent arrivent</li>
+    <li>r_pattern->“[r_kemeticlessonIntro][r_lesson]. [r_lessonReinforcement][r_kemeticlessonReinforcement]"\n\n  - [lessonAttribution]</li>
+    <li>lessonAttribution->fragment of a [edited] [book] found [museum]</li>
+    <li>edited->fortement édité</li>
+    <li>edited->mal traduit</li>
+    <li>edited->ruiné</li>
+    <li>edited->oublié</li>
+    <li>edited->récupéré</li>
+    <li>book->Livre des morts</li>
+    <li>book->papyrus</li>
+    <li>book->texte funéraire</li>
+    <li>museum->dans le musée archéologique de Kalthas IV</li>
+    <li>museum->au marché noir d'Irithir</li>
+    <li>museum->dans la cale d'un navire impérial de Sophiamunda</li>
+    <li>museum->dans le Novo Mosteiro dos Jerónimos à Aracena VI</li>
+    <li>museum->dans les ruines antiques de Ticonderoga</li>
+    <li>museum->par un chasseur d'artefacts sur Ilwaba</li>
+    <li>kemeticlessonIntro->O vous les jeunes hommes de Shu du matin, qui avez du pouvoir sur ceux qui brillent parmi les gens du soleil, dont les bras bougent et dont la tête se balance d'avant en arrière, puissé-je bouger chaque jour. Comprendre :</li>
+    <li>kemeticlessonIntro->Voici Osiris Ani le scribe qui enregistre les saintes offrandes de tous les dieux, qui dit :</li>
+    <li>kemeticlessonIntro->Salut à vous tous les dieux du Temple de l'Âme, qui pèsez le ciel et la terre dans la balance, et qui fournissez nourriture et abondance de viande. Ils nous enseignent une chose :</li>
+    <li>kemeticlessonIntro->La Maison du Prince célèbre la fête, et le son de ceux qui se réjouissent est dans la demeure puissante. Les dieux sont heureux quand nous réalisons que</li>
+    <li>kemeticlessonIntro->Voici Osiris, Qenna le marchand, qui dit : "Hommage à toi, dans ton ascension tu Tmu dans tes couronnes de beauté. Prêchez cela</li>
+    <li>kemeticlessonIntro->Hommage à toi, ô être glorieux, toi qui es pourvu de toutes choses. O Tmu-Heru-khuti, quand tu t'élèves à l'horizon du ciel, un cri sort de la bouche de tous les peuples :</li>
+    <li>kemeticlessonIntro->Je suis Tmu-Khepera, qui s'est enfanté sur la cuisse de sa mère divine. Ceux qui sont à Nu sont devenus des loups, et ceux qui sont parmi les dirigeants divins sont devenus. Comprenez que</li>
+    <li>kemeticlessonIntro->Salut, Taureau d'Amenta. Je te suis amené, je suis la rame de Ra avec laquelle il transportait les vieillards ; que je ne sois ni enterré ni consumé. Je déclare donc :</li>
+    <li>kemeticlessonReinforcement->Salut, Tmu, accorde-moi le doux souffle qui est dans tes deux narines.</li>
+    <li>kemeticlessonReinforcement->Tu te lèves, ô cœur immobile ! Tu brilles, ô cœur immobile !</li>
+    <li>kemeticlessonReinforcement->Le sang d'Isis, les charmes d'Isis, le pouvoir d'Isis, sont une protection pour moi, le chef, et ils écrasent ce que j'abhorre.</li>
+    <li>kemeticlessonReinforcement->Je suis l'âme de Ra et le guide des dieux dans le monde souterrain. Les âmes viennent sur terre pour faire la volonté de leur ka.</li>
+    <li>kemeticlessonReinforcement->Ô Seigneur d'Amentet, je suis en ta présence. Il n'y a pas de péché en moi.</li>
+    <li>kemeticlessonReinforcement->Salut, porteur du sistre, qui sort de Nu, je n'ai pas parlé avec mépris.</li>
+    <li>kemeticlessonReinforcement->Hommage à vous, ô dieux qui vivez dans votre hall du Droit et de la Vérité, et qui n'avez aucun mal dans vos corps.</li>
+    <li>kemeticlessonReinforcement->Je me suis reposé à Hemet, au nord du champ des sauterelles, où les saints marins se purifient pendant la saison nocturne.</li>
+    <li>lessonReinforcement->Personne ne peut contester cela.</li>
   </AM_KemeticDescription.rules.rulesStrings>
   
   <!-- EN:
@@ -339,41 +339,41 @@
     <li>lessonReinforcement->No one can argue with that.</li>
   -->
   <AM_SikhDescription.rules.rulesStrings>
-    <li>lesson(priority=-1)->事情发生了</li>
-    <li>r_pattern->“[r_sikhlessonIntro][r_lesson]。[r_lessonReinforcement][r_sikhlessonReinforcement]”\n\n  - [lessonAttribution]</li>
-    <li>lessonAttribution->[founder_nameFull]，对[book]的[revision]</li>
-    <li>lessonAttribution->[founder_nameFull]，对[book]的[revision]，[edition]</li>
-    <li>revision->编写</li>
-    <li>revision->思考</li>
-    <li>revision->神学讨论</li>
-    <li>revision->沉思</li>
-    <li>revision->深思</li>
-    <li>book->《锡克教圣经》</li>
-    <li>book->《萨布洛兰特》</li>
-    <li>book->《阿底格兰特》</li>
-    <li>book->《达萨姆格兰特》</li>
-    <li>edition->第二版</li>
-    <li>edition->第十三版</li>
-    <li>edition->第三十八版</li>
-    <li>edition->第四十九版</li>
-    <li>sikhlessonIntro->真理是至高美德，但高于真理的才是真正的行为准则。我想让你明白：</li>
-    <li>sikhlessonIntro->愚者沉溺于肉体上的快乐，这最终只会导致痛苦。好逸恶劳的生活是疾病的根源。这教导我们</li>
-    <li>sikhlessonIntro->我既不自称善良之人，也不自称奸邪之人。这些思考确实教会了我一件事：</li>
-    <li>sikhlessonIntro->通过在[place_summary][place_name]上传授《锡克教圣经》神圣的话语，我意识到</li>
-    <li>sikhlessonIntro->在人的一生中，以我们的言行举止作墨水，以我们的思想作白纸，我们在纸上写下了善与恶两个文字。你迟早会认识到</li>
-    <li>sikhlessonIntro->如果自身思想不洁，外表光鲜亮丽又有什么用呢？我们宣扬</li>
-    <li>sikhlessonIntro->众生身上皆只有唯一的空气、土地与神明的圣光。有件事将会愈发明朗：那就是</li>
-    <li>sikhlessonIntro->沙巴德(圣经)是我们的精神导师，与沙巴德共鸣之人则会成为虔诚的门徒。你需要认识到</li>
-    <li>sikhlessonIntro->为了追寻钱财，凡人们成为了奴仆与盗贼。但钱财依旧没有与他们同行，它再一次落在了他们的后面。一旦消除了物质欲望，你就能理解</li>
-    <li>sikhlessonReinforcement->荣耀掌握在主的手中。祂会祝福自己欣赏有加的人。</li>
-    <li>sikhlessonReinforcement->唯有他才是真正的智者，他通过对神圣美德的深思来获取灵性知识。</li>
-    <li>sikhlessonReinforcement->众人皆言主是唯一的，但众人皆只在乎自我与尊严。</li>
-    <li>sikhlessonReinforcement->如果暴君被人所爱戴，那这就是象征黑暗时代到来的有力标志。</li>
-    <li>sikhlessonReinforcement->圣人最好远离沐浴。无论是否在圣水中沐浴，盗贼永远是盗贼。</li>
-    <li>sikhlessonReinforcement->我们是一息尚存之人，对离开这个世界的指定时间与时机甚是不解。</li>
-    <li>sikhlessonReinforcement->通过在沉思中与主会面，你的焦虑终将消散。</li>
-    <li>sikhlessonReinforcement->当一个人舍弃欲望时，他才能成为真正的脱俗者。</li>
-    <li>lessonReinforcement->没人能反驳这一点。</li>
+    <li>lesson(priority=-1)->des chosent arrivent</li>
+    <li>r_pattern->“[r_sikhlessonIntro][r_lesson].[r_lessonReinforcement][r_sikhlessonReinforcement]"\n\n  - [lessonAttribution]</li>
+    <li>lessonAttribution->[founder_nameFull] [revision] du [book]</li>
+    <li>lessonAttribution->[founder_nameFull] [revision] du [book], [edition]</li>
+    <li>revision->écritures</li>
+    <li>revision->contemplations</li>
+    <li>revision->débats théologiques</li>
+    <li>revision->réflexion</li>
+    <li>revision->méditation</li>
+    <li>book->Guru Granth Sahib</li>
+    <li>book->Sarbloh Granth</li>
+    <li>book->Adi Sri Granth Sahib</li>
+    <li>book->Dasam Granth</li>
+    <li>edition->2e édition</li>
+    <li>edition->13e édition</li>
+    <li>edition->38e édition</li>
+    <li>edition->49e édition</li>
+    <li>sikhlessonIntro->La vérité est la plus haute de toutes les vertus, mais la vraie conduite est plus élevée que la vérité. Je veux que vous compreniez :</li>
+    <li>sikhlessonIntro->Le fou s'adonne à des plaisirs sensuels qui finissent par provoquer de la douleur. La vie facile et pécheresse est la cause des maladies. Cela nous apprend que</li>
+    <li>sikhlessonIntro->Je ne me dis pas bon et je ne vois personne de mauvais. Ces contemplations m'ont appris une chose :</li>
+    <li>sikhlessonIntro->En enseignant les mots sacrés du Guru Granth Sahib sur le [place_summary] [place_name], j'ai réalisé que</li>
+    <li>sikhlessonIntro->Dans cette vie nos actions sont l'encre et l'esprit le papier, nous y inscrivons les deux écritures du bien et du mal. Avec le temps, vous vous rendrez compte que</li>
+    <li>sikhlessonIntro->Lorsque l'esprit n'est pas pur, à quoi bon pratiquer la propreté extérieure ? Nous prêchons cela</li>
+    <li>sikhlessonIntro->Il n'y a qu'un seul air, une seule terre et une seule lumière du Dieu dans chaque être. Une chose deviendra alors de plus en plus claire : que</li>
+    <li>sikhlessonIntro->Le mot (Shabad) est le gourou, et l'esprit accordé au Shabad est le disciple. Il doit comprendre que</li>
+    <li>sikhlessonIntro->Pour la richesse, les mortels deviennent des serviteurs et des voleurs. Mais il ne va pas avec eux et reste en arrière pour un autre. Une fois que vous vous serez libéré de l'attachement matériel, vous verrez que</li>
+    <li>sikhlessonReinforcement->Les gloires sont entre les mains du Seigneur. Il bénit ceux dont Il est satisfait.</li>
+    <li>sikhlessonReinforcement->Lui seul est un homme sage, qui acquiert la connaissance spirituelle par la méditation sur les vertus divines.</li>
+    <li>sikhlessonReinforcement->Tout le monde dit que le Seigneur est un, mais chacun est absorbé par l'ego et l'orgueil.</li>
+    <li>sikhlessonReinforcement->Si celui qui joue le tyran est honoré, alors considérez que c'est le signe le plus sûr de l'âge sombre.</li>
+    <li>sikhlessonReinforcement->Un saint est mieux sans se baigner. Un voleur est toujours un voleur, qu'il se baigne ou non dans des eaux sacrées.</li>
+    <li>sikhlessonReinforcement->Nous sommes des hommes d'un seul souffle et ne connaissons pas l'heure et le moment fixés de notre départ de ce monde.</li>
+    <li>sikhlessonReinforcement->Rencontrez le Seigneur par la contemplation et vos angoisses seront dissipées.</li>
+    <li>sikhlessonReinforcement->Lorsque l'homme abandonne le désir, alors seul devient-il un véritable renonçant.</li>
+    <li>lessonReinforcement->Personne ne peut contester cela.</li>
   </AM_SikhDescription.rules.rulesStrings>
   
   <!-- EN:
@@ -400,27 +400,27 @@
     <li>lessonReinforcement->No one can argue with that.</li>
   -->
   <AM_SteampunkRevivalDescription.rules.rulesStrings>
-    <li>lesson(priority=-1)->事情发生了</li>
-    <li>r_pattern->“[r_steampunklessonIntro][r_lesson]。[r_lessonReinforcement]”\n\n  - [lessonAttribution]</li>
-    <li>lessonAttribution->[founder_nameFull]，关于[concept]的[book]</li>
-    <li>book->演讲</li>
-    <li>book->信件</li>
-    <li>book->研究</li>
-    <li>book->百科全书</li>
-    <li>book->评论文</li>
-    <li>concept->远古科技</li>
-    <li>concept->过去的复兴</li>
-    <li>concept->蒸汽机</li>
-    <li>concept->新维多利亚时代</li>
-    <li>concept->分析型AI</li>
-    <li>concept->黄铜编年史</li>
-    <li>steampunklessonIntro->在太空探索时代早期，陶瓷热能电池与无焰燃烧技术的完善开创了着重于发明创造的新时代。那个时代的伟大先哲教导我们</li>
-    <li>steampunklessonIntro->众所周知，多孔型热能构造单元(简称“CPSC”)是一种用陶瓷制成的驱动设备，它可以通过无焰燃烧来将热能转化成机械能。这种设备的改良开创了一个技术奇迹的新时代，那时最伟大的哲学家也宣扬</li>
-    <li>steampunklessonIntro->我们能从过去学到许多有价值的东西，尤其是22世纪这个特殊时期。它教会了我一件事：</li>
-    <li>steampunklessonIntro->有观点认为，22世纪中叶的技术奇迹时代正是由现代蒸汽技术的改良引发的。而另一些观点认为，这纯粹是对从未成真的“过去”的怀旧罢了。在那个时代，人们的主流观点是</li>
-    <li>steampunklessonIntro->面对现实吧：人类正被自己创造出的垃圾所吞噬。污浊的能源正使我们逐渐窒息。而陶瓷热能单元终结了这一切。作为一种全新的燃料能源，它的污染排放量相当之低。从科学到哲学，它几乎影响了万事万物。那时的主流哲学思潮认为</li>
-    <li>steampunklessonIntro->在22世纪，无焰燃烧技术的完善是革命性的。地球社会的根基受到了极大的动摇，一些伟大的哲学家也由此崭露头角。他们教导我们</li>
-    <li>lessonReinforcement->没人能反驳这一点。</li>
+    <li>lesson(priority=-1)->des chosent arrivent</li>
+    <li>r_pattern->"[r_steampunklessonIntro][r_lesson].[r_lessonReinforcement]"\n\n  - [lessonAttribution]</li>
+    <li>lessonAttribution->[book] de [founder_nameFull] sur [concept]</li>
+    <li>book->conférence</li>
+    <li>book->lettre</li>
+    <li>book->études</li>
+    <li>book->encyclopédie</li>
+    <li>book->critique</li>
+    <li>concept->technologies anciennes</li>
+    <li>concept->la résurgence du passé</li>
+    <li>concept->la machine à vapeur</li>
+    <li>concept->l'époque néo-victorienne</li>
+    <li>concept->l'IA analytique</li>
+    <li>concept->les chroniques des cuivres</li>
+    <li>steampunklessonIntro->La perfection de la cellule thermique en céramique et la combustion sans flamme ont inauguré une ère d'invention et de créativité dans les premiers jours de l'exploration spatiale. Les grands philosophes de cette époque nous ont appris que</li>
+    <li>steampunklessonIntro->Comme nous le savons tous, la cellule à structure poreuse calorique -CPSC-, est un dispositif en céramique pour brûler un combustible sans flamme, convertissant l'énergie thermique en travail mécanique. Son raffinement a inauguré une ère de merveilles technologiques, avec ses plus grands philosophes prêchant cela</li>
+    <li>steampunklessonIntro->Il y a beaucoup à apprendre du passé, spécialement de cette période particulière du 22ème siècle. Cela nous apprend une chose :</li>
+    <li>steampunklessonIntro->Certains prétendent que c'est le raffinement de la technologie moderne de la vapeur qui a conduit à une période de merveilles technologiques au milieu du 22ème siècle. D'autres disent que c'était de la pure nostalgie d'un passé qui n'a jamais existé. Le sentiment dominant parmi les gens de cette époque était que</li>
+    <li>steampunklessonIntro-> Avouons-le : l'humanité se noyait dans ses propres déchets. Les sources d'énergie polluantes nous étouffaient jusqu'à l'extinction. La cellule thermique en céramique a mis fin à tout cela, fournissant une source de carburant à très faibles émissions. Cela a tout affecté, de la science à la philosophie, les courants philosophiques dominants postulant que</li>
+    <li>steampunklessonIntro->La perfection de la combustion sans flamme au 22ème siècle était révolutionnaire. La société a été profondément ébranlée et de grands philosophes ont surgi qui nous ont appris que</li>
+    <li>lessonReinforcement->Personne ne peut contester cela.</li>
   </AM_SteampunkRevivalDescription.rules.rulesStrings>
   
 </LanguageData>

@@ -2,36 +2,36 @@
 <LanguageData>
   
   <!-- EN: short sword -->
-  <AM_Hindu_Gladius.overrideLabel>印度短剑</AM_Hindu_Gladius.overrideLabel>
+  <AM_Hindu_Gladius.overrideLabel>épée courte</AM_Hindu_Gladius.overrideLabel>
   
   <!-- EN: tabar -->
-  <AM_Hindu_Ikwa.overrideLabel>印度战斧</AM_Hindu_Ikwa.overrideLabel>
+  <AM_Hindu_Ikwa.overrideLabel>tabard</AM_Hindu_Ikwa.overrideLabel>
   
   <!-- EN: katar -->
-  <AM_Hindu_Knife.overrideLabel>印度匕首</AM_Hindu_Knife.overrideLabel>
+  <AM_Hindu_Knife.overrideLabel>katar</AM_Hindu_Knife.overrideLabel>
   
   <!-- EN: gada -->
-  <AM_Hindu_Mace.overrideLabel>金刚杵</AM_Hindu_Mace.overrideLabel>
+  <AM_Hindu_Mace.overrideLabel>gada</AM_Hindu_Mace.overrideLabel>
   
   <!-- EN: trishula -->
-  <AM_Hindu_Spear.overrideLabel>三叉戟</AM_Hindu_Spear.overrideLabel>
+  <AM_Hindu_Spear.overrideLabel>trishula</AM_Hindu_Spear.overrideLabel>
   
   <!-- EN: talwar -->
-  <AM_Hindu_Sword.overrideLabel>印度弯刀</AM_Hindu_Sword.overrideLabel>
+  <AM_Hindu_Sword.overrideLabel>talwar</AM_Hindu_Sword.overrideLabel>
   
   <!-- EN: crude polearm -->
-  <AM_Rustic_Ikwa.overrideLabel>土制战斧</AM_Rustic_Ikwa.overrideLabel>
+  <AM_Rustic_Ikwa.overrideLabel>arme d'hast brute</AM_Rustic_Ikwa.overrideLabel>
   
   <!-- EN: mallet -->
-  <AM_Rustic_Mace.overrideLabel>大锤</AM_Rustic_Mace.overrideLabel>
+  <AM_Rustic_Mace.overrideLabel>maillet</AM_Rustic_Mace.overrideLabel>
   
   <!-- EN: partisan -->
-  <AM_Rustic_Spear.overrideLabel>阔头枪</AM_Rustic_Spear.overrideLabel>
+  <AM_Rustic_Spear.overrideLabel>lance</AM_Rustic_Spear.overrideLabel>
   
   <!-- EN: gunstock mace -->
-  <AM_Totemic_Mace.overrideLabel>枪托战棍</AM_Totemic_Mace.overrideLabel>
+  <AM_Totemic_Mace.overrideLabel>masse</AM_Totemic_Mace.overrideLabel>
   
   <!-- EN: tomahawk -->
-  <AM_Totemic_Sword.overrideLabel>印第安战斧</AM_Totemic_Sword.overrideLabel>
+  <AM_Totemic_Sword.overrideLabel>tomahawk</AM_Totemic_Sword.overrideLabel>
   
 </LanguageData>

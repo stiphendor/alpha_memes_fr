@@ -111,42 +111,42 @@
     <li>lessonReinforcement->No one can argue with that.</li>
   -->
   <AM_JainistDescription.rules.rulesStrings>
-    <li>lesson(priority=-1)->事情发生了</li>
-    <li>r_pattern->“[r_jainistlessonIntro][r_lesson]。[r_lessonReinforcement][r_jainlessonReinforcement]”\n\n  - [lessonAttribution]</li>
-    <li>lessonAttribution->[founder_nameFull]，对[book]的[revision]</li>
-    <li>lessonAttribution->[founder_nameFull]，对[book]的[revision]，[edition]</li>
-    <li>lessonAttribution->[founder_nameFull]，对经文的理解</li>
-    <li>revision->解读</li>
-    <li>revision->深入思考</li>
-    <li>revision->性质剖析</li>
-    <li>revision->思考</li>
-    <li>revision->反思</li>
-    <li>book->大雄教义</li>
-    <li>book->《圣教论》</li>
-    <li>book->经文合集</li>
-    <li>book->先知经文</li>
-    <li>edition->第三十二版</li>
-    <li>edition->第四十三版</li>
-    <li>edition->第五十二版</li>
-    <li>edition->第五十七版</li>
-    <li>jainistlessonIntro->这是我的国家，那是你的国家；这些都是狭隘的灵魂才会萌生出的概念——对于自由主义者来说，整个世界就是一个家庭。我想让你明白： </li>
-    <li>jainistlessonIntro->在快乐与痛苦之中，在欢乐与悲伤之中，我们应该像对待自己一样来对待所有生物。这教导我们</li>
-    <li>jainistlessonIntro->一些蠢货断言是造物主创造出了这个世界。认为世界是被创造出来的学说是欠佳考虑的，我们不该予以接受。如果说是神明创造了世界，那么在创造之前祂又身处何处呢？这种沉思确实教会了我一件事：</li>
-    <li>jainistlessonIntro->通过在[place_summary][place_name]上传授神圣的《圣教论》，我意识到</li>
-    <li>jainistlessonIntro->愿宇宙充满和平；愿国家充满和平；愿当权者能够实施和平统治；愿朋友的家中充满和平，愿敌人的家中也充满和平。平心而论，你会认识到</li>
-    <li>jainistlessonIntro->我们将时刻宣扬并实践手足情谊——无论是人类还是其他生物。我们始终相信普遍公平的法则。我们还将宣扬</li>
-    <li>jainistlessonIntro->如果一个人被复仇与嫉妒的力量冲昏了头脑，那他就无法向他人展现爱心与同情。有件事将会愈发明朗：那就是</li>
-    <li>jainistlessonIntro->在被烈火焚烧的森林中，有个人正盘坐在一棵树的顶端。他看见所有的生物都消亡殆尽了。但他并没有意识到同样的命运也会很快降临在他身上。那家伙就是个十足的蠢货。他只需要认识到</li>
-    <li>jainistlessonIntro->爱慕与憎恶是业障的根本，而业障则源于痴迷。业障是生与死的根本，据传也是痛苦的源泉。没有人能逃脱自身过去业力的影响。一旦你从爱慕中解脱出来，你将会理解</li>
-    <li>jainlessonReinforcement->众生皆应好好活着；不要伤害任何人；生命对众生而言都是无比珍贵的。</li>
-    <li>jainlessonReinforcement->通过坦诚相待，一个人能够获得身体、心灵以及言语上的直率，以及对和谐向往；也就是说，人应做到言行一致。</li>
-    <li>jainlessonReinforcement->所有的灵魂都是平等且相似的。</li>
-    <li>jainlessonReinforcement->开始练习自我控制并忏悔吧；最好是从斋戒开始。</li>
-    <li>jainlessonReinforcement->事物的本质即为法。</li>
-    <li>jainlessonReinforcement->人若是漠视大地、空气、火焰、流水和草木的存在，那他也就漠视了它们与自身密切相关的事实。</li>
-    <li>jainlessonReinforcement->灵魂是心灵准则的中心点。</li>
-    <li>jainlessonReinforcement->进食是自我控制的最大阻碍；它会导致你好逸恶劳。</li>
-    <li>lessonReinforcement->没人能反驳这一点。</li>
+     <li>lesson(priority=-1)->il se passe des choses</li>
+     <li>r_pattern->"[r_jainistlessonIntro] [r_lesson]. [r_lessonReinforcement] [r_jainlessonReinforcement]"\n\n - [lessonAttribution]</li>
+     <li>lessonAttribution->[revision] du [book] de [founder_nameFull]</li>
+     <li>lessonAttribution->[revision] du [book] de [founder_nameFull], [edition]</li>
+     <li>lessonAttribution->sutras mémorisés de [founder_nameFull]</li>
+     <li>revision->interprétation</li>
+     <li>revision->méditations préservées</li>
+     <li>revision->réflexions théologiques</li>
+     <li>revision->réflexion</li>
+     <li>revision->rumination</li>
+     <li>book->enseignements de Mahavira</li>
+     <li>book->Agamas</li>
+     <li>book->sutras compilés</li>
+     <li>book->Purvas</li>
+     <li>edition->32e édition</li>
+     <li>edition->43e édition</li>
+     <li>edition->52e édition</li>
+     <li>edition->57e édition</li>
+    <li>jainistlessonIntro->C'est mon pays, c'est votre pays ; ce sont les conceptions des âmes étroites - pour les esprits libéraux, le monde entier est une famille. Je veux que vous compreniez :</li>
+    <li>jainistlessonIntro->Dans le bonheur et la souffrance, dans la joie et le chagrin, nous devrions considérer toutes les créatures comme nous nous considérons nous-mêmes. Cela nous apprend que</li>
+    <li>jainistlessonIntro->Certains idiots déclarent qu'un créateur a créé le monde. La doctrine selon laquelle le monde a été créé est malavisée et devrait être rejetée. Si Dieu a créé le monde, où était-il avant la création ? Ces réflexions m'ont appris une chose :</li>
+    <li>jainistlessonIntro->En enseignant les Agamas sacrés sur le [place_summary] [place_name], j'ai réalisé que</li>
+    <li>jainistlessonIntro->Que la paix gouverne l'univers ; que la paix règne dans les royaumes et les empires ; que la paix règne dans les États et dans les terres des potentats ; que la paix règne dans la maison des amis et que la paix règne aussi dans la maison des ennemis. En paix, vous vous rendrez compte que</li>
+    <li>jainistlessonIntro->Nous prêchons et pratiquons la fraternité - non seulement de l'homme mais de tous les êtres vivants - non seulement le dimanche mais tous les jours de la semaine. Nous croyons en la loi de justice universelle. Nous prêchons cela</li>
+    <li>jainistlessonIntro->Si l'esprit d'une personne est contrôlé par des forces de vengeance et de jalousie, il ne peut pas exprimer l'amour et la sympathie. Une chose deviendra alors de plus en plus claire : que</li>
+    <li>jainistlessonIntro->Un homme est assis au sommet d'un arbre au milieu d'une forêt en feu. Il voit périr tous les êtres vivants. Mais il ne se rend pas compte que le même sort va bientôt le rattraper aussi. Cet homme est un imbécile. Il doit comprendre que</li>
+    <li>jainistlessonIntro->L'attachement et l'aversion sont la cause profonde du karma, et le karma provient de l'engouement. Le karma est la cause profonde de la naissance et de la mort, et on dit que celles-ci sont la source de la misère. Personne ne peut échapper à l'effet de son propre karma passé. Une fois que vous vous serez libéré de l'attachement, vous verrez que</li>
+    <li>jainlessonReinforcement->Vivre et permettre aux autres de vivre ; blesser personne; la vie est chère à tous les êtres vivants.</li>
+    <li>jainlessonReinforcement->Par la sincérité, un homme acquiert une droiture physique, mentale et linguistique, et une tendance harmonieuse ; c'est-à-dire la congruence du discours et de l'action.</li>
+    <li>jainlessonReinforcement->Toutes les âmes sont égales et semblables et ont la même nature et qualités.</li>
+    <li>jainlessonReinforcement->Commencez la pratique de la maîtrise de soi avec une certaine pénitence ; commencer par le jeûne.</li>
+    <li>jainlessonReinforcement->La nature des choses est le dharma.</li>
+    <li>jainlessonReinforcement->Celui qui néglige ou ignore l'existence de la terre, de l'air, du feu, de l'eau et de la végétation ignore sa propre existence qui est liée à eux.</li>
+    <li>jainlessonReinforcement->L'âme est le point central de la discipline spirituelle.</li>
+    <li>jainlessonReinforcement->Manger constitue le plus grand obstacle à la maîtrise de soi ; cela donne lieu à l'indolence.</li>
+    <li>lessonReinforcement->Personne ne peut contester cela.</li>
   </AM_JainistDescription.rules.rulesStrings>
   
   <!-- EN:

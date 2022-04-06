@@ -2,84 +2,84 @@
 <LanguageData>
   
   <!-- EN: jewish fine granite tile -->
-  <AM_JewishFineTileGranite.label>犹太风格精致地砖（花岗岩）</AM_JewishFineTileGranite.label>
+  <AM_JewishFineTileGranite.label>carrelage raffiné juif en granite</AM_JewishFineTileGranite.label>
   <!-- EN: Fine stone tiles in a jewish style for expressing economic status. Slow to construct. -->
-  <AM_JewishFineTileGranite.description>犹太风格的精美地砖。铺设速度较慢。</AM_JewishFineTileGranite.description>
+  <AM_JewishFineTileGranite.description>Carrelage en pierres raffinées dans un style juif pour exprimer le statut économique. Lent à construire.</AM_JewishFineTileGranite.description>
   
   <!-- EN: jewish fine limestone tile -->
-  <AM_JewishFineTileLimestone.label>犹太风格精致地砖（石灰岩）</AM_JewishFineTileLimestone.label>
+  <AM_JewishFineTileLimestone.label>carrelage raffiné juif en calcaire</AM_JewishFineTileLimestone.label>
   <!-- EN: Fine stone tiles in a jewish style for expressing economic status. Slow to construct. -->
-  <AM_JewishFineTileLimestone.description>犹太风格的精美地砖。铺设速度较慢。</AM_JewishFineTileLimestone.description>
+  <AM_JewishFineTileLimestone.description>Carrelage en pierres raffinées dans un style juif pour exprimer le statut économique. Lent à construire.</AM_JewishFineTileLimestone.description>
   
   <!-- EN: jewish fine marble tile -->
-  <AM_JewishFineTileMarble.label>犹太风格精致地砖（大理石）</AM_JewishFineTileMarble.label>
+  <AM_JewishFineTileMarble.label>carrelage raffiné juif en marbre</AM_JewishFineTileMarble.label>
   <!-- EN: Fine stone tiles in a jewish style for expressing economic status. Slow to construct. -->
-  <AM_JewishFineTileMarble.description>犹太风格的精美地砖。铺设速度较慢。</AM_JewishFineTileMarble.description>
+  <AM_JewishFineTileMarble.description>Carrelage en pierres raffinées dans un style juif pour exprimer le statut économique. Lent à construire.</AM_JewishFineTileMarble.description>
   
   <!-- EN: jewish fine sandstone tile -->
-  <AM_JewishFineTileSandstone.label>犹太风格精致地砖（砂岩）</AM_JewishFineTileSandstone.label>
+  <AM_JewishFineTileSandstone.label>carrelage raffiné juif en grès</AM_JewishFineTileSandstone.label>
   <!-- EN: Fine stone tiles in a jewish style for expressing economic status. Slow to construct. -->
-  <AM_JewishFineTileSandstone.description>犹太风格的精美地砖。铺设速度较慢。</AM_JewishFineTileSandstone.description>
+  <AM_JewishFineTileSandstone.description>Carrelage en pierres raffinées dans un style juif pour exprimer le statut économique. Lent à construire.</AM_JewishFineTileSandstone.description>
   
   <!-- EN: jewish fine slate tile -->
-  <AM_JewishFineTileSlate.label>犹太风格精致地砖（板岩）</AM_JewishFineTileSlate.label>
+  <AM_JewishFineTileSlate.label>carrelage raffiné juif en ardoise</AM_JewishFineTileSlate.label>
   <!-- EN: Fine stone tiles in a jewish style for expressing economic status. Slow to construct. -->
-  <AM_JewishFineTileSlate.description>犹太风格的精美地砖。铺设速度较慢。</AM_JewishFineTileSlate.description>
+  <AM_JewishFineTileSlate.description>Carrelage en pierres raffinées dans un style juif pour exprimer le statut économique. Lent à construire.</AM_JewishFineTileSlate.description>
   
   <!-- EN: jewish granite tile -->
-  <AM_JewishTileGranite.label>犹太风格地砖（花岗岩）</AM_JewishTileGranite.label>
+  <AM_JewishTileGranite.label>carrelage juif en granite</AM_JewishTileGranite.label>
   <!-- EN: Carefully-cut and fit stone tiles in a Jewish style. They are pretty to look at, but they take a long time to lay. -->
   <AM_JewishTileGranite.description>坚固的犹太风格石质地砖。看起来很漂亮，就是铺设速度较慢。</AM_JewishTileGranite.description>
   
   <!-- EN: jewish limestone tile -->
-  <AM_JewishTileLimestone.label>犹太风格地砖（石灰岩）</AM_JewishTileLimestone.label>
+  <AM_JewishTileLimestone.label>carrelage juif en calcaire</AM_JewishTileLimestone.label>
   <!-- EN: Carefully-cut and fit stone tiles in a Jewish style. They are pretty to look at, but they take a long time to lay. -->
   <AM_JewishTileLimestone.description>坚固的犹太风格石质地砖。看起来很漂亮，就是铺设速度较慢。</AM_JewishTileLimestone.description>
   
   <!-- EN: jewish marble tile -->
-  <AM_JewishTileMarble.label>犹太风格地砖（大理石）</AM_JewishTileMarble.label>
+  <AM_JewishTileMarble.label>carrelage juif en marbre</AM_JewishTileMarble.label>
   <!-- EN: Carefully-cut and fit stone tiles in a Jewish style. They are pretty to look at, but they take a long time to lay. -->
   <AM_JewishTileMarble.description>坚固的犹太风格石质地砖。看起来很漂亮，就是铺设速度较慢。</AM_JewishTileMarble.description>
   
   <!-- EN: jewish sandstone tile -->
-  <AM_JewishTileSandstone.label>犹太风格地砖（砂岩）</AM_JewishTileSandstone.label>
+  <AM_JewishTileSandstone.label>carrelage juif en grès</AM_JewishTileSandstone.label>
   <!-- EN: Carefully-cut and fit stone tiles in a Jewish style. They are pretty to look at, but they take a long time to lay. -->
   <AM_JewishTileSandstone.description>坚固的犹太风格石质地砖。看起来很漂亮，就是铺设速度较慢。</AM_JewishTileSandstone.description>
   
   <!-- EN: jewish slate tile -->
-  <AM_JewishTileSlate.label>犹太风格地砖（板岩）</AM_JewishTileSlate.label>
+  <AM_JewishTileSlate.label>carrelage juif en ardoise</AM_JewishTileSlate.label>
   <!-- EN: Carefully-cut and fit stone tiles in a Jewish style. They are pretty to look at, but they take a long time to lay. -->
   <AM_JewishTileSlate.description>坚固的犹太风格石质地砖。看起来很漂亮，就是铺设速度较慢。</AM_JewishTileSlate.description>
   
   <!-- EN: kemetic fine granite tile -->
-  <AM_KemeticFineTileGranite.label>埃及风格精致地砖（花岗岩）</AM_KemeticFineTileGranite.label>
+  <AM_KemeticFineTileGranite.label>carrelage raffiné kémétique en granite</AM_KemeticFineTileGranite.label>
   <!-- EN: Fine stone tiles in a kemetic style for expressing economic status. Slow to construct. -->
-  <AM_KemeticFineTileGranite.description>埃及风格的精美地砖。铺设速度较慢。</AM_KemeticFineTileGranite.description>
+  <AM_KemeticFineTileGranite.description>Carrelage en pierres raffinées dans un style kémétique pour exprimer le statut économique. Lent à construire.</AM_KemeticFineTileGranite.description>
   
   <!-- EN: kemetic fine limestone tile -->
-  <AM_KemeticFineTileLimestone.label>埃及风格精致地砖（石灰岩）</AM_KemeticFineTileLimestone.label>
+  <AM_KemeticFineTileLimestone.label>carrelage raffiné kémétique en calcaire</AM_KemeticFineTileLimestone.label>
   <!-- EN: Fine stone tiles in a kemetic style for expressing economic status. Slow to construct. -->
-  <AM_KemeticFineTileLimestone.description>埃及风格的精美地砖。铺设速度较慢。</AM_KemeticFineTileLimestone.description>
+  <AM_KemeticFineTileLimestone.description>Carrelage en pierres raffinées dans un style kémétique pour exprimer le statut économique. Lent à construire.</AM_KemeticFineTileLimestone.description>
   
   <!-- EN: kemetic fine marble tile -->
-  <AM_KemeticFineTileMarble.label>埃及风格精致地砖（大理石）</AM_KemeticFineTileMarble.label>
+  <AM_KemeticFineTileMarble.label>carrelage raffiné kémétique en marbre</AM_KemeticFineTileMarble.label>
   <!-- EN: Fine stone tiles in a kemetic style for expressing economic status. Slow to construct. -->
-  <AM_KemeticFineTileMarble.description>埃及风格的精美地砖。铺设速度较慢。</AM_KemeticFineTileMarble.description>
+  <AM_KemeticFineTileMarble.description>Carrelage en pierres raffinées dans un style kémétique pour exprimer le statut économique. Lent à construire.</AM_KemeticFineTileMarble.description>
   
   <!-- EN: kemetic fine pristine limestone tile -->
-  <AM_KemeticFineTilePristineLimestone.label>埃及风格精致地砖（古朴石灰岩）</AM_KemeticFineTilePristineLimestone.label>
+  <AM_KemeticFineTilePristineLimestone.label>carrelage raffiné kémétique en calcaire vierge</AM_KemeticFineTilePristineLimestone.label>
   <!-- EN: Fine stone tiles in a kemetic style for expressing economic status. Slow to construct. -->
-  <AM_KemeticFineTilePristineLimestone.description>埃及风格的精美地砖。铺设速度较慢。</AM_KemeticFineTilePristineLimestone.description>
+  <AM_KemeticFineTilePristineLimestone.description>Carrelage en pierres raffinées dans un style kémétique pour exprimer le statut économique. Lent à construire.</AM_KemeticFineTilePristineLimestone.description>
   
   <!-- EN: kemetic fine sandstone tile -->
-  <AM_KemeticFineTileSandstone.label>埃及风格精致地砖（砂岩）</AM_KemeticFineTileSandstone.label>
+  <AM_KemeticFineTileSandstone.label>carrelage raffiné kémétique en grès</AM_KemeticFineTileSandstone.label>
   <!-- EN: Fine stone tiles in a kemetic style for expressing economic status. Slow to construct. -->
-  <AM_KemeticFineTileSandstone.description>埃及风格的精美地砖。铺设速度较慢。</AM_KemeticFineTileSandstone.description>
+  <AM_KemeticFineTileSandstone.description>Carrelage en pierres raffinées dans un style kémétique pour exprimer le statut économique. Lent à construire.</AM_KemeticFineTileSandstone.description>
   
   <!-- EN: kemetic fine slate tile -->
-  <AM_KemeticFineTileSlate.label>埃及风格精致地砖（板岩）</AM_KemeticFineTileSlate.label>
+  <AM_KemeticFineTileSlate.label>carrelage raffiné kémétique en ardoise</AM_KemeticFineTileSlate.label>
   <!-- EN: Fine stone tiles in a kemetic style for expressing economic status. Slow to construct. -->
-  <AM_KemeticFineTileSlate.description>埃及风格的精美地砖。铺设速度较慢。</AM_KemeticFineTileSlate.description>
+  <AM_KemeticFineTileSlate.description>Carrelage en pierres raffinées dans un style kémétique pour exprimer le statut économique. Lent à construire.</AM_KemeticFineTileSlate.description>
   
   <!-- EN: kemetic granite tile -->
   <AM_KemeticTileGranite.label>埃及风格地砖（花岗岩）</AM_KemeticTileGranite.label>

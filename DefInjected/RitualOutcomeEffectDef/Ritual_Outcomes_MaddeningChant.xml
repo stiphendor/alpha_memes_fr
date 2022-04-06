@@ -2,30 +2,30 @@
 <LanguageData>
   
   <!-- EN: If the incantation ritual goes well (positive outcome) it will provide a mood bonus and cause mental breaks. A negative outcome will have no effect except a mood penalty. -->
-  <AM_MaddeningChantOutcome.description>如果圣歌仪式顺利举行(积极的结果)，所有参与者都将陷入精神崩溃状态并获得心情增益。相反，消极的结果只会为参与者带来心情减益。</AM_MaddeningChantOutcome.description>
+  <AM_MaddeningChantOutcome.description>Si le rituel d'incantation se passe bien (résultat positif), il apportera un bonus d'humeur et provoquera des ruptures mentales. Un résultat négatif n'aura aucun effet, sauf une pénalité d'humeur.</AM_MaddeningChantOutcome.description>
   <!-- EN: room impressiveness -->
-  <AM_MaddeningChantOutcome.comps.0.label>令人难忘的房间</AM_MaddeningChantOutcome.comps.0.label>
+  <AM_MaddeningChantOutcome.comps.0.label>impression de la pièce</AM_MaddeningChantOutcome.comps.0.label>
   <!-- EN: participant count -->
-  <AM_MaddeningChantOutcome.comps.1.label>参与者数量</AM_MaddeningChantOutcome.comps.1.label>
+  <AM_MaddeningChantOutcome.comps.1.label>nombre de participants</AM_MaddeningChantOutcome.comps.1.label>
   <!-- EN: {PAWN_labelShort}'s social impact -->
-  <AM_MaddeningChantOutcome.comps.2.label> {PAWN_labelShort} 的社交影响</AM_MaddeningChantOutcome.comps.2.label>
+  <AM_MaddeningChantOutcome.comps.2.label>Impact social de {PAWN_labelShort}</AM_MaddeningChantOutcome.comps.2.label>
   <!-- EN: speaker's social impact -->
-  <AM_MaddeningChantOutcome.comps.2.labelAbstract>演讲者的社交影响</AM_MaddeningChantOutcome.comps.2.labelAbstract>
+  <AM_MaddeningChantOutcome.comps.2.labelAbstract>impact social de l'orateur</AM_MaddeningChantOutcome.comps.2.labelAbstract>
   <!-- EN: Rational -->
-  <AM_MaddeningChantOutcome.outcomeChances.0.label>神志清醒的</AM_MaddeningChantOutcome.outcomeChances.0.label>
+  <AM_MaddeningChantOutcome.outcomeChances.0.label>Rationnel</AM_MaddeningChantOutcome.outcomeChances.0.label>
   <!-- EN: The {0} was rational and sane! What was that? There was no shared insanity, no cackling forbidden whispers of madness. What a bore. -->
-  <AM_MaddeningChantOutcome.outcomeChances.0.description>{0}让每个人都清醒的不得了！既没有一同陷入癫狂，也没有充斥着咯咯邪笑的禁忌低语。真无聊。</AM_MaddeningChantOutcome.outcomeChances.0.description>
+  <AM_MaddeningChantOutcome.outcomeChances.0.description>Le {0} était rationnel et sain ! Ca c'était quoi? Il n'y avait pas de folie partagée, pas de chuchotements interdits, de chuchotements de folie. Quel ennui.</AM_MaddeningChantOutcome.outcomeChances.0.description>
   <!-- EN: Deranged -->
-  <AM_MaddeningChantOutcome.outcomeChances.1.label>错乱的</AM_MaddeningChantOutcome.outcomeChances.1.label>
+  <AM_MaddeningChantOutcome.outcomeChances.1.label>Dérangé</AM_MaddeningChantOutcome.outcomeChances.1.label>
   <!-- EN: The {0} was suitably deranged. One person's craziness is another person's reality. -->
-  <AM_MaddeningChantOutcome.outcomeChances.1.description>{0}让每个人都陷入了错乱中。一个人的癫狂，即是另一个人的现实。</AM_MaddeningChantOutcome.outcomeChances.1.description>
+  <AM_MaddeningChantOutcome.outcomeChances.1.description>Le {0} était convenablement dérangé. La folie d'une personne est la réalité d'une autre.</AM_MaddeningChantOutcome.outcomeChances.1.description>
   <!-- EN: Psychotic -->
-  <AM_MaddeningChantOutcome.outcomeChances.2.label>失常的</AM_MaddeningChantOutcome.outcomeChances.2.label>
+  <AM_MaddeningChantOutcome.outcomeChances.2.label>Psychotique</AM_MaddeningChantOutcome.outcomeChances.2.label>
   <!-- EN: The {0} was psychotic. There's a fine line between genius and insanity. We have erased this line. -->
-  <AM_MaddeningChantOutcome.outcomeChances.2.description>{0}让每个人都陷入了精神失常中。天才与疯子间只有一线之隔，而我们已经将它抹去了。</AM_MaddeningChantOutcome.outcomeChances.2.description>
+  <AM_MaddeningChantOutcome.outcomeChances.2.description>Le {0} était psychotique. La frontière est fine entre le génie et la folie. Nous avons effacé cette frontière.</AM_MaddeningChantOutcome.outcomeChances.2.description>
   <!-- EN: Insane -->
-  <AM_MaddeningChantOutcome.outcomeChances.3.label>癫狂的</AM_MaddeningChantOutcome.outcomeChances.3.label>
+  <AM_MaddeningChantOutcome.outcomeChances.3.label>Insensé</AM_MaddeningChantOutcome.outcomeChances.3.label>
   <!-- EN: The {0} was thoroughly insane! Sweet, crazy conversations full of half sentences, daydreams and misunderstandings more thrilling than understanding could ever be. -->
-  <AM_MaddeningChantOutcome.outcomeChances.3.description>{0}让每个人都陷入了完全的癫狂中！甜蜜疯狂的胡话与白日梦比善解人意更让人激动不已。</AM_MaddeningChantOutcome.outcomeChances.3.description>
+  <AM_MaddeningChantOutcome.outcomeChances.3.description>Le {0} était complètement fou ! Des conversations douces et folles pleines de demi-phrases, de rêveries et de malentendus plus excitantes que la compréhension ne pourrait jamais l'être.</AM_MaddeningChantOutcome.outcomeChances.3.description>
   
 </LanguageData>

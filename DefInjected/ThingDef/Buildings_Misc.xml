@@ -2,7 +2,7 @@
 <LanguageData>
   
   <!-- EN: relic smashing altar -->
-  <AM_RelicSmashingAltar.label>圣物粉碎祭坛</AM_RelicSmashingAltar.label>
+  <AM_RelicSmashingAltar.label>autel destructeur de reliques</AM_RelicSmashingAltar.label>
   <!-- EN: A small bowl with capacity for one relic. Relics can be slotted in the altar to start a relic destruction ritual, but the colonists won't extract the relic from it. -->
   <AM_RelicSmashingAltar.description>Un petit bol pouvant contenir une relique. Des reliques peuvent être insérées dans l'autel pour lancer un rituel de destruction de reliques, mais les colons n'en extrairont pas la relique.</AM_RelicSmashingAltar.description>
   

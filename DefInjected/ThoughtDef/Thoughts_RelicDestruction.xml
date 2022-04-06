@@ -2,13 +2,13 @@
 <LanguageData>
   
   <!-- EN: boring relic destruction -->
-  <AM_BoringRelicDestruction.stages.boring_relic_destruction.label>无聊的圣物销毁仪式</AM_BoringRelicDestruction.stages.boring_relic_destruction.label>
+  <AM_BoringRelicDestruction.stages.boring_relic_destruction.label>destruction de relique ennuyante</AM_BoringRelicDestruction.stages.boring_relic_destruction.label>
   <!-- EN: The ritual was a bit boring, but we got rid of an obscene idol, and that will only make our beliefs stronger. -->
-  <AM_BoringRelicDestruction.stages.boring_relic_destruction.description>那次圣物销毁仪式有些无聊，但至少我们除掉了一个可憎至极的迷信偶像，这会让我们的文化信仰更加坚定。</AM_BoringRelicDestruction.stages.boring_relic_destruction.description>
+  <AM_BoringRelicDestruction.stages.boring_relic_destruction.description>Le rituel était un peu ennuyeux, mais nous nous sommes débarrassés d'une idole obscène, et cela ne fera que renforcer nos croyances.</AM_BoringRelicDestruction.stages.boring_relic_destruction.description>
   
   <!-- EN: entertaining relic destruction -->
-  <AM_EntertainingRelicDestruction.stages.entertaining_relic_destruction.label>令人满意的圣物销毁仪式</AM_EntertainingRelicDestruction.stages.entertaining_relic_destruction.label>
+  <AM_EntertainingRelicDestruction.stages.entertaining_relic_destruction.label>destruction de relique divertissante</AM_EntertainingRelicDestruction.stages.entertaining_relic_destruction.label>
   <!-- EN: The ritual was entertaining. We got rid of an obscene idol, and that will only make our beliefs stronger. -->
-  <AM_EntertainingRelicDestruction.stages.entertaining_relic_destruction.description>那次圣物销毁仪式令人满意。我们除掉了一个可憎至极的迷信偶像，这会让我们的文化信仰更加坚定。</AM_EntertainingRelicDestruction.stages.entertaining_relic_destruction.description>
+  <AM_EntertainingRelicDestruction.stages.entertaining_relic_destruction.description>Le rituel était amusant. Nous nous sommes débarrassés d'une idole obscène, et cela ne fera que renforcer nos croyances.</AM_EntertainingRelicDestruction.stages.entertaining_relic_destruction.description>
   
 </LanguageData>

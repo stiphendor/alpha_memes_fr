@@ -29,27 +29,27 @@
   <!-- EN: jewish granite tile -->
   <AM_JewishTileGranite.label>carrelage juif en granite</AM_JewishTileGranite.label>
   <!-- EN: Carefully-cut and fit stone tiles in a Jewish style. They are pretty to look at, but they take a long time to lay. -->
-  <AM_JewishTileGranite.description>坚固的犹太风格石质地砖。看起来很漂亮，就是铺设速度较慢。</AM_JewishTileGranite.description>
+  <AM_JewishTileGranite.description>Carreaux de pierre soigneusement coupés et ajustés dans un style juif. Ils sont beaux à regarder, mais ils mettent beaucoup de temps à construire.</AM_JewishTileGranite.description>
   
   <!-- EN: jewish limestone tile -->
   <AM_JewishTileLimestone.label>carrelage juif en calcaire</AM_JewishTileLimestone.label>
   <!-- EN: Carefully-cut and fit stone tiles in a Jewish style. They are pretty to look at, but they take a long time to lay. -->
-  <AM_JewishTileLimestone.description>坚固的犹太风格石质地砖。看起来很漂亮，就是铺设速度较慢。</AM_JewishTileLimestone.description>
+  <AM_JewishTileLimestone.description>Carreaux de pierre soigneusement coupés et ajustés dans un style juif. Ils sont beaux à regarder, mais ils mettent beaucoup de temps à construire.</AM_JewishTileLimestone.description>
   
   <!-- EN: jewish marble tile -->
   <AM_JewishTileMarble.label>carrelage juif en marbre</AM_JewishTileMarble.label>
   <!-- EN: Carefully-cut and fit stone tiles in a Jewish style. They are pretty to look at, but they take a long time to lay. -->
-  <AM_JewishTileMarble.description>坚固的犹太风格石质地砖。看起来很漂亮，就是铺设速度较慢。</AM_JewishTileMarble.description>
+  <AM_JewishTileMarble.description>Carreaux de pierre soigneusement coupés et ajustés dans un style juif. Ils sont beaux à regarder, mais ils mettent beaucoup de temps à construire.</AM_JewishTileMarble.description>
   
   <!-- EN: jewish sandstone tile -->
   <AM_JewishTileSandstone.label>carrelage juif en grès</AM_JewishTileSandstone.label>
   <!-- EN: Carefully-cut and fit stone tiles in a Jewish style. They are pretty to look at, but they take a long time to lay. -->
-  <AM_JewishTileSandstone.description>坚固的犹太风格石质地砖。看起来很漂亮，就是铺设速度较慢。</AM_JewishTileSandstone.description>
+  <AM_JewishTileSandstone.description>Carreaux de pierre soigneusement coupés et ajustés dans un style juif. Ils sont beaux à regarder, mais ils mettent beaucoup de temps à construire.</AM_JewishTileSandstone.description>
   
   <!-- EN: jewish slate tile -->
   <AM_JewishTileSlate.label>carrelage juif en ardoise</AM_JewishTileSlate.label>
   <!-- EN: Carefully-cut and fit stone tiles in a Jewish style. They are pretty to look at, but they take a long time to lay. -->
-  <AM_JewishTileSlate.description>坚固的犹太风格石质地砖。看起来很漂亮，就是铺设速度较慢。</AM_JewishTileSlate.description>
+  <AM_JewishTileSlate.description>Carreaux de pierre soigneusement coupés et ajustés dans un style juif. Ils sont beaux à regarder, mais ils mettent beaucoup de temps à construire.</AM_JewishTileSlate.description>
   
   <!-- EN: kemetic fine granite tile -->
   <AM_KemeticFineTileGranite.label>carrelage raffiné kémétique en granite</AM_KemeticFineTileGranite.label>
@@ -67,7 +67,7 @@
   <AM_KemeticFineTileMarble.description>Carrelage en pierres raffinées dans un style kémétique pour exprimer le statut économique. Lent à construire.</AM_KemeticFineTileMarble.description>
   
   <!-- EN: kemetic fine pristine limestone tile -->
-  <AM_KemeticFineTilePristineLimestone.label>carrelage raffiné kémétique en calcaire vierge</AM_KemeticFineTilePristineLimestone.label>
+  <AM_KemeticFineTilePristineLimestone.label>carrelage raffiné kémétique en calcaire pristine</AM_KemeticFineTilePristineLimestone.label>
   <!-- EN: Fine stone tiles in a kemetic style for expressing economic status. Slow to construct. -->
   <AM_KemeticFineTilePristineLimestone.description>Carrelage en pierres raffinées dans un style kémétique pour exprimer le statut économique. Lent à construire.</AM_KemeticFineTilePristineLimestone.description>
   
@@ -82,58 +82,58 @@
   <AM_KemeticFineTileSlate.description>Carrelage en pierres raffinées dans un style kémétique pour exprimer le statut économique. Lent à construire.</AM_KemeticFineTileSlate.description>
   
   <!-- EN: kemetic granite tile -->
-  <AM_KemeticTileGranite.label>埃及风格地砖（花岗岩）</AM_KemeticTileGranite.label>
+  <AM_KemeticTileGranite.label>carrelage kémétique en granite</AM_KemeticTileGranite.label>
   <!-- EN: Carefully-cut and fit stone tiles in a Kemetic style. They are pretty to look at, but they take a long time to lay. -->
-  <AM_KemeticTileGranite.description>坚固的埃及风格石质地砖。看起来很漂亮，就是铺设速度较慢。</AM_KemeticTileGranite.description>
+  <AM_KemeticTileGranite.description>Carreaux de pierre soigneusement coupés et ajustés dans un style kémétique. Ils sont beaux à regarder, mais ils mettent beaucoup de temps à construire.</AM_KemeticTileGranite.description>
   
   <!-- EN: kemetic limestone tile -->
-  <AM_KemeticTileLimestone.label>埃及风格地砖（石灰岩）</AM_KemeticTileLimestone.label>
+  <AM_KemeticTileLimestone.label>carrelage kémétique en calcaire</AM_KemeticTileLimestone.label>
   <!-- EN: Carefully-cut and fit stone tiles in a Kemetic style. They are pretty to look at, but they take a long time to lay. -->
-  <AM_KemeticTileLimestone.description>坚固的埃及风格石质地砖。看起来很漂亮，就是铺设速度较慢。</AM_KemeticTileLimestone.description>
+  <AM_KemeticTileLimestone.description>Carreaux de pierre soigneusement coupés et ajustés dans un style kémétique. Ils sont beaux à regarder, mais ils mettent beaucoup de temps à construire.</AM_KemeticTileLimestone.description>
   
   <!-- EN: kemetic marble tile -->
-  <AM_KemeticTileMarble.label>埃及风格地砖（大理石）</AM_KemeticTileMarble.label>
+  <AM_KemeticTileMarble.label>carrelage kémétique en marbre</AM_KemeticTileMarble.label>
   <!-- EN: Carefully-cut and fit stone tiles in a Kemetic style. They are pretty to look at, but they take a long time to lay. -->
-  <AM_KemeticTileMarble.description>坚固的埃及风格石质地砖。看起来很漂亮，就是铺设速度较慢。</AM_KemeticTileMarble.description>
+  <AM_KemeticTileMarble.description>Carreaux de pierre soigneusement coupés et ajustés dans un style kémétique. Ils sont beaux à regarder, mais ils mettent beaucoup de temps à construire.</AM_KemeticTileMarble.description>
   
   <!-- EN: kemetic pristine limestone tile -->
-  <AM_KemeticTilePristineLimestone.label>埃及风格地砖（古朴石灰岩）</AM_KemeticTilePristineLimestone.label>
+  <AM_KemeticTilePristineLimestone.label>carrelage kémétique en calcaire pristine</AM_KemeticTilePristineLimestone.label>
   <!-- EN: Carefully-cut and fit stone tiles in a Kemetic style. They are pretty to look at, but they take a long time to lay. -->
-  <AM_KemeticTilePristineLimestone.description>坚固的埃及风格石质地砖。看起来很漂亮，就是铺设速度较慢。</AM_KemeticTilePristineLimestone.description>
+  <AM_KemeticTilePristineLimestone.description>Carreaux de pierre soigneusement coupés et ajustés dans un style kémétique. Ils sont beaux à regarder, mais ils mettent beaucoup de temps à construire.</AM_KemeticTilePristineLimestone.description>
   
   <!-- EN: kemetic sandstone tile -->
-  <AM_KemeticTileSandstone.label>埃及风格地砖（砂岩）</AM_KemeticTileSandstone.label>
+  <AM_KemeticTileSandstone.label>carrelage kémétique en grès</AM_KemeticTileSandstone.label>
   <!-- EN: Carefully-cut and fit stone tiles in a Kemetic style. They are pretty to look at, but they take a long time to lay. -->
-  <AM_KemeticTileSandstone.description>坚固的埃及风格石质地砖。看起来很漂亮，就是铺设速度较慢。</AM_KemeticTileSandstone.description>
+  <AM_KemeticTileSandstone.description>Carreaux de pierre soigneusement coupés et ajustés dans un style kémétique. Ils sont beaux à regarder, mais ils mettent beaucoup de temps à construire.</AM_KemeticTileSandstone.description>
   
   <!-- EN: kemetic slate tile -->
-  <AM_KemeticTileSlate.label>埃及风格地砖（板岩）</AM_KemeticTileSlate.label>
+  <AM_KemeticTileSlate.label>carrelage kémétique en ardoise</AM_KemeticTileSlate.label>
   <!-- EN: Carefully-cut and fit stone tiles in a Kemetic style. They are pretty to look at, but they take a long time to lay. -->
-  <AM_KemeticTileSlate.description>坚固的埃及风格石质地砖。看起来很漂亮，就是铺设速度较慢。</AM_KemeticTileSlate.description>
+  <AM_KemeticTileSlate.description>Carreaux de pierre soigneusement coupés et ajustés dans un style kémétique. Ils sont beaux à regarder, mais ils mettent beaucoup de temps à construire.</AM_KemeticTileSlate.description>
   
   <!-- EN: steampunk granite tile -->
-  <AM_SteampunkTileGranite.label>蒸汽朋克风格地砖（花岗岩）</AM_SteampunkTileGranite.label>
+  <AM_SteampunkTileGranite.label>carrelage steampunk en granite</AM_SteampunkTileGranite.label>
   <!-- EN: Carefully-cut and fit stone tiles in a Steampunk style. They are pretty to look at, but they take a long time to lay. -->
-  <AM_SteampunkTileGranite.description>坚固的蒸汽朋克风格石质地砖。看起来很漂亮，就是铺设速度较慢。</AM_SteampunkTileGranite.description>
+  <AM_SteampunkTileGranite.description>Carreaux de pierre soigneusement coupés et ajustés dans un style steampunk. Ils sont beaux à regarder, mais ils mettent beaucoup de temps à construire.</AM_SteampunkTileGranite.description>
   
   <!-- EN: steampunk limestone tile -->
-  <AM_SteampunkTileLimestone.label>蒸汽朋克风格地砖（石灰岩）</AM_SteampunkTileLimestone.label>
+  <AM_SteampunkTileLimestone.label>carrelage steampunk en calcaire</AM_SteampunkTileLimestone.label>
   <!-- EN: Carefully-cut and fit stone tiles in a Steampunk style. They are pretty to look at, but they take a long time to lay. -->
-  <AM_SteampunkTileLimestone.description>坚固的蒸汽朋克风格石质地砖。看起来很漂亮，就是铺设速度较慢。</AM_SteampunkTileLimestone.description>
+  <AM_SteampunkTileLimestone.description>Carreaux de pierre soigneusement coupés et ajustés dans un style steampunk. Ils sont beaux à regarder, mais ils mettent beaucoup de temps à construire.</AM_SteampunkTileLimestone.description>
   
   <!-- EN: steampunk marble tile -->
-  <AM_SteampunkTileMarble.label>蒸汽朋克风格地砖（大理石）</AM_SteampunkTileMarble.label>
+  <AM_SteampunkTileMarble.label>carrelage steampunk en marbre</AM_SteampunkTileMarble.label>
   <!-- EN: Carefully-cut and fit stone tiles in a Steampunk style. They are pretty to look at, but they take a long time to lay. -->
-  <AM_SteampunkTileMarble.description>坚固的蒸汽朋克风格石质地砖。看起来很漂亮，就是铺设速度较慢。</AM_SteampunkTileMarble.description>
+  <AM_SteampunkTileMarble.description>Carreaux de pierre soigneusement coupés et ajustés dans un style steampunk. Ils sont beaux à regarder, mais ils mettent beaucoup de temps à construire.</AM_SteampunkTileMarble.description>
   
   <!-- EN: steampunk sandstone tile -->
-  <AM_SteampunkTileSandstone.label>蒸汽朋克风格地砖（砂岩）</AM_SteampunkTileSandstone.label>
+  <AM_SteampunkTileSandstone.label>carrelage steampunk en grès</AM_SteampunkTileSandstone.label>
   <!-- EN: Carefully-cut and fit stone tiles in a Steampunk style. They are pretty to look at, but they take a long time to lay. -->
-  <AM_SteampunkTileSandstone.description>坚固的蒸汽朋克风格石质地砖。看起来很漂亮，就是铺设速度较慢。</AM_SteampunkTileSandstone.description>
+  <AM_SteampunkTileSandstone.description>Carreaux de pierre soigneusement coupés et ajustés dans un style steampunk. Ils sont beaux à regarder, mais ils mettent beaucoup de temps à construire.</AM_SteampunkTileSandstone.description>
   
   <!-- EN: steampunk slate tile -->
-  <AM_SteampunkTileSlate.label>蒸汽朋克风格地砖（板岩）</AM_SteampunkTileSlate.label>
+  <AM_SteampunkTileSlate.label>carrelage steampunk en ardoise</AM_SteampunkTileSlate.label>
   <!-- EN: Carefully-cut and fit stone tiles in a Steampunk style. They are pretty to look at, but they take a long time to lay. -->
-  <AM_SteampunkTileSlate.description>坚固的蒸汽朋克风格石质地砖。看起来很漂亮，就是铺设速度较慢。</AM_SteampunkTileSlate.description>
+  <AM_SteampunkTileSlate.description>Carreaux de pierre soigneusement coupés et ajustés dans un style steampunk. Ils sont beaux à regarder, mais ils mettent beaucoup de temps à construire.</AM_SteampunkTileSlate.description>
   
 </LanguageData>

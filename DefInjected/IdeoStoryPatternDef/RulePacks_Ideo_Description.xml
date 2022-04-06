@@ -37,39 +37,39 @@
     <li>lessonReinforcement->No one can argue with that.</li>
   -->
   <AM_AtheismDescription.rules.rulesStrings>
-    <li>lesson(priority=-1)->stuff happens</li>
-    <li>r_pattern->“[r_atheismlessonIntro][r_lesson]。[r_lessonReinforcement][r_atheismlessonReinforcement]”\n\n  - [lessonAttribution]</li>
-    <li>lessonAttribution->[founder_nameFull]，关于[concept]的[book]</li>
-    <li>book->演讲</li>
-    <li>book->信件</li>
-    <li>book->会议</li>
-    <li>book->演说</li>
-    <li>book->论文</li>
-    <li>concept->神明已死</li>
-    <li>concept->无信仰</li>
-    <li>concept->质疑宗教</li>
-    <li>concept->无宗教</li>
-    <li>concept->无神明</li>
-    <li>concept->拒绝胡思乱想</li>
-    <li>concept->提高人文素质</li>
-    <li>atheismlessonIntro->我们决不能被盲目与迷信的海浪淹没。宗教有着明确的目的，它向我们隐瞒了</li>
-    <li>atheismlessonIntro->人类的行为准则并非源自宗教。我希望你能理解这一点：</li>
-    <li>atheismlessonIntro->无神论并非只让我们意识到神明并不存在，它还揭发了宗教欺罔瞒骗的本质。无神论本身就是一种态度。它教会了我们一件事情：</li>
-    <li>atheismlessonIntro->宗教是让普通民众保持缄默的有效手段。他们越受宗教的控制，就越难意识到</li>
-    <li>atheismlessonIntro->让他人来赋予你生命的意义与目标，这听起来是否有些可笑呢？只有你自己能认识到</li>
-    <li>atheismlessonIntro->成为人文主义者意味着你想要的是得体的死亡，而不是期望因此得到奖惩。你会让大家都知道</li>
-    <li>atheismlessonIntro->当一个人被妄想蒙骗时，这叫做精神失常。当许多人被妄想蒙骗时，这叫做宗教。只有那些不胡思乱想的人才能认识到</li>
-    <li>atheismlessonIntro->我相信最简单的解释就是，这世上没有神明。没有人创造了宇宙，也没有人引导我们的命运。这使我深刻地意识到</li>
-    <li>atheismlessonReinforcement->我们能通过发问的勇气与答案的深度来辨别自己是否有进步，我们愿意接纳真理，而不是那些自我感觉良好的东西。 </li>
-    <li>atheismlessonReinforcement->我对宇宙了解的越多，就越不相信有神明的力量与它相关。</li>
-    <li>atheismlessonReinforcement->在和一名虔诚的信徒交流后，我总觉得应该好好洗洗手。</li>
-    <li>atheismlessonReinforcement->我不想去“相信”，我想亲自去理解。</li>
-    <li>atheismlessonReinforcement->无论宗教存在与否，好人会遵规守矩，坏人也会为非作歹；但，让好人为非作歹——这时就需要宗教的力量了。</li>
-    <li>atheismlessonReinforcement->直至最后一座教堂的最后一块砖瓦砸死最后一位神父，文明才能达到至臻之境。</li>
-    <li>atheismlessonReinforcement->我们必将对描述全知全能神明的故事逻辑提出质疑，祂故意创造出了不完美的人类，还要把自身的错误归咎于人类身上。</li>
-    <li>atheismlessonReinforcement->如果真的有神明存在的话，无神论对祂来说与其说是种侮辱，还不如说是一种宗教。</li>
-    <li>atheismlessonReinforcement->当有人问我神明是否创造了宇宙时，我轻轻一笑，告诉他们这个问题毫无意义。</li>
-    <li>lessonReinforcement->没人能反驳这一点。</li>
+    <li>lesson(priority=-1)->des choses arrivent</li>
+    <li>r_pattern->“[r_atheismlessonIntro][r_lesson].[r_lessonReinforcement][r_atheismlessonReinforcement]"\n\n  - [lessonAttribution]</li>
+    <li>lessonAttribution->Le [book] de [founder_nameFull] sur [concept]</li>
+    <li>book->conférence</li>
+    <li>book->lettre</li>
+    <li>book->conférence</li>
+    <li>book->adresse</li>
+    <li>book->discours</li>
+    <li>concept->la mort de Dieu</li>
+    <li>concept->Non-croyance</li>
+    <li>concept->scepticisme</li>
+    <li>concept->Irreligion</li>
+    <li>concept->Impie</li>
+    <li>concept->le rejet de la pensée magique</li>
+    <li>concept->Humanisme éclairé</li>
+    <li>atheismlessonIntro->... donc ce qu'il faut c'est l'aveuglement et l'ivresse et un chant éternel sur les flots où la raison s'est noyée. L'objectif de la religion est clair, nous cachant que</li>
+    <li>atheismlessonIntro->La décence humaine ne dérive pas de la religion. Elle la précède. Une fois que vous avez compris cela, cela devient clair :</li>
+    <li>atheismlessonIntro->L'athéisme est plus que la simple connaissance que les dieux n'existent pas et que la religion est soit une erreur, soit une fraude. L'athéisme est une attitude. Cela nous apprend une chose :</li>
+    <li>atheismlessonIntro->La religion est un excellent moyen de faire taire les gens ordinaires. Plus ils sont contrôlés, plus il leur faut de temps pour réaliser que</li>
+    <li>atheismlessonIntro->Il y a quelque chose d'infantile dans la présomption que quelqu'un d'autre a la responsabilité de donner un sens et un but à votre vie. Vous seul pouvez le réaliser</li>
+    <li>atheismlessonIntro->Être un humaniste signifie essayer de se comporter décemment sans s'attendre à des récompenses ou des punitions après votre mort. Vous montrerez à tout le monde que</li>
+    <li>atheismlessonIntro->Lorsqu'une personne souffre d'une illusion, cela s'appelle la folie. Lorsque de nombreuses personnes souffrent d'une illusion, cela s'appelle une religion. Seuls ceux qui sont libres de la pensée magique peuvent voir cela</li>
+    <li>atheismlessonIntro->Je crois que l'explication la plus simple est qu'il n'y a pas de Dieu. Personne n'a créé l'univers et personne ne dirige notre destin. Cela m'amène à une prise de conscience profonde que</li>
+    <li>atheismlessonReinforcement->Nous pouvons juger de nos progrès par le courage de nos questions et la profondeur de nos réponses, notre volonté d'embrasser ce qui est vrai plutôt que ce qui fait du bien.</li>
+    <li>atheismlessonReinforcement->Plus j'en apprends sur l'univers, moins je suis convaincu qu'il existe une sorte de force bienveillante qui a quelque chose à voir avec lui, du tout.</li>
+    <li>atheismlessonReinforcement->Après être entré en contact avec un homme religieux, je sens toujours que je dois me laver les mains.</li>
+    <li>atheismlessonReinforcement->Je ne veux pas croire. Je veux savoir.</li>
+    <li>atheismlessonReinforcement->Avec ou sans religion, les bonnes personnes peuvent bien se comporter et les mauvaises personnes peuvent faire le mal ; mais pour que les bonnes personnes fassent le mal - cela prend de la religion.</li>
+    <li>atheismlessonReinforcement->La civilisation n'atteindra pas sa perfection tant que la dernière pierre de la dernière église ne tombera pas sur le dernier prêtre.</li>
+    <li>atheismlessonReinforcement->Nous devons remettre en question la logique de l'histoire d'avoir un Dieu omniscient et tout-puissant, qui crée des humains défectueux, puis les blâme pour ses propres erreurs.</li>
+    <li>atheismlessonReinforcement->S'il y a un Dieu, l'athéisme doit lui sembler moins une insulte que la religion.</li>
+    <li>atheismlessonReinforcement->Quand les gens me demandent si un dieu a créé l'univers, je leur réponds que la question elle-même n'a aucun sens.</li>
+    <li>lessonReinforcement->Personne ne peut contester cela.</li>
   </AM_AtheismDescription.rules.rulesStrings>
   
   <!-- EN:

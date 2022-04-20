@@ -2,31 +2,31 @@
 <LanguageData>
 
 <!-- EN: awful art -->
-<AM_ArtQuality_Expected.stages.awful_art.label>art horrible</AM_ArtQuality_Expected.stages.awful_art.label>
+<AM_ArtQuality_Expected.stages.awful_art.label>art : horrible</AM_ArtQuality_Expected.stages.awful_art.label>
 <!-- EN: They say that art is not useless as long as it provokes any emotional response. The problem comes when that response is disgust... -->
 <AM_ArtQuality_Expected.stages.awful_art.description>On dit que l'art n'est pas inutile tant qu'il provoque une réaction émotionnelle. Le problème vient quand cette émotion est le dégoût...</AM_ArtQuality_Expected.stages.awful_art.description>
 <!-- EN: poor art -->
-<AM_ArtQuality_Expected.stages.poor_art.label>art médiocre</AM_ArtQuality_Expected.stages.poor_art.label>
+<AM_ArtQuality_Expected.stages.poor_art.label>art : médiocre</AM_ArtQuality_Expected.stages.poor_art.label>
 <!-- EN: I'm not gonna lie... this art is VERY poorly done. -->
 <AM_ArtQuality_Expected.stages.poor_art.description>Je ne vais pas mentir... cet art est TRÈS mal fait.</AM_ArtQuality_Expected.stages.poor_art.description>
 <!-- EN: normal art -->
-<AM_ArtQuality_Expected.stages.normal_art.label>art normal</AM_ArtQuality_Expected.stages.normal_art.label>
+<AM_ArtQuality_Expected.stages.normal_art.label>art : normal</AM_ArtQuality_Expected.stages.normal_art.label>
 <!-- EN: The colony has some significant art pieces. -->
 <AM_ArtQuality_Expected.stages.normal_art.description>La colonie possède quelques pièces d'art significatives.</AM_ArtQuality_Expected.stages.normal_art.description>
 <!-- EN: good art -->
-<AM_ArtQuality_Expected.stages.good_art.label>art bon</AM_ArtQuality_Expected.stages.good_art.label>
+<AM_ArtQuality_Expected.stages.good_art.label>art : bon</AM_ArtQuality_Expected.stages.good_art.label>
 <!-- EN: There are some art pieces in this colony that are very high quality, I'm impressed. -->
 <AM_ArtQuality_Expected.stages.good_art.description>Il y a des œuvres d'art dans cette colonie qui sont de très grande qualité, je suis impressionné.</AM_ArtQuality_Expected.stages.good_art.description>
 <!-- EN: excellent art -->
-<AM_ArtQuality_Expected.stages.excellent_art.label>art excellent</AM_ArtQuality_Expected.stages.excellent_art.label>
+<AM_ArtQuality_Expected.stages.excellent_art.label>art : excellent</AM_ArtQuality_Expected.stages.excellent_art.label>
 <!-- EN: Wow! Some of the art pieces in this colony are incredible examples of fine art! Amazing! -->
 <AM_ArtQuality_Expected.stages.excellent_art.description>Waouh ! Certaines des œuvres d'art de cette colonie sont des exemples incroyables de beaux-arts ! Incroyable !</AM_ArtQuality_Expected.stages.excellent_art.description>
 <!-- EN: masterwork art -->
-<AM_ArtQuality_Expected.stages.masterwork_art.label>art chef-d'œuvre</AM_ArtQuality_Expected.stages.masterwork_art.label>
+<AM_ArtQuality_Expected.stages.masterwork_art.label>art : chef-d'œuvre</AM_ArtQuality_Expected.stages.masterwork_art.label>
 <!-- EN: Some of these pieces of art are going to be considered a masterwork in the future, like the famed Mona Lisa or Michelangelo's David. -->
 <AM_ArtQuality_Expected.stages.masterwork_art.description>Certaines de ces œuvres d'art seront considérées comme des chefs-d'œuvre à l'avenir, comme la célèbre Joconde ou le David de Michel-Ange.</AM_ArtQuality_Expected.stages.masterwork_art.description>
 <!-- EN: legendary art -->
-<AM_ArtQuality_Expected.stages.legendary_art.label>art légendaire</AM_ArtQuality_Expected.stages.legendary_art.label>
+<AM_ArtQuality_Expected.stages.legendary_art.label>art : légendaire</AM_ArtQuality_Expected.stages.legendary_art.label>
 <!-- EN: Our colony is renowned the world over for its incredible collection of fine art. No museum of old Earth could even compare. -->
 <AM_ArtQuality_Expected.stages.legendary_art.description>Notre colonie est renommée dans le monde entier pour son incroyable collection d'art. Aucun musée de la vieille Terre ne pourrait rivaliser.</AM_ArtQuality_Expected.stages.legendary_art.description>
 

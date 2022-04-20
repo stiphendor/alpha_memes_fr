@@ -1,45 +1,46 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-  
-  <!-- EN: no scans -->
-  <AM_AnimalAnalysis_Expected.stages.no_scans.label>未扫描生物</AM_AnimalAnalysis_Expected.stages.no_scans.label>
-  <!-- EN: We haven't yet scanned a single animal. We are neglecting our tasks. -->
-  <AM_AnimalAnalysis_Expected.stages.no_scans.description>我们一只生物都没有扫描过。我们是不是忘记了自己的使命？</AM_AnimalAnalysis_Expected.stages.no_scans.description>
-  <!-- EN: very few scans -->
-  <AM_AnimalAnalysis_Expected.stages.very_few_scans.label>扫描了极少的生物</AM_AnimalAnalysis_Expected.stages.very_few_scans.label>
-  <!-- EN: We have scanned very, very few animals. We need to focus on our tasks. -->
-  <AM_AnimalAnalysis_Expected.stages.very_few_scans.description>我们扫描了极少的生物。我们需要专注于自己的使命上。</AM_AnimalAnalysis_Expected.stages.very_few_scans.description>
-  <!-- EN: few scans -->
-  <AM_AnimalAnalysis_Expected.stages.few_scans.label>扫描了较少的生物</AM_AnimalAnalysis_Expected.stages.few_scans.label>
-  <!-- EN: We have scanned few animals. We need to focus on our tasks. -->
-  <AM_AnimalAnalysis_Expected.stages.few_scans.description>我们扫描了较少的生物。我们需要专注于自己的使命上。</AM_AnimalAnalysis_Expected.stages.few_scans.description>
-  <!-- EN: some scans -->
-  <AM_AnimalAnalysis_Expected.stages.some_scans.label>扫描了少量的生物</AM_AnimalAnalysis_Expected.stages.some_scans.label>
-  <!-- EN: We are starting to fill the database with creature data. -->
-  <AM_AnimalAnalysis_Expected.stages.some_scans.description>我们扫描了少量的生物。我们的使命开始逐渐走向正轨了。</AM_AnimalAnalysis_Expected.stages.some_scans.description>
-  <!-- EN: many scans -->
-  <AM_AnimalAnalysis_Expected.stages.many_scans.label>扫描了较多的生物</AM_AnimalAnalysis_Expected.stages.many_scans.label>
-  <!-- EN: We have almost a quarter of the database filled! -->
-  <AM_AnimalAnalysis_Expected.stages.many_scans.description>我们扫描了较多的生物。数据基站已经录满了四分之一了！</AM_AnimalAnalysis_Expected.stages.many_scans.description>
-  <!-- EN: a lot of scans -->
-  <AM_AnimalAnalysis_Expected.stages.a_lot_of_scans.label>扫描了很多的生物</AM_AnimalAnalysis_Expected.stages.a_lot_of_scans.label>
-  <!-- EN: We have a lot of scanned creatures in the database, it's amazing! -->
-  <AM_AnimalAnalysis_Expected.stages.a_lot_of_scans.description>我们扫描了很多的生物。这真是太棒了！</AM_AnimalAnalysis_Expected.stages.a_lot_of_scans.description>
-  <!-- EN: database almost half full -->
-  <AM_AnimalAnalysis_Expected.stages.database_almost_half_full.label>情报数据收录过半</AM_AnimalAnalysis_Expected.stages.database_almost_half_full.label>
-  <!-- EN: Almost halfway there! -->
-  <AM_AnimalAnalysis_Expected.stages.database_almost_half_full.description>啊哈！数据基站已经录满了一半了！</AM_AnimalAnalysis_Expected.stages.database_almost_half_full.description>
-  <!-- EN: a huge lot of scans -->
-  <AM_AnimalAnalysis_Expected.stages.a_huge_lot_of_scans.label>扫描了极多的生物</AM_AnimalAnalysis_Expected.stages.a_huge_lot_of_scans.label>
-  <!-- EN: The database is full of amazing creature details, I love it! -->
-  <AM_AnimalAnalysis_Expected.stages.a_huge_lot_of_scans.description>我们扫描了极多的生物。我爱死这些奇妙生物的情报数据了！</AM_AnimalAnalysis_Expected.stages.a_huge_lot_of_scans.description>
-  <!-- EN: database almost filled -->
-  <AM_AnimalAnalysis_Expected.stages.database_almost_filled.label>情报数据收录基本完成</AM_AnimalAnalysis_Expected.stages.database_almost_filled.label>
-  <!-- EN: We are getting there! I love perusing the wondrous animal data we have collected. -->
-  <AM_AnimalAnalysis_Expected.stages.database_almost_filled.description>就快完成了！我喜欢翻阅这些奇妙生物的情报数据。</AM_AnimalAnalysis_Expected.stages.database_almost_filled.description>
-  <!-- EN: database filled -->
-  <AM_AnimalAnalysis_Expected.stages.database_filled.label>情报数据收录完成</AM_AnimalAnalysis_Expected.stages.database_filled.label>
-  <!-- EN: The database is above 75% filled. Perhaps this world has provided as much data as it can! -->
-  <AM_AnimalAnalysis_Expected.stages.database_filled.description>数据基站已经录满了四分之三了！或许这个世界已经为我们提供了足够多的情报数据了！</AM_AnimalAnalysis_Expected.stages.database_filled.description>
-  
+
+<!-- EN: no scans -->
+<AM_AnimalAnalysis_Expected.stages.no_scans.label>aucun scan</AM_AnimalAnalysis_Expected.stages.no_scans.label>
+<!-- EN: We haven't yet scanned a single animal. We are neglecting our tasks. -->
+<AM_AnimalAnalysis_Expected.stages.no_scans.description>Nous n'avons pas encore scanné un seul animal. Nous négligeons nos tâches.</AM_AnimalAnalysis_Expected.stages.no_scans.description>
+<!-- EN: very few scans -->
+<AM_AnimalAnalysis_Expected.stages.very_few_scans.label>très peu de scans</AM_AnimalAnalysis_Expected.stages.very_few_scans.label>
+<!-- EN: We have scanned very, very few animals. We need to focus on our tasks. -->
+<AM_AnimalAnalysis_Expected.stages.very_few_scans.description>Nous avons scanné très, très peu d'animaux. Nous devons nous concentrer sur nos tâches.</AM_AnimalAnalysis_Expected.stages.very_few_scans.description>
+<!-- EN: few scans -->
+<AM_AnimalAnalysis_Expected.stages.few_scans.label>peu de scans</AM_AnimalAnalysis_Expected.stages.few_scans.label>
+<!-- EN: We have scanned few animals. We need to focus on our tasks. -->
+<AM_AnimalAnalysis_Expected.stages.few_scans.description>Nous avons scanné quelques animaux. Nous devons nous concentrer sur nos tâches.</AM_AnimalAnalysis_Expected.stages.few_scans.description>
+<!-- EN: some scans -->
+<AM_AnimalAnalysis_Expected.stages.some_scans.label>quelques scans</AM_AnimalAnalysis_Expected.stages.some_scans.label>
+<!-- EN: We are starting to fill the database with creature data. -->
+<AM_AnimalAnalysis_Expected.stages.some_scans.description>Nous commençons à remplir la base de données avec des informations sur les créatures.</AM_AnimalAnalysis_Expected.stages.some_scans.description>
+<!-- EN: many scans -->
+<AM_AnimalAnalysis_Expected.stages.many_scans.label>plusieurs scans</AM_AnimalAnalysis_Expected.stages.many_scans.label>
+<!-- EN: We have almost a quarter of the database filled! -->
+<AM_AnimalAnalysis_Expected.stages.many_scans.description>Nous avons rempli presque un quart de la base de données !</AM_AnimalAnalysis_Expected.stages.many_scans.description>
+<!-- EN: a lot of scans -->
+<AM_AnimalAnalysis_Expected.stages.a_lot_of_scans.label>beaucoup de scans</AM_AnimalAnalysis_Expected.stages.a_lot_of_scans.label>
+<!-- EN: We have a lot of scanned creatures in the database, it's amazing! -->
+<AM_AnimalAnalysis_Expected.stages.a_lot_of_scans.description>Nous avons beaucoup de créatures scannées dans la base de données, c'est incroyable !</AM_AnimalAnalysis_Expected.stages.a_lot_of_scans.description>
+<!-- EN: database almost half full -->
+<AM_AnimalAnalysis_Expected.stages.database_almost_half_full.label>base de données à moitié pleine</AM_AnimalAnalysis_Expected.stages.database_almost_half_full.label>
+<!-- EN: Almost halfway there! -->
+<AM_AnimalAnalysis_Expected.stages.database_almost_half_full.description>Nous sommes à mi-chemin !</AM_AnimalAnalysis_Expected.stages.database_almost_half_full.description>
+<!-- EN: a huge lot of scans -->
+<AM_AnimalAnalysis_Expected.stages.a_huge_lot_of_scans.label>grand nombre de scans</AM_AnimalAnalysis_Expected.stages.a_huge_lot_of_scans.label>
+<!-- EN: The database is full of amazing creature details, I love it! -->
+<AM_AnimalAnalysis_Expected.stages.a_huge_lot_of_scans.description>La base de données est pleine de détails étonnants sur les créatures, j'adore ça !</AM_AnimalAnalysis_Expected.stages.a_huge_lot_of_scans.description>
+<!-- EN: database almost filled -->
+<AM_AnimalAnalysis_Expected.stages.database_almost_filled.label>base de données presque pleine</AM_AnimalAnalysis_Expected.stages.database_almost_filled.label>
+<!-- EN: We are getting there! I love perusing the wondrous animal data we have collected. -->
+<AM_AnimalAnalysis_Expected.stages.database_almost_filled.description>Nous y sommes presque ! J'adore parcourir les merveilleuses données sur les animaux que nous avons recueillies.</AM_AnimalAnalysis_Expected.stages.database_almost_filled.description>
+<!-- EN: database filled -->
+<AM_AnimalAnalysis_Expected.stages.database_filled.label>base de données complétée</AM_AnimalAnalysis_Expected.stages.database_filled.label>
+<!-- EN: The database is above 75% filled. Perhaps this world has provided as much data as it can! -->
+<AM_AnimalAnalysis_Expected.stages.database_filled.description>La base de données est remplie à plus de 75%. Ce monde a peut-être fourni autant de données qu'il le pouvait !</AM_AnimalAnalysis_Expected.stages.database_filled.description>
+
+
 </LanguageData>

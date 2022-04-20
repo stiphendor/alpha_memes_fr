@@ -1,13 +1,14 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-  
-  <!-- EN: no metallic armor -->
-  <AM_Armour_Expected.stages.no_metallic_armor.label>没有金属护甲</AM_Armour_Expected.stages.no_metallic_armor.label>
-  <!-- EN: You call this protection? I feel naked. -->
-  <AM_Armour_Expected.stages.no_metallic_armor.description>这玩意儿也能叫护甲？简直就跟没穿一样。</AM_Armour_Expected.stages.no_metallic_armor.description>
-  <!-- EN: strong armor -->
-  <AM_Armour_Expected.stages.strong_armor.label>坚固的护甲</AM_Armour_Expected.stages.strong_armor.label>
-  <!-- EN: I feel well protected. -->
-  <AM_Armour_Expected.stages.strong_armor.description>这身护甲可真不错。</AM_Armour_Expected.stages.strong_armor.description>
-  
+
+<!-- EN: no metallic armor -->
+<AM_Armour_Expected.stages.no_metallic_armor.label>pas d'armure métallique</AM_Armour_Expected.stages.no_metallic_armor.label>
+<!-- EN: You call this protection? I feel naked. -->
+<AM_Armour_Expected.stages.no_metallic_armor.description>Vous appelez ça une protection ? Je me sens nu.</AM_Armour_Expected.stages.no_metallic_armor.description>
+<!-- EN: strong armor -->
+<AM_Armour_Expected.stages.strong_armor.label>armure solide</AM_Armour_Expected.stages.strong_armor.label>
+<!-- EN: I feel well protected. -->
+<AM_Armour_Expected.stages.strong_armor.description>Je me sens bien protégé.</AM_Armour_Expected.stages.strong_armor.description>
+
+
 </LanguageData>

@@ -1,14 +1,15 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-  
-  <!-- EN: despised animal died -->
-  <AM_AnimalDespised_Died_Despised.stages.despised_animal_died.label>害兽死亡</AM_AnimalDespised_Died_Despised.stages.despised_animal_died.label>
-  <!-- EN: A despised animal died. The death of such a grotesque abomination is something to celebrate. -->
-  <AM_AnimalDespised_Died_Despised.stages.despised_animal_died.description>一只可憎的害兽被杀死了。或许我们该开瓶香槟庆祝一下。</AM_AnimalDespised_Died_Despised.stages.despised_animal_died.description>
-  
-  <!-- EN: animal died -->
-  <AM_AnimalDespised_Died_Normal.stages.animal_died.label>动物死亡</AM_AnimalDespised_Died_Normal.stages.animal_died.label>
-  <!-- EN: An animal died. The sooner we get rid of these misguided genetic creations the sooner the galaxy will be safe. -->
-  <AM_AnimalDespised_Died_Normal.stages.animal_died.description>一只动物被杀死了。我们越早净化掉这些基因工程生物，银河系就越早变得更安全。</AM_AnimalDespised_Died_Normal.stages.animal_died.description>
-  
+
+<!-- EN: despised animal died -->
+<AM_AnimalDespised_Died_Despised.stages.despised_animal_died.label>l'animal méprisé est mort</AM_AnimalDespised_Died_Despised.stages.despised_animal_died.label>
+<!-- EN: A despised animal died. The death of such a grotesque abomination is something to celebrate. -->
+<AM_AnimalDespised_Died_Despised.stages.despised_animal_died.description>L'animal méprisé est mort. La mort de cette abomination grotesque est une chose à célébrer.</AM_AnimalDespised_Died_Despised.stages.despised_animal_died.description>
+
+<!-- EN: animal died -->
+<AM_AnimalDespised_Died_Normal.stages.animal_died.label>animal mort</AM_AnimalDespised_Died_Normal.stages.animal_died.label>
+<!-- EN: An animal died. The sooner we get rid of these misguided genetic creations the sooner the galaxy will be safe. -->
+<AM_AnimalDespised_Died_Normal.stages.animal_died.description>Un animal est mort. Plus vite nous nous débarrasserons de ces créations génétiques malencontreuses, plus vite la galaxie sera en sécurité.</AM_AnimalDespised_Died_Normal.stages.animal_died.description>
+
+
 </LanguageData>

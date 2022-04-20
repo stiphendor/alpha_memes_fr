@@ -1,139 +1,140 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-  
-  <!-- EN: jewish fine granite tile -->
-  <AM_JewishFineTileGranite.label>carrelage raffiné juif en granite</AM_JewishFineTileGranite.label>
-  <!-- EN: Fine stone tiles in a jewish style for expressing economic status. Slow to construct. -->
-  <AM_JewishFineTileGranite.description>Carrelage en pierres raffinées dans un style juif pour exprimer le statut économique. Lent à construire.</AM_JewishFineTileGranite.description>
-  
-  <!-- EN: jewish fine limestone tile -->
-  <AM_JewishFineTileLimestone.label>carrelage raffiné juif en calcaire</AM_JewishFineTileLimestone.label>
-  <!-- EN: Fine stone tiles in a jewish style for expressing economic status. Slow to construct. -->
-  <AM_JewishFineTileLimestone.description>Carrelage en pierres raffinées dans un style juif pour exprimer le statut économique. Lent à construire.</AM_JewishFineTileLimestone.description>
-  
-  <!-- EN: jewish fine marble tile -->
-  <AM_JewishFineTileMarble.label>carrelage raffiné juif en marbre</AM_JewishFineTileMarble.label>
-  <!-- EN: Fine stone tiles in a jewish style for expressing economic status. Slow to construct. -->
-  <AM_JewishFineTileMarble.description>Carrelage en pierres raffinées dans un style juif pour exprimer le statut économique. Lent à construire.</AM_JewishFineTileMarble.description>
-  
-  <!-- EN: jewish fine sandstone tile -->
-  <AM_JewishFineTileSandstone.label>carrelage raffiné juif en grès</AM_JewishFineTileSandstone.label>
-  <!-- EN: Fine stone tiles in a jewish style for expressing economic status. Slow to construct. -->
-  <AM_JewishFineTileSandstone.description>Carrelage en pierres raffinées dans un style juif pour exprimer le statut économique. Lent à construire.</AM_JewishFineTileSandstone.description>
-  
-  <!-- EN: jewish fine slate tile -->
-  <AM_JewishFineTileSlate.label>carrelage raffiné juif en ardoise</AM_JewishFineTileSlate.label>
-  <!-- EN: Fine stone tiles in a jewish style for expressing economic status. Slow to construct. -->
-  <AM_JewishFineTileSlate.description>Carrelage en pierres raffinées dans un style juif pour exprimer le statut économique. Lent à construire.</AM_JewishFineTileSlate.description>
-  
-  <!-- EN: jewish granite tile -->
-  <AM_JewishTileGranite.label>carrelage juif en granite</AM_JewishTileGranite.label>
-  <!-- EN: Carefully-cut and fit stone tiles in a Jewish style. They are pretty to look at, but they take a long time to lay. -->
-  <AM_JewishTileGranite.description>Carreaux de pierre soigneusement coupés et ajustés dans un style juif. Ils sont beaux à regarder, mais ils mettent beaucoup de temps à construire.</AM_JewishTileGranite.description>
-  
-  <!-- EN: jewish limestone tile -->
-  <AM_JewishTileLimestone.label>carrelage juif en calcaire</AM_JewishTileLimestone.label>
-  <!-- EN: Carefully-cut and fit stone tiles in a Jewish style. They are pretty to look at, but they take a long time to lay. -->
-  <AM_JewishTileLimestone.description>Carreaux de pierre soigneusement coupés et ajustés dans un style juif. Ils sont beaux à regarder, mais ils mettent beaucoup de temps à construire.</AM_JewishTileLimestone.description>
-  
-  <!-- EN: jewish marble tile -->
-  <AM_JewishTileMarble.label>carrelage juif en marbre</AM_JewishTileMarble.label>
-  <!-- EN: Carefully-cut and fit stone tiles in a Jewish style. They are pretty to look at, but they take a long time to lay. -->
-  <AM_JewishTileMarble.description>Carreaux de pierre soigneusement coupés et ajustés dans un style juif. Ils sont beaux à regarder, mais ils mettent beaucoup de temps à construire.</AM_JewishTileMarble.description>
-  
-  <!-- EN: jewish sandstone tile -->
-  <AM_JewishTileSandstone.label>carrelage juif en grès</AM_JewishTileSandstone.label>
-  <!-- EN: Carefully-cut and fit stone tiles in a Jewish style. They are pretty to look at, but they take a long time to lay. -->
-  <AM_JewishTileSandstone.description>Carreaux de pierre soigneusement coupés et ajustés dans un style juif. Ils sont beaux à regarder, mais ils mettent beaucoup de temps à construire.</AM_JewishTileSandstone.description>
-  
-  <!-- EN: jewish slate tile -->
-  <AM_JewishTileSlate.label>carrelage juif en ardoise</AM_JewishTileSlate.label>
-  <!-- EN: Carefully-cut and fit stone tiles in a Jewish style. They are pretty to look at, but they take a long time to lay. -->
-  <AM_JewishTileSlate.description>Carreaux de pierre soigneusement coupés et ajustés dans un style juif. Ils sont beaux à regarder, mais ils mettent beaucoup de temps à construire.</AM_JewishTileSlate.description>
-  
-  <!-- EN: kemetic fine granite tile -->
-  <AM_KemeticFineTileGranite.label>carrelage raffiné kémétique en granite</AM_KemeticFineTileGranite.label>
-  <!-- EN: Fine stone tiles in a kemetic style for expressing economic status. Slow to construct. -->
-  <AM_KemeticFineTileGranite.description>Carrelage en pierres raffinées dans un style kémétique pour exprimer le statut économique. Lent à construire.</AM_KemeticFineTileGranite.description>
-  
-  <!-- EN: kemetic fine limestone tile -->
-  <AM_KemeticFineTileLimestone.label>carrelage raffiné kémétique en calcaire</AM_KemeticFineTileLimestone.label>
-  <!-- EN: Fine stone tiles in a kemetic style for expressing economic status. Slow to construct. -->
-  <AM_KemeticFineTileLimestone.description>Carrelage en pierres raffinées dans un style kémétique pour exprimer le statut économique. Lent à construire.</AM_KemeticFineTileLimestone.description>
-  
-  <!-- EN: kemetic fine marble tile -->
-  <AM_KemeticFineTileMarble.label>carrelage raffiné kémétique en marbre</AM_KemeticFineTileMarble.label>
-  <!-- EN: Fine stone tiles in a kemetic style for expressing economic status. Slow to construct. -->
-  <AM_KemeticFineTileMarble.description>Carrelage en pierres raffinées dans un style kémétique pour exprimer le statut économique. Lent à construire.</AM_KemeticFineTileMarble.description>
-  
-  <!-- EN: kemetic fine pristine limestone tile -->
-  <AM_KemeticFineTilePristineLimestone.label>carrelage raffiné kémétique en calcaire pristine</AM_KemeticFineTilePristineLimestone.label>
-  <!-- EN: Fine stone tiles in a kemetic style for expressing economic status. Slow to construct. -->
-  <AM_KemeticFineTilePristineLimestone.description>Carrelage en pierres raffinées dans un style kémétique pour exprimer le statut économique. Lent à construire.</AM_KemeticFineTilePristineLimestone.description>
-  
-  <!-- EN: kemetic fine sandstone tile -->
-  <AM_KemeticFineTileSandstone.label>carrelage raffiné kémétique en grès</AM_KemeticFineTileSandstone.label>
-  <!-- EN: Fine stone tiles in a kemetic style for expressing economic status. Slow to construct. -->
-  <AM_KemeticFineTileSandstone.description>Carrelage en pierres raffinées dans un style kémétique pour exprimer le statut économique. Lent à construire.</AM_KemeticFineTileSandstone.description>
-  
-  <!-- EN: kemetic fine slate tile -->
-  <AM_KemeticFineTileSlate.label>carrelage raffiné kémétique en ardoise</AM_KemeticFineTileSlate.label>
-  <!-- EN: Fine stone tiles in a kemetic style for expressing economic status. Slow to construct. -->
-  <AM_KemeticFineTileSlate.description>Carrelage en pierres raffinées dans un style kémétique pour exprimer le statut économique. Lent à construire.</AM_KemeticFineTileSlate.description>
-  
-  <!-- EN: kemetic granite tile -->
-  <AM_KemeticTileGranite.label>carrelage kémétique en granite</AM_KemeticTileGranite.label>
-  <!-- EN: Carefully-cut and fit stone tiles in a Kemetic style. They are pretty to look at, but they take a long time to lay. -->
-  <AM_KemeticTileGranite.description>Carreaux de pierre soigneusement coupés et ajustés dans un style kémétique. Ils sont beaux à regarder, mais ils mettent beaucoup de temps à construire.</AM_KemeticTileGranite.description>
-  
-  <!-- EN: kemetic limestone tile -->
-  <AM_KemeticTileLimestone.label>carrelage kémétique en calcaire</AM_KemeticTileLimestone.label>
-  <!-- EN: Carefully-cut and fit stone tiles in a Kemetic style. They are pretty to look at, but they take a long time to lay. -->
-  <AM_KemeticTileLimestone.description>Carreaux de pierre soigneusement coupés et ajustés dans un style kémétique. Ils sont beaux à regarder, mais ils mettent beaucoup de temps à construire.</AM_KemeticTileLimestone.description>
-  
-  <!-- EN: kemetic marble tile -->
-  <AM_KemeticTileMarble.label>carrelage kémétique en marbre</AM_KemeticTileMarble.label>
-  <!-- EN: Carefully-cut and fit stone tiles in a Kemetic style. They are pretty to look at, but they take a long time to lay. -->
-  <AM_KemeticTileMarble.description>Carreaux de pierre soigneusement coupés et ajustés dans un style kémétique. Ils sont beaux à regarder, mais ils mettent beaucoup de temps à construire.</AM_KemeticTileMarble.description>
-  
-  <!-- EN: kemetic pristine limestone tile -->
-  <AM_KemeticTilePristineLimestone.label>carrelage kémétique en calcaire pristine</AM_KemeticTilePristineLimestone.label>
-  <!-- EN: Carefully-cut and fit stone tiles in a Kemetic style. They are pretty to look at, but they take a long time to lay. -->
-  <AM_KemeticTilePristineLimestone.description>Carreaux de pierre soigneusement coupés et ajustés dans un style kémétique. Ils sont beaux à regarder, mais ils mettent beaucoup de temps à construire.</AM_KemeticTilePristineLimestone.description>
-  
-  <!-- EN: kemetic sandstone tile -->
-  <AM_KemeticTileSandstone.label>carrelage kémétique en grès</AM_KemeticTileSandstone.label>
-  <!-- EN: Carefully-cut and fit stone tiles in a Kemetic style. They are pretty to look at, but they take a long time to lay. -->
-  <AM_KemeticTileSandstone.description>Carreaux de pierre soigneusement coupés et ajustés dans un style kémétique. Ils sont beaux à regarder, mais ils mettent beaucoup de temps à construire.</AM_KemeticTileSandstone.description>
-  
-  <!-- EN: kemetic slate tile -->
-  <AM_KemeticTileSlate.label>carrelage kémétique en ardoise</AM_KemeticTileSlate.label>
-  <!-- EN: Carefully-cut and fit stone tiles in a Kemetic style. They are pretty to look at, but they take a long time to lay. -->
-  <AM_KemeticTileSlate.description>Carreaux de pierre soigneusement coupés et ajustés dans un style kémétique. Ils sont beaux à regarder, mais ils mettent beaucoup de temps à construire.</AM_KemeticTileSlate.description>
-  
-  <!-- EN: steampunk granite tile -->
-  <AM_SteampunkTileGranite.label>carrelage steampunk en granite</AM_SteampunkTileGranite.label>
-  <!-- EN: Carefully-cut and fit stone tiles in a Steampunk style. They are pretty to look at, but they take a long time to lay. -->
-  <AM_SteampunkTileGranite.description>Carreaux de pierre soigneusement coupés et ajustés dans un style steampunk. Ils sont beaux à regarder, mais ils mettent beaucoup de temps à construire.</AM_SteampunkTileGranite.description>
-  
-  <!-- EN: steampunk limestone tile -->
-  <AM_SteampunkTileLimestone.label>carrelage steampunk en calcaire</AM_SteampunkTileLimestone.label>
-  <!-- EN: Carefully-cut and fit stone tiles in a Steampunk style. They are pretty to look at, but they take a long time to lay. -->
-  <AM_SteampunkTileLimestone.description>Carreaux de pierre soigneusement coupés et ajustés dans un style steampunk. Ils sont beaux à regarder, mais ils mettent beaucoup de temps à construire.</AM_SteampunkTileLimestone.description>
-  
-  <!-- EN: steampunk marble tile -->
-  <AM_SteampunkTileMarble.label>carrelage steampunk en marbre</AM_SteampunkTileMarble.label>
-  <!-- EN: Carefully-cut and fit stone tiles in a Steampunk style. They are pretty to look at, but they take a long time to lay. -->
-  <AM_SteampunkTileMarble.description>Carreaux de pierre soigneusement coupés et ajustés dans un style steampunk. Ils sont beaux à regarder, mais ils mettent beaucoup de temps à construire.</AM_SteampunkTileMarble.description>
-  
-  <!-- EN: steampunk sandstone tile -->
-  <AM_SteampunkTileSandstone.label>carrelage steampunk en grès</AM_SteampunkTileSandstone.label>
-  <!-- EN: Carefully-cut and fit stone tiles in a Steampunk style. They are pretty to look at, but they take a long time to lay. -->
-  <AM_SteampunkTileSandstone.description>Carreaux de pierre soigneusement coupés et ajustés dans un style steampunk. Ils sont beaux à regarder, mais ils mettent beaucoup de temps à construire.</AM_SteampunkTileSandstone.description>
-  
-  <!-- EN: steampunk slate tile -->
-  <AM_SteampunkTileSlate.label>carrelage steampunk en ardoise</AM_SteampunkTileSlate.label>
-  <!-- EN: Carefully-cut and fit stone tiles in a Steampunk style. They are pretty to look at, but they take a long time to lay. -->
-  <AM_SteampunkTileSlate.description>Carreaux de pierre soigneusement coupés et ajustés dans un style steampunk. Ils sont beaux à regarder, mais ils mettent beaucoup de temps à construire.</AM_SteampunkTileSlate.description>
-  
+
+<!-- EN: jewish fine granite tile -->
+<AM_JewishFineTileGranite.label>carrelage raffiné en granite judaïque</AM_JewishFineTileGranite.label>
+<!-- EN: Fine stone tiles in a jewish style for expressing economic status. Slow to construct. -->
+<AM_JewishFineTileGranite.description>Carrelage en pierres raffinées dans un style judaïque pour exprimer le statut économique. Lent à construire.</AM_JewishFineTileGranite.description>
+
+<!-- EN: jewish fine limestone tile -->
+<AM_JewishFineTileLimestone.label>carrelage raffiné en calcaire judaïque</AM_JewishFineTileLimestone.label>
+<!-- EN: Fine stone tiles in a jewish style for expressing economic status. Slow to construct. -->
+<AM_JewishFineTileLimestone.description>Carrelage en pierres raffinées dans un style judaïque pour exprimer le statut économique. Lent à construire.</AM_JewishFineTileLimestone.description>
+
+<!-- EN: jewish fine marble tile -->
+<AM_JewishFineTileMarble.label>carrelage raffiné en marbre judaïque</AM_JewishFineTileMarble.label>
+<!-- EN: Fine stone tiles in a jewish style for expressing economic status. Slow to construct. -->
+<AM_JewishFineTileMarble.description>Carrelage en pierres raffinées dans un style judaïque pour exprimer le statut économique. Lent à construire.</AM_JewishFineTileMarble.description>
+
+<!-- EN: jewish fine sandstone tile -->
+<AM_JewishFineTileSandstone.label>carrelage raffiné en grès judaïque</AM_JewishFineTileSandstone.label>
+<!-- EN: Fine stone tiles in a jewish style for expressing economic status. Slow to construct. -->
+<AM_JewishFineTileSandstone.description>Carrelage en pierres raffinées dans un style judaïque pour exprimer le statut économique. Lent à construire.</AM_JewishFineTileSandstone.description>
+
+<!-- EN: jewish fine slate tile -->
+<AM_JewishFineTileSlate.label>carrelage raffiné en ardoise judaïque</AM_JewishFineTileSlate.label>
+<!-- EN: Fine stone tiles in a jewish style for expressing economic status. Slow to construct. -->
+<AM_JewishFineTileSlate.description>Carrelage en pierres raffinées dans un style judaïque pour exprimer le statut économique. Lent à construire.</AM_JewishFineTileSlate.description>
+
+<!-- EN: jewish granite tile -->
+<AM_JewishTileGranite.label>carrelage en granite judaïque</AM_JewishTileGranite.label>
+<!-- EN: Carefully-cut and fit stone tiles in a Jewish style. They are pretty to look at, but they take a long time to lay. -->
+<AM_JewishTileGranite.description>Carreaux de pierre soigneusement coupés et ajustés dans un style judaïque. Ils sont beaux à regarder, mais ils mettent beaucoup de temps à construire.</AM_JewishTileGranite.description>
+
+<!-- EN: jewish limestone tile -->
+<AM_JewishTileLimestone.label>carrelage en calcaire judaïque</AM_JewishTileLimestone.label>
+<!-- EN: Carefully-cut and fit stone tiles in a Jewish style. They are pretty to look at, but they take a long time to lay. -->
+<AM_JewishTileLimestone.description>Carreaux de pierre soigneusement coupés et ajustés dans un style judaïque. Ils sont beaux à regarder, mais ils mettent beaucoup de temps à construire.</AM_JewishTileLimestone.description>
+
+<!-- EN: jewish marble tile -->
+<AM_JewishTileMarble.label>carrelage en marbre judaïque</AM_JewishTileMarble.label>
+<!-- EN: Carefully-cut and fit stone tiles in a Jewish style. They are pretty to look at, but they take a long time to lay. -->
+<AM_JewishTileMarble.description>Carreaux de pierre soigneusement coupés et ajustés dans un style judaïque. Ils sont beaux à regarder, mais ils mettent beaucoup de temps à construire.</AM_JewishTileMarble.description>
+
+<!-- EN: jewish sandstone tile -->
+<AM_JewishTileSandstone.label>carrelage en grès judaïque</AM_JewishTileSandstone.label>
+<!-- EN: Carefully-cut and fit stone tiles in a Jewish style. They are pretty to look at, but they take a long time to lay. -->
+<AM_JewishTileSandstone.description>Carreaux de pierre soigneusement coupés et ajustés dans un style judaïque. Ils sont beaux à regarder, mais ils mettent beaucoup de temps à construire.</AM_JewishTileSandstone.description>
+
+<!-- EN: jewish slate tile -->
+<AM_JewishTileSlate.label>carrelage en ardoise judaïque</AM_JewishTileSlate.label>
+<!-- EN: Carefully-cut and fit stone tiles in a Jewish style. They are pretty to look at, but they take a long time to lay. -->
+<AM_JewishTileSlate.description>Carreaux de pierre soigneusement coupés et ajustés dans un style judaïque. Ils sont beaux à regarder, mais ils mettent beaucoup de temps à construire.</AM_JewishTileSlate.description>
+
+<!-- EN: kemetic fine granite tile -->
+<AM_KemeticFineTileGranite.label>carrelage raffiné en granite kémitisme</AM_KemeticFineTileGranite.label>
+<!-- EN: Fine stone tiles in a kemetic style for expressing economic status. Slow to construct. -->
+<AM_KemeticFineTileGranite.description>Carrelage en pierres raffinées dans un style kémitisme pour exprimer le statut économique. Lent à construire.</AM_KemeticFineTileGranite.description>
+
+<!-- EN: kemetic fine limestone tile -->
+<AM_KemeticFineTileLimestone.label>carrelage raffiné en calcaire kémitisme</AM_KemeticFineTileLimestone.label>
+<!-- EN: Fine stone tiles in a kemetic style for expressing economic status. Slow to construct. -->
+<AM_KemeticFineTileLimestone.description>Carrelage en pierres raffinées dans un style kémitisme pour exprimer le statut économique. Lent à construire.</AM_KemeticFineTileLimestone.description>
+
+<!-- EN: kemetic fine marble tile -->
+<AM_KemeticFineTileMarble.label>carrelage raffiné en marbre kémitisme</AM_KemeticFineTileMarble.label>
+<!-- EN: Fine stone tiles in a kemetic style for expressing economic status. Slow to construct. -->
+<AM_KemeticFineTileMarble.description>Carrelage en pierres raffinées dans un style kémitisme pour exprimer le statut économique. Lent à construire.</AM_KemeticFineTileMarble.description>
+
+<!-- EN: kemetic fine pristine limestone tile -->
+<AM_KemeticFineTilePristineLimestone.label>carrelage raffiné en calcaire cristallin kémitisme</AM_KemeticFineTilePristineLimestone.label>
+<!-- EN: Fine stone tiles in a kemetic style for expressing economic status. Slow to construct. -->
+<AM_KemeticFineTilePristineLimestone.description>Carrelage en pierres raffinées dans un style kémitisme pour exprimer le statut économique. Lent à construire.</AM_KemeticFineTilePristineLimestone.description>
+
+<!-- EN: kemetic fine sandstone tile -->
+<AM_KemeticFineTileSandstone.label>carrelage raffiné en grès kémitisme</AM_KemeticFineTileSandstone.label>
+<!-- EN: Fine stone tiles in a kemetic style for expressing economic status. Slow to construct. -->
+<AM_KemeticFineTileSandstone.description>Carrelage en pierres raffinées dans un style kémitisme pour exprimer le statut économique. Lent à construire.</AM_KemeticFineTileSandstone.description>
+
+<!-- EN: kemetic fine slate tile -->
+<AM_KemeticFineTileSlate.label>carrelage raffiné en ardoise kémitisme</AM_KemeticFineTileSlate.label>
+<!-- EN: Fine stone tiles in a kemetic style for expressing economic status. Slow to construct. -->
+<AM_KemeticFineTileSlate.description>Carrelage en pierres raffinées dans un style kémitisme pour exprimer le statut économique. Lent à construire.</AM_KemeticFineTileSlate.description>
+
+<!-- EN: kemetic granite tile -->
+<AM_KemeticTileGranite.label>carrelage en granite kémitisme</AM_KemeticTileGranite.label>
+<!-- EN: Carefully-cut and fit stone tiles in a Kemetic style. They are pretty to look at, but they take a long time to lay. -->
+<AM_KemeticTileGranite.description>Carreaux de pierre soigneusement coupés et ajustés dans un style kémitisme. Ils sont beaux à regarder, mais ils mettent beaucoup de temps à construire.</AM_KemeticTileGranite.description>
+
+<!-- EN: kemetic limestone tile -->
+<AM_KemeticTileLimestone.label>carrelage en calcaire kémitisme</AM_KemeticTileLimestone.label>
+<!-- EN: Carefully-cut and fit stone tiles in a Kemetic style. They are pretty to look at, but they take a long time to lay. -->
+<AM_KemeticTileLimestone.description>Carreaux de pierre soigneusement coupés et ajustés dans un style kémitisme. Ils sont beaux à regarder, mais ils mettent beaucoup de temps à construire.</AM_KemeticTileLimestone.description>
+
+<!-- EN: kemetic marble tile -->
+<AM_KemeticTileMarble.label>carrelage en marbre kémitisme</AM_KemeticTileMarble.label>
+<!-- EN: Carefully-cut and fit stone tiles in a Kemetic style. They are pretty to look at, but they take a long time to lay. -->
+<AM_KemeticTileMarble.description>Carreaux de pierre soigneusement coupés et ajustés dans un style kémitisme. Ils sont beaux à regarder, mais ils mettent beaucoup de temps à construire.</AM_KemeticTileMarble.description>
+
+<!-- EN: kemetic pristine limestone tile -->
+<AM_KemeticTilePristineLimestone.label>carrelage en calcaire cristallin kémitisme</AM_KemeticTilePristineLimestone.label>
+<!-- EN: Carefully-cut and fit stone tiles in a Kemetic style. They are pretty to look at, but they take a long time to lay. -->
+<AM_KemeticTilePristineLimestone.description>Carreaux de pierre soigneusement coupés et ajustés dans un style kémitisme. Ils sont beaux à regarder, mais ils mettent beaucoup de temps à construire.</AM_KemeticTilePristineLimestone.description>
+
+<!-- EN: kemetic sandstone tile -->
+<AM_KemeticTileSandstone.label>carrelage en grès kémitisme</AM_KemeticTileSandstone.label>
+<!-- EN: Carefully-cut and fit stone tiles in a Kemetic style. They are pretty to look at, but they take a long time to lay. -->
+<AM_KemeticTileSandstone.description>Carreaux de pierre soigneusement coupés et ajustés dans un style kémitisme. Ils sont beaux à regarder, mais ils mettent beaucoup de temps à construire.</AM_KemeticTileSandstone.description>
+
+<!-- EN: kemetic slate tile -->
+<AM_KemeticTileSlate.label>carrelage en ardoise kémitisme</AM_KemeticTileSlate.label>
+<!-- EN: Carefully-cut and fit stone tiles in a Kemetic style. They are pretty to look at, but they take a long time to lay. -->
+<AM_KemeticTileSlate.description>Carreaux de pierre soigneusement coupés et ajustés dans un style kémitisme. Ils sont beaux à regarder, mais ils mettent beaucoup de temps à construire.</AM_KemeticTileSlate.description>
+
+<!-- EN: steampunk granite tile -->
+<AM_SteampunkTileGranite.label>carrelage en granite steampunk</AM_SteampunkTileGranite.label>
+<!-- EN: Carefully-cut and fit stone tiles in a Steampunk style. They are pretty to look at, but they take a long time to lay. -->
+<AM_SteampunkTileGranite.description>Carreaux de pierre soigneusement coupés et ajustés dans un style steampunk. Ils sont beaux à regarder, mais ils mettent beaucoup de temps à construire.</AM_SteampunkTileGranite.description>
+
+<!-- EN: steampunk limestone tile -->
+<AM_SteampunkTileLimestone.label>carrelage en calcaire steampunk</AM_SteampunkTileLimestone.label>
+<!-- EN: Carefully-cut and fit stone tiles in a Steampunk style. They are pretty to look at, but they take a long time to lay. -->
+<AM_SteampunkTileLimestone.description>Carreaux de pierre soigneusement coupés et ajustés dans un style steampunk. Ils sont beaux à regarder, mais ils mettent beaucoup de temps à construire.</AM_SteampunkTileLimestone.description>
+
+<!-- EN: steampunk marble tile -->
+<AM_SteampunkTileMarble.label>carrelage en marbre steampunk</AM_SteampunkTileMarble.label>
+<!-- EN: Carefully-cut and fit stone tiles in a Steampunk style. They are pretty to look at, but they take a long time to lay. -->
+<AM_SteampunkTileMarble.description>Carreaux de pierre soigneusement coupés et ajustés dans un style steampunk. Ils sont beaux à regarder, mais ils mettent beaucoup de temps à construire.</AM_SteampunkTileMarble.description>
+
+<!-- EN: steampunk sandstone tile -->
+<AM_SteampunkTileSandstone.label>carrelage en grès steampunk</AM_SteampunkTileSandstone.label>
+<!-- EN: Carefully-cut and fit stone tiles in a Steampunk style. They are pretty to look at, but they take a long time to lay. -->
+<AM_SteampunkTileSandstone.description>Carreaux de pierre soigneusement coupés et ajustés dans un style steampunk. Ils sont beaux à regarder, mais ils mettent beaucoup de temps à construire.</AM_SteampunkTileSandstone.description>
+
+<!-- EN: steampunk slate tile -->
+<AM_SteampunkTileSlate.label>carrelage en ardoise steampunk</AM_SteampunkTileSlate.label>
+<!-- EN: Carefully-cut and fit stone tiles in a Steampunk style. They are pretty to look at, but they take a long time to lay. -->
+<AM_SteampunkTileSlate.description>Carreaux de pierre soigneusement coupés et ajustés dans un style steampunk. Ils sont beaux à regarder, mais ils mettent beaucoup de temps à construire.</AM_SteampunkTileSlate.description>
+
+
 </LanguageData>

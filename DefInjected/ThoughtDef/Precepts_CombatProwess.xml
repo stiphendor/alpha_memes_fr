@@ -1,14 +1,15 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-  
-  <!-- EN: used a non-ranged attack -->
-  <AM_CombatProwess_Increased_UsedMelee.stages.used_a_nonranged_attack.label>使用了非远程武器进行攻击</AM_CombatProwess_Increased_UsedMelee.stages.used_a_nonranged_attack.label>
-  <!-- EN: I had to defend myself using a melee weapon, like some kind of savage caveman. Disgusting. -->
-  <AM_CombatProwess_Increased_UsedMelee.stages.used_a_nonranged_attack.description>我被迫像未开化的穴居人一样用近战武器自卫。这可真讨厌。</AM_CombatProwess_Increased_UsedMelee.stages.used_a_nonranged_attack.description>
-  
-  <!-- EN: used a ranged attack -->
-  <AM_CombatProwess_Melee_UsedRanged.stages.used_a_ranged_attack.label>使用了远程武器进行攻击</AM_CombatProwess_Melee_UsedRanged.stages.used_a_ranged_attack.label>
-  <!-- EN: I had to defend myself using a ranged weapon, like some kind of coward. Disgusting. -->
-  <AM_CombatProwess_Melee_UsedRanged.stages.used_a_ranged_attack.description>我被迫像胆小的懦夫一样用远程武器自卫。这可真讨厌。</AM_CombatProwess_Melee_UsedRanged.stages.used_a_ranged_attack.description>
-  
+
+<!-- EN: used a non-ranged attack -->
+<AM_CombatProwess_Increased_UsedMelee.stages.used_a_nonranged_attack.label>attaque sans arme à distance</AM_CombatProwess_Increased_UsedMelee.stages.used_a_nonranged_attack.label>
+<!-- EN: I had to defend myself using a melee weapon, like some kind of savage caveman. Disgusting. -->
+<AM_CombatProwess_Increased_UsedMelee.stages.used_a_nonranged_attack.description>J'ai dû me défendre en utilisant une arme de mêlée, comme une sorte d'homme sauvage des cavernes. Répugnant.</AM_CombatProwess_Increased_UsedMelee.stages.used_a_nonranged_attack.description>
+
+<!-- EN: used a ranged attack -->
+<AM_CombatProwess_Melee_UsedRanged.stages.used_a_ranged_attack.label>attaque avec arme à distance</AM_CombatProwess_Melee_UsedRanged.stages.used_a_ranged_attack.label>
+<!-- EN: I had to defend myself using a ranged weapon, like some kind of coward. Disgusting. -->
+<AM_CombatProwess_Melee_UsedRanged.stages.used_a_ranged_attack.description>J'ai dû me défendre en utilisant une arme à distance, comme une sorte de lâche. Répugnant.</AM_CombatProwess_Melee_UsedRanged.stages.used_a_ranged_attack.description>
+
+
 </LanguageData>

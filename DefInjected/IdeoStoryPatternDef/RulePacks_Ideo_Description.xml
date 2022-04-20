@@ -1,426 +1,427 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-  
-  <!-- EN:
-    <li>lesson(priority=-1)->stuff happens</li>
-    <li>r_pattern->"[r_atheismlessonIntro] [r_lesson]. [r_lessonReinforcement] [r_atheismlessonReinforcement]"\n\n  - [lessonAttribution]</li>
-    <li>lessonAttribution->[founder_nameFull]'s [book] on [concept]</li>
-    <li>book->lecture</li>
-    <li>book->letter</li>
-    <li>book->conference</li>
-    <li>book->address</li>
-    <li>book->discourse</li>
-    <li>concept->the Death of God</li>
-    <li>concept->Non-belief</li>
-    <li>concept->Scepticism</li>
-    <li>concept->Irreligion</li>
-    <li>concept->Godlessness</li>
-    <li>concept->the Rejection of Magical Thinking</li>
-    <li>concept->Enlightened Humanism</li>
-    <li>atheismlessonIntro->... thus what is wanted are blindness and intoxication and an eternal song over the waves in which reason has drowned. The objective of religion is clear, hiding to us that</li>
-    <li>atheismlessonIntro->Human decency is not derived from religion. It precedes it. Once you understand that it becomes clear:</li>
-    <li>atheismlessonIntro->Atheism is more than just the knowledge that gods do not exist, and that religion is either a mistake or a fraud. Atheism is an attitude. It teaches us one thing:</li>
-    <li>atheismlessonIntro->Religion is excellent stuff for keeping common people quiet. The more controlled they are the longer it takes them to realize that</li>
-    <li>atheismlessonIntro->There is something infantile in the presumption that somebody else has a responsibility to give your life meaning and point. Only you can realize that</li>
-    <li>atheismlessonIntro->Being a Humanist means trying to behave decently without expectation of rewards or punishment after you are dead. You will show everyone that</li>
-    <li>atheismlessonIntro->When one person suffers from a delusion, it is called insanity. When many people suffer from a delusion it is called a Religion. Only those who are free from magical thinking can see that</li>
-    <li>atheismlessonIntro->I believe the simplest explanation is, there is no God. No one created the universe and no one directs our fate. This leads me to a profound realization that</li>
-    <li>atheismlessonReinforcement->We can judge our progress by the courage of our questions and the depth of our answers, our willingness to embrace what is true rather than what feels good.</li>
-    <li>atheismlessonReinforcement->The more I learn about the universe, the less convinced I am that there's any sort of benevolent force that has anything to do with it, at all.</li>
-    <li>atheismlessonReinforcement->After coming into contact with a religious man I always feel I must wash my hands.</li>
-    <li>atheismlessonReinforcement->I don't want to believe. I want to know.</li>
-    <li>atheismlessonReinforcement->With or without religion, good people can behave well and bad people can do evil; but for good people to do evil - that takes religion.</li>
-    <li>atheismlessonReinforcement->Civilization will not attain to its perfection until the last stone from the last church falls on the last priest.</li>
-    <li>atheismlessonReinforcement->We must question the story logic of having an all-knowing all-powerful God, who creates faulty Humans, and then blames them for his own mistakes.</li>
-    <li>atheismlessonReinforcement->If there is a God, atheism must seem to Him as less of an insult than religion.</li>
-    <li>atheismlessonReinforcement->When people ask me if a god created the universe, I tell them that the question itself makes no sense.</li>
-    <li>lessonReinforcement->No one can argue with that.</li>
-  -->
-  <AM_AtheismDescription.rules.rulesStrings>
-    <li>lesson(priority=-1)->des choses arrivent</li>
-    <li>r_pattern->“[r_atheismlessonIntro][r_lesson].[r_lessonReinforcement][r_atheismlessonReinforcement]"\n\n  - [lessonAttribution]</li>
-    <li>lessonAttribution->Le [book] de [founder_nameFull] sur [concept]</li>
-    <li>book->conférence</li>
-    <li>book->lettre</li>
-    <li>book->conférence</li>
-    <li>book->adresse</li>
-    <li>book->discours</li>
-    <li>concept->la mort de Dieu</li>
-    <li>concept->Non-croyance</li>
-    <li>concept->scepticisme</li>
-    <li>concept->Irreligion</li>
-    <li>concept->Impie</li>
-    <li>concept->le rejet de la pensée magique</li>
-    <li>concept->Humanisme éclairé</li>
-    <li>atheismlessonIntro->... donc ce qu'il faut c'est l'aveuglement et l'ivresse et un chant éternel sur les flots où la raison s'est noyée. L'objectif de la religion est clair, nous cachant que</li>
-    <li>atheismlessonIntro->La décence humaine ne dérive pas de la religion. Elle la précède. Une fois que vous avez compris cela, cela devient clair :</li>
-    <li>atheismlessonIntro->L'athéisme est plus que la simple connaissance que les dieux n'existent pas et que la religion est soit une erreur, soit une fraude. L'athéisme est une attitude. Cela nous apprend une chose :</li>
-    <li>atheismlessonIntro->La religion est un excellent moyen de faire taire les gens ordinaires. Plus ils sont contrôlés, plus il leur faut de temps pour réaliser que</li>
-    <li>atheismlessonIntro->Il y a quelque chose d'infantile dans la présomption que quelqu'un d'autre a la responsabilité de donner un sens et un but à votre vie. Vous seul pouvez le réaliser</li>
-    <li>atheismlessonIntro->Être un humaniste signifie essayer de se comporter décemment sans s'attendre à des récompenses ou des punitions après votre mort. Vous montrerez à tout le monde que</li>
-    <li>atheismlessonIntro->Lorsqu'une personne souffre d'une illusion, cela s'appelle la folie. Lorsque de nombreuses personnes souffrent d'une illusion, cela s'appelle une religion. Seuls ceux qui sont libres de la pensée magique peuvent voir cela</li>
-    <li>atheismlessonIntro->Je crois que l'explication la plus simple est qu'il n'y a pas de Dieu. Personne n'a créé l'univers et personne ne dirige notre destin. Cela m'amène à une prise de conscience profonde que</li>
-    <li>atheismlessonReinforcement->Nous pouvons juger de nos progrès par le courage de nos questions et la profondeur de nos réponses, notre volonté d'embrasser ce qui est vrai plutôt que ce qui fait du bien.</li>
-    <li>atheismlessonReinforcement->Plus j'en apprends sur l'univers, moins je suis convaincu qu'il existe une sorte de force bienveillante qui a quelque chose à voir avec lui, du tout.</li>
-    <li>atheismlessonReinforcement->Après être entré en contact avec un homme religieux, je sens toujours que je dois me laver les mains.</li>
-    <li>atheismlessonReinforcement->Je ne veux pas croire. Je veux savoir.</li>
-    <li>atheismlessonReinforcement->Avec ou sans religion, les bonnes personnes peuvent bien se comporter et les mauvaises personnes peuvent faire le mal ; mais pour que les bonnes personnes fassent le mal - cela prend de la religion.</li>
-    <li>atheismlessonReinforcement->La civilisation n'atteindra pas sa perfection tant que la dernière pierre de la dernière église ne tombera pas sur le dernier prêtre.</li>
-    <li>atheismlessonReinforcement->Nous devons remettre en question la logique de l'histoire d'avoir un Dieu omniscient et tout-puissant, qui crée des humains défectueux, puis les blâme pour ses propres erreurs.</li>
-    <li>atheismlessonReinforcement->S'il y a un Dieu, l'athéisme doit lui sembler moins une insulte que la religion.</li>
-    <li>atheismlessonReinforcement->Quand les gens me demandent si un dieu a créé l'univers, je leur réponds que la question elle-même n'a aucun sens.</li>
-    <li>lessonReinforcement->Personne ne peut contester cela.</li>
-  </AM_AtheismDescription.rules.rulesStrings>
-  
-  <!-- EN:
-    <li>lesson(priority=-1)->stuff happens</li>
-    <li>r_pattern->"[r_jainistlessonIntro] [r_lesson]. [r_lessonReinforcement] [r_jainlessonReinforcement]"\n\n  - [lessonAttribution]</li>
-    <li>lessonAttribution->[founder_nameFull]'s [revision] of the [book]</li>
-    <li>lessonAttribution->[founder_nameFull]'s [revision] of the [book], [edition]</li>
-    <li>lessonAttribution->[founder_nameFull]'s memorized sutras</li>
-    <li>revision->interpretation</li>
-    <li>revision->preserved meditations</li>
-    <li>revision->theological musings</li>
-    <li>revision->reflection</li>
-    <li>revision->rumination</li>
-    <li>book->teachings of Mahavira</li>
-    <li>book->Agamas</li>
-    <li>book->compiled sutras</li>
-    <li>book->Purvas</li>
-    <li>edition->32nd Edition</li>
-    <li>edition->43rd Edition</li>
-    <li>edition->52nd Edition</li>
-    <li>edition->57th Edition</li>
-    <li>jainistlessonIntro->This is my country, that is your country; these are the conceptions of narrow souls - to the liberal minded the whole world is a family. I want you to understand:</li>
-    <li>jainistlessonIntro->In happiness and suffering, in joy and grief, we should regard all creatures as we regard our own self. This teaches us that</li>
-    <li>jainistlessonIntro->Some foolish men declare that a creator made the world. The doctrine that the world was created is ill advised and should be rejected. If God created the world, where was he before the creation? These musings did teach me one thing:</li>
-    <li>jainistlessonIntro->By teaching the sacred Agamas on the [place_summary] [place_name], I realized that</li>
-    <li>jainistlessonIntro->May peace rule the universe; may peace rule in kingdoms and empires; may peace rule in states and in the lands of the potentates; may peace rule in the house of friends and may peace also rule in the house of enemies. In peace you will realize that</li>
-    <li>jainistlessonIntro->We preach and practice brotherhood — not only of man but of all living beings — not on Sundays only but on all the days of the week. We believe in the law of universal justice. We preach that</li>
-    <li>jainistlessonIntro->If a person's mind is controlled by forces of revenge and jealousy, it cannot express love and sympathy. One thing will become increasingly clear then: that</li>
-    <li>jainistlessonIntro->A man is seated on top of a tree in the midst of a burning forest. He sees all living beings perish. But he doesn’t realize that the same fate is soon to overtake him also. That man is a fool. He needs to realize that</li>
-    <li>jainistlessonIntro->Attachment and aversion are the root cause of karma, and karma originates from infatuation. Karma is the root cause of birth and death, and these are said to be the source of misery. None can escape the effect of their own past karma. Once you free yourself from attachment you will see that</li>
-    <li>jainlessonReinforcement->Live and allow others to live; hurt no one; life is dear to all living beings.</li>
-    <li>jainlessonReinforcement->By sincerity, a man gains physical, mental and linguistic straightforwardness, and harmonious tendency; that is, congruence of speech and action.</li>
-    <li>jainlessonReinforcement->All souls are equal and alike and have the similar nature and qualities.</li>
-    <li>jainlessonReinforcement->Start the practice of self-control with some penance; begin with fasting.</li>
-    <li>jainlessonReinforcement->The nature of things is dharma.</li>
-    <li>jainlessonReinforcement->One who neglects or disregards the existence of earth, air, fire, water and vegetation disregards his own existence which is entwined with them.</li>
-    <li>jainlessonReinforcement->Soul is the central point of spiritual discipline.</li>
-    <li>jainlessonReinforcement->Eating constitutes the greatest obstacle to self-control; it gives rise to indolence.</li>
-    <li>lessonReinforcement->No one can argue with that.</li>
-  -->
-  <AM_JainistDescription.rules.rulesStrings>
-     <li>lesson(priority=-1)->il se passe des choses</li>
-     <li>r_pattern->"[r_jainistlessonIntro] [r_lesson]. [r_lessonReinforcement] [r_jainlessonReinforcement]"\n\n - [lessonAttribution]</li>
-     <li>lessonAttribution->[revision] du [book] de [founder_nameFull]</li>
-     <li>lessonAttribution->[revision] du [book] de [founder_nameFull], [edition]</li>
-     <li>lessonAttribution->sutras mémorisés de [founder_nameFull]</li>
-     <li>revision->interprétation</li>
-     <li>revision->méditations préservées</li>
-     <li>revision->réflexions théologiques</li>
-     <li>revision->réflexion</li>
-     <li>revision->rumination</li>
-     <li>book->enseignements de Mahavira</li>
-     <li>book->Agamas</li>
-     <li>book->sutras compilés</li>
-     <li>book->Purvas</li>
-     <li>edition->32e édition</li>
-     <li>edition->43e édition</li>
-     <li>edition->52e édition</li>
-     <li>edition->57e édition</li>
-    <li>jainistlessonIntro->C'est mon pays, c'est votre pays ; ce sont les conceptions des âmes étroites - pour les esprits libéraux, le monde entier est une famille. Je veux que vous compreniez :</li>
-    <li>jainistlessonIntro->Dans le bonheur et la souffrance, dans la joie et le chagrin, nous devrions considérer toutes les créatures comme nous nous considérons nous-mêmes. Cela nous apprend que</li>
-    <li>jainistlessonIntro->Certains idiots déclarent qu'un créateur a créé le monde. La doctrine selon laquelle le monde a été créé est malavisée et devrait être rejetée. Si Dieu a créé le monde, où était-il avant la création ? Ces réflexions m'ont appris une chose :</li>
-    <li>jainistlessonIntro->En enseignant les Agamas sacrés sur le [place_summary] [place_name], j'ai réalisé que</li>
-    <li>jainistlessonIntro->Que la paix gouverne l'univers ; que la paix règne dans les royaumes et les empires ; que la paix règne dans les États et dans les terres des potentats ; que la paix règne dans la maison des amis et que la paix règne aussi dans la maison des ennemis. En paix, vous vous rendrez compte que</li>
-    <li>jainistlessonIntro->Nous prêchons et pratiquons la fraternité - non seulement de l'homme mais de tous les êtres vivants - non seulement le dimanche mais tous les jours de la semaine. Nous croyons en la loi de justice universelle. Nous prêchons cela</li>
-    <li>jainistlessonIntro->Si l'esprit d'une personne est contrôlé par des forces de vengeance et de jalousie, il ne peut pas exprimer l'amour et la sympathie. Une chose deviendra alors de plus en plus claire : que</li>
-    <li>jainistlessonIntro->Un homme est assis au sommet d'un arbre au milieu d'une forêt en feu. Il voit périr tous les êtres vivants. Mais il ne se rend pas compte que le même sort va bientôt le rattraper aussi. Cet homme est un imbécile. Il doit comprendre que</li>
-    <li>jainistlessonIntro->L'attachement et l'aversion sont la cause profonde du karma, et le karma provient de l'engouement. Le karma est la cause profonde de la naissance et de la mort, et on dit que celles-ci sont la source de la misère. Personne ne peut échapper à l'effet de son propre karma passé. Une fois que vous vous serez libéré de l'attachement, vous verrez que</li>
-    <li>jainlessonReinforcement->Vivre et permettre aux autres de vivre ; blesser personne; la vie est chère à tous les êtres vivants.</li>
-    <li>jainlessonReinforcement->Par la sincérité, un homme acquiert une droiture physique, mentale et linguistique, et une tendance harmonieuse ; c'est-à-dire la congruence du discours et de l'action.</li>
-    <li>jainlessonReinforcement->Toutes les âmes sont égales et semblables et ont la même nature et qualités.</li>
-    <li>jainlessonReinforcement->Commencez la pratique de la maîtrise de soi avec une certaine pénitence ; commencer par le jeûne.</li>
-    <li>jainlessonReinforcement->La nature des choses est le dharma.</li>
-    <li>jainlessonReinforcement->Celui qui néglige ou ignore l'existence de la terre, de l'air, du feu, de l'eau et de la végétation ignore sa propre existence qui est liée à eux.</li>
-    <li>jainlessonReinforcement->L'âme est le point central de la discipline spirituelle.</li>
-    <li>jainlessonReinforcement->Manger constitue le plus grand obstacle à la maîtrise de soi ; cela donne lieu à l'indolence.</li>
-    <li>lessonReinforcement->Personne ne peut contester cela.</li>
-  </AM_JainistDescription.rules.rulesStrings>
-  
-  <!-- EN:
-    <li>lesson(priority=-1)->stuff happens</li>
-    <li>r_pattern->"[r_jewishlessonIntro] [r_lesson]. [r_lessonReinforcement] [r_jewlessonReinforcement]"\n\n  - [lessonAttribution]</li>
-    <li>lessonAttribution->[founder_nameFull]'s [revision] of the [book]</li>
-    <li>lessonAttribution->[founder_nameFull]'s [revision] of the [book], [edition]</li>
-    <li>revision->revision</li>
-    <li>revision->emendation</li>
-    <li>revision->edition</li>
-    <li>revision->correction</li>
-    <li>revision->alteration</li>
-    <li>book->Tanakh</li>
-    <li>book->Torah</li>
-    <li>book->Pentateuch</li>
-    <li>book->Nevi'im</li>
-    <li>book->Ketuvim</li>
-    <li>book->Talmud</li>
-    <li>edition->25th Edition</li>
-    <li>edition->3rd Edition</li>
-    <li>edition->12nd Edition</li>
-    <li>edition->37th Edition</li>
-    <li>jewishlessonIntro->Do not seek revenge or bear a grudge against anyone among your people, but love your neighbor as yourself. I am the LORD. I want you to understand:</li>
-    <li>jewishlessonIntro->Then Moses said, 'Now show me your glory.' And the Lord said, 'I will cause all my goodness to pass in front of you, and I will proclaim my name, the Lord, in your presence. I will have mercy on whom I will have mercy, and I will have compassion on whom I will have compassion.' This teaches us that</li>
-    <li>jewishlessonIntro->The LORD bless you and keep you; the LORD make his face shine upon you and be gracious to you; the LORD turn his face toward you and give you peace. The LORD did teach me one thing:</li>
-    <li>jewishlessonIntro->By teaching the Torah on the [place_summary] [place_name], I realized that</li>
-    <li>jewishlessonIntro->God is not a human, that he should lie, not a human being, that he should change his mind. Does he speak and then not act? Does he promise and not fulfill? You will realize that</li>
-    <li>jewishlessonIntro->And God said, Let us make man in our image, after our likeness: and let them have dominion over the fish of the sea, and over the fowl of the air, and over the cattle, and over all the earth. He was teaching that</li>
-    <li>jewishlessonIntro->For the life of a creature is in the blood, and I have given it to you to make atonement for yourselves on the altar; it is the blood that makes atonement for one's life. One thing will become increasingly clear then: that</li>
-    <li>jewishlessonIntro->Any man or woman who wrongs another in any way and so is unfaithful to the Lord is guilty and must confess the sin they have committed. Then they'll see that</li>
-    <li>jewishlessonIntro->In your unfailing love, you will lead the people you have redeemed. In your strength, you will guide them to your holy dwelling. Once that is achieved you will see that</li>
-    <li>jewlessonReinforcement->A righteous man falls down seven times and gets up.</li>
-    <li>jewlessonReinforcement->If you don't know what you're living for, you haven't yet lived.</li>
-    <li>jewlessonReinforcement->Gam zu l'tova. This too is for the good.</li>
-    <li>jewlessonReinforcement->I don't speak because I have the power to speak; I speak because I don't have the power to remain silent.</li>
-    <li>jewlessonReinforcement->There are no problems, only opportunities for growth.</li>
-    <li>jewlessonReinforcement->The salvation of God is like the blink of an eye.</li>
-    <li>jewlessonReinforcement->L’fum tzara agra, according to the effort is the reward.</li>
-    <li>jewlessonReinforcement->L’Chaim!</li>
-    <li>lessonReinforcement->No one can argue with that.</li>
-  -->
-  <AM_JewishDescription.rules.rulesStrings>
-    <li>lesson(priority=-1)->des chosent arrivent</li>
-    <li>r_pattern->“[r_jewishlessonIntro][r_lesson]. [r_lessonReinforcement][r_jewlessonReinforcement]"\n\n  - [lessonAttribution]</li>
-    <li>lessonAttribution->[founder_nameFull] [revision] du [book]</li>
-    <li>lessonAttribution->[founder_nameFull] [revision] du [book], [edition]</li>
-    <li>revision->révision</li>
-    <li>revision->correction</li>
-    <li>revision->édition</li>
-    <li>revision->correction</li>
-    <li>revision->modification</li>
-    <li>book->Tanakh</li>
-    <li>book->Torah</li>
-    <li>book->Pentateuque</li>
-    <li>book->Nevi'im</li>
-    <li>book->Ketuvim</li>
-    <li>book->Talmud</li>
-    <li>edition->25e édition</li>
-    <li>edition->3e édition</li>
-    <li>edition->12e édition</li>
-    <li>edition->37e édition</li>
-    <li>jewishlessonIntro->Ne cherche pas à te venger ni à en vouloir à personne parmi ton peuple, mais aime ton prochain comme toi-même. Je suis l'Éternel. Je veux que vous compreniez :</li>
-    <li>jewishlessonIntro->Moïse dit alors : 'Maintenant, montre-moi ta gloire.' Et le Seigneur dit : « Je ferai passer devant toi toute ma bonté, et je proclamerai mon nom, le Seigneur, devant toi. J'aurai pitié de qui j'aurai pitié, et j'aurai compassion de qui j'aurai compassion. Cela nous apprend que</li>
-    <li>jewishlessonIntro->Le SEIGNEUR vous bénisse et vous garde; que l'Éternel fasse briller sa face sur toi et te fasse grâce; l'Éternel tourne sa face vers toi et te donne la paix. Le SEIGNEUR m'a appris une chose :</li>
-    <li>jewishlessonIntro->En enseignant la Torah sur le [place_summary] [place_name], j'ai réalisé que</li>
-    <li>jewishlessonIntro->Dieu n'est pas un humain, qu'il doit mentir, pas un être humain, qu'il doit changer d'avis. Est-ce qu'il parle et n'agit pas? Promet-il et ne tient-il pas ? Vous vous en rendrez compte</li>
-    <li>jewishlessonIntro->Et Dieu dit : Faisons l'homme à notre image, selon notre ressemblance, et qu'il domine sur les poissons de la mer, sur les oiseaux du ciel, sur le bétail, et sur tous La terre. Il enseignait que</li>
-    <li>jewishlessonIntro->Car la vie d'une créature est dans le sang, et je vous l'ai donné pour faire propitiation pour vous sur l'autel; c'est le sang qui fait l'expiation pour sa vie. Une chose deviendra alors de plus en plus claire : que</li>
-    <li>jewishlessonIntro->Tout homme ou toute femme qui fait du tort à autrui de quelque manière que ce soit et qui est donc infidèle au Seigneur est coupable et doit confesser le péché qu'il a commis. Ensuite, ils verront que</li>
-    <li>jewishlessonIntro->Dans ton amour indéfectible, tu dirigeras le peuple que tu as racheté. Dans ta force, tu les guideras vers ta sainte demeure. Une fois que cela est réalisé, vous verrez que</li>
-    <li>jewlessonReinforcement->Un homme juste tombe sept fois et se relève.</li>
-    <li>jewlessonReinforcement->Si vous ne savez pas pourquoi vous vivez, vous n'avez pas encore vécu.</li>
-    <li>jewlessonReinforcement->Gam zu l'tova. Cela aussi est pour le bien.</li>
-    <li>jewlessonReinforcement->Je ne parle pas parce que j'ai le pouvoir de parler ; Je parle parce que je n'ai pas le pouvoir de me taire.</li>
-    <li>jewlessonReinforcement->Il n'y a pas de problèmes, seulement des opportunités de croissance.</li>
-    <li>jewlessonReinforcement->Le salut de Dieu est comme un clin d'œil.</li>
-    <li>jewlessonReinforcement->L'fum tzara agra, selon l'effort est la récompense.</li>
-    <li>jewlessonReinforcement->L'Chaim !</li>
-    <li>lessonReinforcement->Personne ne peut contester cela.</li>
-  </AM_JewishDescription.rules.rulesStrings>
-  
-  <!-- EN:
-    <li>lesson(priority=-1)->stuff happens</li>
-    <li>r_pattern->"[r_kemeticlessonIntro] [r_lesson]. [r_lessonReinforcement] [r_kemeticlessonReinforcement]"\n\n  - [lessonAttribution]</li>
-    <li>lessonAttribution->fragment of a [edited] [book] found [museum]</li>
-    <li>edited->heavily edited</li>
-    <li>edited->poorly translated</li>
-    <li>edited->ruined</li>
-    <li>edited->forgotten</li>
-    <li>edited->recovered</li>
-    <li>book->Book of the Dead</li>
-    <li>book->papyrus</li>
-    <li>book->funerary text</li>
-    <li>museum->in the archeological museum of Kalthas IV</li>
-    <li>museum->in the black market of Irithir</li>
-    <li>museum->in the hold of an imperial ship from Sophiamunda</li>
-    <li>museum->in the Novo Mosteiro dos Jerónimos in Aracena VI</li>
-    <li>museum->in ancient ruins on Ticonderoga</li>
-    <li>museum->by an artifact hunter on Ilwaba</li>
-    <li>kemeticlessonIntro->O you young men of Shu of the morning, who have power over those who flash among the sun-folk, whose arms move about and whose heads sway to and fro, may I move about every day. Understand:</li>
-    <li>kemeticlessonIntro->Behold Osiris Ani the scribe who recordeth the holy offerings of all the gods, who saith:</li>
-    <li>kemeticlessonIntro->Hail all ye gods of the Temple of the Soul, who weigh heaven and earth in the balance, and who provide food and abundance of meat. They teach us one thing:</li>
-    <li>kemeticlessonIntro->The House of the Prince keepeth festival, and the sound of those who rejoice is in the mighty dwelling. The gods are glad when we realize that</li>
-    <li>kemeticlessonIntro->Behold Osiris, Qenna the merchant, who saith: "Homage to thee, in thy rising thou Tmu in thy crowns of beauty. Thou risest, thou risest, thou Ra shinest, thou shinest, at dawn of day. Preach that</li>
-    <li>kemeticlessonIntro->Homage to thee, O thou glorious Being, thou who art provided with all things. O Tmu-Heru-khuti, when thou risest in the horizon of heaven, a cry cometh out of the mouth of all peoples:</li>
-    <li>kemeticlessonIntro->I am Tmu-Khepera, who gave birth unto himself upon the thigh of his divine mother. Those who are in Nu are made wolves, and those who are among the godlike rulers are become. Realize that</li>
-    <li>kemeticlessonIntro->Hail, Bull of Amenta. I am brought unto thee, I am the oar of Ra wherewith he ferried over the aged ones; let me not be buried nor consumed. I thus declare:</li>
-    <li>kemeticlessonReinforcement->Hail, Tmu, grant thou unto me the sweet breath which is in thy two nostrils.</li>
-    <li>kemeticlessonReinforcement->Thou risest, O still heart! Thou shinest, O still heart!</li>
-    <li>kemeticlessonReinforcement->The blood of Isis, the charms of Isis, the power of Isis, are a protection unto me, the chief, and they crush that which I abhor.</li>
-    <li>kemeticlessonReinforcement->I am the soul of Ra, and the guide of the gods into the underworld. The souls come forth upon earth to do the will of their ka's.</li>
-    <li>kemeticlessonReinforcement->O Lord of Amentet, I am in thy presence. There is no sin in me.</li>
-    <li>kemeticlessonReinforcement->Hail, thou bearer of the sistrum, who comest forth from Nu, I have not spoken scornfully.</li>
-    <li>kemeticlessonReinforcement->Homage to you, O ye gods who live in your hall of Right and Truth, and who have no evil in your bodies.</li>
-    <li>kemeticlessonReinforcement->I have rested in Hemet, on the north of the field of the grasshoppers, wherein the holy mariners do purify themselves in the night season.</li>
-    <li>lessonReinforcement->No one can argue with that.</li>
-  -->
-  <AM_KemeticDescription.rules.rulesStrings>
-    <li>lesson(priority=-1)->des chosent arrivent</li>
-    <li>r_pattern->“[r_kemeticlessonIntro][r_lesson]. [r_lessonReinforcement][r_kemeticlessonReinforcement]"\n\n  - [lessonAttribution]</li>
-    <li>lessonAttribution->fragment of a [edited] [book] found [museum]</li>
-    <li>edited->fortement édité</li>
-    <li>edited->mal traduit</li>
-    <li>edited->ruiné</li>
-    <li>edited->oublié</li>
-    <li>edited->récupéré</li>
-    <li>book->Livre des morts</li>
-    <li>book->papyrus</li>
-    <li>book->texte funéraire</li>
-    <li>museum->dans le musée archéologique de Kalthas IV</li>
-    <li>museum->au marché noir d'Irithir</li>
-    <li>museum->dans la cale d'un navire impérial de Sophiamunda</li>
-    <li>museum->dans le Novo Mosteiro dos Jerónimos à Aracena VI</li>
-    <li>museum->dans les ruines antiques de Ticonderoga</li>
-    <li>museum->par un chasseur d'artefacts sur Ilwaba</li>
-    <li>kemeticlessonIntro->O vous les jeunes hommes de Shu du matin, qui avez du pouvoir sur ceux qui brillent parmi les gens du soleil, dont les bras bougent et dont la tête se balance d'avant en arrière, puissé-je bouger chaque jour. Comprendre :</li>
-    <li>kemeticlessonIntro->Voici Osiris Ani le scribe qui enregistre les saintes offrandes de tous les dieux, qui dit :</li>
-    <li>kemeticlessonIntro->Salut à vous tous les dieux du Temple de l'Âme, qui pèsez le ciel et la terre dans la balance, et qui fournissez nourriture et abondance de viande. Ils nous enseignent une chose :</li>
-    <li>kemeticlessonIntro->La Maison du Prince célèbre la fête, et le son de ceux qui se réjouissent est dans la demeure puissante. Les dieux sont heureux quand nous réalisons que</li>
-    <li>kemeticlessonIntro->Voici Osiris, Qenna le marchand, qui dit : "Hommage à toi, dans ton ascension tu Tmu dans tes couronnes de beauté. Prêchez cela</li>
-    <li>kemeticlessonIntro->Hommage à toi, ô être glorieux, toi qui es pourvu de toutes choses. O Tmu-Heru-khuti, quand tu t'élèves à l'horizon du ciel, un cri sort de la bouche de tous les peuples :</li>
-    <li>kemeticlessonIntro->Je suis Tmu-Khepera, qui s'est enfanté sur la cuisse de sa mère divine. Ceux qui sont à Nu sont devenus des loups, et ceux qui sont parmi les dirigeants divins sont devenus. Comprenez que</li>
-    <li>kemeticlessonIntro->Salut, Taureau d'Amenta. Je te suis amené, je suis la rame de Ra avec laquelle il transportait les vieillards ; que je ne sois ni enterré ni consumé. Je déclare donc :</li>
-    <li>kemeticlessonReinforcement->Salut, Tmu, accorde-moi le doux souffle qui est dans tes deux narines.</li>
-    <li>kemeticlessonReinforcement->Tu te lèves, ô cœur immobile ! Tu brilles, ô cœur immobile !</li>
-    <li>kemeticlessonReinforcement->Le sang d'Isis, les charmes d'Isis, le pouvoir d'Isis, sont une protection pour moi, le chef, et ils écrasent ce que j'abhorre.</li>
-    <li>kemeticlessonReinforcement->Je suis l'âme de Ra et le guide des dieux dans le monde souterrain. Les âmes viennent sur terre pour faire la volonté de leur ka.</li>
-    <li>kemeticlessonReinforcement->Ô Seigneur d'Amentet, je suis en ta présence. Il n'y a pas de péché en moi.</li>
-    <li>kemeticlessonReinforcement->Salut, porteur du sistre, qui sort de Nu, je n'ai pas parlé avec mépris.</li>
-    <li>kemeticlessonReinforcement->Hommage à vous, ô dieux qui vivez dans votre hall du Droit et de la Vérité, et qui n'avez aucun mal dans vos corps.</li>
-    <li>kemeticlessonReinforcement->Je me suis reposé à Hemet, au nord du champ des sauterelles, où les saints marins se purifient pendant la saison nocturne.</li>
-    <li>lessonReinforcement->Personne ne peut contester cela.</li>
-  </AM_KemeticDescription.rules.rulesStrings>
-  
-  <!-- EN:
-    <li>lesson(priority=-1)->stuff happens</li>
-    <li>r_pattern->"[r_sikhlessonIntro] [r_lesson]. [r_lessonReinforcement] [r_sikhlessonReinforcement]"\n\n  - [lessonAttribution]</li>
-    <li>lessonAttribution->[founder_nameFull]'s [revision] of the [book]</li>
-    <li>lessonAttribution->[founder_nameFull]'s [revision] of the [book], [edition]</li>
-    <li>revision->writings</li>
-    <li>revision->contemplations</li>
-    <li>revision->theological debates</li>
-    <li>revision->pondering</li>
-    <li>revision->meditation</li>
-    <li>book->Guru Granth Sahib</li>
-    <li>book->Sarbloh Granth</li>
-    <li>book->Adi Sri Granth Sahib</li>
-    <li>book->Dasam Granth</li>
-    <li>edition->2nd Edition</li>
-    <li>edition->13th Edition</li>
-    <li>edition->38th Edition</li>
-    <li>edition->49th Edition</li>
-    <li>sikhlessonIntro->Truth is the highest of all virtues, but higher than truth is true conduct. I want you to understand:</li>
-    <li>sikhlessonIntro->The fool indulges in sensual pleasures which in the end lead to pain. Easy and sinful life is the Cause of diseases. This teaches us that</li>
-    <li>sikhlessonIntro->Neither do I call myself good nor I see any one bad. These contemplations did teach me one thing:</li>
-    <li>sikhlessonIntro->By teaching the sacred words of the Guru Granth Sahib on the [place_summary] [place_name], I realized that</li>
-    <li>sikhlessonIntro->In this life our actions are the ink and mind the paper, we inscribe on it the two writings of good and evil. In time you will realize that</li>
-    <li>sikhlessonIntro->When the mind is not pure, what is the good of practicing outward cleanliness? We preach that</li>
-    <li>sikhlessonIntro->There is only one air, earth and only one light of the God in each being. One thing will become increasingly clear then: that</li>
-    <li>sikhlessonIntro->The word (Shabad) is the Guru, And the mind attuned to the Shabad is the disciple. He needs to realize that</li>
-    <li>sikhlessonIntro->For the sake of wealth, the mortals become servants and thieves. But it goes not with them and remains behind for another. Once you free yourself from material attachment you will see that</li>
-    <li>sikhlessonReinforcement->The glories are in the Lord’s own hand. He blesses those with whom He is pleased.</li>
-    <li>sikhlessonReinforcement->He alone is a wise man, who gains spiritual knowledge through meditation upon the divine virtues.</li>
-    <li>sikhlessonReinforcement->Every one say that the Lord is one, but each one is engrossed in ego and pride.</li>
-    <li>sikhlessonReinforcement->If he who plays the tyrant, is honoured, then deem it to be the surest sign of the Dark Age.</li>
-    <li>sikhlessonReinforcement->A saint is better off without bathing. A thief is always a thief whether he bathes in sacred waters, or not.</li>
-    <li>sikhlessonReinforcement->We are men of but one breath and know not the appointed time and moment of our departure from this world.</li>
-    <li>sikhlessonReinforcement->Meet the Lord through contemplation and your anxieties will be dispelled.</li>
-    <li>sikhlessonReinforcement->When man abandons desire, then alone does he become a true renouncer.</li>
-    <li>lessonReinforcement->No one can argue with that.</li>
-  -->
-  <AM_SikhDescription.rules.rulesStrings>
-    <li>lesson(priority=-1)->des chosent arrivent</li>
-    <li>r_pattern->“[r_sikhlessonIntro][r_lesson].[r_lessonReinforcement][r_sikhlessonReinforcement]"\n\n  - [lessonAttribution]</li>
-    <li>lessonAttribution->[founder_nameFull] [revision] du [book]</li>
-    <li>lessonAttribution->[founder_nameFull] [revision] du [book], [edition]</li>
-    <li>revision->écritures</li>
-    <li>revision->contemplations</li>
-    <li>revision->débats théologiques</li>
-    <li>revision->réflexion</li>
-    <li>revision->méditation</li>
-    <li>book->Guru Granth Sahib</li>
-    <li>book->Sarbloh Granth</li>
-    <li>book->Adi Sri Granth Sahib</li>
-    <li>book->Dasam Granth</li>
-    <li>edition->2e édition</li>
-    <li>edition->13e édition</li>
-    <li>edition->38e édition</li>
-    <li>edition->49e édition</li>
-    <li>sikhlessonIntro->La vérité est la plus haute de toutes les vertus, mais la vraie conduite est plus élevée que la vérité. Je veux que vous compreniez :</li>
-    <li>sikhlessonIntro->Le fou s'adonne à des plaisirs sensuels qui finissent par provoquer de la douleur. La vie facile et pécheresse est la cause des maladies. Cela nous apprend que</li>
-    <li>sikhlessonIntro->Je ne me dis pas bon et je ne vois personne de mauvais. Ces contemplations m'ont appris une chose :</li>
-    <li>sikhlessonIntro->En enseignant les mots sacrés du Guru Granth Sahib sur le [place_summary] [place_name], j'ai réalisé que</li>
-    <li>sikhlessonIntro->Dans cette vie nos actions sont l'encre et l'esprit le papier, nous y inscrivons les deux écritures du bien et du mal. Avec le temps, vous vous rendrez compte que</li>
-    <li>sikhlessonIntro->Lorsque l'esprit n'est pas pur, à quoi bon pratiquer la propreté extérieure ? Nous prêchons cela</li>
-    <li>sikhlessonIntro->Il n'y a qu'un seul air, une seule terre et une seule lumière du Dieu dans chaque être. Une chose deviendra alors de plus en plus claire : que</li>
-    <li>sikhlessonIntro->Le mot (Shabad) est le gourou, et l'esprit accordé au Shabad est le disciple. Il doit comprendre que</li>
-    <li>sikhlessonIntro->Pour la richesse, les mortels deviennent des serviteurs et des voleurs. Mais il ne va pas avec eux et reste en arrière pour un autre. Une fois que vous vous serez libéré de l'attachement matériel, vous verrez que</li>
-    <li>sikhlessonReinforcement->Les gloires sont entre les mains du Seigneur. Il bénit ceux dont Il est satisfait.</li>
-    <li>sikhlessonReinforcement->Lui seul est un homme sage, qui acquiert la connaissance spirituelle par la méditation sur les vertus divines.</li>
-    <li>sikhlessonReinforcement->Tout le monde dit que le Seigneur est un, mais chacun est absorbé par l'ego et l'orgueil.</li>
-    <li>sikhlessonReinforcement->Si celui qui joue le tyran est honoré, alors considérez que c'est le signe le plus sûr de l'âge sombre.</li>
-    <li>sikhlessonReinforcement->Un saint est mieux sans se baigner. Un voleur est toujours un voleur, qu'il se baigne ou non dans des eaux sacrées.</li>
-    <li>sikhlessonReinforcement->Nous sommes des hommes d'un seul souffle et ne connaissons pas l'heure et le moment fixés de notre départ de ce monde.</li>
-    <li>sikhlessonReinforcement->Rencontrez le Seigneur par la contemplation et vos angoisses seront dissipées.</li>
-    <li>sikhlessonReinforcement->Lorsque l'homme abandonne le désir, alors seul devient-il un véritable renonçant.</li>
-    <li>lessonReinforcement->Personne ne peut contester cela.</li>
-  </AM_SikhDescription.rules.rulesStrings>
-  
-  <!-- EN:
-    <li>lesson(priority=-1)->stuff happens</li>
-    <li>r_pattern->"[r_steampunklessonIntro] [r_lesson]. [r_lessonReinforcement]"\n\n  - [lessonAttribution]</li>
-    <li>lessonAttribution->[founder_nameFull]'s [book] on [concept]</li>
-    <li>book->lecture</li>
-    <li>book->letter</li>
-    <li>book->studies</li>
-    <li>book->encyclopedia</li>
-    <li>book->critique</li>
-    <li>concept->ancient technologies</li>
-    <li>concept->the resurgence of the past</li>
-    <li>concept->the steam engine</li>
-    <li>concept->the neo-Victorian era</li>
-    <li>concept->the analytical AI</li>
-    <li>concept->the Brass Chronicles</li>
-    <li>steampunklessonIntro->The perfection of the ceramic heat cell and flameless combustion ushered in an era of invention and creativity in the early days of space exploration. The great philosophers of that era taught us that</li>
-    <li>steampunklessonIntro->As we all know, the Caloric Porous Structure Cell -CPSC-, is a ceramic device to burn a fuel without flame, converting the thermal energy to mechanical work. Its refinement ushered in an era of technological wonders, with its greatest philosophers preaching that</li>
-    <li>steampunklessonIntro->There is a lot to be learned of the past, specially of that particular period in the 22nd century. It teaches us one thing:</li>
-    <li>steampunklessonIntro->Some argue that it was the refinement of modern steam technology that led to a period of technological wonders in the mid 22nd century. Others say it was pure nostalgia for a past that never was. The mainstream sentiment among people in that era was that</li>
-    <li>steampunklessonIntro->Let's face it: humanity was drowning on its own refuse. Polluting energy sources were choking us into extinction. The ceramic heat cell ended all that, providing a fuel source with very low emissions. This affected everything, from science to philosophy, with the mainstream philosophical currents postulating that</li>
-    <li>steampunklessonIntro->The perfection of flameless combustion on the 22nd century was revolutionary. Society was shook to its core, and great philosophers arose that taught us that</li>
-    <li>lessonReinforcement->No one can argue with that.</li>
-  -->
-  <AM_SteampunkRevivalDescription.rules.rulesStrings>
-    <li>lesson(priority=-1)->des chosent arrivent</li>
-    <li>r_pattern->"[r_steampunklessonIntro][r_lesson].[r_lessonReinforcement]"\n\n  - [lessonAttribution]</li>
-    <li>lessonAttribution->[book] de [founder_nameFull] sur [concept]</li>
-    <li>book->conférence</li>
-    <li>book->lettre</li>
-    <li>book->études</li>
-    <li>book->encyclopédie</li>
-    <li>book->critique</li>
-    <li>concept->technologies anciennes</li>
-    <li>concept->la résurgence du passé</li>
-    <li>concept->la machine à vapeur</li>
-    <li>concept->l'époque néo-victorienne</li>
-    <li>concept->l'IA analytique</li>
-    <li>concept->les chroniques des cuivres</li>
-    <li>steampunklessonIntro->La perfection de la cellule thermique en céramique et la combustion sans flamme ont inauguré une ère d'invention et de créativité dans les premiers jours de l'exploration spatiale. Les grands philosophes de cette époque nous ont appris que</li>
-    <li>steampunklessonIntro->Comme nous le savons tous, la cellule à structure poreuse calorique -CPSC-, est un dispositif en céramique pour brûler un combustible sans flamme, convertissant l'énergie thermique en travail mécanique. Son raffinement a inauguré une ère de merveilles technologiques, avec ses plus grands philosophes prêchant cela</li>
-    <li>steampunklessonIntro->Il y a beaucoup à apprendre du passé, spécialement de cette période particulière du 22ème siècle. Cela nous apprend une chose :</li>
-    <li>steampunklessonIntro->Certains prétendent que c'est le raffinement de la technologie moderne de la vapeur qui a conduit à une période de merveilles technologiques au milieu du 22ème siècle. D'autres disent que c'était de la pure nostalgie d'un passé qui n'a jamais existé. Le sentiment dominant parmi les gens de cette époque était que</li>
-    <li>steampunklessonIntro-> Avouons-le : l'humanité se noyait dans ses propres déchets. Les sources d'énergie polluantes nous étouffaient jusqu'à l'extinction. La cellule thermique en céramique a mis fin à tout cela, fournissant une source de carburant à très faibles émissions. Cela a tout affecté, de la science à la philosophie, les courants philosophiques dominants postulant que</li>
-    <li>steampunklessonIntro->La perfection de la combustion sans flamme au 22ème siècle était révolutionnaire. La société a été profondément ébranlée et de grands philosophes ont surgi qui nous ont appris que</li>
-    <li>lessonReinforcement->Personne ne peut contester cela.</li>
-  </AM_SteampunkRevivalDescription.rules.rulesStrings>
-  
+
+<!-- EN:
+  <li>lesson(priority=-1)->stuff happens</li>
+  <li>r_pattern->"[r_atheismlessonIntro] [r_lesson]. [r_lessonReinforcement] [r_atheismlessonReinforcement]"\n\n  - [lessonAttribution]</li>
+  <li>lessonAttribution->[founder_nameFull]'s [book] on [concept]</li>
+  <li>book->lecture</li>
+  <li>book->letter</li>
+  <li>book->conference</li>
+  <li>book->address</li>
+  <li>book->discourse</li>
+  <li>concept->the Death of God</li>
+  <li>concept->Non-belief</li>
+  <li>concept->Scepticism</li>
+  <li>concept->Irreligion</li>
+  <li>concept->Godlessness</li>
+  <li>concept->the Rejection of Magical Thinking</li>
+  <li>concept->Enlightened Humanism</li>
+  <li>atheismlessonIntro->... thus what is wanted are blindness and intoxication and an eternal song over the waves in which reason has drowned. The objective of religion is clear, hiding to us that</li>
+  <li>atheismlessonIntro->Human decency is not derived from religion. It precedes it. Once you understand that it becomes clear:</li>
+  <li>atheismlessonIntro->Atheism is more than just the knowledge that gods do not exist, and that religion is either a mistake or a fraud. Atheism is an attitude. It teaches us one thing:</li>
+  <li>atheismlessonIntro->Religion is excellent stuff for keeping common people quiet. The more controlled they are the longer it takes them to realize that</li>
+  <li>atheismlessonIntro->There is something infantile in the presumption that somebody else has a responsibility to give your life meaning and point. Only you can realize that</li>
+  <li>atheismlessonIntro->Being a Humanist means trying to behave decently without expectation of rewards or punishment after you are dead. You will show everyone that</li>
+  <li>atheismlessonIntro->When one person suffers from a delusion, it is called insanity. When many people suffer from a delusion it is called a Religion. Only those who are free from magical thinking can see that</li>
+  <li>atheismlessonIntro->I believe the simplest explanation is, there is no God. No one created the universe and no one directs our fate. This leads me to a profound realization that</li>
+  <li>atheismlessonReinforcement->We can judge our progress by the courage of our questions and the depth of our answers, our willingness to embrace what is true rather than what feels good.</li>
+  <li>atheismlessonReinforcement->The more I learn about the universe, the less convinced I am that there's any sort of benevolent force that has anything to do with it, at all.</li>
+  <li>atheismlessonReinforcement->After coming into contact with a religious man I always feel I must wash my hands.</li>
+  <li>atheismlessonReinforcement->I don't want to believe. I want to know.</li>
+  <li>atheismlessonReinforcement->With or without religion, good people can behave well and bad people can do evil; but for good people to do evil - that takes religion.</li>
+  <li>atheismlessonReinforcement->Civilization will not attain to its perfection until the last stone from the last church falls on the last priest.</li>
+  <li>atheismlessonReinforcement->We must question the story logic of having an all-knowing all-powerful God, who creates faulty Humans, and then blames them for his own mistakes.</li>
+  <li>atheismlessonReinforcement->If there is a God, atheism must seem to Him as less of an insult than religion.</li>
+  <li>atheismlessonReinforcement->When people ask me if a god created the universe, I tell them that the question itself makes no sense.</li>
+  <li>lessonReinforcement->No one can argue with that.</li>
+-->
+<AM_AtheismDescription.rules.rulesStrings>
+  <li>lesson(priority=-1)->des choses arrivent</li>
+  <li>r_pattern->“[r_atheismlessonIntro][r_lesson].[r_lessonReinforcement][r_atheismlessonReinforcement]"\n\n  - [lessonAttribution]</li>
+  <li>lessonAttribution->[book] de [founder_nameFull] sur [concept]</li>
+  <li>book->Lecture</li>
+  <li>book->Lettre</li>
+  <li>book->Conférence</li>
+  <li>book->Allocution</li>
+  <li>book->Discours</li>
+  <li>concept->the Death of God</li>
+  <li>concept->la non-croyance</li>
+  <li>concept->le scepticisme</li>
+  <li>concept->l'irréligion</li>
+  <li>concept->l'impiété</li>
+  <li>concept->le rejet de la pensée magique</li>
+  <li>concept->l'humanisme éclairé</li>
+  <li>atheismlessonIntro->... donc ce qu'il faut c'est l'aveuglement et l'ivresse et un chant éternel sur les flots où la raison s'est noyée. L'objectif de la religion est clair, nous cachant que</li>
+  <li>atheismlessonIntro->La décence humaine ne dérive pas de la religion. Elle la précède. Une fois que vous avez compris cela, cela devient clair :</li>
+  <li>atheismlessonIntro->L'athéisme est plus que la simple connaissance que les dieux n'existent pas et que la religion est soit une erreur, soit une fraude. L'athéisme est une attitude. Cela nous apprend une chose :</li>
+  <li>atheismlessonIntro->La religion est un excellent moyen de faire taire les gens ordinaires. Plus ils sont contrôlés, plus il leur faut de temps pour réaliser que</li>
+  <li>atheismlessonIntro->Il y a quelque chose d'infantile dans la présomption que quelqu'un d'autre a la responsabilité de donner un sens et un but à votre vie. Vous seul pouvez le réaliser</li>
+  <li>atheismlessonIntro->Être un humaniste signifie essayer de se comporter décemment sans s'attendre à des récompenses ou des punitions après votre mort. Vous montrerez à tout le monde que</li>
+  <li>atheismlessonIntro->Lorsqu'une personne souffre d'une illusion, cela s'appelle la folie. Lorsque de nombreuses personnes souffrent d'une illusion, cela s'appelle une religion. Seuls ceux qui sont libres de la pensée magique peuvent voir cela</li>
+  <li>atheismlessonIntro->Je crois que l'explication la plus simple est qu'il n'y a pas de Dieu. Personne n'a créé l'univers et personne ne dirige notre destin. Cela m'amène à une prise de conscience profonde que</li>
+  <li>atheismlessonReinforcement->Nous pouvons juger de nos progrès par le courage de nos questions et la profondeur de nos réponses, notre volonté d'embrasser ce qui est vrai plutôt que ce qui fait du bien.</li>
+  <li>atheismlessonReinforcement->Plus j'en apprends sur l'univers, moins je suis convaincu qu'il existe une sorte de force bienveillante qui a quelque chose à voir avec lui, du tout.</li>
+  <li>atheismlessonReinforcement->Après être entré en contact avec un homme religieux, je sens toujours que je dois me laver les mains.</li>
+  <li>atheismlessonReinforcement->Je ne veux pas croire. Je veux savoir.</li>
+  <li>atheismlessonReinforcement->Avec ou sans religion, les bonnes personnes peuvent bien se comporter et les mauvaises personnes peuvent faire le mal ; mais pour que les bonnes personnes fassent le mal - cela prend de la religion.</li>
+  <li>atheismlessonReinforcement->La civilisation n'atteindra pas sa perfection tant que la dernière pierre de la dernière église ne tombera pas sur le dernier prêtre.</li>
+  <li>atheismlessonReinforcement->Nous devons remettre en question la logique de l'histoire d'avoir un Dieu omniscient et tout-puissant, qui crée des humains défectueux, puis les blâme pour ses propres erreurs.</li>
+  <li>atheismlessonReinforcement->S'il y a un Dieu, l'athéisme doit lui sembler moins une insulte que la religion.</li>
+  <li>atheismlessonReinforcement->Quand les gens me demandent si un dieu a créé l'univers, je leur réponds que la question elle-même n'a aucun sens.</li>
+  <li>lessonReinforcement->Personne ne peut contester cela.</li>
+</AM_AtheismDescription.rules.rulesStrings>
+
+<!-- EN:
+  <li>lesson(priority=-1)->stuff happens</li>
+  <li>r_pattern->"[r_jainistlessonIntro] [r_lesson]. [r_lessonReinforcement] [r_jainlessonReinforcement]"\n\n  - [lessonAttribution]</li>
+  <li>lessonAttribution->[founder_nameFull]'s [revision] of the [book]</li>
+  <li>lessonAttribution->[founder_nameFull]'s [revision] of the [book], [edition]</li>
+  <li>lessonAttribution->[founder_nameFull]'s memorized sutras</li>
+  <li>revision->interpretation</li>
+  <li>revision->preserved meditations</li>
+  <li>revision->theological musings</li>
+  <li>revision->reflection</li>
+  <li>revision->rumination</li>
+  <li>book->teachings of Mahavira</li>
+  <li>book->Agamas</li>
+  <li>book->compiled sutras</li>
+  <li>book->Purvas</li>
+  <li>edition->32nd Edition</li>
+  <li>edition->43rd Edition</li>
+  <li>edition->52nd Edition</li>
+  <li>edition->57th Edition</li>
+  <li>jainistlessonIntro->This is my country, that is your country; these are the conceptions of narrow souls - to the liberal minded the whole world is a family. I want you to understand:</li>
+  <li>jainistlessonIntro->In happiness and suffering, in joy and grief, we should regard all creatures as we regard our own self. This teaches us that</li>
+  <li>jainistlessonIntro->Some foolish men declare that a creator made the world. The doctrine that the world was created is ill advised and should be rejected. If God created the world, where was he before the creation? These musings did teach me one thing:</li>
+  <li>jainistlessonIntro->By teaching the sacred Agamas on the [place_summary] [place_name], I realized that</li>
+  <li>jainistlessonIntro->May peace rule the universe; may peace rule in kingdoms and empires; may peace rule in states and in the lands of the potentates; may peace rule in the house of friends and may peace also rule in the house of enemies. In peace you will realize that</li>
+  <li>jainistlessonIntro->We preach and practice brotherhood — not only of man but of all living beings — not on Sundays only but on all the days of the week. We believe in the law of universal justice. We preach that</li>
+  <li>jainistlessonIntro->If a person's mind is controlled by forces of revenge and jealousy, it cannot express love and sympathy. One thing will become increasingly clear then: that</li>
+  <li>jainistlessonIntro->A man is seated on top of a tree in the midst of a burning forest. He sees all living beings perish. But he doesn’t realize that the same fate is soon to overtake him also. That man is a fool. He needs to realize that</li>
+  <li>jainistlessonIntro->Attachment and aversion are the root cause of karma, and karma originates from infatuation. Karma is the root cause of birth and death, and these are said to be the source of misery. None can escape the effect of their own past karma. Once you free yourself from attachment you will see that</li>
+  <li>jainlessonReinforcement->Live and allow others to live; hurt no one; life is dear to all living beings.</li>
+  <li>jainlessonReinforcement->By sincerity, a man gains physical, mental and linguistic straightforwardness, and harmonious tendency; that is, congruence of speech and action.</li>
+  <li>jainlessonReinforcement->All souls are equal and alike and have the similar nature and qualities.</li>
+  <li>jainlessonReinforcement->Start the practice of self-control with some penance; begin with fasting.</li>
+  <li>jainlessonReinforcement->The nature of things is dharma.</li>
+  <li>jainlessonReinforcement->One who neglects or disregards the existence of earth, air, fire, water and vegetation disregards his own existence which is entwined with them.</li>
+  <li>jainlessonReinforcement->Soul is the central point of spiritual discipline.</li>
+  <li>jainlessonReinforcement->Eating constitutes the greatest obstacle to self-control; it gives rise to indolence.</li>
+  <li>lessonReinforcement->No one can argue with that.</li>
+-->
+<AM_JainistDescription.rules.rulesStrings>
+  <li>lesson(priority=-1)->des choses arrivent</li>
+  <li>r_pattern->"[r_jainistlessonIntro] [r_lesson]. [r_lessonReinforcement] [r_jainlessonReinforcement]"\n\n - [lessonAttribution]</li>
+  <li>lessonAttribution->[revision] [founder_nameFull] sur les [book]</li>
+  <li>lessonAttribution->[revision] [founder_nameFull] sur les [book], [edition]</li>
+  <li>lessonAttribution->Les sutras mémorisés par [founder_nameFull]</li>
+  <li>revision->L'interprétation par</li>
+  <li>revision->Les méditations préservées de</li>
+  <li>revision->Les réflexions théologiques de</li>
+  <li>revision->Réflexion de</li>
+  <li>revision->La rumination de</li>
+  <li>book->enseignements de Mahāvīra</li>
+  <li>book->Agamas</li>
+  <li>book->sutras compilés</li>
+  <li>book->Purvas</li>
+  <li>edition->32e édition</li>
+  <li>edition->43e édition</li>
+  <li>edition->52e édition</li>
+  <li>edition->57e édition</li>
+  <li>jainistlessonIntro->C'est mon pays, c'est votre pays ; ce sont les conceptions des âmes étroites - pour les esprits libéraux, le monde entier est une famille. Je veux que vous compreniez :</li>
+  <li>jainistlessonIntro->Dans le bonheur et la souffrance, dans la joie et le chagrin, nous devrions considérer toutes les créatures comme nous nous considérons nous-mêmes. Cela nous apprend que</li>
+  <li>jainistlessonIntro->Certains idiots déclarent qu'un créateur a créé le monde. La doctrine selon laquelle le monde a été créé est malavisée et devrait être rejetée. Si Dieu a créé le monde, où était-il avant la création ? Ces réflexions m'ont appris une chose :</li>
+  <li>jainistlessonIntro->En enseignant les Agamas sacrés sur le [place_summary] [place_name], j'ai réalisé que</li>
+  <li>jainistlessonIntro->Que la paix gouverne l'univers ; que la paix règne dans les royaumes et les empires ; que la paix règne dans les États et dans les terres des potentats ; que la paix règne dans la maison des amis et que la paix règne aussi dans la maison des ennemis. En paix, vous vous rendrez compte que</li>
+  <li>jainistlessonIntro->Nous prêchons et pratiquons la fraternité - non seulement de l'homme mais de tous les êtres vivants - non seulement le dimanche mais tous les jours de la semaine. Nous croyons en la loi de justice universelle. Nous prêchons cela</li>
+  <li>jainistlessonIntro->Si l'esprit d'une personne est contrôlé par des forces de vengeance et de jalousie, il ne peut pas exprimer l'amour et la sympathie. Une chose deviendra alors de plus en plus claire : que</li>
+  <li>jainistlessonIntro->Un homme est assis au sommet d'un arbre au milieu d'une forêt en feu. Il voit périr tous les êtres vivants. Mais il ne se rend pas compte que le même sort va bientôt le rattraper aussi. Cet homme est un imbécile. Il doit comprendre que</li>
+  <li>jainistlessonIntro->L'attachement et l'aversion sont la cause profonde du karma, et le karma provient de l'engouement. Le karma est la cause profonde de la naissance et de la mort, et on dit que celles-ci sont la source de la misère. Personne ne peut échapper à l'effet de son propre karma passé. Une fois que vous vous serez libéré de l'attachement, vous verrez que</li>
+  <li>jainlessonReinforcement->Vivre et permettre aux autres de vivre ; blesser personne; la vie est chère à tous les êtres vivants.</li>
+  <li>jainlessonReinforcement->Par la sincérité, un homme acquiert une droiture physique, mentale et linguistique, et une tendance harmonieuse ; c'est-à-dire la congruence du discours et de l'action.</li>
+  <li>jainlessonReinforcement->Toutes les âmes sont égales et semblables et ont la même nature et qualités.</li>
+  <li>jainlessonReinforcement->Commencez la pratique de la maîtrise de soi avec une certaine pénitence ; commencer par le jeûne.</li>
+  <li>jainlessonReinforcement->La nature des choses est le dharma.</li>
+  <li>jainlessonReinforcement->Celui qui néglige ou ignore l'existence de la terre, de l'air, du feu, de l'eau et de la végétation ignore sa propre existence qui est liée à eux.</li>
+  <li>jainlessonReinforcement->L'âme est le point central de la discipline spirituelle.</li>
+  <li>jainlessonReinforcement->Manger constitue le plus grand obstacle à la maîtrise de soi ; cela donne lieu à l'indolence.</li>
+  <li>lessonReinforcement->Personne ne peut contester cela.</li>
+</AM_JainistDescription.rules.rulesStrings>
+
+<!-- EN:
+  <li>lesson(priority=-1)->stuff happens</li>
+  <li>r_pattern->"[r_jewishlessonIntro] [r_lesson]. [r_lessonReinforcement] [r_jewlessonReinforcement]"\n\n  - [lessonAttribution]</li>
+  <li>lessonAttribution->[founder_nameFull]'s [revision] of the [book]</li>
+  <li>lessonAttribution->[founder_nameFull]'s [revision] of the [book], [edition]</li>
+  <li>revision->revision</li>
+  <li>revision->emendation</li>
+  <li>revision->edition</li>
+  <li>revision->correction</li>
+  <li>revision->alteration</li>
+  <li>book->Tanakh</li>
+  <li>book->Torah</li>
+  <li>book->Pentateuch</li>
+  <li>book->Nevi'im</li>
+  <li>book->Ketuvim</li>
+  <li>book->Talmud</li>
+  <li>edition->25th Edition</li>
+  <li>edition->3rd Edition</li>
+  <li>edition->12nd Edition</li>
+  <li>edition->37th Edition</li>
+  <li>jewishlessonIntro->Do not seek revenge or bear a grudge against anyone among your people, but love your neighbor as yourself. I am the LORD. I want you to understand:</li>
+  <li>jewishlessonIntro->Then Moses said, 'Now show me your glory.' And the Lord said, 'I will cause all my goodness to pass in front of you, and I will proclaim my name, the Lord, in your presence. I will have mercy on whom I will have mercy, and I will have compassion on whom I will have compassion.' This teaches us that</li>
+  <li>jewishlessonIntro->The LORD bless you and keep you; the LORD make his face shine upon you and be gracious to you; the LORD turn his face toward you and give you peace. The LORD did teach me one thing:</li>
+  <li>jewishlessonIntro->By teaching the Torah on the [place_summary] [place_name], I realized that</li>
+  <li>jewishlessonIntro->God is not a human, that he should lie, not a human being, that he should change his mind. Does he speak and then not act? Does he promise and not fulfill? You will realize that</li>
+  <li>jewishlessonIntro->And God said, Let us make man in our image, after our likeness: and let them have dominion over the fish of the sea, and over the fowl of the air, and over the cattle, and over all the earth. He was teaching that</li>
+  <li>jewishlessonIntro->For the life of a creature is in the blood, and I have given it to you to make atonement for yourselves on the altar; it is the blood that makes atonement for one's life. One thing will become increasingly clear then: that</li>
+  <li>jewishlessonIntro->Any man or woman who wrongs another in any way and so is unfaithful to the Lord is guilty and must confess the sin they have committed. Then they'll see that</li>
+  <li>jewishlessonIntro->In your unfailing love, you will lead the people you have redeemed. In your strength, you will guide them to your holy dwelling. Once that is achieved you will see that</li>
+  <li>jewlessonReinforcement->A righteous man falls down seven times and gets up.</li>
+  <li>jewlessonReinforcement->If you don't know what you're living for, you haven't yet lived.</li>
+  <li>jewlessonReinforcement->Gam zu l'tova. This too is for the good.</li>
+  <li>jewlessonReinforcement->I don't speak because I have the power to speak; I speak because I don't have the power to remain silent.</li>
+  <li>jewlessonReinforcement->There are no problems, only opportunities for growth.</li>
+  <li>jewlessonReinforcement->The salvation of God is like the blink of an eye.</li>
+  <li>jewlessonReinforcement->L’fum tzara agra, according to the effort is the reward.</li>
+  <li>jewlessonReinforcement->L’Chaim!</li>
+  <li>lessonReinforcement->No one can argue with that.</li>
+-->
+<AM_JewishDescription.rules.rulesStrings>
+  <li>lesson(priority=-1)->des choses arrivent</li>
+  <li>r_pattern->“[r_jewishlessonIntro][r_lesson]. [r_lessonReinforcement][r_jewlessonReinforcement]"\n\n  - [lessonAttribution]</li>
+  <li>lessonAttribution->[revision] [book] par [founder_nameFull]</li>
+  <li>lessonAttribution->[revision] [book] par [founder_nameFull], [edition]</li>
+  <li>revision->La révision</li>
+  <li>revision->L'émendation</li>
+  <li>revision->L'édition</li>
+  <li>revision->La correction</li>
+  <li>revision->L'altération</li>
+  <li>book->du Tanakh</li>
+  <li>book->de la Torah</li>
+  <li>book->du Pentateuque</li>
+  <li>book->du Nevi'im</li>
+  <li>book->des Ketouvim</li>
+  <li>book->du Talmud</li>
+  <li>edition->25e édition</li>
+  <li>edition->3e édition</li>
+  <li>edition->12e édition</li>
+  <li>edition->37e édition</li>
+  <li>jewishlessonIntro->Ne cherche pas à te venger ni à en vouloir à personne parmi ton peuple, mais aime ton prochain comme toi-même. Je suis l'Éternel. Je veux que vous compreniez :</li>
+  <li>jewishlessonIntro->Moïse dit alors : 'Maintenant, montre-moi ta gloire.' Et le Seigneur dit : « Je ferai passer devant toi toute ma bonté, et je proclamerai mon nom, le Seigneur, devant toi. J'aurai pitié de qui j'aurai pitié, et j'aurai compassion de qui j'aurai compassion. Cela nous apprend que</li>
+  <li>jewishlessonIntro->Le SEIGNEUR vous bénisse et vous garde; que l'Éternel fasse briller sa face sur toi et te fasse grâce; l'Éternel tourne sa face vers toi et te donne la paix. Le SEIGNEUR m'a appris une chose :</li>
+  <li>jewishlessonIntro->En enseignant la Torah sur le [place_summary] [place_name], j'ai réalisé que</li>
+  <li>jewishlessonIntro->Dieu n'est pas un humain, qu'il doit mentir, pas un être humain, qu'il doit changer d'avis. Est-ce qu'il parle et n'agit pas? Promet-il et ne tient-il pas ? Vous vous en rendrez compte</li>
+  <li>jewishlessonIntro->Et Dieu dit : Faisons l'homme à notre image, selon notre ressemblance, et qu'il domine sur les poissons de la mer, sur les oiseaux du ciel, sur le bétail, et sur tous La terre. Il enseignait que</li>
+  <li>jewishlessonIntro->Car la vie d'une créature est dans le sang, et je vous l'ai donné pour faire propitiation pour vous sur l'autel; c'est le sang qui fait l'expiation pour sa vie. Une chose deviendra alors de plus en plus claire : que</li>
+  <li>jewishlessonIntro->Tout homme ou toute femme qui fait du tort à autrui de quelque manière que ce soit et qui est donc infidèle au Seigneur est coupable et doit confesser le péché qu'il a commis. Ensuite, ils verront que</li>
+  <li>jewishlessonIntro->Dans ton amour indéfectible, tu dirigeras le peuple que tu as racheté. Dans ta force, tu les guideras vers ta sainte demeure. Une fois que cela est réalisé, vous verrez que</li>
+  <li>jewlessonReinforcement->Un homme juste tombe sept fois et se relève.</li>
+  <li>jewlessonReinforcement->Si vous ne savez pas pourquoi vous vivez, vous n'avez pas encore vécu.</li>
+  <li>jewlessonReinforcement->Gam zu l'tova. Cela aussi est pour le bien.</li>
+  <li>jewlessonReinforcement->Je ne parle pas parce que j'ai le pouvoir de parler ; Je parle parce que je n'ai pas le pouvoir de me taire.</li>
+  <li>jewlessonReinforcement->Il n'y a pas de problèmes, seulement des opportunités de croissance.</li>
+  <li>jewlessonReinforcement->Le salut de Dieu est comme un clin d'œil.</li>
+  <li>jewlessonReinforcement->L'fum tzara agra, selon l'effort est la récompense.</li>
+  <li>jewlessonReinforcement->L'Chaim !</li>
+  <li>lessonReinforcement->Personne ne peut contester cela.</li>
+</AM_JewishDescription.rules.rulesStrings>
+
+<!-- EN:
+  <li>lesson(priority=-1)->stuff happens</li>
+  <li>r_pattern->"[r_kemeticlessonIntro] [r_lesson]. [r_lessonReinforcement] [r_kemeticlessonReinforcement]"\n\n  - [lessonAttribution]</li>
+  <li>lessonAttribution->fragment of a [edited] [book] found [museum]</li>
+  <li>edited->heavily edited</li>
+  <li>edited->poorly translated</li>
+  <li>edited->ruined</li>
+  <li>edited->forgotten</li>
+  <li>edited->recovered</li>
+  <li>book->Book of the Dead</li>
+  <li>book->papyrus</li>
+  <li>book->funerary text</li>
+  <li>museum->in the archeological museum of Kalthas IV</li>
+  <li>museum->in the black market of Irithir</li>
+  <li>museum->in the hold of an imperial ship from Sophiamunda</li>
+  <li>museum->in the Novo Mosteiro dos Jerónimos in Aracena VI</li>
+  <li>museum->in ancient ruins on Ticonderoga</li>
+  <li>museum->by an artifact hunter on Ilwaba</li>
+  <li>kemeticlessonIntro->O you young men of Shu of the morning, who have power over those who flash among the sun-folk, whose arms move about and whose heads sway to and fro, may I move about every day. Understand:</li>
+  <li>kemeticlessonIntro->Behold Osiris Ani the scribe who recordeth the holy offerings of all the gods, who saith:</li>
+  <li>kemeticlessonIntro->Hail all ye gods of the Temple of the Soul, who weigh heaven and earth in the balance, and who provide food and abundance of meat. They teach us one thing:</li>
+  <li>kemeticlessonIntro->The House of the Prince keepeth festival, and the sound of those who rejoice is in the mighty dwelling. The gods are glad when we realize that</li>
+  <li>kemeticlessonIntro->Behold Osiris, Qenna the merchant, who saith: "Homage to thee, in thy rising thou Tmu in thy crowns of beauty. Thou risest, thou risest, thou Ra shinest, thou shinest, at dawn of day. Preach that</li>
+  <li>kemeticlessonIntro->Homage to thee, O thou glorious Being, thou who art provided with all things. O Tmu-Heru-khuti, when thou risest in the horizon of heaven, a cry cometh out of the mouth of all peoples:</li>
+  <li>kemeticlessonIntro->I am Tmu-Khepera, who gave birth unto himself upon the thigh of his divine mother. Those who are in Nu are made wolves, and those who are among the godlike rulers are become. Realize that</li>
+  <li>kemeticlessonIntro->Hail, Bull of Amenta. I am brought unto thee, I am the oar of Ra wherewith he ferried over the aged ones; let me not be buried nor consumed. I thus declare:</li>
+  <li>kemeticlessonReinforcement->Hail, Tmu, grant thou unto me the sweet breath which is in thy two nostrils.</li>
+  <li>kemeticlessonReinforcement->Thou risest, O still heart! Thou shinest, O still heart!</li>
+  <li>kemeticlessonReinforcement->The blood of Isis, the charms of Isis, the power of Isis, are a protection unto me, the chief, and they crush that which I abhor.</li>
+  <li>kemeticlessonReinforcement->I am the soul of Ra, and the guide of the gods into the underworld. The souls come forth upon earth to do the will of their ka's.</li>
+  <li>kemeticlessonReinforcement->O Lord of Amentet, I am in thy presence. There is no sin in me.</li>
+  <li>kemeticlessonReinforcement->Hail, thou bearer of the sistrum, who comest forth from Nu, I have not spoken scornfully.</li>
+  <li>kemeticlessonReinforcement->Homage to you, O ye gods who live in your hall of Right and Truth, and who have no evil in your bodies.</li>
+  <li>kemeticlessonReinforcement->I have rested in Hemet, on the north of the field of the grasshoppers, wherein the holy mariners do purify themselves in the night season.</li>
+  <li>lessonReinforcement->No one can argue with that.</li>
+-->
+<AM_KemeticDescription.rules.rulesStrings>
+  <li>lesson(priority=-1)->des choses arrivent</li>
+  <li>r_pattern->“[r_kemeticlessonIntro][r_lesson]. [r_lessonReinforcement][r_kemeticlessonReinforcement]"\n\n  - [lessonAttribution]</li>
+  <li>lessonAttribution->morceau [book] [edited], trouvé [museum]</li>
+  <li>edited->lourdement édité</li>
+  <li>edited->mal traduit</li>
+  <li>edited->détérioré</li>
+  <li>edited->oublié</li>
+  <li>edited->récupéré</li>
+  <li>book->du Livre des Morts</li>
+  <li>book->d'un papyrus</li>
+  <li>book->d'un texte funéraire</li>
+  <li>museum->dans le musée archéologique de Kalthas IV</li>
+  <li>museum->au marché noir d'Irithir</li>
+  <li>museum->dans la cale d'un navire impérial de Sophiamunda</li>
+  <li>museum->dans le Mosteiro dos Jerónimos d'Aracena VI</li>
+  <li>museum->dans des ruines anciennes sur Ticonderoga</li>
+  <li>museum->par un chasseur d'artefacts sur Ilwaba</li>
+  <li>kemeticlessonIntro->O vous les jeunes hommes de Shu du matin, qui avez du pouvoir sur ceux qui brillent parmi les gens du soleil, dont les bras bougent et dont la tête se balance d'avant en arrière, puissé-je bouger chaque jour. Comprendre :</li>
+  <li>kemeticlessonIntro->Voici Osiris Ani le scribe qui enregistre les saintes offrandes de tous les dieux, qui dit :</li>
+  <li>kemeticlessonIntro->Salut à vous tous les dieux du Temple de l'Âme, qui pèsez le ciel et la terre dans la balance, et qui fournissez nourriture et abondance de viande. Ils nous enseignent une chose :</li>
+  <li>kemeticlessonIntro->La Maison du Prince célèbre la fête, et le son de ceux qui se réjouissent est dans la demeure puissante. Les dieux sont heureux quand nous réalisons que</li>
+  <li>kemeticlessonIntro->Voici Osiris, Qenna le marchand, qui dit : "Hommage à toi, dans ton ascension tu Tmu dans tes couronnes de beauté. Prêchez cela</li>
+  <li>kemeticlessonIntro->Hommage à toi, ô être glorieux, toi qui es pourvu de toutes choses. O Tmu-Heru-khuti, quand tu t'élèves à l'horizon du ciel, un cri sort de la bouche de tous les peuples :</li>
+  <li>kemeticlessonIntro->Je suis Tmu-Khepera, qui s'est enfanté sur la cuisse de sa mère divine. Ceux qui sont à Nu sont devenus des loups, et ceux qui sont parmi les dirigeants divins sont devenus. Comprenez que</li>
+  <li>kemeticlessonIntro->Salut, Taureau d'Amenta. Je te suis amené, je suis la rame de Ra avec laquelle il transportait les vieillards ; que je ne sois ni enterré ni consumé. Je déclare donc :</li>
+  <li>kemeticlessonReinforcement->Salut, Tmu, accorde-moi le doux souffle qui est dans tes deux narines.</li>
+  <li>kemeticlessonReinforcement->Tu te lèves, ô cœur immobile ! Tu brilles, ô cœur immobile !</li>
+  <li>kemeticlessonReinforcement->Le sang d'Isis, les charmes d'Isis, le pouvoir d'Isis, sont une protection pour moi, le chef, et ils écrasent ce que j'abhorre.</li>
+  <li>kemeticlessonReinforcement->Je suis l'âme de Ra et le guide des dieux dans le monde souterrain. Les âmes viennent sur terre pour faire la volonté de leur ka.</li>
+  <li>kemeticlessonReinforcement->Ô Seigneur d'Amentet, je suis en ta présence. Il n'y a pas de péché en moi.</li>
+  <li>kemeticlessonReinforcement->Salut, porteur du sistre, qui sort de Nu, je n'ai pas parlé avec mépris.</li>
+  <li>kemeticlessonReinforcement->Hommage à vous, ô dieux qui vivez dans votre hall du Droit et de la Vérité, et qui n'avez aucun mal dans vos corps.</li>
+  <li>kemeticlessonReinforcement->Je me suis reposé à Hemet, au nord du champ des sauterelles, où les saints marins se purifient pendant la saison nocturne.</li>
+  <li>lessonReinforcement->Personne ne peut contester cela.</li>
+</AM_KemeticDescription.rules.rulesStrings>
+
+<!-- EN:
+  <li>lesson(priority=-1)->stuff happens</li>
+  <li>r_pattern->"[r_sikhlessonIntro] [r_lesson]. [r_lessonReinforcement] [r_sikhlessonReinforcement]"\n\n  - [lessonAttribution]</li>
+  <li>lessonAttribution->[founder_nameFull]'s [revision] of the [book]</li>
+  <li>lessonAttribution->[founder_nameFull]'s [revision] of the [book], [edition]</li>
+  <li>revision->writings</li>
+  <li>revision->contemplations</li>
+  <li>revision->theological debates</li>
+  <li>revision->pondering</li>
+  <li>revision->meditation</li>
+  <li>book->Guru Granth Sahib</li>
+  <li>book->Sarbloh Granth</li>
+  <li>book->Adi Sri Granth Sahib</li>
+  <li>book->Dasam Granth</li>
+  <li>edition->2nd Edition</li>
+  <li>edition->13th Edition</li>
+  <li>edition->38th Edition</li>
+  <li>edition->49th Edition</li>
+  <li>sikhlessonIntro->Truth is the highest of all virtues, but higher than truth is true conduct. I want you to understand:</li>
+  <li>sikhlessonIntro->The fool indulges in sensual pleasures which in the end lead to pain. Easy and sinful life is the Cause of diseases. This teaches us that</li>
+  <li>sikhlessonIntro->Neither do I call myself good nor I see any one bad. These contemplations did teach me one thing:</li>
+  <li>sikhlessonIntro->By teaching the sacred words of the Guru Granth Sahib on the [place_summary] [place_name], I realized that</li>
+  <li>sikhlessonIntro->In this life our actions are the ink and mind the paper, we inscribe on it the two writings of good and evil. In time you will realize that</li>
+  <li>sikhlessonIntro->When the mind is not pure, what is the good of practicing outward cleanliness? We preach that</li>
+  <li>sikhlessonIntro->There is only one air, earth and only one light of the God in each being. One thing will become increasingly clear then: that</li>
+  <li>sikhlessonIntro->The word (Shabad) is the Guru, And the mind attuned to the Shabad is the disciple. He needs to realize that</li>
+  <li>sikhlessonIntro->For the sake of wealth, the mortals become servants and thieves. But it goes not with them and remains behind for another. Once you free yourself from material attachment you will see that</li>
+  <li>sikhlessonReinforcement->The glories are in the Lord’s own hand. He blesses those with whom He is pleased.</li>
+  <li>sikhlessonReinforcement->He alone is a wise man, who gains spiritual knowledge through meditation upon the divine virtues.</li>
+  <li>sikhlessonReinforcement->Every one say that the Lord is one, but each one is engrossed in ego and pride.</li>
+  <li>sikhlessonReinforcement->If he who plays the tyrant, is honoured, then deem it to be the surest sign of the Dark Age.</li>
+  <li>sikhlessonReinforcement->A saint is better off without bathing. A thief is always a thief whether he bathes in sacred waters, or not.</li>
+  <li>sikhlessonReinforcement->We are men of but one breath and know not the appointed time and moment of our departure from this world.</li>
+  <li>sikhlessonReinforcement->Meet the Lord through contemplation and your anxieties will be dispelled.</li>
+  <li>sikhlessonReinforcement->When man abandons desire, then alone does he become a true renouncer.</li>
+  <li>lessonReinforcement->No one can argue with that.</li>
+-->
+<AM_SikhDescription.rules.rulesStrings>
+  <li>lesson(priority=-1)->des choses arrivent</li>
+  <li>r_pattern->“[r_sikhlessonIntro][r_lesson].[r_lessonReinforcement][r_sikhlessonReinforcement]"\n\n  - [lessonAttribution]</li>
+  <li>lessonAttribution->[revision] de [founder_nameFull] sur [book]</li>
+  <li>lessonAttribution->[revision] de [founder_nameFull] sur [book], [edition]</li>
+  <li>revision->Les écrits</li>
+  <li>revision->Les contemplations</li>
+  <li>revision->Les débats théologiques</li>
+  <li>revision->Les réflexions</li>
+  <li>revision->La méditation</li>
+  <li>book->le Guru Granth Sahib</li>
+  <li>book->le Sarbloh Granth</li>
+  <li>book->l'Adi Sri Granth Sahib</li>
+  <li>book->le Dasam Granth</li>
+  <li>edition->2e édition</li>
+  <li>edition->13e édition</li>
+  <li>edition->38e édition</li>
+  <li>edition->49e édition</li>
+  <li>sikhlessonIntro->La vérité est la plus haute de toutes les vertus, mais la vraie conduite est plus élevée que la vérité. Je veux que vous compreniez :</li>
+  <li>sikhlessonIntro->Le fou s'adonne à des plaisirs sensuels qui finissent par provoquer de la douleur. La vie facile et pécheresse est la cause des maladies. Cela nous apprend que</li>
+  <li>sikhlessonIntro->Je ne me dis pas bon et je ne vois personne de mauvais. Ces contemplations m'ont appris une chose :</li>
+  <li>sikhlessonIntro->En enseignant les mots sacrés du Guru Granth Sahib sur le [place_summary] [place_name], j'ai réalisé que</li>
+  <li>sikhlessonIntro->Dans cette vie nos actions sont l'encre et l'esprit le papier, nous y inscrivons les deux écritures du bien et du mal. Avec le temps, vous vous rendrez compte que</li>
+  <li>sikhlessonIntro->Lorsque l'esprit n'est pas pur, à quoi bon pratiquer la propreté extérieure ? Nous prêchons cela</li>
+  <li>sikhlessonIntro->Il n'y a qu'un seul air, une seule terre et une seule lumière du Dieu dans chaque être. Une chose deviendra alors de plus en plus claire : que</li>
+  <li>sikhlessonIntro->Le mot (Shabad) est le gourou, et l'esprit accordé au Shabad est le disciple. Il doit comprendre que</li>
+  <li>sikhlessonIntro->Pour la richesse, les mortels deviennent des serviteurs et des voleurs. Mais il ne va pas avec eux et reste en arrière pour un autre. Une fois que vous vous serez libéré de l'attachement matériel, vous verrez que</li>
+  <li>sikhlessonReinforcement->Les gloires sont entre les mains du Seigneur. Il bénit ceux dont Il est satisfait.</li>
+  <li>sikhlessonReinforcement->Lui seul est un homme sage, qui acquiert la connaissance spirituelle par la méditation sur les vertus divines.</li>
+  <li>sikhlessonReinforcement->Tout le monde dit que le Seigneur est un, mais chacun est absorbé par l'ego et l'orgueil.</li>
+  <li>sikhlessonReinforcement->Si celui qui joue le tyran est honoré, alors considérez que c'est le signe le plus sûr de l'âge sombre.</li>
+  <li>sikhlessonReinforcement->Un saint est mieux sans se baigner. Un voleur est toujours un voleur, qu'il se baigne ou non dans des eaux sacrées.</li>
+  <li>sikhlessonReinforcement->Nous sommes des hommes d'un seul souffle et ne connaissons pas l'heure et le moment fixés de notre départ de ce monde.</li>
+  <li>sikhlessonReinforcement->Rencontrez le Seigneur par la contemplation et vos angoisses seront dissipées.</li>
+  <li>sikhlessonReinforcement->Lorsque l'homme abandonne le désir, alors seul devient-il un véritable renonçant.</li>
+  <li>lessonReinforcement->Personne ne peut contester cela.</li>
+</AM_SikhDescription.rules.rulesStrings>
+
+<!-- EN:
+  <li>lesson(priority=-1)->stuff happens</li>
+  <li>r_pattern->"[r_steampunklessonIntro] [r_lesson]. [r_lessonReinforcement]"\n\n  - [lessonAttribution]</li>
+  <li>lessonAttribution->[founder_nameFull]'s [book] on [concept]</li>
+  <li>book->lecture</li>
+  <li>book->letter</li>
+  <li>book->studies</li>
+  <li>book->encyclopedia</li>
+  <li>book->critique</li>
+  <li>concept->ancient technologies</li>
+  <li>concept->the resurgence of the past</li>
+  <li>concept->the steam engine</li>
+  <li>concept->the neo-Victorian era</li>
+  <li>concept->the analytical AI</li>
+  <li>concept->the Brass Chronicles</li>
+  <li>steampunklessonIntro->The perfection of the ceramic heat cell and flameless combustion ushered in an era of invention and creativity in the early days of space exploration. The great philosophers of that era taught us that</li>
+  <li>steampunklessonIntro->As we all know, the Caloric Porous Structure Cell -CPSC-, is a ceramic device to burn a fuel without flame, converting the thermal energy to mechanical work. Its refinement ushered in an era of technological wonders, with its greatest philosophers preaching that</li>
+  <li>steampunklessonIntro->There is a lot to be learned of the past, specially of that particular period in the 22nd century. It teaches us one thing:</li>
+  <li>steampunklessonIntro->Some argue that it was the refinement of modern steam technology that led to a period of technological wonders in the mid 22nd century. Others say it was pure nostalgia for a past that never was. The mainstream sentiment among people in that era was that</li>
+  <li>steampunklessonIntro->Let's face it: humanity was drowning on its own refuse. Polluting energy sources were choking us into extinction. The ceramic heat cell ended all that, providing a fuel source with very low emissions. This affected everything, from science to philosophy, with the mainstream philosophical currents postulating that</li>
+  <li>steampunklessonIntro->The perfection of flameless combustion on the 22nd century was revolutionary. Society was shook to its core, and great philosophers arose that taught us that</li>
+  <li>lessonReinforcement->No one can argue with that.</li>
+-->
+<AM_SteampunkRevivalDescription.rules.rulesStrings>
+  <li>lesson(priority=-1)->des choses arrivent</li>
+  <li>r_pattern->"[r_steampunklessonIntro][r_lesson].[r_lessonReinforcement]"\n\n  - [lessonAttribution]</li>
+  <li>lessonAttribution->[book] de [founder_nameFull] sur [concept]</li>
+  <li>book->Lecture</li>
+  <li>book->Lettre</li>
+  <li>book->Études</li>
+  <li>book->Encyclopédie</li>
+  <li>book->Critique</li>
+  <li>concept->les technologies anciennes</li>
+  <li>concept->la résurgence du passé</li>
+  <li>concept->la machine à vapeur</li>
+  <li>concept->l'ère néo-victorienne</li>
+  <li>concept->l'IA analytique</li>
+  <li>concept->les chroniques d'Airain</li>
+  <li>steampunklessonIntro->La perfection de la cellule thermique en céramique et la combustion sans flamme ont inauguré une ère d'invention et de créativité dans les premiers jours de l'exploration spatiale. Les grands philosophes de cette époque nous ont appris que</li>
+  <li>steampunklessonIntro->Comme nous le savons tous, la cellule à structure poreuse calorique -CPSC-, est un dispositif en céramique pour brûler un combustible sans flamme, convertissant l'énergie thermique en travail mécanique. Son raffinement a inauguré une ère de merveilles technologiques, avec ses plus grands philosophes prêchant cela</li>
+  <li>steampunklessonIntro->Il y a beaucoup à apprendre du passé, spécialement de cette période particulière du 22ème siècle. Cela nous apprend une chose :</li>
+  <li>steampunklessonIntro->Certains prétendent que c'est le raffinement de la technologie moderne de la vapeur qui a conduit à une période de merveilles technologiques au milieu du 22ème siècle. D'autres disent que c'était de la pure nostalgie d'un passé qui n'a jamais existé. Le sentiment dominant parmi les gens de cette époque était que</li>
+  <li>steampunklessonIntro->Avouons-le : l'humanité se noyait dans ses propres déchets. Les sources d'énergie polluantes nous étouffaient jusqu'à l'extinction. La cellule thermique en céramique a mis fin à tout cela, fournissant une source de carburant à très faibles émissions. Cela a tout affecté, de la science à la philosophie, les courants philosophiques dominants postulant que</li>
+  <li>steampunklessonIntro->La perfection de la combustion sans flamme au 22ème siècle était révolutionnaire. La société a été profondément ébranlée et de grands philosophes ont surgi qui nous ont appris que</li>
+  <li>lessonReinforcement->Personne ne peut contester cela.</li>
+</AM_SteampunkRevivalDescription.rules.rulesStrings>
+
+
 </LanguageData>

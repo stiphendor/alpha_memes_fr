@@ -1,9 +1,10 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-  
-  <!-- EN: reliquary nearby -->
-  <AM_Reliquaries_Forbidden.stages.reliquary_nearby.label>附近有圣物展台</AM_Reliquaries_Forbidden.stages.reliquary_nearby.label>
-  <!-- EN: We have a reliquary in the colony. This is blasphemy, it should be dismantled as soon as possible. -->
-  <AM_Reliquaries_Forbidden.stages.reliquary_nearby.description>殖民地中有一座污秽的圣物展台。我们必须尽快把它拆掉。</AM_Reliquaries_Forbidden.stages.reliquary_nearby.description>
-  
+
+<!-- EN: reliquary nearby -->
+<AM_Reliquaries_Forbidden.stages.reliquary_nearby.label>reliquaire à proximité</AM_Reliquaries_Forbidden.stages.reliquary_nearby.label>
+<!-- EN: We have a reliquary in the colony. This is blasphemy, it should be dismantled as soon as possible. -->
+<AM_Reliquaries_Forbidden.stages.reliquary_nearby.description>Nous avons un reliquaire dans notre colonie. C'est un blasphème, il doit être démantelé dès que possible.</AM_Reliquaries_Forbidden.stages.reliquary_nearby.description>
+
+
 </LanguageData>

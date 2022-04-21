@@ -2,37 +2,37 @@
 <LanguageData>
 
 <!-- EN: tavor TS12 bullpup shotgun -->
-<AM_Jewish_ChainShotgun.overrideLabel>fusil à pompe tavor TS12</AM_Jewish_ChainShotgun.overrideLabel>
+<AM_Jewish_ChainShotgun.overrideLabel>fusil à pompe tavor TS12 bullpup</AM_Jewish_ChainShotgun.overrideLabel>
 
 <!-- EN: chanith -->
 <AM_Jewish_Chanith.overrideLabel>chanith</AM_Jewish_Chanith.overrideLabel>
 
 <!-- EN: duckbill axe -->
-<AM_Jewish_DuckBillAxe.overrideLabel>hache</AM_Jewish_DuckBillAxe.overrideLabel>
+<AM_Jewish_DuckBillAxe.overrideLabel>hache fenestrée</AM_Jewish_DuckBillAxe.overrideLabel>
 
 <!-- EN: javelin -->
 <AM_Jewish_Javelin.overrideLabel>javelot</AM_Jewish_Javelin.overrideLabel>
 
 <!-- EN: leaf dagger -->
-<AM_Jewish_Knife.overrideLabel>dague</AM_Jewish_Knife.overrideLabel>
+<AM_Jewish_Knife.overrideLabel>dague de feuille</AM_Jewish_Knife.overrideLabel>
 
 <!-- EN: jericho 941 pistol -->
-<AM_Jewish_Pistol.overrideLabel>pistoler jericho 941</AM_Jewish_Pistol.overrideLabel>
+<AM_Jewish_Pistol.overrideLabel>pistoler Jericho 941</AM_Jewish_Pistol.overrideLabel>
 
 <!-- EN: webley revolver -->
-<AM_Jewish_Revolver.overrideLabel>revolver webley</AM_Jewish_Revolver.overrideLabel>
+<AM_Jewish_Revolver.overrideLabel>revolver Webley</AM_Jewish_Revolver.overrideLabel>
 
 <!-- EN: tavor TAR-21 assault rifle -->
-<AM_Jewish_Rifle.overrideLabel>fusil d'assaut TAR-21</AM_Jewish_Rifle.overrideLabel>
+<AM_Jewish_Rifle.overrideLabel>fusil d'assaut Tavor TAR-21</AM_Jewish_Rifle.overrideLabel>
 
 <!-- EN: dan .338 sniper rifle -->
-<AM_Jewish_Sniper.overrideLabel>fusil sniper dan .338</AM_Jewish_Sniper.overrideLabel>
+<AM_Jewish_Sniper.overrideLabel>fusil de précision DAN .338</AM_Jewish_Sniper.overrideLabel>
 
 <!-- EN: kidhohn -->
 <AM_Jewish_Spear.overrideLabel>kidhohn</AM_Jewish_Spear.overrideLabel>
 
 <!-- EN: leaf sword -->
-<AM_Jewish_Sword.overrideLabel>épée</AM_Jewish_Sword.overrideLabel>
+<AM_Jewish_Sword.overrideLabel>épée de feuille</AM_Jewish_Sword.overrideLabel>
 
 <!-- EN: barbed spear -->
 <AM_Kemetic_BarbedSpear.overrideLabel>lance barbelée</AM_Kemetic_BarbedSpear.overrideLabel>
@@ -41,7 +41,7 @@
 <AM_Kemetic_BattleAxe.overrideLabel>hache de bataille</AM_Kemetic_BattleAxe.overrideLabel>
 
 <!-- EN: rasheed carbine -->
-<AM_Kemetic_Carbine.overrideLabel>carabine</AM_Kemetic_Carbine.overrideLabel>
+<AM_Kemetic_Carbine.overrideLabel>Carabine Rashid</AM_Kemetic_Carbine.overrideLabel>
 
 <!-- EN: javelin -->
 <AM_Kemetic_Javelin.overrideLabel>javelot</AM_Kemetic_Javelin.overrideLabel>
@@ -59,16 +59,16 @@
 <AM_Kemetic_PalmAxe.overrideLabel>hache</AM_Kemetic_PalmAxe.overrideLabel>
 
 <!-- EN: helwan 951 pistol -->
-<AM_Kemetic_Pistol.overrideLabel>pistolet helwan 951</AM_Kemetic_Pistol.overrideLabel>
+<AM_Kemetic_Pistol.overrideLabel>pistolet Helwan 951</AM_Kemetic_Pistol.overrideLabel>
 
 <!-- EN: misr assault rifle -->
-<AM_Kemetic_Rifle.overrideLabel>fusil d'assaut</AM_Kemetic_Rifle.overrideLabel>
+<AM_Kemetic_Rifle.overrideLabel>fusil d'assaut Misr</AM_Kemetic_Rifle.overrideLabel>
 
 <!-- EN: short sword -->
 <AM_Kemetic_ShortSword.overrideLabel>épée courte</AM_Kemetic_ShortSword.overrideLabel>
 
 <!-- EN: laser staff -->
-<AM_Kemetic_Staff.overrideLabel>laser</AM_Kemetic_Staff.overrideLabel>
+<AM_Kemetic_Staff.overrideLabel>bâton laser</AM_Kemetic_Staff.overrideLabel>
 
 <!-- EN: aviator hat -->
 <AM_SteampunkRevival_AviatorHat.overrideLabel>casquette d'aviateur</AM_SteampunkRevival_AviatorHat.overrideLabel>
@@ -82,7 +82,7 @@
 
 
 <!-- EN: rapier -->
-<AM_SteampunkRevival_Gladius.overrideLabel>rapier</AM_SteampunkRevival_Gladius.overrideLabel>
+<AM_SteampunkRevival_Gladius.overrideLabel>rapière</AM_SteampunkRevival_Gladius.overrideLabel>
 
 
 </LanguageData>

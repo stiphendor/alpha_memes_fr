@@ -3,8 +3,8 @@
 
 <!-- EN: death knell -->
 <AM_Abilities_DeathKnell.label>sonner le glas</AM_Abilities_DeathKnell.label>
-<!-- EN: We will lay bare the minds of our enemies, and take their latent psychic energy for ourselves.\n\n<color=#E5E54C>Gameplay effect:</color>\n - All colonists that adopt this precept will get the Psychic death knell ability, which allows them to recharge their psyfocus completely by killing a downed human enemy. -->
-<AM_Abilities_DeathKnell.description>Nous mettrons à nu l'esprit de nos ennemis, et nous nous emparerons de leur énergie psychique latente.\n\n&lt;color=#E5E54C>Effet en jeu :&lt;/color>\n - Tous les colons qui adoptent ce précepte obtiendront la capacité de glas psychique, qui leur permet de recharger complètement leur concentration psychique en tuant un ennemi humain à terre.</AM_Abilities_DeathKnell.description>
+<!-- EN: We will lay bare the minds of our enemies, and take their latent psychic energy for ourselves.\n\n<color=#E5E54C&gt;Gameplay effect:</color>\n - All colonists that adopt this precept will get the Psychic death knell ability, which allows them to recharge their psyfocus completely by killing a downed human enemy. -->
+<AM_Abilities_DeathKnell.description>Nous mettrons à nu l'esprit de nos ennemis, et nous nous emparerons de leur énergie psychique latente.\n\n&lt;color=#E5E54C&gt;Effet en jeu :&lt;/color&gt;\n - Tous les colons qui adoptent ce précepte obtiendront la capacité de glas psychique, qui leur permet de recharger complètement leur concentration psychique en tuant un ennemi humain à terre.</AM_Abilities_DeathKnell.description>
 
 
 </LanguageData>

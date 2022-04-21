@@ -1,41 +1,42 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-  
-  <!-- EN: spiders in my face -->
-  <AM_Mood_Volatile.stages.spiders_in_my_face.label>有蜘蛛在我脸上爬</AM_Mood_Volatile.stages.spiders_in_my_face.label>
-  <!-- EN: Did you know you swallow at least two spiders every night? I enjoy it. They taste like cinnamon. -->
-  <AM_Mood_Volatile.stages.spiders_in_my_face.description>你知道自己每天晚上都会吞下至少两只蜘蛛么？我倒是很享受。它们的味道有点像肉桂。</AM_Mood_Volatile.stages.spiders_in_my_face.description>
-  <!-- EN: clown in the sky looking at me -->
-  <AM_Mood_Volatile.stages.clown_in_the_sky_looking_at_me.label>有小丑躲在天上盯着我</AM_Mood_Volatile.stages.clown_in_the_sky_looking_at_me.label>
-  <!-- EN: There is a stern-looking clown dressed like a pirate looking at me, licking his lips. It craves my attention. -->
-  <AM_Mood_Volatile.stages.clown_in_the_sky_looking_at_me.description>有个神情严肃的海盗服小丑正边舔舐着嘴唇边盯着我。他一直在试图引起我的注意。</AM_Mood_Volatile.stages.clown_in_the_sky_looking_at_me.description>
-  <!-- EN: liquorice tastes like betrayal -->
-  <AM_Mood_Volatile.stages.liquorice_tastes_like_betrayal.label>甘草糖的味道有点像背叛</AM_Mood_Volatile.stages.liquorice_tastes_like_betrayal.label>
-  <!-- EN: I have been betrayed by my fiercest enemy: croutons. They will be slaughtered by the thousands. -->
-  <AM_Mood_Volatile.stages.liquorice_tastes_like_betrayal.description>我被我最残暴的敌人——油煎吐司丁背叛了。它们必将被千刀万剐。</AM_Mood_Volatile.stages.liquorice_tastes_like_betrayal.description>
-  <!-- EN: the voices won't stop -->
-  <AM_Mood_Volatile.stages.the_voices_wont_stop.label>耳边一直回荡着声音</AM_Mood_Volatile.stages.the_voices_wont_stop.label>
-  <!-- EN: They could be telling me to kill everyone, but instead they recite stock exchange transactions in ancient languages. A beet smiles upon my portfolio. -->
-  <AM_Mood_Volatile.stages.the_voices_wont_stop.description>他们似乎想要我干掉所有人，可他们却用古文来吟诵股票交易的内容。一株甜菜正站在公文包上，向我投来微微一笑。</AM_Mood_Volatile.stages.the_voices_wont_stop.description>
-  <!-- EN: I feel like turpentine -->
-  <AM_Mood_Volatile.stages.I_feel_like_turpentine.label>我好像在吃松节油</AM_Mood_Volatile.stages.I_feel_like_turpentine.label>
-  <!-- EN: It's a slick feeling, like a raspy cat's tongue licking the inside of my organs. It reminds me of my grandma's stew. -->
-  <AM_Mood_Volatile.stages.I_feel_like_turpentine.description>嗯...这种光滑油腻的口感...就好像猫咪在用充满倒刺的舌头舔着我的五脏六腑一样。这让我想起了外婆做的炖菜浓汤。</AM_Mood_Volatile.stages.I_feel_like_turpentine.description>
-  <!-- EN: all cheese is obnoxious -->
-  <AM_Mood_Volatile.stages.all_cheese_is_obnoxious.label>所有的奶酪都令我恶心</AM_Mood_Volatile.stages.all_cheese_is_obnoxious.label>
-  <!-- EN: Specially blue cheese. It refuses to let other people talk and interrupts constantly. -->
-  <AM_Mood_Volatile.stages.all_cheese_is_obnoxious.description>尤其是蓝纹奶酪。它总是喜欢堵住别人的嘴并且随意插话。</AM_Mood_Volatile.stages.all_cheese_is_obnoxious.description>
-  <!-- EN: have you ever seen tomorrow? -->
-  <AM_Mood_Volatile.stages.have_you_ever_seen_tomorrow.label>你看见明天了吗？</AM_Mood_Volatile.stages.have_you_ever_seen_tomorrow.label>
-  <!-- EN: It's blue. All blue. With hints of a colour that is between stygian blue and hyperbolic orange. -->
-  <AM_Mood_Volatile.stages.have_you_ever_seen_tomorrow.description>它是蓝色的。都是蓝色的。是那种略带介于幽冥蓝和夸张橙之间的颜色(这两种颜色在正常情况下是看不到的)。</AM_Mood_Volatile.stages.have_you_ever_seen_tomorrow.description>
-  <!-- EN: I can feel the inside of my skin -->
-  <AM_Mood_Volatile.stages.I_can_feel_the_inside_of_my_skin.label>我能感受到皮肤内部</AM_Mood_Volatile.stages.I_can_feel_the_inside_of_my_skin.label>
-  <!-- EN: It feels like home. I can even see the fireplace burning with the smell of freshly baked kerosene. -->
-  <AM_Mood_Volatile.stages.I_can_feel_the_inside_of_my_skin.description>就好像是在家里一样。我甚至能看到壁炉烧着新鲜煤油的味道。</AM_Mood_Volatile.stages.I_can_feel_the_inside_of_my_skin.description>
-  <!-- EN: my flesh vessel is itchy -->
-  <AM_Mood_Volatile.stages.my_flesh_vessel_is_itchy.label>我的血肉皮囊瘙痒不止</AM_Mood_Volatile.stages.my_flesh_vessel_is_itchy.label>
-  <!-- EN: It burns. -->
-  <AM_Mood_Volatile.stages.my_flesh_vessel_is_itchy.description>哦。它燃起来了！</AM_Mood_Volatile.stages.my_flesh_vessel_is_itchy.description>
-  
+
+<!-- EN: spiders in my face -->
+<AM_Mood_Volatile.stages.spiders_in_my_face.label>araignées sur mon visage</AM_Mood_Volatile.stages.spiders_in_my_face.label>
+<!-- EN: Did you know you swallow at least two spiders every night? I enjoy it. They taste like cinnamon. -->
+<AM_Mood_Volatile.stages.spiders_in_my_face.description>Saviez-vous que vous avalez au moins deux araignées chaque nuit ? J'aime ça. Elles ont un goût de cannelle.</AM_Mood_Volatile.stages.spiders_in_my_face.description>
+<!-- EN: clown in the sky looking at me -->
+<AM_Mood_Volatile.stages.clown_in_the_sky_looking_at_me.label>clown dans le ciel me regardant</AM_Mood_Volatile.stages.clown_in_the_sky_looking_at_me.label>
+<!-- EN: There is a stern-looking clown dressed like a pirate looking at me, licking his lips. It craves my attention. -->
+<AM_Mood_Volatile.stages.clown_in_the_sky_looking_at_me.description>Un clown au regard sévère, habillé comme un pirate, me regarde en se léchant les lèvres. Il sollicite mon attention.</AM_Mood_Volatile.stages.clown_in_the_sky_looking_at_me.description>
+<!-- EN: liquorice tastes like betrayal -->
+<AM_Mood_Volatile.stages.liquorice_tastes_like_betrayal.label>le réglisse a un goût de trahison</AM_Mood_Volatile.stages.liquorice_tastes_like_betrayal.label>
+<!-- EN: I have been betrayed by my fiercest enemy: croutons. They will be slaughtered by the thousands. -->
+<AM_Mood_Volatile.stages.liquorice_tastes_like_betrayal.description>J'ai été trahi par mon plus féroce ennemi : les croûtons. Ils seront découpés par milliers.</AM_Mood_Volatile.stages.liquorice_tastes_like_betrayal.description>
+<!-- EN: the voices won't stop -->
+<AM_Mood_Volatile.stages.the_voices_wont_stop.label>les voix ne s'arrêtent pas</AM_Mood_Volatile.stages.the_voices_wont_stop.label>
+<!-- EN: They could be telling me to kill everyone, but instead they recite stock exchange transactions in ancient languages. A beet smiles upon my portfolio. -->
+<AM_Mood_Volatile.stages.the_voices_wont_stop.description>Ils pourraient me dire de tuer tout le monde, mais à la place ils récitent des transactions boursières dans des langues anciennes. Une betterave sourit à mon portefeuille.</AM_Mood_Volatile.stages.the_voices_wont_stop.description>
+<!-- EN: I feel like turpentine -->
+<AM_Mood_Volatile.stages.I_feel_like_turpentine.label>je me sens comme de la térébenthine</AM_Mood_Volatile.stages.I_feel_like_turpentine.label>
+<!-- EN: It's a slick feeling, like a raspy cat's tongue licking the inside of my organs. It reminds me of my grandma's stew. -->
+<AM_Mood_Volatile.stages.I_feel_like_turpentine.description>C'est une sensation glissante, comme une langue de chat râpeuse qui lèche l'intérieur de mes organes. Ça me rappelle le ragoût de ma grand-mère.</AM_Mood_Volatile.stages.I_feel_like_turpentine.description>
+<!-- EN: all cheese is obnoxious -->
+<AM_Mood_Volatile.stages.all_cheese_is_obnoxious.label>tout fromage est odieux</AM_Mood_Volatile.stages.all_cheese_is_obnoxious.label>
+<!-- EN: Specially blue cheese. It refuses to let other people talk and interrupts constantly. -->
+<AM_Mood_Volatile.stages.all_cheese_is_obnoxious.description>Surtout le fromage bleu. Il refuse de laisser parler les autres et les interrompt constamment.</AM_Mood_Volatile.stages.all_cheese_is_obnoxious.description>
+<!-- EN: have you ever seen tomorrow? -->
+<AM_Mood_Volatile.stages.have_you_ever_seen_tomorrow.label>avez-vous déjà vu demain ?</AM_Mood_Volatile.stages.have_you_ever_seen_tomorrow.label>
+<!-- EN: It's blue. All blue. With hints of a colour that is between stygian blue and hyperbolic orange. -->
+<AM_Mood_Volatile.stages.have_you_ever_seen_tomorrow.description>C'est bleu. Tout bleu. Avec des touches d'une couleur qui se situe entre le bleu stygien et l'orange hyperbolique.</AM_Mood_Volatile.stages.have_you_ever_seen_tomorrow.description>
+<!-- EN: I can feel the inside of my skin -->
+<AM_Mood_Volatile.stages.I_can_feel_the_inside_of_my_skin.label>Je sens l'intérieur de ma peau</AM_Mood_Volatile.stages.I_can_feel_the_inside_of_my_skin.label>
+<!-- EN: It feels like home. I can even see the fireplace burning with the smell of freshly baked kerosene. -->
+<AM_Mood_Volatile.stages.I_can_feel_the_inside_of_my_skin.description>On se sent comme à la maison. Je peux même voir la cheminée allumée avec l'odeur du kérosène fraîchement brûlé.</AM_Mood_Volatile.stages.I_can_feel_the_inside_of_my_skin.description>
+<!-- EN: my flesh vessel is itchy -->
+<AM_Mood_Volatile.stages.my_flesh_vessel_is_itchy.label>ma chair et ma peau me démangent</AM_Mood_Volatile.stages.my_flesh_vessel_is_itchy.label>
+<!-- EN: It burns. -->
+<AM_Mood_Volatile.stages.my_flesh_vessel_is_itchy.description>Ça brûle.</AM_Mood_Volatile.stages.my_flesh_vessel_is_itchy.description>
+
+
 </LanguageData>

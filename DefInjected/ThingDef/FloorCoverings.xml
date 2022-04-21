@@ -1,44 +1,45 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-  
-  <!-- EN: hindu slab (broad) -->
-  <AM_HinduSlab_Broad.label>dalle hindoue (large)</AM_HinduSlab_Broad.label>
-  <!-- EN: A stone bas relief of hindu imagery for decorating a floor. -->
-  <AM_HinduSlab_Broad.description>Un bas-relief en pierre d'imagerie hindoue pour décorer un sol.</AM_HinduSlab_Broad.description>
-  
-  <!-- EN: hindu slab (medium) -->
-  <AM_HinduSlab_Medium.label>dalle hindoue (moyenne)</AM_HinduSlab_Medium.label>
-  <!-- EN: A stone bas relief of hindu imagery for decorating a floor. -->
-  <AM_HinduSlab_Medium.description>Un bas-relief en pierre d'imagerie hindoue pour décorer un sol.</AM_HinduSlab_Medium.description>
-  
-  <!-- EN: jewish slab (broad) -->
-  <AM_JewishSlab_Broad.label>dalle juive (large)</AM_JewishSlab_Broad.label>
-  <!-- EN: A stone bas relief of jewish imagery for decorating a floor. -->
-  <AM_JewishSlab_Broad.description>Un bas-relief en pierre d'imagerie juive pour décorer un sol.</AM_JewishSlab_Broad.description>
-  
-  <!-- EN: jewish slab (medium) -->
-  <AM_JewishSlab_Medium.label>dalle juive (moyenne)</AM_JewishSlab_Medium.label>
-  <!-- EN: A stone bas relief of jewish imagery for decorating a floor. -->
-  <AM_JewishSlab_Medium.description>Un bas-relief en pierre d'imagerie juive pour décorer un sol.</AM_JewishSlab_Medium.description>
-  
-  <!-- EN: kemetic slab (broad) -->
-  <AM_KemeticSlab_Broad.label>dalle kémétique (large)</AM_KemeticSlab_Broad.label>
-  <!-- EN: A stone bas relief of kemetic imagery for decorating a floor. -->
-  <AM_KemeticSlab_Broad.description>Un bas-relief en pierre d'imagerie kémétique pour décorer un sol.</AM_KemeticSlab_Broad.description>
-  
-  <!-- EN: kemetic slab (medium) -->
-  <AM_KemeticSlab_Medium.label>dalle kémétique (moyenne)</AM_KemeticSlab_Medium.label>
-  <!-- EN: A stone bas relief of kemetic imagery for decorating a floor. -->
-  <AM_KemeticSlab_Medium.description>Un bas-relief en pierre d'imagerie kémétique pour décorer un sol.</AM_KemeticSlab_Medium.description>
-  
-  <!-- EN: steampunk slab (broad) -->
-  <AM_SteampunkSlab_Broad.label>dalle steampunk (large)</AM_SteampunkSlab_Broad.label>
-  <!-- EN: A stone bas relief of steampunk imagery for decorating a floor. -->
-  <AM_SteampunkSlab_Broad.description>Un bas-relief en pierre d'imagerie steampunk pour décorer un sol.</AM_SteampunkSlab_Broad.description>
-  
-  <!-- EN: steampunk slab (medium) -->
-  <AM_SteampunkSlab_Medium.label>dalle steampunk (moyenne)</AM_SteampunkSlab_Medium.label>
-  <!-- EN: A stone bas relief of steampunk imagery for decorating a floor. -->
-  <AM_SteampunkSlab_Medium.description>Un bas-relief en pierre d'imagerie steampunk pour décorer un sol.</AM_SteampunkSlab_Medium.description>
-  
+
+<!-- EN: hindu slab (broad) -->
+<AM_HinduSlab_Broad.label>dalle hindouiste (grande)</AM_HinduSlab_Broad.label>
+<!-- EN: A stone bas relief of hindu imagery for decorating a floor. -->
+<AM_HinduSlab_Broad.description>Un bas-relief en pierre d'imagerie hindouiste pour décorer un sol.</AM_HinduSlab_Broad.description>
+
+<!-- EN: hindu slab (medium) -->
+<AM_HinduSlab_Medium.label>dalle hindouiste (moyenne)</AM_HinduSlab_Medium.label>
+<!-- EN: A stone bas relief of hindu imagery for decorating a floor. -->
+<AM_HinduSlab_Medium.description>Un bas-relief en pierre d'imagerie hindouiste pour décorer un sol.</AM_HinduSlab_Medium.description>
+
+<!-- EN: jewish slab (broad) -->
+<AM_JewishSlab_Broad.label>dalle judaïque (grande)</AM_JewishSlab_Broad.label>
+<!-- EN: A stone bas relief of jewish imagery for decorating a floor. -->
+<AM_JewishSlab_Broad.description>Un bas-relief en pierre d'imagerie judaïque pour décorer un sol.</AM_JewishSlab_Broad.description>
+
+<!-- EN: jewish slab (medium) -->
+<AM_JewishSlab_Medium.label>dalle judaïque (moyenne)</AM_JewishSlab_Medium.label>
+<!-- EN: A stone bas relief of jewish imagery for decorating a floor. -->
+<AM_JewishSlab_Medium.description>Un bas-relief en pierre d'imagerie judaïque pour décorer un sol.</AM_JewishSlab_Medium.description>
+
+<!-- EN: kemetic slab (broad) -->
+<AM_KemeticSlab_Broad.label>dalle kémitisme (grande)</AM_KemeticSlab_Broad.label>
+<!-- EN: A stone bas relief of kemetic imagery for decorating a floor. -->
+<AM_KemeticSlab_Broad.description>Un bas-relief en pierre d'imagerie kémitisme pour décorer un sol.</AM_KemeticSlab_Broad.description>
+
+<!-- EN: kemetic slab (medium) -->
+<AM_KemeticSlab_Medium.label>dalle kémitisme (moyenne)</AM_KemeticSlab_Medium.label>
+<!-- EN: A stone bas relief of kemetic imagery for decorating a floor. -->
+<AM_KemeticSlab_Medium.description>Un bas-relief en pierre d'imagerie kémitisme pour décorer un sol.</AM_KemeticSlab_Medium.description>
+
+<!-- EN: steampunk slab (broad) -->
+<AM_SteampunkSlab_Broad.label>dalle steampunk (grande)</AM_SteampunkSlab_Broad.label>
+<!-- EN: A stone bas relief of steampunk imagery for decorating a floor. -->
+<AM_SteampunkSlab_Broad.description>Un bas-relief en pierre d'imagerie steampunk pour décorer un sol.</AM_SteampunkSlab_Broad.description>
+
+<!-- EN: steampunk slab (medium) -->
+<AM_SteampunkSlab_Medium.label>dalle steampunk (moyenne)</AM_SteampunkSlab_Medium.label>
+<!-- EN: A stone bas relief of steampunk imagery for decorating a floor. -->
+<AM_SteampunkSlab_Medium.description>Un bas-relief en pierre d'imagerie steampunk pour décorer un sol.</AM_SteampunkSlab_Medium.description>
+
+
 </LanguageData>

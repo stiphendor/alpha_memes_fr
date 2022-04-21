@@ -1,11 +1,12 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-  
-  <!-- EN: pristine limestone blocks -->
-  <AM_BlocksPristineLimestone.label>blocs de calcaire pristine</AM_BlocksPristineLimestone.label>
-  <!-- EN: Blocks of pristine limestone. -->
-  <AM_BlocksPristineLimestone.description>Blocs de calcaire pristine</AM_BlocksPristineLimestone.description>
-  <!-- EN: pristine limestone -->
-  <AM_BlocksPristineLimestone.stuffProps.stuffAdjective>calcaire pristine</AM_BlocksPristineLimestone.stuffProps.stuffAdjective>
-  
+
+<!-- EN: pristine limestone blocks -->
+<AM_BlocksPristineLimestone.label>blocs de calcaire cristallin</AM_BlocksPristineLimestone.label>
+<!-- EN: Blocks of pristine limestone. -->
+<AM_BlocksPristineLimestone.description>Blocs de calcaire cristallin</AM_BlocksPristineLimestone.description>
+<!-- EN: pristine limestone -->
+<AM_BlocksPristineLimestone.stuffProps.stuffAdjective>calcaire cristallin</AM_BlocksPristineLimestone.stuffProps.stuffAdjective>
+
+
 </LanguageData>

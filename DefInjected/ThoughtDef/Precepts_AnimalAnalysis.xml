@@ -26,9 +26,9 @@
 <!-- EN: We have a lot of scanned creatures in the database, it's amazing! -->
 <AM_AnimalAnalysis_Expected.stages.a_lot_of_scans.description>Nous avons beaucoup de créatures scannées dans la base de données, c'est incroyable !</AM_AnimalAnalysis_Expected.stages.a_lot_of_scans.description>
 <!-- EN: database almost half full -->
-<AM_AnimalAnalysis_Expected.stages.database_almost_half_full.label>base de données à moitié pleine</AM_AnimalAnalysis_Expected.stages.database_almost_half_full.label>
+<AM_AnimalAnalysis_Expected.stages.database_almost_half_full.label>base de données presque à moitié pleine</AM_AnimalAnalysis_Expected.stages.database_almost_half_full.label>
 <!-- EN: Almost halfway there! -->
-<AM_AnimalAnalysis_Expected.stages.database_almost_half_full.description>Nous sommes à mi-chemin !</AM_AnimalAnalysis_Expected.stages.database_almost_half_full.description>
+<AM_AnimalAnalysis_Expected.stages.database_almost_half_full.description>Presque à mi-chemin !</AM_AnimalAnalysis_Expected.stages.database_almost_half_full.description>
 <!-- EN: a huge lot of scans -->
 <AM_AnimalAnalysis_Expected.stages.a_huge_lot_of_scans.label>grand nombre de scans</AM_AnimalAnalysis_Expected.stages.a_huge_lot_of_scans.label>
 <!-- EN: The database is full of amazing creature details, I love it! -->

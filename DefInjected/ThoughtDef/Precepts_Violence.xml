@@ -1,9 +1,10 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-  
-  <!-- EN: someone died -->
-  <AM_Violence_Abhorrent_Strict.stages.someone_died.label>有人死亡</AM_Violence_Abhorrent_Strict.stages.someone_died.label>
-  <!-- EN: The grim reality of death reminds us that this world is a cruel place, and makes us believe more firmly in our path of nonviolence. -->
-  <AM_Violence_Abhorrent_Strict.stages.someone_died.description>死亡的残酷现实再次提醒了我们：边缘世界是个残酷无情的地方。我们必须坚定曾经立下的和平血誓信念。</AM_Violence_Abhorrent_Strict.stages.someone_died.description>
-  
+
+<!-- EN: someone died -->
+<AM_Violence_Abhorrent_Strict.stages.someone_died.label>quelqu'un est mort</AM_Violence_Abhorrent_Strict.stages.someone_died.label>
+<!-- EN: The grim reality of death reminds us that this world is a cruel place, and makes us believe more firmly in our path of nonviolence. -->
+<AM_Violence_Abhorrent_Strict.stages.someone_died.description>La triste réalité de la mort nous rappelle que ce monde est cruel et nous incite à croire plus fermement en notre cause de non-violence.</AM_Violence_Abhorrent_Strict.stages.someone_died.description>
+
+
 </LanguageData>

@@ -1,11 +1,12 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-  
-  <!-- EN: desired -->
-  <AM_AnimalSlaughter_Desired.label>渴望</AM_AnimalSlaughter_Desired.label>
-  <!-- EN: The abominable genetically modified creations of humanity must be culled. We have no compunctions about consuming their flesh, as long as we are hunting them in the wild. -->
-  <AM_AnimalSlaughter_Desired.description>人类创造出的基因工程生物是如此令人厌恶，我们必须要将它们悉数捕杀。</AM_AnimalSlaughter_Desired.description>
-  <!-- EN: Someone slaughtered an animal -->
-  <AM_AnimalSlaughter_Desired.comps.1.description>有人宰杀了动物</AM_AnimalSlaughter_Desired.comps.1.description>
-  
+
+<!-- EN: desired -->
+<AM_AnimalSlaughter_Desired.label>souhaité</AM_AnimalSlaughter_Desired.label>
+<!-- EN: The abominable genetically modified creations of humanity must be culled. We have no compunctions about consuming their flesh, as long as we are hunting them in the wild. -->
+<AM_AnimalSlaughter_Desired.description>Les créations abominables génétiquement modifiées de l'humanité doivent être abattues. Nous n'avons aucun scrupule à consommer leur chair, tant que nous les chassons à l'état sauvage.</AM_AnimalSlaughter_Desired.description>
+<!-- EN: Someone slaughtered an animal -->
+<AM_AnimalSlaughter_Desired.comps.1.description>Quelqu'un a abattu un animal.</AM_AnimalSlaughter_Desired.comps.1.description>
+
+
 </LanguageData>

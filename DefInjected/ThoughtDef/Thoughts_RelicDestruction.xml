@@ -1,14 +1,15 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-  
-  <!-- EN: boring relic destruction -->
-  <AM_BoringRelicDestruction.stages.boring_relic_destruction.label>destruction de relique ennuyante</AM_BoringRelicDestruction.stages.boring_relic_destruction.label>
-  <!-- EN: The ritual was a bit boring, but we got rid of an obscene idol, and that will only make our beliefs stronger. -->
-  <AM_BoringRelicDestruction.stages.boring_relic_destruction.description>Le rituel était un peu ennuyeux, mais nous nous sommes débarrassés d'une idole obscène, et cela ne fera que renforcer nos croyances.</AM_BoringRelicDestruction.stages.boring_relic_destruction.description>
-  
-  <!-- EN: entertaining relic destruction -->
-  <AM_EntertainingRelicDestruction.stages.entertaining_relic_destruction.label>destruction de relique divertissante</AM_EntertainingRelicDestruction.stages.entertaining_relic_destruction.label>
-  <!-- EN: The ritual was entertaining. We got rid of an obscene idol, and that will only make our beliefs stronger. -->
-  <AM_EntertainingRelicDestruction.stages.entertaining_relic_destruction.description>Le rituel était amusant. Nous nous sommes débarrassés d'une idole obscène, et cela ne fera que renforcer nos croyances.</AM_EntertainingRelicDestruction.stages.entertaining_relic_destruction.description>
-  
+
+<!-- EN: boring relic destruction -->
+<AM_BoringRelicDestruction.stages.boring_relic_destruction.label>destruction de relique ennuyante</AM_BoringRelicDestruction.stages.boring_relic_destruction.label>
+<!-- EN: The ritual was a bit boring, but we got rid of an obscene idol, and that will only make our beliefs stronger. -->
+<AM_BoringRelicDestruction.stages.boring_relic_destruction.description>Le rituel était un peu ennuyeux, mais nous nous sommes débarrassés d'une idole obscène, et cela ne fera que renforcer nos croyances.</AM_BoringRelicDestruction.stages.boring_relic_destruction.description>
+
+<!-- EN: entertaining relic destruction -->
+<AM_EntertainingRelicDestruction.stages.entertaining_relic_destruction.label>destruction de relique divertissante</AM_EntertainingRelicDestruction.stages.entertaining_relic_destruction.label>
+<!-- EN: The ritual was entertaining. We got rid of an obscene idol, and that will only make our beliefs stronger. -->
+<AM_EntertainingRelicDestruction.stages.entertaining_relic_destruction.description>Le rituel était amusant. Nous nous sommes débarrassés d'une idole obscène, et cela ne fera que renforcer nos croyances.</AM_EntertainingRelicDestruction.stages.entertaining_relic_destruction.description>
+
+
 </LanguageData>

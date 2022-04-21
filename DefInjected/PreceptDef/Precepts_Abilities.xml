@@ -1,9 +1,10 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-  
-  <!-- EN: analyze creature -->
-  <AM_Abilities_AnalyzeCreature.label>生物解析</AM_Abilities_AnalyzeCreature.label>
-  <!-- EN: It is our solemn duty to catalogue and analyze all the incredible genetically modified creatures created by our ancestors.\n\n<color=#E5E54C>Gameplay effect:</color>\n - All colonists that adopt this precept will get the Analyze creature ability, which allows them to scan animals in the map and add them to a genetic database, receiving bonuses depending on the number of animals scanned. -->
-  <AM_Abilities_AnalyzeCreature.description>对先祖创造出的奇妙基因工程生物进行收录与解析是我们神圣的使命。\n\n&lt;color=#E5E54C>游戏效果：&lt;/color>\n - 所有受此戒律影响的殖民者都将获得技能“生物解析”，可对地图上的生物进行扫描，并将获得的情报数据录入生物数据基站中。扫描一定数量的生物将会获得奖励。</AM_Abilities_AnalyzeCreature.description>
-  
+
+<!-- EN: analyze creature -->
+<AM_Abilities_AnalyzeCreature.label>analyser la créature</AM_Abilities_AnalyzeCreature.label>
+<!-- EN: It is our solemn duty to catalogue and analyze all the incredible genetically modified creatures created by our ancestors.\n\n<color=#E5E54C&gt;Gameplay effect:</color>\n - All colonists that adopt this precept will get the Analyze creature ability, which allows them to scan animals in the map and add them to a genetic database, receiving bonuses depending on the number of animals scanned. -->
+<AM_Abilities_AnalyzeCreature.description>Il est de notre devoir solennel de cataloguer et d'analyser toutes les incroyables créatures génétiquement modifiées créées par nos ancêtres.\n\n&lt;color=#E5E54C&gt;Effet en jeu :&lt;/color&gt;\n - Tous les colons qui adoptent ce précepte obtiennent la capacité Analyser la créature, qui leur permet de scanner les animaux de la carte et de les ajouter à une base de données génétique, en recevant des bonus en fonction du nombre d'animaux scannés.</AM_Abilities_AnalyzeCreature.description>
+
+
 </LanguageData>

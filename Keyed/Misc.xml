@@ -23,7 +23,7 @@
 <!-- EN: All resources must have been delivered to the building frame -->
 <AM_AbilityNeedsResourcesDelivered>Toutes les ressources doivent avoir été livrées à l'endroit de construction du bâtiment</AM_AbilityNeedsResourcesDelivered>
 <!-- EN: You'll need to build an animal database before this ability can be used -->
-<AM_NoDataBaseFound>Vous devrez construire une base de données d'animaux avant de pouvoir utiliser cette capacité</AM_NoDataBaseFound>
+<AM_NoDataBaseFound>Vous devrez construire une base de données animale avant de pouvoir utiliser cette capacité</AM_NoDataBaseFound>
 <!-- EN: Not scanned -->
 <AM_NotAnalyzed>Non scanné</AM_NotAnalyzed>
 <!-- EN: Genome analyzed -->
@@ -35,9 +35,9 @@
 <!-- EN: This will show you a list of possible animals that need to be scanned. -->
 <AM_ShowAnimalAnalysisDesc>Vous obtiendrez une liste des animaux qui doivent être scannés.</AM_ShowAnimalAnalysisDesc>
 <!-- EN: Only one database can be built -->
-<AM_OnlyOneDatabase>Une seule base de données peut être construite</AM_OnlyOneDatabase>
+<AM_OnlyOneDatabase>Une seule base de données animale peut être construite</AM_OnlyOneDatabase>
 <!-- EN: This animal has already been scanned for the database -->
-<AM_AnimalAlreadyScanned>Cet animal a déjà été scanné dans la base de données</AM_AnimalAlreadyScanned>
+<AM_AnimalAlreadyScanned>Cet animal a déjà été scanné dans la base de données animale</AM_AnimalAlreadyScanned>
 <!-- EN: {0} has been scanned into the animal database -->
 <AM_AnimalScanned>{0} a été scanné dans la base de données animale</AM_AnimalScanned>
 <!-- EN: Database completion rate at {0} -->

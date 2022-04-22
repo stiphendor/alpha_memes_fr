@@ -1,59 +1,59 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-	<!-- Ideoligions -->
-	
-	<!-- EN: Art production speed: increased precept -->
-  <AM_ArtTableExtraSpeed>Vitesse de production artistique : précepte accru</AM_ArtTableExtraSpeed>
-	<!-- EN: Armour: blunt precept -->
-  <AM_ExtraBluntArmorFactor>Armure : précepte contondant</AM_ExtraBluntArmorFactor>
-	<!-- EN: Armour: sharp precept -->
-  <AM_ExtraSharpArmorFactor>Armure : précepte pointu</AM_ExtraSharpArmorFactor>
-	<!-- EN: Armour: heat precept -->
-  <AM_ExtraHeatArmorFactor>Armure : précepte de chaleur</AM_ExtraHeatArmorFactor>
-	<!-- EN: Despised Animals -->
-  <AM_DespisedAnimals>Animaux méprisés</AM_DespisedAnimals>
-	<!-- EN: Despised Animal -->
-  <AM_AddDespisedAnimals>Animal méprisé</AM_AddDespisedAnimals>
-	<!-- EN: This ability must target a downed sapient humanoid -->
-  <AM_AbilityNeedsADownedPawn>Cette capacité doit cibler un humanoïde intelligent abattu</AM_AbilityNeedsADownedPawn>
-	<!-- EN: This ability must target a living, non-dryad animal -->
-  <AM_AbilityNeedsAValidAnimal>Cette capacité doit cibler un animal vivant qui n'est pas une dryade</AM_AbilityNeedsAValidAnimal>
-	<!-- EN: This ability needs to target a building frame that is under construction -->
-  <AM_AbilityNeedsABlueprint>Cette capacité doit cibler un bâtiment en construction</AM_AbilityNeedsABlueprint>
-	<!-- EN: All resources must have been delivered to the building frame -->
-  <AM_AbilityNeedsResourcesDelivered>Toutes les ressources doivent avoir été livrées à l'endroit de construction du bâtiment</AM_AbilityNeedsResourcesDelivered>
-	<!-- EN: You'll need to build an animal database before this ability can be used -->
-  <AM_NoDataBaseFound>Vous devrez créer une base de données d'animaux avant de pouvoir utiliser cette capacité</AM_NoDataBaseFound>
-	<!-- EN: Not scanned -->
-  <AM_NotAnalyzed>Pas scanné</AM_NotAnalyzed>
-	<!-- EN: Genome analyzed -->
-  <AM_Analyzed>Génome analysé</AM_Analyzed>
-	<!-- EN: Only tagged animals -->
-  <AM_OnlyTaggedAnimals>Seuls les animaux marqués</AM_OnlyTaggedAnimals>
-	<!-- EN: Show genome analysis -->
-  <AM_ShowAnimalAnalysis>Afficher l'analyse du génome</AM_ShowAnimalAnalysis>
-	<!-- EN: This will show you a list of possible animals that need to be scanned. -->
-  <AM_ShowAnimalAnalysisDesc>Cela vous montrera une liste d'animaux possibles qui doivent être scannés.</AM_ShowAnimalAnalysisDesc>
-	<!-- EN: Only one database can be built -->
-  <AM_OnlyOneDatabase>Une seule base de données peut être construite.</AM_OnlyOneDatabase>
-	<!-- EN: This animal has already been scanned for the database -->
-  <AM_AnimalAlreadyScanned>Cet animal a déjà été scanné pour la base de données.</AM_AnimalAlreadyScanned>
-	<!-- EN: {0} has been scanned into the animal database -->
-  <AM_AnimalScanned>{0} a été scanné dans la base de données des animaux</AM_AnimalScanned>
-	<!-- EN: Database completion rate at {0} -->
-  <AM_CompletionDescription>Taux d'achèvement de la base de données : {0}</AM_CompletionDescription>
-	<!-- EN: Install in relic smashing altar -->
-  <AM_InstallInReliquary>Installer dans l'autel destructeur de reliques</AM_InstallInReliquary>
-	<!-- EN: no empty accessible relic smashing altar -->
-  <AM_NoEmptyReliquary>aucun autel destructeur de relique vide accessible</AM_NoEmptyReliquary>
-	<!-- EN: Relic smashing altar needs to have a relic installed to start the ritual -->
-  <AM_NeedsFullAltar>L'autel destructeur de reliques doit avoir une relique installée pour commencer le rituel</AM_NeedsFullAltar>
-	<!-- EN: This ability can't be used if the colonist's ideo doesn't have the necessary meme -->
-  <AM_AbilityNeedsMeme>Cette capacité ne peut pas être utilisée si l'idéo du colon n'a pas le mème nécessaire</AM_AbilityNeedsMeme>
-	<!-- EN: Make the "Change Style" ability use styles not possessed by the player's main ideoligion -->
-  <AM_MakeChangeStyleAbilityUseAllStyles>Faire en sorte que la capacité "Changer de style" utilise des styles qui ne sont pas possédés par l'idéologie principale du joueur</AM_MakeChangeStyleAbilityUseAllStyles>
-	<!-- EN: Make the "Change Style" ability use styles not possessed by the player's main ideoligion. By default this leader role ability will swap an item's style through the styles present in the colony's main ideo. By activating this toggle you will make it use ALL styles currently present in the game (vanilla or modded) -->
-  <AM_MakeChangeStyleAbilityUseAllStyles_Tooltip>Faites en sorte que la capacité "Changer de style" utilise des styles qui ne sont pas possédés par l'idéologie principale du joueur. Par défaut, cette capacité de rôle de chef permutera le style d'un objet à travers les styles présents dans l'idéo principale de la colonie. En activant cette bascule, vous lui ferez utiliser TOUS les styles actuellement présents dans le jeu (de base ou moddé).</AM_MakeChangeStyleAbilityUseAllStyles_Tooltip>
+<!-- Ideoligions -->
 
-	
+<!-- EN: Art production speed: increased precept -->
+<AM_ArtTableExtraSpeed>Vitesse de production artistique : précepte accru</AM_ArtTableExtraSpeed>
+<!-- EN: Armour: blunt precept -->
+<AM_ExtraBluntArmorFactor>Armure : précepte contondant</AM_ExtraBluntArmorFactor>
+<!-- EN: Armour: sharp precept -->
+<AM_ExtraSharpArmorFactor>Armure : précepte perforant</AM_ExtraSharpArmorFactor>
+<!-- EN: Armour: heat precept -->
+<AM_ExtraHeatArmorFactor>Armure : précepte thermique</AM_ExtraHeatArmorFactor>
+<!-- EN: Despised Animals -->
+<AM_DespisedAnimals>Animaux méprisés</AM_DespisedAnimals>
+<!-- EN: Despised Animal -->
+<AM_AddDespisedAnimals>Animal méprisé</AM_AddDespisedAnimals>
+<!-- EN: This ability must target a downed sapient humanoid -->
+<AM_AbilityNeedsADownedPawn>Cette capacité doit cibler un humanoïde intelligent abattu</AM_AbilityNeedsADownedPawn>
+<!-- EN: This ability must target a living, non-dryad animal -->
+<AM_AbilityNeedsAValidAnimal>Cette capacité doit cibler un animal vivant qui n'est pas une dryade</AM_AbilityNeedsAValidAnimal>
+<!-- EN: This ability needs to target a building frame that is under construction -->
+<AM_AbilityNeedsABlueprint>Cette capacité doit cibler un bâtiment en construction</AM_AbilityNeedsABlueprint>
+<!-- EN: All resources must have been delivered to the building frame -->
+<AM_AbilityNeedsResourcesDelivered>Toutes les ressources doivent avoir été livrées à l'endroit de construction du bâtiment</AM_AbilityNeedsResourcesDelivered>
+<!-- EN: You'll need to build an animal database before this ability can be used -->
+<AM_NoDataBaseFound>Vous devrez construire une base de données d'animaux avant de pouvoir utiliser cette capacité</AM_NoDataBaseFound>
+<!-- EN: Not scanned -->
+<AM_NotAnalyzed>Non scanné</AM_NotAnalyzed>
+<!-- EN: Genome analyzed -->
+<AM_Analyzed>Génome analysé</AM_Analyzed>
+<!-- EN: Only tagged animals -->
+<AM_OnlyTaggedAnimals>Seuls les animaux marqués</AM_OnlyTaggedAnimals>
+<!-- EN: Show genome analysis -->
+<AM_ShowAnimalAnalysis>Afficher l'analyse du génome</AM_ShowAnimalAnalysis>
+<!-- EN: This will show you a list of possible animals that need to be scanned. -->
+<AM_ShowAnimalAnalysisDesc>Vous obtiendrez une liste des animaux qui doivent être scannés.</AM_ShowAnimalAnalysisDesc>
+<!-- EN: Only one database can be built -->
+<AM_OnlyOneDatabase>Une seule base de données peut être construite</AM_OnlyOneDatabase>
+<!-- EN: This animal has already been scanned for the database -->
+<AM_AnimalAlreadyScanned>Cet animal a déjà été scanné dans la base de données</AM_AnimalAlreadyScanned>
+<!-- EN: {0} has been scanned into the animal database -->
+<AM_AnimalScanned>{0} a été scanné dans la base de données animale</AM_AnimalScanned>
+<!-- EN: Database completion rate at {0} -->
+<AM_CompletionDescription>Taux d'achèvement de la base de données : {0}</AM_CompletionDescription>
+<!-- EN: Install in relic smashing altar -->
+<AM_InstallInReliquary>Installer dans l'autel destructeur de reliques</AM_InstallInReliquary>
+<!-- EN: no empty accessible relic smashing altar -->
+<AM_NoEmptyReliquary>aucun autel vide et accessible de destructeur de reliques</AM_NoEmptyReliquary>
+<!-- EN: Relic smashing altar needs to have a relic installed to start the ritual -->
+<AM_NeedsFullAltar>L'autel destructeur de reliques doit avoir une relique installée pour commencer le rituel</AM_NeedsFullAltar>
+<!-- EN: This ability can't be used if the colonist's ideo doesn't have the necessary meme -->
+<AM_AbilityNeedsMeme>Cette capacité ne peut pas être utilisée si l'idéo du colon n'a pas le mème nécessaire</AM_AbilityNeedsMeme>
+<!-- EN: Make the "Change Style" ability use styles not possessed by the player's main ideoligion -->
+<AM_MakeChangeStyleAbilityUseAllStyles>Faire en sorte que la capacité "Changer de style" utilise des styles qui ne sont pas possédés par l'idéologie principale du joueur</AM_MakeChangeStyleAbilityUseAllStyles>
+<!-- EN: Make the "Change Style" ability use styles not possessed by the player's main ideoligion. By default this leader role ability will swap an item's style through the styles present in the colony's main ideo. By activating this toggle you will make it use ALL styles currently present in the game (vanilla or modded) -->
+<AM_MakeChangeStyleAbilityUseAllStyles_Tooltip>Faites en sorte que la capacité "Changer de style" utilise des styles qui ne sont pas possédés par l'idéologie principale du joueur. Par défaut, cette capacité de rôle de chef permutera le style d'un objet à travers les styles présents dans l'idéo principale de la colonie. En activant cette bascule, vous lui ferez utiliser TOUS les styles actuellement présents dans le jeu (de base ou moddé).</AM_MakeChangeStyleAbilityUseAllStyles_Tooltip>
+
+
 </LanguageData>

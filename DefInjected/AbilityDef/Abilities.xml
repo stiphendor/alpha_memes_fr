@@ -1,24 +1,25 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-  
-  <!-- EN: analyze creature -->
-  <AM_AnalyzeCreature.label>analyser l'animal</AM_AnalyzeCreature.label>
-  <!-- EN: This ability allows the colonist to scan animals in the map and add them to a genetic database, receiving bonuses depending on the number of animals scanned.\n\nIt is very low range and some animals will move out of range constantly, so they can be downed first to make it easier.\n\nNote however that it won't work on dead animals, and it will also fail if no database has been built yet. -->
-  <AM_AnalyzeCreature.description>Cette capacité permet au colon de scanner les animaux sur la carte et de les ajouter à une base de données génétiques, recevant des bonus en fonction du nombre d'animaux scannés.\n\nC'est une plage très basse et certains animaux se déplaceront constamment hors de portée, afin qu'ils puissent être abattu en premier pour le rendre plus facile.\n\nNotez cependant que cela ne fonctionnera pas sur les animaux morts, et cela échouera également si aucune base de données n'a encore été créée.</AM_AnalyzeCreature.description>
-  
-  <!-- EN: change style -->
-  <AM_ChangeStyle.label>changer de style</AM_ChangeStyle.label>
-  <!-- EN: The leader of the colony has the ability to change the styling of an item or building. Bear in mind that only the styles present in the colony's primary ideo can be used to swap (this can be changed in mod options to allow ALL possible styles). -->
-  <AM_ChangeStyle.description>Le chef de la colonie a la capacité de changer le style d'un objet ou d'un bâtiment. Gardez à l'esprit que seuls les styles présents dans l'idéoligion principale de la colonie peuvent être utilisés (cela peut être modifié dans les options du mod pour autoriser TOUS les styles possibles).</AM_ChangeStyle.description>
-  
-  <!-- EN: convert to pristine limestone -->
-  <AM_ConvertStone.label>convertir en calcaire pristine</AM_ConvertStone.label>
-  <!-- EN: This ability allows the master architect to convert any stone block (for mod compatibility defined as anything with "Blocks" in its defName) to Pristine limestone, a stone that is both beautiful and damage resistant.\n\nTo do this, the architect uses... err... mechanites... or something... Look, I just wanted a new rock type to build pretty pyramids with, ok? -->
-  <AM_ConvertStone.description>Cette capacité permet au maître architecte de convertir n'importe quel bloc de pierre (pour la compatibilité mod définie comme n'importe quoi avec "Blocs" dans son defName) en calcaire Pristine, une pierre à la fois belle et résistante aux dégâts.\n\nPour ce faire, l'architecte utilise ... euh... des mécanites... ou quelque chose comme ça... Écoutez, je voulais juste un nouveau type de roche pour construire de jolies pyramides, d'accord ?</AM_ConvertStone.description>
-  
-  <!-- EN: finish construction -->
-  <AM_FinishConstruction.label>finir la construction</AM_FinishConstruction.label>
-  <!-- EN: Once every 10 days the master architect can use this ability to finish the construction of a blueprint. -->
-  <AM_FinishConstruction.description>Une fois tous les 10 jours, le maître architecte peut utiliser cette capacité pour terminer la construction d'un plan.</AM_FinishConstruction.description>
-  
+
+<!-- EN: analyze creature -->
+<AM_AnalyzeCreature.label>analyser l'animal</AM_AnalyzeCreature.label>
+<!-- EN: This ability allows the colonist to scan animals in the map and add them to a genetic database, receiving bonuses depending on the number of animals scanned.\n\nIt is very low range and some animals will move out of range constantly, so they can be downed first to make it easier.\n\nNote however that it won't work on dead animals, and it will also fail if no database has been built yet. -->
+<AM_AnalyzeCreature.description>Cette capacité permet au colon de scanner les animaux sur la carte et de les ajouter à une base de données génétiques, recevant des bonus en fonction du nombre d'animaux scannés.\n\nC'est une plage très basse et certains animaux se déplaceront constamment hors de portée, afin qu'ils puissent être abattu en premier pour le rendre plus facile.\n\nNotez cependant que cela ne fonctionnera pas sur les animaux morts, et cela échouera également si aucune base de données n'a encore été créée.</AM_AnalyzeCreature.description>
+
+<!-- EN: change style -->
+<AM_ChangeStyle.label>changer de style</AM_ChangeStyle.label>
+<!-- EN: The leader of the colony has the ability to change the styling of an item or building. Bear in mind that only the styles present in the colony's primary ideo can be used to swap (this can be changed in mod options to allow ALL possible styles). -->
+<AM_ChangeStyle.description>Le chef de la colonie a la capacité de changer le style d'un objet ou d'un bâtiment. Gardez à l'esprit que seuls les styles présents dans l'idéoligion principale de la colonie peuvent être utilisés (cela peut être modifié dans les options du mod pour autoriser TOUS les styles possibles).</AM_ChangeStyle.description>
+
+<!-- EN: convert to pristine limestone -->
+<AM_ConvertStone.label>convertir en calcaire immaculé</AM_ConvertStone.label>
+<!-- EN: This ability allows the master architect to convert any stone block (for mod compatibility defined as anything with "Blocks" in its defName) to Pristine limestone, a stone that is both beautiful and damage resistant.\n\nTo do this, the architect uses... err... mechanites... or something... Look, I just wanted a new rock type to build pretty pyramids with, ok? -->
+<AM_ConvertStone.description>Cette capacité permet au maître architecte de convertir n'importe quel bloc de pierre (pour la compatibilité mod définie comme n'importe quoi avec "Blocs" dans son defName) en calcaire immaculé, une pierre à la fois belle et résistante aux dégâts.\n\nPour ce faire, l'architecte utilise ... euh... des mécanites... ou quelque chose comme ça... Écoutez, je voulais juste un nouveau type de roche pour construire de jolies pyramides, d'accord ?</AM_ConvertStone.description>
+
+<!-- EN: finish construction -->
+<AM_FinishConstruction.label>finir la construction</AM_FinishConstruction.label>
+<!-- EN: Once every 10 days the master architect can use this ability to finish the construction of a blueprint. -->
+<AM_FinishConstruction.description>Une fois tous les 10 jours, le maître architecte peut utiliser cette capacité pour terminer la construction d'un plan.</AM_FinishConstruction.description>
+
+
 </LanguageData>

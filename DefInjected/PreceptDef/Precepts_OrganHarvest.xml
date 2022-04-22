@@ -1,11 +1,12 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-  
-  <!-- EN: torturous -->
-  <AM_OrganUse_Torturous.label>折磨取乐</AM_OrganUse_Torturous.label>
-  <!-- EN: Harvesting the organs of a still-living enemy is exquisite torture that should be encouraged. -->
-  <AM_OrganUse_Torturous.description>当着敌人的面摘取他们的器官是一种雅致的折磨方式。</AM_OrganUse_Torturous.description>
-  <!-- EN: Someone harvested an organ -->
-  <AM_OrganUse_Torturous.comps.2.description>有人摘取器官</AM_OrganUse_Torturous.comps.2.description>
-  
+
+<!-- EN: torturous -->
+<AM_OrganUse_Torturous.label>torturé</AM_OrganUse_Torturous.label>
+<!-- EN: Harvesting the organs of a still-living enemy is exquisite torture that should be encouraged. -->
+<AM_OrganUse_Torturous.description>Prélever les organes d'un ennemi encore vivant est une torture exquise qui devrait être encouragée.</AM_OrganUse_Torturous.description>
+<!-- EN: Someone harvested an organ -->
+<AM_OrganUse_Torturous.comps.2.description>Quelqu'un a prélevé un organe</AM_OrganUse_Torturous.comps.2.description>
+
+
 </LanguageData>

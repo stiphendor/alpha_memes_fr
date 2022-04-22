@@ -2,7 +2,7 @@
 <LanguageData>
 
 <!-- EN: destroyed a relic -->
-<AM_RelicDestruction_Desired.stages.destroyed_a_relic.label>relique détruite</AM_RelicDestruction_Desired.stages.destroyed_a_relic.label>
+<AM_RelicDestruction_Desired.stages.destroyed_a_relic.label>une relique détruite</AM_RelicDestruction_Desired.stages.destroyed_a_relic.label>
 <!-- EN: We destroyed a relic. Feels good to get rid of such obscene idols. -->
 <AM_RelicDestruction_Desired.stages.destroyed_a_relic.description>Nous avons détruit une relique. Ça fait du bien de se débarrasser d'idoles aussi obscènes.</AM_RelicDestruction_Desired.stages.destroyed_a_relic.description>
 <!-- EN: destroyed two relics -->

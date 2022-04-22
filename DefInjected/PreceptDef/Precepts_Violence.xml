@@ -1,9 +1,10 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-  
-  <!-- EN: abhorrent (strict) -->
-  <AM_Violence_Abhorrent_Strict.label>厌恶（严格）</AM_Violence_Abhorrent_Strict.label>
-  <!-- EN: Strive for peace within yourself. Refuse to retaliate in the face of provocation and violence. Persevere in nonviolence of tongue and heart.\n\n<color=#E5E54C>Gameplay effect:</color>\n - All persons joining this ideoligion will take a solemn nonviolence vow.\n - The only mental break allowed is psychotic wander.\n - Colonists will receive negative mood if ANY human casualties take place on the colony. -->
-  <AM_Violence_Abhorrent_Strict.description>我们势必要将非暴力主张贯彻到底。当面对挑衅与暴力时，我们决不可进行反击。\n\n&lt;color=#E5E54C>游戏效果：&lt;/color>\n - 所有受此戒律影响的殖民者都将无法从事暴力行为。\n - 殖民者只会陷入“迷茫徘徊”的精神崩溃状态。\n - 如果有殖民者死亡，其他殖民者将获得心情减益。</AM_Violence_Abhorrent_Strict.description>
-  
+
+<!-- EN: abhorrent (strict) -->
+<AM_Violence_Abhorrent_Strict.label>abominable</AM_Violence_Abhorrent_Strict.label>
+<!-- EN: Strive for peace within yourself. Refuse to retaliate in the face of provocation and violence. Persevere in nonviolence of tongue and heart.\n\n<color=#E5E54C&gt;Gameplay effect:</color>\n - All persons joining this ideoligion will take a solemn nonviolence vow.\n - The only mental break allowed is psychotic wander.\n - Colonists will receive negative mood if ANY human casualties take place on the colony. -->
+<AM_Violence_Abhorrent_Strict.description>Recherchez la paix en vous. Refusez de riposter face à la provocation et à la violence. Persévérez dans la non-violence de la langue et du cœur.\n\n&lt;color=#E5E54C&gt;Effet en jeu :&lt;/color&gt;\n - Toutes les personnes rejoignant cette idéoligion feront un vœu solennel de non-violence.\n - La seule rupture mentale autorisée est l'errance psychotique.\n - Les colons recevront une humeur négative pour TOUTE perte humaine survenant dans la colonie.</AM_Violence_Abhorrent_Strict.description>
+
+
 </LanguageData>

@@ -3,7 +3,7 @@
 <!-- Ideoligions -->
 
 <!-- EN: Art production speed: increased precept -->
-<AM_ArtTableExtraSpeed>Vitesse de production artistique : précepte accru</AM_ArtTableExtraSpeed>
+<AM_ArtTableExtraSpeed>vitesse artistique : précepte accru</AM_ArtTableExtraSpeed>
 <!-- EN: Armour: blunt precept -->
 <AM_ExtraBluntArmorFactor>Armure : précepte contondant</AM_ExtraBluntArmorFactor>
 <!-- EN: Armour: sharp precept -->
@@ -27,13 +27,13 @@
 <!-- EN: Not scanned -->
 <AM_NotAnalyzed>Non scanné</AM_NotAnalyzed>
 <!-- EN: Genome analyzed -->
-<AM_Analyzed>Génome analysé</AM_Analyzed>
+<AM_Analyzed>Analysé</AM_Analyzed>
 <!-- EN: Only tagged animals -->
-<AM_OnlyTaggedAnimals>Seuls les animaux marqués</AM_OnlyTaggedAnimals>
+<AM_OnlyTaggedAnimals>Seulement ceux analysés</AM_OnlyTaggedAnimals>
 <!-- EN: Show genome analysis -->
-<AM_ShowAnimalAnalysis>Afficher l'analyse du génome</AM_ShowAnimalAnalysis>
+<AM_ShowAnimalAnalysis>Consulter la base</AM_ShowAnimalAnalysis>
 <!-- EN: This will show you a list of possible animals that need to be scanned. -->
-<AM_ShowAnimalAnalysisDesc>Vous obtiendrez une liste des animaux qui doivent être scannés.</AM_ShowAnimalAnalysisDesc>
+<AM_ShowAnimalAnalysisDesc>Vous permet de consulter la base de données avec les animaux déjà analysés et ceux qui vous reste à analyser.</AM_ShowAnimalAnalysisDesc>
 <!-- EN: Only one database can be built -->
 <AM_OnlyOneDatabase>Une seule base de données animale peut être construite</AM_OnlyOneDatabase>
 <!-- EN: This animal has already been scanned for the database -->

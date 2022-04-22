@@ -1,9 +1,10 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-  
-  <!-- EN: increased -->
-  <AM_ArtProductionSpeed_Increased.label>提高</AM_ArtProductionSpeed_Increased.label>
-  <!-- EN: All art must come from a place of hard work. Inspiration exists, but it has to find you working.\n\n<color=#E5E54C>Stats:</color>\n - Art bench work table speed: +25%. -->
-  <AM_ArtProductionSpeed_Increased.description>所有的艺术品都出自于匠人们刻苦地精雕细琢。灵感必须与汗水相结合才能发挥作用。\n\n&lt;color=#E5E54C>状态：&lt;/color>\n - 艺创台速度：+25%。</AM_ArtProductionSpeed_Increased.description>
-  
+
+<!-- EN: increased -->
+<AM_ArtProductionSpeed_Increased.label>augmenté</AM_ArtProductionSpeed_Increased.label>
+<!-- EN: All art must come from a place of hard work. Inspiration exists, but it has to find you working.\n\n<color=#E5E54C&gt;Stats:</color>\n - Art bench work table speed: +25%. -->
+<AM_ArtProductionSpeed_Increased.description>Tout art doit venir d'un lieu où l'on travaille dur. L'inspiration existe, mais il faut qu'elle vous trouve en travaillant.\n\n&lt;color=#E5E54C&gt;状态：&lt;/color&gt;\n - Vitesse de travail de l'établi de sculpture : +25%.</AM_ArtProductionSpeed_Increased.description>
+
+
 </LanguageData>

@@ -1,9 +1,10 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-  
-  <!-- EN: abhorrent -->
-  <AM_Recreation_Abhorrent.label>厌恶</AM_Recreation_Abhorrent.label>
-  <!-- EN: Recreation is a complete waste of time. We have much more important things to do than indulging in meaningless recreative activities.\n\n<color=#E5E54C>Stats:</color>\n - Colonists get -15 mood for half a day after doing a recreation job. -->
-  <AM_Recreation_Abhorrent.description>娱乐放松完全就是浪费时间。我们还有更重要的事情要做。\n\n&lt;color=#E5E54C>状态：&lt;/color>\n - 殖民者在娱乐过后会获得持续12小时的 -15 心情减益。</AM_Recreation_Abhorrent.description>
-  
+
+<!-- EN: abhorrent -->
+<AM_Recreation_Abhorrent.label>détestable</AM_Recreation_Abhorrent.label>
+<!-- EN: Recreation is a complete waste of time. We have much more important things to do than indulging in meaningless recreative activities.\n\n<color=#E5E54C&gt;Stats:</color>\n - Colonists get -15 mood for half a day after doing a recreation job. -->
+<AM_Recreation_Abhorrent.description>Les loisirs sont une véritable perte de temps. Nous avons des choses bien plus importantes à faire que de nous adonner à des activités récréatives sans intérêt.\n\n&lt;color=#E5E54C&gt;状态：&lt;/color&gt;\n - Les colons reçoivent -15 d'humeur pendant une demi-journée après avoir effectué un travail récréatif.</AM_Recreation_Abhorrent.description>
+
+
 </LanguageData>

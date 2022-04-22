@@ -2,7 +2,7 @@
 <LanguageData>
 
 <!-- EN: used a non-ranged attack -->
-<AM_CombatProwess_Increased_UsedMelee.stages.used_a_nonranged_attack.label>attaque sans arme à distance</AM_CombatProwess_Increased_UsedMelee.stages.used_a_nonranged_attack.label>
+<AM_CombatProwess_Increased_UsedMelee.stages.used_a_nonranged_attack.label>attaque avec arme de mêlée</AM_CombatProwess_Increased_UsedMelee.stages.used_a_nonranged_attack.label>
 <!-- EN: I had to defend myself using a melee weapon, like some kind of savage caveman. Disgusting. -->
 <AM_CombatProwess_Increased_UsedMelee.stages.used_a_nonranged_attack.description>J'ai dû me défendre en utilisant une arme de mêlée, comme une sorte d'homme sauvage des cavernes. Répugnant.</AM_CombatProwess_Increased_UsedMelee.stages.used_a_nonranged_attack.description>
 

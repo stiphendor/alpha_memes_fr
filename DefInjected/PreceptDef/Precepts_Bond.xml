@@ -1,9 +1,10 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-  
-  <!-- EN: abhorrent -->
-  <AM_Bonding_Abhorrent.label>厌恶</AM_Bonding_Abhorrent.label>
-  <!-- EN: Humanity has been damaging the whole galaxy by trying to turn it into a pale imitation of old Earth. These genetically modified animals should be destroyed, and relying on them for anything is obscene.\n\n<color=#E5E54C>Gameplay effect:</color>\n - Colonists will receive no bonus mood from animal nuzzling. -->
-  <AM_Bonding_Abhorrent.description>人类一直在破坏整个银河系，而这只是为了将其改造成古地球的低劣仿制品。对我们来说，与这些可憎的基因工程生物建立情感寄托是一种奇耻大辱。\n\n&lt;color=#E5E54C>游戏效果：&lt;/color>\n - 殖民者不会从动物的亲昵中获得额外的心情增益。</AM_Bonding_Abhorrent.description>
-  
+
+<!-- EN: abhorrent -->
+<AM_Bonding_Abhorrent.label>détestable</AM_Bonding_Abhorrent.label>
+<!-- EN: Humanity has been damaging the whole galaxy by trying to turn it into a pale imitation of old Earth. These genetically modified animals should be destroyed, and relying on them for anything is obscene.\n\n<color=#E5E54C&gt;Gameplay effect:</color>\n - Colonists will receive no bonus mood from animal nuzzling. -->
+<AM_Bonding_Abhorrent.description>L'humanité a endommagé la galaxie entière en essayant de la transformer en une pâle imitation de la vieille Terre. Ces animaux génétiquement modifiés devraient être éradiqués, et se reposer sur eux pour quoi que ce soit est obscène.\n\n&lt;color=#E5E54C&gt;Effet en jeu :&lt;/color&gt;\n - Les colons ne recevront pas de bonus d'humeur pour les câlins d'animaux.</AM_Bonding_Abhorrent.description>
+
+
 </LanguageData>

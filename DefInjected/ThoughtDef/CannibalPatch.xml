@@ -1,3 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
+
+<!-- EN: crazed catharsis -->
+<Catharsis.stages.crazed_catharsis.label>catharsis folle</Catharsis.stages.crazed_catharsis.label>
+
+<!-- EN: A flailing monkey wanted the TRUTH! A river a thousand paces wide would die for a grapefruit! -->
+<Catharsis.stages.crazed_catharsis.description>Un singe agité voulait la VÉRITÉ ! Une rivière large de mille pas mourrait pour un pamplemousse !</Catharsis.stages.crazed_catharsis.description>
+
+
 </LanguageData>

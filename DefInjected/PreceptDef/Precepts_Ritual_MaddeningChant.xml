@@ -1,9 +1,10 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-  
-  <!-- EN: maddening chant -->
-  <AM_MaddeningChantPrecept.label>癫狂圣歌</AM_MaddeningChantPrecept.label>
-  <!-- EN: A maddening chant. Participants will suffer an immediate mental breakdown. -->
-  <AM_MaddeningChantPrecept.description>一场癫狂圣歌仪式。参与者将会立即陷入精神崩溃状态。</AM_MaddeningChantPrecept.description>
-  
+
+<!-- EN: maddening chant -->
+<AM_MaddeningChantPrecept.label>chant exaspérant</AM_MaddeningChantPrecept.label>
+<!-- EN: A maddening chant. Participants will suffer an immediate mental breakdown. -->
+<AM_MaddeningChantPrecept.description>Un chant exaspérant. Les participants souffriront immédiatement d'une dépression nerveuse.</AM_MaddeningChantPrecept.description>
+
+
 </LanguageData>

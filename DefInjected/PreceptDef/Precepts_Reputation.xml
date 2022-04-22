@@ -1,9 +1,10 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-  
-  <!-- EN: lowered -->
-  <AM_Reputation_Lowered.label>降低</AM_Reputation_Lowered.label>
-  <!-- EN: Our ruthlessness is not appreciated by other factions, who justly fear us for our power.\n\n<color=#E5E54C>Gameplay effect:</color>\n - Colony starts play receiving a one-time -50 opinion penalty with all other factions. -->
-  <AM_Reputation_Lowered.description>其他派系并不赏识我们的残忍无情，他们畏惧我们的力量也是理所当然的。\n\n&lt;color=#E5E54C>游戏效果：&lt;/color>\n - 其他派系对殖民地的初始好感度-50。</AM_Reputation_Lowered.description>
-  
+
+<!-- EN: lowered -->
+<AM_Reputation_Lowered.label>réduit</AM_Reputation_Lowered.label>
+<!-- EN: Our ruthlessness is not appreciated by other factions, who justly fear us for our power.\n\n<color=#E5E54C>Gameplay effect:</color>\n - Colony starts play receiving a one-time -50 opinion penalty with all other factions. -->
+<AM_Reputation_Lowered.description>Notre caractère impitoyable n'est pas apprécié par les autres factions, qui nous craignent à juste titre pour notre puissance.\n\n&lt;color=#E5E54C&gt;Effet en jeu :&lt;/color&gt;\n - Votre colonie commence le jeu en recevant une pénalité de réputation unique de -50 avec toutes les autres factions.</AM_Reputation_Lowered.description>
+
+
 </LanguageData>

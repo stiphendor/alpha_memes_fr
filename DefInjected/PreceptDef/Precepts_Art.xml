@@ -1,21 +1,22 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-  
-  <!-- EN: desired -->
-  <AM_Art_Desired.label>渴望</AM_Art_Desired.label>
-  <!-- EN: A true work of art is the revelation of a new conception of life arising in the artist's soul, which, when expressed, lights up the path along which humanity progresses.\n\n<color=#E5E54C>Gameplay effect:</color>\n - Colonists with "Low" expectations or higher will demand art pieces around the colony, at the very least one per colonist. -->
-  <AM_Art_Desired.description>真正的艺术品乃是对艺术之魂萌生出的全新人生观念的揭示，它们犹如指明灯塔般照亮着人类前行的道路。\n\n&lt;color=#E5E54C>游戏效果：&lt;/color>\n - 拥有“较低的期望”及以上的殖民者将会要求在殖民地中摆放艺术品。每名殖民者至少需要1件艺术品。</AM_Art_Desired.description>
-  <!-- EN: No art nearby -->
-  <AM_Art_Desired.comps.0.thoughtStageDescriptions.0>附近没有艺术品</AM_Art_Desired.comps.0.thoughtStageDescriptions.0>
-  <!-- EN: Very little art around (less than 1 per colonist) -->
-  <AM_Art_Desired.comps.0.thoughtStageDescriptions.1>较少的艺术品（少于每名殖民者1个）</AM_Art_Desired.comps.0.thoughtStageDescriptions.1>
-  <!-- EN: A few art pieces around (less than 1,5 per colonist) -->
-  <AM_Art_Desired.comps.0.thoughtStageDescriptions.2>少量的艺术品（少于每名殖民者1.5个）</AM_Art_Desired.comps.0.thoughtStageDescriptions.2>
-  <!-- EN: Several art pieces around (less than 2 per colonist) -->
-  <AM_Art_Desired.comps.0.thoughtStageDescriptions.3>较多的艺术品（少于每名殖民者2个）</AM_Art_Desired.comps.0.thoughtStageDescriptions.3>
-  <!-- EN: Lots of art pieces around (less than 3 per colonist) -->
-  <AM_Art_Desired.comps.0.thoughtStageDescriptions.4>许多的艺术品（少于每名殖民者3个）</AM_Art_Desired.comps.0.thoughtStageDescriptions.4>
-  <!-- EN: Surrounded by art -->
-  <AM_Art_Desired.comps.0.thoughtStageDescriptions.5>徜徉于艺术的海洋中</AM_Art_Desired.comps.0.thoughtStageDescriptions.5>
-  
+
+<!-- EN: desired -->
+<AM_Art_Desired.label>souhaité</AM_Art_Desired.label>
+<!-- EN: A true work of art is the revelation of a new conception of life arising in the artist's soul, which, when expressed, lights up the path along which humanity progresses.\n\n<color=#E5E54C&gt;Gameplay effect:</color>\n - Colonists with "Low" expectations or higher will demand art pieces around the colony, at the very least one per colonist. -->
+<AM_Art_Desired.description>Une véritable œuvre d'art est la révélation d'une nouvelle conception de la vie qui naît dans l'âme de l'artiste et qui, lorsqu'elle est exprimée, éclaire le chemin sur lequel l'humanité progresse.\n\n&lt;color=#E5E54C&gt;Effet en jeu :&lt;/color&gt;\n - Les colons ayant des attentes "faibles" ou plus élevées exigeront des œuvres d'art dans la colonie, au moins une par colon.</AM_Art_Desired.description>
+<!-- EN: No art nearby -->
+<AM_Art_Desired.comps.0.thoughtStageDescriptions.0>Pas d'art aux alentours</AM_Art_Desired.comps.0.thoughtStageDescriptions.0>
+<!-- EN: Very little art around (less than 1 per colonist) -->
+<AM_Art_Desired.comps.0.thoughtStageDescriptions.1>Très peu d'art alentour (moins de 1 par colon)</AM_Art_Desired.comps.0.thoughtStageDescriptions.1>
+<!-- EN: A few art pieces around (less than 1,5 per colonist) -->
+<AM_Art_Desired.comps.0.thoughtStageDescriptions.2>Quelques œuvres d'art alentour (moins de 1.5 par colon)</AM_Art_Desired.comps.0.thoughtStageDescriptions.2>
+<!-- EN: Several art pieces around (less than 2 per colonist) -->
+<AM_Art_Desired.comps.0.thoughtStageDescriptions.3>Plusieurs œuvres d'art alentour (moins de 2 par colon)</AM_Art_Desired.comps.0.thoughtStageDescriptions.3>
+<!-- EN: Lots of art pieces around (less than 3 per colonist) -->
+<AM_Art_Desired.comps.0.thoughtStageDescriptions.4>Beaucoup d'œuvres d'art alentour (moins de 3 par colon)</AM_Art_Desired.comps.0.thoughtStageDescriptions.4>
+<!-- EN: Surrounded by art -->
+<AM_Art_Desired.comps.0.thoughtStageDescriptions.5>Entouré d'art</AM_Art_Desired.comps.0.thoughtStageDescriptions.5>
+
+
 </LanguageData>

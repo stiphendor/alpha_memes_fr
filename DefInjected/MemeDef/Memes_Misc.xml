@@ -31,29 +31,29 @@
   <li>alienistProphecy(tag=meme_Artist)->These wayward creatures are an infinite source of creativity. We will portray their myriad forms in our art.</li>
 -->
 <AM_Artist.descriptionMaker.rules.rulesStrings>
-  <li>creation(tag=meme_Artist)        ->[deity0_name]为[deity0_possessive]信徒们授予了绘画、书法和雕塑等知识，这些艺术活动对[deity0_objective]来说都是神圣无比的。</li>
-  <li>episode(uses=1,tag=meme_Artist)  ->[deity0_name]对[deity0_possessive]信徒们说：“吾之子孙皆为艺术家，然关键所在乃如何成大器。”</li>
-  <li>intro(tag=meme_Artist)           ->[place_summary][place_name]是收藏[deity0_name]精美艺术品的展览馆。</li>
-  <li>conflict(tag=meme_Artist)        ->贪婪至极的[foeLeader]妄图扩充[foeLeader_possessive]不义之财，想要把所有的艺术品通通卖掉。</li>
-  <li>founderJoin(tag=meme_Artist)     ->[deity0_name]激发了创始人[founderName]体内惊人的创造力，并借此制作了一件美轮美奂的艺术品，[foeLeader]被它的美丽感动得痛哭流涕。</li>
-  <li>victory(tag=meme_Artist)         ->[founderName]让我们理解了这一点：艺术让我们发现了自我，也让我们迷失了自我。</li>
-  <li>setup(tag=meme_Artist)           ->[founderName]被认为是一名能够比肩古地球伟大艺术家们的画家。[founder_pronoun]花了十余年来完善[founder_possessive]艺术风格，人们都将[founder_pronoun]当做真正的大师看待。</li>
-  <li>story(uses=1,tag=meme_Artist)    ->[founderName]比任何人都更了解“艺术不是你看到了什么，而是你让别人看到了什么”这一点。</li>
-  <li>lessonIntro(tag=meme_Artist)         ->你仅需要学习远古艺术史就能懂得</li>
-  <li>lesson(tag=meme_Artist)              ->犯错不过是些令人快乐的小小意外罢了</li>
-  <li>lessonReinforcement(tag=meme_Artist) ->艺术不是你看到了什么，而是你让别人看到了什么。</li>
-  <li>archistBasis(tag=meme_Artist)    ->超凡智能拥有最为纯净的创造力，祂质朴的思想中蕴含着无限想象力。</li>
-  <li>archistFact(tag=meme_Artist)     ->没有什么比一个没有创造力的人更让超凡智能所厌恶的了。</li>
-  <li>archistProphecy(tag=meme_Artist) ->[inTheEnd]，只有那些接纳了自身创造力侧面的人才能走向超越。</li>
-  <li>animistBasis(tag=meme_Artist)    ->创造力是最强大的灵魂之一，因为它支配着一切涉及人类想象力的事物。</li>
-  <li>animistFact(tag=meme_Artist)     ->创造新物品的行为对灵魂来说是神圣的。</li>
-  <li>animistProphecy(tag=meme_Artist) ->[itIsSaid]只有那些接纳了自身创造力侧面的人才能与灵魂们进行沟通。</li>
-  <li>serketistProphecy(tag=meme_Artist)->[itIsSaid]我们将创造出象征着心爱虫族们千变万化特征的复杂设计。</li>
-  <li>chthonianProphecy(tag=meme_Artist)->唯有真正的艺术家才能真正了解恐怖或生理畏惧的真正原理——精密的线条比例和潜在本能或有关恐惧的遗传性记忆相互关联，而适当的色彩对比与灯光效果能唤醒人类蛰伏的陌生感。</li>
-  <li>esotericismProphecy(tag=meme_Artist)->谁知道这些神秘学知识背后又隐藏着什么样的秘奥图形呢？我们将会创造出奇异的艺术品，通过研究来揭示其背后隐藏的事物。</li>
-  <li>eschatologismFact(tag=meme_Artist)->每一种创造举动都是毁灭的开端。</li>
-  <li>introMemo(tag=meme_Artist)->能“请”你再次检查一遍艺术部门的电脑出了什么问题吗？我觉得他们装了些不该装的...</li>
-  <li>alienistProphecy(tag=meme_Artist)->这些怪异的生物是创造力的不竭源泉。我们将通过艺术来描绘它们的千姿百态。</li>
+  <li>creation(tag=meme_Artist)        ->[deity0_name] a enseigné à tous ses disciples à peindre, écrire et sculpter, car toutes ces activités étaient sacrées pour [deity0_objective].</li>
+  <li>episode(uses=1,tag=meme_Artist)  ->S'adressant à ses croyants, [deity0_name] a déclaré : "Chaque enfant est un artiste. Le problème est de savoir comment rester un artiste une fois devenu adulte."</li>
+  <li>intro(tag=meme_Artist)           ->[place_summary] [place_name] était un lieu réputé pour ses collections de beaux-arts dédiées à [deity0_name].</li>
+  <li>conflict(tag=meme_Artist)        ->Un [foeLeader] avide, désireux d'accroître ses richesses déjà obscènes, voulait vendre toutes les œuvres d'art et s'en débarrasser.</li>
+  <li>founderJoin(tag=meme_Artist)     ->[deity0_name] a inspiré à notre fondateur, [founderName], une créativité incroyable, et a créé une œuvre d'art d'une qualité si merveilleuse que le [foeLeader] a fondu en larmes, ému par sa beauté.</li>
+  <li>victory(tag=meme_Artist)         ->[founderName] nous a fait comprendre à tous que l'art nous permet de nous trouver et de nous égarer en même temps.</li>
+  <li>setup(tag=meme_Artist)           ->[founderName] était un peintre, souvent comparé aux grands artistes de la vieille Terre. [founder_pronoun] a passé des décennies à perfectionner son style, et [founder_pronoun] était considéré comme un véritable maître.</li>
+  <li>story(uses=1,tag=meme_Artist)    ->[founderName] a compris mieux que quiconque que l'art n'est pas ce que l'on voit, mais ce que l'on fait voir aux autres.</li>
+  <li>lessonIntro(tag=meme_Artist)         ->Il suffit d'étudier l'histoire ancienne de l'art pour comprendre que</li>
+  <li>lesson(tag=meme_Artist)              ->vous ne faites pas d'erreurs, juste des petits incidents heureux</li>
+  <li>lessonReinforcement(tag=meme_Artist) ->L'art n'est pas ce que vous voyez, mais ce que vous faites voir aux autres.</li>
+  <li>archistBasis(tag=meme_Artist)    ->Les archotechs sont de la créativité pure. Des esprits vierges avec une capacité d'imagination infinie.</li>
+  <li>archistFact(tag=meme_Artist)     ->Il n'y a rien que les archotechs méprisent plus qu'une personne qui ne crée pas de nouvelles choses.</li>
+  <li>archistProphecy(tag=meme_Artist) ->[inTheEnd], seuls ceux qui ont embrassé leur côté créatif seront prêts à la transcendance.</li>
+  <li>animistBasis(tag=meme_Artist)    ->L'esprit de créativité est l'un des plus forts, car il régit tout ce qui implique l'imagination humaine.</li>
+  <li>animistFact(tag=meme_Artist)     ->L'acte de créer de nouvelles choses est sacré pour les esprits.</li>
+  <li>animistProphecy(tag=meme_Artist) ->[itIsSaid] seuls ceux qui ont embrassé leur côté créatif seront prêts à communier avec les esprits.</li>
+  <li>serketistProphecy(tag=meme_Artist)->[itIsSaid] nous créerons des motifs complexes représentant la myriade de variations de nos insectes préférés.</li>
+  <li>chthonianProphecy(tag=meme_Artist)->Seul un véritable artiste connaît l'anatomie réelle du terrible ou la physiologie de la peur - le type exact de lignes et de proportions qui se connectent aux instincts latents ou aux souvenirs héréditaires de la peur, ainsi que les contrastes de couleurs et les effets de lumière appropriés pour éveiller le sentiment d'étrangeté en sommeil.</li>
+  <li>esotericismProphecy(tag=meme_Artist)->Qui sait quels motifs secrets se cachent derrière ces mystères ? Nous créerons de merveilleuses œuvres d'art et les étudierons pour découvrir ce qu'elles recèlent.</li>
+  <li>eschatologismFact(tag=meme_Artist)->Tout acte de création est d'abord un acte de destruction.</li>
+  <li>introMemo(tag=meme_Artist)->Pourriez-vous, s'il vous plaît, vous pencher à nouveau sur les problèmes que le département artistique rencontre avec ses ordinateurs ? Je pense qu'ils ont installé quelque chose qu'ils ne devraient pas...</li>
+  <li>alienistProphecy(tag=meme_Artist)->Ces créatures capricieuses sont une source infinie de créativité. Nous représenterons leurs multiples formes dans notre art.</li>
 </AM_Artist.descriptionMaker.rules.rulesStrings>
 <!-- EN:
   <li>memeAdjective->artistic</li>

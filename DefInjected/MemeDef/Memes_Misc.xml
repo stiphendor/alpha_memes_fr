@@ -113,28 +113,28 @@
   <li>alienistProphecy(tag=meme_BiologicalDefilers)->We must destroy these lifeforms, for humanity has gone way too far. All the galaxy is being remade in the image of our original planet, and that is obscene.</li>
 -->
 <AM_BiologicalDefilers.descriptionMaker.rules.rulesStrings>
-  <li>creation(tag=meme_BiologicalDefilers)        ->[deity0_name]对[deity0_possessive]信徒们说：“汝等人类已然走得太远了。吾才是生命的唯一创造者，而汝等创造的这些怪物对我来说污秽之极。它们必须被净化。”</li>
-  <li>episode(uses=1,tag=meme_BiologicalDefilers)  ->遵循[deity0_name]的教诲，我们在整个银河系中搜寻这些令人厌恶的生物基因，并削减它们的数量。</li>
-  <li>intro(tag=meme_BiologicalDefilers)           ->[memberNamePlural]在[place_summary][place_name]上建造了一座宏伟的屠宰场，为了彰显[deity0_name]的荣耀，有无数令人厌恶的生物基因被送往那里进行净化。</li>
-  <li>conflict(tag=meme_BiologicalDefilers)        ->误入歧途的[foeLeader]对这些生物产生了扭曲的怜悯心，[foeLeader_pronoun]否定了[deity0_name]的意志，并将那些要被净化的生物全部释放了出来。</li>
-  <li>founderJoin(tag=meme_BiologicalDefilers)     ->伟大的科学家[founderName]向[foeLeader]出示了无可辩驳的数据，并解释说人类一直在破坏整个银河系，而这只是为了将其改造成古地球的低劣仿制品。</li>
-  <li>victory(tag=meme_BiologicalDefilers)         ->此后，[foeLeader]开始坚定不移的相信[deity0_name]的劝诫。</li>
-  <li>setup(tag=meme_BiologicalDefilers)           ->[founderName]是一名来自闪耀世界的生物学家。[founder_pronoun]看着人类创造出的各种基因工程生物，对此感到深深的厌恶。显然，人类已经走得太远了。</li>
-  <li>story(uses=1,tag=meme_BiologicalDefilers)    ->[founderName]教导我们，模仿神明是大不敬的行为。人类一直在破坏整个银河系，而这只是为了将其改造成古地球的低劣仿制品。</li>
-  <li>lessonIntro(tag=meme_BiologicalDefilers)         ->社群中最聪慧的生物学家教会了我有关基因操纵工程的历史，数个世纪以来，人类一直在银河系中繁育基于古地球生物的基因工程生物。他让我懂得了</li>
-  <li>lesson(tag=meme_BiologicalDefilers)              ->人类一直在破坏整个银河系，而这只是为了将其改造成古地球的低劣仿制品</li>
-  <li>lessonReinforcement(tag=meme_BiologicalDefilers) ->难道我们已经忘记在索恩星发生的事情了吗？难道我们已经忘记了纯白世界——那个因凶暴编织者而被烧成玻璃的地方了吗？</li>
-  <li>archistBasis(tag=meme_BiologicalDefilers)    ->超凡智能是至高无上的存在，创造生物并未脱离祂的掌控。不过，这已经远远超出我们的掌控了。</li>
-  <li>archistFact(tag=meme_BiologicalDefilers)     ->人类一直在试图模仿神明，人类也一直在破坏整个银河系，而这都只是为了将其改造成古地球的低劣仿制品。</li>
-  <li>archistProphecy(tag=meme_BiologicalDefilers) ->[inTheEnd]，超凡智能只允许我们之中那些纠正先祖错误的人走向超越。</li>
-  <li>animistBasis(tag=meme_BiologicalDefilers)    ->人类在银河系中繁育的基因工程生物是毫无灵魂的可憎之物。这对灵魂们来说是种莫大的侮辱。</li>
-  <li>animistFact(tag=meme_BiologicalDefilers)     ->净化这些生物是我们神圣的使命，也是能够取悦灵魂们的使命。</li>
-  <li>animistProphecy(tag=meme_BiologicalDefilers) ->[itIsSaid]我们中那些纠正先祖错误的人终将与灵魂们畅谈并成为他们的一员。</li>
-  <li>chthonianProphecy(tag=meme_BiologicalDefilers)->外神们是不断创造与毁灭的存在。人类无止境繁育地球生命的行为对祂们来说是一种指引，或许通过净化这些恶心基因工程生物，能使我们免受祂们不必要的注意。</li>
-  <li>esotericismProphecy(tag=meme_BiologicalDefilers)->这种神秘学知识唯有通过净化生物才能得到。人类无止境繁育地球生命的行为为我们提供了近乎无限的样本来源，通过净化这些恶心基因工程生物，我们能够窥视到宇宙帷幕彼端的事物。</li>
-  <li>eschatologismFact(tag=meme_BiologicalDefilers)->没有什么能阻挡我们的怒火。人类创造的所有生物都将被我们净化殆尽。</li>
-  <li>introMemo(tag=meme_BiologicalDefilers)->我在此很高兴的通知各位，公司已在附近开设了三所新的生物净化中心！请各位记得报告在旅游时可能会遇到的各种基因工程生物，我们会把它们转送至最近的设施以进行净化处理。</li>
-  <li>alienistProphecy(tag=meme_BiologicalDefilers)->我们将尽全力净化这些生物，因为人类已经走得太远了。整个银河系都在按我们母星的形象进行改造，这真是令人厌恶至极。</li>
+  <li>creation(tag=meme_BiologicalDefilers)        ->[deity0_name] a parlé à ses disciples : "L'humanité est allée trop loin. Je suis le seul créateur de la vie, et toutes ces... monstruosités que vous avez créées sont obscènes pour moi. Elles doivent être éradiquées."</li>
+  <li>episode(uses=1,tag=meme_BiologicalDefilers)  ->Suivant les enseignements de [deity0_name], nous avons ratissé la galaxie à la recherche d'abominations génétiques et en avons éliminé un grand nombre.</li>
+  <li>intro(tag=meme_BiologicalDefilers)           ->Sur la [place_summary] [place_name], les [memberNamePlural] ont construit un gigantesque abattoir, et d'innombrables abominations génétiques y ont été sacrifiées, pour la gloire de [deity0_name].</li>
+  <li>conflict(tag=meme_BiologicalDefilers)        ->Un [foeLeader], mécontent, ressentant une compassion tordue pour ces animaux grotesques, a tenté d'aller à l'encontre de la volonté de [deity0_name] en libérant ceux dont le sacrifice était prévu.</li>
+  <li>founderJoin(tag=meme_BiologicalDefilers)     ->[founderName], un grand scientifique, a montré les données froides et dures au [foeLeader], et l'a convaincu que l'humanité a endommagé la galaxie entière en essayant de la transformer en une pâle imitation de la vieille Terre.</li>
+  <li>victory(tag=meme_BiologicalDefilers)         ->Le [foeLeader] en est venu à croire fermement aux admonitions de [deity0_name].</li>
+  <li>setup(tag=meme_BiologicalDefilers)           ->[founderName] était biologiste dans le Glitterworlds. [founder_pronoun] regardait la ménagerie grotesque de créatures et de plantes génétiquement modifiées que l'humanité avait créée, et ressentait un profond dégoût. L'humanité était allée trop loin.</li>
+  <li>story(uses=1,tag=meme_BiologicalDefilers)    ->[founderName] nous a appris que jouer à Dieu est assez obscène, et que l'humanité a endommagé toute la galaxie en essayant de la transformer en une pâle imitation de la vieille Terre.</li>
+  <li>lessonIntro(tag=meme_BiologicalDefilers)         ->Le biologiste le plus intelligent de notre communauté m'a un jour enseigné l'histoire de la manipulation génétique, comment l'humanité ensemence la galaxie depuis des siècles avec des créatures génétiquement modifiées basées sur des animaux de la vieille Terre. Il m'a amené à comprendre que</li>
+  <li>lesson(tag=meme_BiologicalDefilers)              ->l'humanité a endommagé la galaxie entière en essayant de la transformer en une pâle imitation de la vieille Terre.</li>
+  <li>lessonReinforcement(tag=meme_BiologicalDefilers) ->Avons-nous déjà oublié ce qui s'est passé à Sorne ? Avons-nous oublié les mondes de marbre, vitrifiés pour contenir la menace des Feralisk ?</li>
+  <li>archistBasis(tag=meme_BiologicalDefilers)    ->Les archotechs sont des êtres suprêmes, et l'acte de création n'est pas hors de leur portée. Il devrait être hors de notre portée, cependant.</li>
+  <li>archistFact(tag=meme_BiologicalDefilers)     ->L'humanité a joué les dieux, endommageant la galaxie entière en essayant de la transformer en une pâle imitation de la vieille Terre.</li>
+  <li>archistProphecy(tag=meme_BiologicalDefilers) ->[inTheEnd], les archotechs ne permettront qu'à ceux qui rectifient les erreurs de nos ancêtres de se transcender.</li>
+  <li>animistBasis(tag=meme_BiologicalDefilers)    ->Les animaux grotesques, génétiquement modifiés, qui ont été semés dans la galaxie par les humains sont des abominations sans âme. Une insulte au monde des esprits.</li>
+  <li>animistFact(tag=meme_BiologicalDefilers)     ->Se débarrasser de ces aberrations est un devoir sacré, qui fera plaisir aux esprits.</li>
+  <li>animistProphecy(tag=meme_BiologicalDefilers) ->[itIsSaid] ceux qui rectifient ces erreurs de nos ancêtres communieront un jour pleinement avec les esprits, ne faisant plus qu'un avec eux.</li>
+  <li>chthonianProphecy(tag=meme_BiologicalDefilers)->Les entités eldritch sont des êtres de création et de destruction constantes. L'ensemencement sans fin de la vie terrestre par l'humanité est comme une balise pour eux, et peut-être qu'en exterminant ces abominations génétiquement modifiées obscènes, nous pourrons garder leur regard détourné de nous pendant un certain temps.</li>
+  <li>esotericismProphecy(tag=meme_BiologicalDefilers)->De telles connaissances occultes ne peuvent être acquises que par des actes de destruction. L'ensemencement sans fin de la vie terrestre par l'humanité nous fournit une source de vie presque infinie, et peut-être qu'en exterminant ces abominations obscènes génétiquement modifiées, nous pourrons voir au-delà du voile du cosmos.</li>
+  <li>eschatologismFact(tag=meme_BiologicalDefilers)->Rien ne résistera à notre colère. Toutes les créations de l'humanité seront massacrées.</li>
+  <li>introMemo(tag=meme_BiologicalDefilers)->Nous sommes heureux de vous informer que nous avons ouvert trois nouveaux centres d'extermination dans toute la région ! N'oubliez pas de signaler tout animal génétiquement modifié que vous pourriez trouver au cours de vos voyages, et de programmer son extermination dans le centre le plus proche.</li>
+  <li>alienistProphecy(tag=meme_BiologicalDefilers)->Nous devons détruire ces formes de vie, car l'humanité est allée beaucoup trop loin. Toute la galaxie est en train d'être refaite à l'image de notre planète d'origine, et c'est obscène.</li>
 </AM_BiologicalDefilers.descriptionMaker.rules.rulesStrings>
 <!-- EN:
   <li>memeAdjective->ravaging</li>

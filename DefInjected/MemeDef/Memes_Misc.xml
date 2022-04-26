@@ -166,7 +166,7 @@
 <!-- EN: biological reconstructors -->
 <AM_BiologicalReconstructors.label>reconstructeurs biologiques</AM_BiologicalReconstructors.label>
 <!-- EN: Life is precious, a gift from Old Earth. We shall try to replicate as much of it as possible and use it to populate the worlds of the Rim with a myriad of lifeforms. -->
-<AM_BiologicalReconstructors.description>La vie est précieuse, un cadeau de l'Ancienne Terre. Nous essaierons d'en reproduire autant que possible et de l'utiliser pour peupler les mondes du Rim avec une myriade de formes de vie.</AM_BiologicalReconstructors.description>
+<AM_BiologicalReconstructors.description>La vie est précieuse, un cadeau de l'Ancienne Terre. Nous essaierons d'en reproduire autant que possible et de l'utiliser pour peupler les mondes de la Bordure avec une myriade de formes de vie.</AM_BiologicalReconstructors.description>
 <!-- EN:
   <li>creation(tag=meme_BiologicalReconstructors)        ->[deity0_name] spoke to [deity0_possessive] followers: "Humanity has been honouring me for centuries, creating all sorts of marvelous creatures. This pleases me."</li>
   <li>episode(uses=1,tag=meme_BiologicalReconstructors)  ->Following [deity0_name]'s teachings, we combed the galaxy in search of these genetic wonders, cataloguing their multitude of forms.</li>

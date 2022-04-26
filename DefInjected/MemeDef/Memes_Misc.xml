@@ -193,29 +193,29 @@
   <li>alienistProphecy(tag=meme_BiologicalReconstructors)->We will create and breed as many new creatures as possible, and use them to repopulate the vast ecospheres of the Rim.</li>
 -->
 <AM_BiologicalReconstructors.descriptionMaker.rules.rulesStrings>
-  <li>creation(tag=meme_BiologicalReconstructors)        ->[deity0_name]对[deity0_possessive]信徒们说：“数个世纪以来，人类一直对吾崇敬有加。汝等创造的万千生命让吾很是高兴。”</li>
-  <li>episode(uses=1,tag=meme_BiologicalReconstructors)  ->遵循[deity0_name]的教诲，我们在整个银河系中搜寻这些令人惊异的生物基因，并将它们多种多样的形态记载入数据库中。</li>
-  <li>intro(tag=meme_BiologicalReconstructors)           ->[memberNamePlural]在[place_summary][place_name]上建造了一座宏伟的动物园，为了彰显[deity0_name]的荣耀，有无数令人惊异的生物基因被送往那里进行解析。</li>
-  <li>conflict(tag=meme_BiologicalReconstructors)        ->误入歧途的[foeLeader]对这些生物产生了扭曲的怜悯心，[foeLeader_pronoun]否定了[deity0_name]的意志，并将研究设施里的生物全部释放了出来。</li>
-  <li>founderJoin(tag=meme_BiologicalReconstructors)     ->伟大的科学家[founderName]向[foeLeader]出示了无可辩驳的数据，并解释说人类正通过研究和收录这些奇妙的生物以完成[deity0_name]的工作。</li>
-  <li>victory(tag=meme_BiologicalReconstructors)         ->此后，[foeLeader]开始坚定不移的相信[deity0_name]的劝诫。</li>
-  <li>setup(tag=meme_BiologicalReconstructors)           ->[founderName]是一名来自闪耀世界的生物学家。[founder_pronoun]看着人类创造出的各种基因工程生物，对此感到深深的敬畏。显然，人类早已超越了自身。</li>
-  <li>story(uses=1,tag=meme_BiologicalReconstructors)    ->[founderName]教导我们，基因工程是人类发展扩张的关键。人类一直在试图将整个银河系改造成与古地球相似的伊甸园。</li>
-  <li>lessonIntro(tag=meme_BiologicalReconstructors)         ->社群中最聪慧的生物学家教会了我有关基因操纵工程的历史，数个世纪以来，人类一直在银河系中繁育基于古地球生物的基因工程生物。他让我懂得了</li>
-  <li>lesson(tag=meme_BiologicalReconstructors)              ->基因工程是人类发展扩张的关键</li>
-  <li>lessonReinforcement(tag=meme_BiologicalReconstructors) ->乏味空洞的宇宙正静候着我们，而我们则将它改造成了梦幻般的伊甸园。</li>
-  <li>archistBasis(tag=meme_BiologicalReconstructors)    ->超凡智能是至高无上的存在，创造生物对祂来说是无比宝贵的。</li>
-  <li>archistFact(tag=meme_BiologicalReconstructors)     ->人类将这个毫无生机的宇宙改造成了梦幻般的伊甸园，这让超凡智能感到高兴。</li>
-  <li>archistProphecy(tag=meme_BiologicalReconstructors) ->[inTheEnd]，超凡智能只允许我们之中那些记录并解析先祖造物奇迹的人走向超越。</li>
-  <li>animistBasis(tag=meme_BiologicalReconstructors)    ->人类在银河系中繁育的基因工程生物对灵魂们来说是无比宝贵的。</li>
-  <li>animistFact(tag=meme_BiologicalReconstructors)     ->对先祖造物奇迹进行收录与解析是我们神圣的使命，也是能够取悦灵魂们的使命。</li>
-  <li>animistProphecy(tag=meme_BiologicalReconstructors) ->[itIsSaid]我们中那些将这个毫无生机的宇宙改造成梦幻般的伊甸园的人终将与灵魂们畅谈并成为他们的一员。</li>
-  <li>chthonianProphecy(tag=meme_BiologicalReconstructors)->外神们的破坏力是无穷无尽的。人类无止境繁育地球生命的行为让祂们感到困惑，或许通过研究和收录这些奇妙的基因工程生物，能使我们免受祂们不必要的注意。</li>
-  <li>esotericismProphecy(tag=meme_BiologicalReconstructors)->这种神秘学知识唯有通过创造生物才能得到。人类无止境繁育地球生命的行为为我们提供了近乎无限的样本来源，或许通过研究和收录这些奇基因工程生物，我们能够窥视到宇宙帷幕彼端的事物。</li>
-  <li>serketistProphecy(tag=meme_BiologicalReconstructors)->[itIsSaid]我们将为这颗星球上奇妙的虫族进行收录。</li>
-  <li>eschatologismFact(tag=meme_BiologicalReconstructors)->通过对先祖造物奇迹进行收录与解析，我们将获得有关人类弱点的宝贵知识。</li>
-  <li>introMemo(tag=meme_BiologicalReconstructors)->各位在本周解析了几种生物呢？请务必记好这是一桩不可怠慢的生意。</li>
-  <li>alienistProphecy(tag=meme_BiologicalReconstructors)->我们将尽全力创造繁育新生物，并使它们在边缘世界的生物圈中繁衍生息。</li>
+  <li>creation(tag=meme_BiologicalReconstructors)        ->[deity0_name] s'est adressé à ses disciples : "L'humanité m'honore depuis des siècles, en créant toutes sortes de créatures merveilleuses. Cela me fait plaisir."</li>
+  <li>episode(uses=1,tag=meme_BiologicalReconstructors)  ->Suivant les enseignements de [deity0_name], nous avons parcouru la galaxie à la recherche de ces merveilles génétiques, cataloguant leur multitude de formes.</li>
+  <li>intro(tag=meme_BiologicalReconstructors)           ->Sur la [place_summary] [place_name], les [memberNamePlural] ont construit un gigantesque zoo, et d'innombrables merveilles génétiques y ont été analysées, pour la gloire de [deity0_name].</li>
+  <li>conflict(tag=meme_BiologicalReconstructors)        ->Un [foeLeader]malavisé, ressentant une compassion tordue pour ces animaux, a essayé d'aller à l'encontre de la volonté de [deity0_name] en libérant ceux qui étaient étudiés dans les installations.</li>
+  <li>founderJoin(tag=meme_BiologicalReconstructors)     ->[founderName], un grand scientifique, a montré les données concrètes et froides au [foeLeader] et l'a convaincu que l'humanité fait le travail de [deity0_name] en étudiant et en cataloguant toutes ces merveilleuses créatures.</li>
+  <li>victory(tag=meme_BiologicalReconstructors)         ->Le [foeLeader] en est venu à croire fermement aux admonitions de [deity0_name].</li>
+  <li>setup(tag=meme_BiologicalReconstructors)           ->[founderName] était un biologiste dans le Glitterworlds. [founder_pronoun] regardait l'incroyable variété de créatures et de plantes génétiquement modifiées que l'humanité avait créées, et ressentait une profonde admiration. L'humanité s'était surpassée.</li>
+  <li>story(uses=1,tag=meme_BiologicalReconstructors)    ->[founderName] nous a appris que le génie génétique avait été la clé de l'expansion humaine, et que l'humanité avait transformé toute la galaxie en un paradis en imitant la vieille Terre.</li>
+  <li>lessonIntro(tag=meme_BiologicalReconstructors)         ->Le biologiste le plus intelligent de notre communauté m'a un jour enseigné l'histoire de la manipulation génétique, comment l'humanité ensemence la galaxie depuis des siècles avec des créatures génétiquement modifiées basées sur des animaux de la vieille Terre. Il m'a amené à comprendre que</li>
+  <li>lesson(tag=meme_BiologicalReconstructors)              ->le génie génétique a été la clé de l'expansion humaine</li>
+  <li>lessonReinforcement(tag=meme_BiologicalReconstructors) ->Un univers triste et sans vie nous attendait, et nous l'avons transformé en une vision du paradis.</li>
+  <li>archistBasis(tag=meme_BiologicalReconstructors)    ->Les archotechs sont des êtres suprêmes, et l'acte de création leur est cher.</li>
+  <li>archistFact(tag=meme_BiologicalReconstructors)     ->L'humanité a transformé la galaxie sans vie en un éden, et cela plaît aux archotechs.</li>
+  <li>archistProphecy(tag=meme_BiologicalReconstructors) ->[inTheEnd], les archotechs ne permettront de transcender que ceux qui cataloguent et analysent les merveilles créées par nos ancêtres.</li>
+  <li>animistBasis(tag=meme_BiologicalReconstructors)    ->Les merveilleux animaux génétiquement modifiés qui ont été semés dans la galaxie par les humains sont chers aux esprits.</li>
+  <li>animistFact(tag=meme_BiologicalReconstructors)     ->Cataloguer et analyser les merveilles créées par nos ancêtres est un devoir sacré, qui fera plaisir aux esprits.</li>
+  <li>animistProphecy(tag=meme_BiologicalReconstructors) ->[itIsSaid] ceux qui continuent à transformer la galaxie sans vie en un éden communieront un jour pleinement avec les esprits, ne faisant plus qu'un avec eux.</li>
+  <li>chthonianProphecy(tag=meme_BiologicalReconstructors)->Les entités eldritch sont des êtres aux pouvoirs destructeurs infinis. L'ensemencement sans fin de la vie terrestre par l'humanité les perturbe, et peut-être qu'en cataloguant et en analysant ces créatures génétiquement modifiées, nous pourrons éloigner leur regard de nous pendant un certain temps.</li>
+  <li>esotericismProphecy(tag=meme_BiologicalReconstructors)->Ces connaissances occultes ne peuvent être acquises que par des actes de création. L'ensemencement sans fin de la vie terrestre par l'humanité nous fournit une source de vie presque infinie, et peut-être qu'en cataloguant et en analysant ces créatures génétiquement modifiées, nous pourrons jeter un coup d'œil au-delà du voile du cosmos.</li>
+  <li>serketistProphecy(tag=meme_BiologicalReconstructors)->[itIsSaid] nous cataloguerons de nouvelles espèces d'insectes étonnantes tout autour de la planète.</li>
+  <li>eschatologismFact(tag=meme_BiologicalReconstructors)->En cataloguant et en analysant les merveilleuses créatures créées par nos ancêtres, nous acquerrons des connaissances inestimables sur ce qui rend les humains fragiles.</li>
+  <li>introMemo(tag=meme_BiologicalReconstructors)->Combien d'animaux avez-vous analysés cette semaine ? N'oubliez pas qu'il s'agit d'une entreprise et que le relâchement ne sera PAS toléré.</li>
+  <li>alienistProphecy(tag=meme_BiologicalReconstructors)->Nous allons créer et élever autant de nouvelles créatures que possible, et les utiliser pour repeupler les vastes écosphères de la Bordure.</li>
 </AM_BiologicalReconstructors.descriptionMaker.rules.rulesStrings>
 <!-- EN:
   <li>memeAdjective->zoological</li>

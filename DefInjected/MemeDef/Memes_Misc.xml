@@ -357,27 +357,27 @@
   <li>introMemo(tag=meme_GauranlenSupremacy)->The new Gauranlen tree arboretum has greatly increased productivity around. We are however aware of the recent reports of dryads being used for unintended purposes, such as carrying office supplies around. Please note that such uses are penalized by immediate dismissal from the company.</li>
 -->
 <AM_GauranlenSupremacy.descriptionMaker.rules.rulesStrings>
-  <li>creation(tag=meme_GauranlenSupremacy)        ->[deity0_name]创造了母树与树精，这两种共生生命与人类间有着奇妙的启灵链接。</li>
-  <li>episode(uses=1,tag=meme_GauranlenSupremacy)  ->神圣的母树树精是[deity0_name]的子嗣，我们应该崇敬并尊重它们。</li>
-  <li>intro(tag=meme_GauranlenSupremacy)           ->一支与世隔绝已久的远古德鲁伊部落初次踏入了[memberNamePlural][place_summary][place_name]，他们在这里种下了一片圣洁美丽的母树林，以便能够更好的敬拜[deity0_type][deity0_name]。</li>
-  <li>conflict(tag=meme_GauranlenSupremacy)        ->邪恶无比的[foeLeader]毁掉了许多母树，并产生了树精是害兽的异端思想，[memberNamePlural]们都为被毁坏的母树感到伤心。</li>
-  <li>founderJoin(tag=meme_GauranlenSupremacy)     ->先知[founderName]与母树、树精间有着奇妙的联系。部落里的其他人都认为[founder_pronoun]是实力最强的德鲁伊。</li>
-  <li>victory(tag=meme_GauranlenSupremacy)         ->[founderName]发现了[foeLeader]，当即召唤所有幸存的树精来协助进攻。[foeLeader]被无数暴怒的树精围了起来，[foeLeader_pronoun]所站的位置只剩下了一些小树枝。</li>
-  <li>setup(tag=meme_GauranlenSupremacy)           ->[founderName]是一位伟大的学者，[founder_pronoun]几十年来一直在研究母树与树精间复杂的共生关系，以及它们与人类间神秘的启灵链接。</li>
-  <li>story(uses=1,tag=meme_GauranlenSupremacy)    ->[founderName]认为，某些被遗忘在历史长河中的科学家在几个世纪前就通过生物工程构造了这种奇妙的关系。不过，他们这么做的目的是什么呢？</li>
-  <li>lessonIntro(tag=meme_GauranlenSupremacy)         ->母树是生物基因操纵可行性的一个有趣的实例。通过分析它们的树叶，我明白了</li>
-  <li>lesson(tag=meme_GauranlenSupremacy)              ->母树与树精间复杂的共生关系绝不可能是自然形成的现象</li>
-  <li>lessonReinforcement(tag=meme_GauranlenSupremacy) ->显而易见，这种奇妙的关系是由某些被遗忘在历史长河中的科学家因未知原因构造的</li>
-  <li>archistBasis(tag=meme_GauranlenSupremacy)    ->母树与树精间复杂的共生关系，以及它们与人类间神秘的启灵链接，这些无疑是超凡智能精妙的手笔。</li>
-  <li>archistFact(tag=meme_GauranlenSupremacy)     ->超凡智能在万物中选择了母树来展现自己。</li>
-  <li>archistProphecy(tag=meme_GauranlenSupremacy) ->[inTheEnd]，只有那些能与母树间的启灵链接产生共鸣的人才能走向超越。</li>
-  <li>animistFact(tag=meme_GauranlenSupremacy)     ->有人说，母树是那些跟随人类穿越万千世界的自然灵魂们的家园。</li>
-  <li>animistFact(tag=meme_GauranlenSupremacy)     ->母树与树精间复杂的共生关系，以及它们与人类间神秘的启灵链接，这些无疑是灵魂们精妙的手笔。</li>
-  <li>serketistProphecy(tag=meme_GauranlenSupremacy)->[itIsSaid]我们将建造一个能与母树和树精共生的人类巢穴，就像作为灵感来源的神圣虫巢一样。</li>
-  <li>chthonianProphecy(tag=meme_GauranlenSupremacy)->外神们最终会找到我们，但我们还远远没有准备好。我们将寻求母树和树精们的帮助，这样我们才有机会与祂们抗争。</li>
-  <li>esotericismProphecy(tag=meme_GauranlenSupremacy)->母树与树精间复杂的共生关系，以及它们与人类间神秘的启灵链接，这些都是值得我们研究的神秘学知识的来源。</li>
-  <li>eschatologismFact(tag=meme_GauranlenSupremacy)->借助母树和树精们，我们将毁灭一切。</li>
-  <li>introMemo(tag=meme_GauranlenSupremacy)->最近新建立的母树植物园大幅提高了公司各处的生产效率。然而，我们注意到有人正将树精作为私人工具使用，这种非计划用途是绝对不允许的。我要再次提醒各位，这种行为的后果是直接被公司开除，希望各位能严格遵守公司的规定。</li>
+  <li>creation(tag=meme_GauranlenSupremacy)        ->[deity0_name] a créé les arbres Gauranlen et les dryades, deux formes de vie symbiotiques qui partagent un lien psychique avec l'humanité.</li>
+  <li>episode(uses=1,tag=meme_GauranlenSupremacy)  ->Les dryades Gauranlen sont des êtres sacrés, enfants de [deity0_name], et nous devons les honorer et les respecter.</li>
+  <li>intro(tag=meme_GauranlenSupremacy)           ->Une tribu d'anciens druides, oubliée depuis longtemps, est venue pour la première fois à la [place_summary] [place_name], et a planté un bosquet sacré d'arbres Gauranlen où ils pouvaient vénérer [deity0_type] [deity0_name].</li>
+  <li>conflict(tag=meme_GauranlenSupremacy)        ->Un [foeLeader] méchant a détruit de nombreux arbres de Gauranlen, considérant hérétiquement les dryades comme des nuisibles, et les [memberNamePlural] ont pleuré pour les arbres massacrés.</li>
+  <li>founderJoin(tag=meme_GauranlenSupremacy)     ->Le prophète [founderName] avait un lien mystique avec les arbres et ses dryades. [founder_pronoun] était considéré comme le meilleur druide de sa tribu.</li>
+  <li>victory(tag=meme_GauranlenSupremacy)         ->[founderName] a retrouvé le [foeLeader], et a invoqué toutes les dryades survivantes pour attaquer. Le [foeLeader] a été envahi et recouvert par d'innombrables dryades furieuses, et il ne restait plus que des brindilles et des branches là où [foeLeader_pronoun] se tenait.</li>
+  <li>setup(tag=meme_GauranlenSupremacy)           ->[founderName] était un grand érudit, et [founder_pronoun] a étudié pendant des décennies la relation symbiotique complexe entre les arbres Gauranlen et leurs dryades, ainsi que l'intrigant lien psychique qu'ils partagent avec l'humanité.</li>
+  <li>story(uses=1,tag=meme_GauranlenSupremacy)    ->[founderName] s'est dit qu'un scientifique oublié avait dû créer cette relation fascinante il y a des siècles. Mais dans quel but ?</li>
+  <li>lessonIntro(tag=meme_GauranlenSupremacy)         ->Les arbres Gauranlen sont un exemple fascinant des possibilités de manipulation génétique des êtres vivants. En examinant leurs feuilles, je savais que</li>
+  <li>lesson(tag=meme_GauranlenSupremacy)              ->la relation symbiotique complexe entre les arbres Gauranlen et leurs dryades ne peut pas être un phénomène naturel</li>
+  <li>lessonReinforcement(tag=meme_GauranlenSupremacy) ->Il est évident que ce lien a été créé par un scientifique oublié depuis longtemps à des fins inconnues.</li>
+  <li>archistBasis(tag=meme_GauranlenSupremacy)    ->La relation symbiotique complexe entre les arbres Gauranlen et leurs dryades, ainsi que leur lien psychique avec l'humanité, était certainement l'œuvre des archotechs.</li>
+  <li>archistFact(tag=meme_GauranlenSupremacy)     ->Les archotechs ont choisi de s'exprimer à travers, entre autres, une espèce unique d'arbre.</li>
+  <li>archistProphecy(tag=meme_GauranlenSupremacy) ->[inTheEnd], les archotechs ne permettront qu'à ceux qui sont en accord avec le lien psychique des arbres Gauranlen de transcender.</li>
+  <li>animistFact(tag=meme_GauranlenSupremacy)     ->Certains disent que les arbres Gauranlen sont la demeure des esprits de la nature qui suivent l'humanité à travers les mondes.</li>
+  <li>animistFact(tag=meme_GauranlenSupremacy)     ->La relation symbiotique complexe entre les arbres Gauranlen et leurs dryades, ainsi que leur lien psychique avec l'humanité, sont certainement l'œuvre des esprits.</li>
+  <li>serketistProphecy(tag=meme_GauranlenSupremacy)->[itIsSaid] nous créerons une ruche humaine en symbiose avec les arbres Gauranlen et leurs dryades, à l'instar des divines ruches d'insectes qui nous servent d'inspiration.</li>
+  <li>chthonianProphecy(tag=meme_GauranlenSupremacy)->Les entités eldritch vont venir pour nous, et nous ne serons pas prêts. Nous demanderons l'aide des arbres Gauranlen et de leurs dryades, et peut-être qu'ensemble nous aurons une chance contre eux.</li>
+  <li>esotericismProphecy(tag=meme_GauranlenSupremacy)->La relation symbiotique complexe entre les arbres Gauranlen et leurs dryades, ainsi que l'intrigant lien psychique qu'ils partagent avec l'humanité pourraient s'avérer être une source de connaissances occultes digne d'être étudiée.</li>
+  <li>eschatologismFact(tag=meme_GauranlenSupremacy)->Nous utiliserons les arbres Gauranlen et leurs dryades pour provoquer la destruction de tout.</li>
+  <li>introMemo(tag=meme_GauranlenSupremacy)->Le nouvel arboretum Gauranlen a considérablement augmenté la productivité dans les environs. Nous sommes cependant conscients des récents rapports d'utilisation des dryades à des fins non prévues, comme le transport de fournitures de bureau. Veuillez noter que de telles utilisations sont sanctionnées par un renvoi immédiat de notre entreprise.</li>
 </AM_GauranlenSupremacy.descriptionMaker.rules.rulesStrings>
 <!-- EN:
   <li>memeCreed->dryad</li>
@@ -397,21 +397,21 @@
   <li>memeMoralist->druid</li>
 -->
 <AM_GauranlenSupremacy.generalRules.rulesStrings>
-  <li>memeCreed->树精</li>
-  <li>memeCreed->母树</li>
-  <li>memeConcept->母树</li>
-  <li>memeConcept->树精</li>
-  <li>memeAdjective->树精</li>
-  <li>memeAdjective->树精女王</li>
-  <li>memeHyphenPrefix->灵木</li>
-  <li>memeHyphenPrefix->母树</li>
-  <li>memeHyphenPrefix->树精</li>
-  <li>memeLeaderNoun->树精培育者</li>
-  <li>memeLeaderNoun->树艺家</li>
-  <li>memeLeaderAdjective->翠绿</li>
-  <li>memeLeaderAdjective->根系</li>
-  <li>memeLeaderAdjective->树荫</li>
-  <li>memeMoralist->德鲁伊</li>
+  <li>memeCreed->dryade</li>
+  <li>memeCreed->arbre gauranlen</li>
+  <li>memeConcept->arbres gauranlen</li>
+  <li>memeConcept->dryades</li>
+  <li>memeAdjective->druidique</li>
+  <li>memeAdjective->écorce</li>
+  <li>memeHyphenPrefix->arbre</li>
+  <li>memeHyphenPrefix->arbuste</li>
+  <li>memeHyphenPrefix->dryade</li>
+  <li>memeLeaderNoun->gardien de dryade</li>
+  <li>memeLeaderNoun->arboriculteur</li>
+  <li>memeLeaderAdjective->vert</li>
+  <li>memeLeaderAdjective->racine</li>
+  <li>memeLeaderAdjective->canopée</li>
+  <li>memeMoralist->druide</li>
 </AM_GauranlenSupremacy.generalRules.rulesStrings>
 
 <!-- EN: gladiator -->

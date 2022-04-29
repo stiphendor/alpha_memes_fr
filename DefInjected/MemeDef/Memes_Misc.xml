@@ -249,7 +249,7 @@
 <!-- EN: bulwark -->
 <AM_Bulwark.label>rempart</AM_Bulwark.label>
 <!-- EN: A proper defense is the only way to stay safe on the Rim. All weapons in the universe will be useless if your soldiers are dead. -->
-<AM_Bulwark.description>Une défense adéquate est le seul moyen de rester en sécurité sur le Rim. Toutes les armes de l'univers seront inutiles si vos soldats sont morts.</AM_Bulwark.description>
+<AM_Bulwark.description>Une défense adéquate est le seul moyen de rester en sécurité sur la Bordure. Toutes les armes de l'univers seront inutiles si vos soldats sont morts.</AM_Bulwark.description>
 <!-- EN:
   <li>creation(tag=meme_Bulwark)        ->[deity0_name] spoke to [deity0_possessive] followers: "The night is far spent, the day is at hand: let us therefore cast off the works of darkness, and let us put on the armour of light."</li>
   <li>episode(uses=1,tag=meme_Bulwark)  ->Following [deity0_name]'s teachings, we consecrated our armors so that we may be able to stand against the wiles of the devil.</li>
@@ -276,29 +276,29 @@
   <li>alienistProphecy(tag=meme_Bulwark)->These lifeforms may be sometimes hostile to us, and we'd do well to defend us properly in case they threaten our colonies.</li>
 -->
 <AM_Bulwark.descriptionMaker.rules.rulesStrings>
-  <li>creation(tag=meme_Bulwark)        ->[deity0_name]对[deity0_possessive]信徒们说：“黑夜消散，白昼将至。让吾等抛下暗之工作，披上光之护甲。”</li>
-  <li>episode(uses=1,tag=meme_Bulwark)  ->遵循[deity0_name]的教诲，我们将身上的护甲赋予加护，这样才能更好地应对恶魔的阴谋诡计。</li>
-  <li>intro(tag=meme_Bulwark)           ->[memberNamePlural]在[place_summary][place_name]上建造了一座军械库，那里制造出的坚固护甲无不彰显着[deity0_name]的荣耀。</li>
-  <li>conflict(tag=meme_Bulwark)        ->贪得无厌的[foeLeader]否定了[deity0_name]的意志，并试图窃取所有的护甲以装备给[foeLeader_possessive]士兵们。</li>
-  <li>founderJoin(tag=meme_Bulwark)     ->[Dediy0_name]警告了伟大战士[founderName]有关[foeLeader]的计划，当[foeLeader_pronoun]突袭军械库时，一支规模庞大的警备队正等待着[foeLeader_objective]。</li>
-  <li>victory(tag=meme_Bulwark)         ->[foeLeader]因违背[deity0_name]的意志而被迅速判处死刑。</li>
-  <li>setup(tag=meme_Bulwark)           ->[founderName]是某个原始世界的盔甲匠。[founder_pronoun]曾目睹过降落在[founder_possessive]星球上的飞船，并深知自己的能力能够在星际间发扬光大。</li>
-  <li>story(uses=1,tag=meme_Bulwark)    ->[founderName]回到了自己的家乡世界，并将护甲锻造的新技术传播到了整个边缘世界。</li>
-  <li>lessonIntro(tag=meme_Bulwark)         ->社群中最老练的盔甲匠教会了我有关护甲锻造的历史，一件坚固耐用的护甲能够拯救人们的性命。他让我懂得了</li>
-  <li>lesson(tag=meme_Bulwark)              ->不要让自己的护甲出现裂痕，敌人会借此找到你的弱点的</li>
-  <li>lessonReinforcement(tag=meme_Bulwark) ->坚韧是思想的统帅，是意志的护甲，也是理性的壁垒。</li>
-  <li>archistBasis(tag=meme_Bulwark)    ->超凡智能是至高无上的存在，祂的思想在物质界和元宇宙中都是牢不可摧的。</li>
-  <li>archistFact(tag=meme_Bulwark)     ->若我们不能保护好自己，那么超凡智能便不会尊重我们。边缘世界危机四伏，那些没有坚固护甲的人终将被比他们更强大的人欺压。</li>
-  <li>archistProphecy(tag=meme_Bulwark) ->[inTheEnd]，超凡智能只允许我们之中能够保护好自己的人走向超越。</li>
-  <li>animistBasis(tag=meme_Bulwark)    ->灵魂们重视力量，但绝非仅是蛮力。他们最看重的是那些能够保护好自己的人。</li>
-  <li>animistFact(tag=meme_Bulwark)     ->若我们不能保护好自己，那么灵魂们便不会尊重我们。</li>
-  <li>animistProphecy(tag=meme_Bulwark) ->[itIsSaid]我们中最顽强的守卫终将与灵魂们畅谈并成为他们的一员。</li>
-  <li>chthonianProphecy(tag=meme_Bulwark)->环绕在我们附近的外神随时可能会袭击并试图击碎我们的信念。我们将成为抵御祂们攻击的坚固壁垒。</li>
-  <li>esotericismProphecy(tag=meme_Bulwark)->这种神秘学知识对许多人来说都是价值非凡的，他们也会试图从我们手中偷走它。唯有正确的保护好自己，我们才能抵御他们无力的攻击。</li>
-  <li>serketistProphecy(tag=meme_Bulwark)->[itIsSaid]我们将像身披坚固的金属外壳，就像虫族们一样保护自己。</li>
-  <li>eschatologismFact(tag=meme_Bulwark)->世人皆会阻挠我们，但我们会用护甲将他们碾碎。我们势不可挡。</li>
-  <li>introMemo(tag=meme_Bulwark)->确保安全的工作环境对我们公司来说是至关重要的。为了应对近日频发的网络安全威胁，我们正在商讨每两周更换一次密码的政策。请各位记好，最好的防御是...还是最好的防御！</li>
-  <li>alienistProphecy(tag=meme_Bulwark)->这些怪异的生物有可能会对我们抱有敌意，我们最好在它们大闹殖民地前就保护好自己。</li>
+  <li>creation(tag=meme_Bulwark)        ->[deity0_name] a parlé à ses disciples : "La nuit est loin, le jour est proche : rejetons donc les actions des ténèbres, et revêtons l'armure de la lumière."</li>
+  <li>episode(uses=1,tag=meme_Bulwark)  ->Suivant les enseignements de [deity0_name], nous avons consacré nos armures afin de pouvoir résister aux ruses du diable.</li>
+  <li>intro(tag=meme_Bulwark)           ->Sur la [place_summary] [place_name], les [memberNamePlural] ont construit une armurerie, où d'innombrables armures brillantes ont été créées, pour la gloire de [deity0_name].</li>
+  <li>conflict(tag=meme_Bulwark)        ->Un [foeLeader]avide, voulant toutes les armures pour ses propres soldats, a essayé d'aller à l'encontre de la volonté de [deity0_name] et de toutes les voler.</li>
+  <li>founderJoin(tag=meme_Bulwark)     ->[founderName], le plus grand de nos guerriers, a été averti par [deity0_name] du plan du [foeLeader], et lorsqu'[foeLeader_pronoun] a assailli l'armurerie, un énorme contingent de gardes l'attendait.</li>
+  <li>victory(tag=meme_Bulwark)         ->Le [foeLeader] a été rapidement jugé, reconnu coupable et exécuté pour ses crimes contre la volonté de [deity0_name].</li>
+  <li>setup(tag=meme_Bulwark)           ->[founderName] était un maître de forge dans un monde médiéval. [founder_pronoun] voyait les vaisseaux spatiaux qui atterrissaient parfois sur la planète et savait que ses compétences seraient bien mieux utilisées parmi les étoiles.</li>
+  <li>story(uses=1,tag=meme_Bulwark)    ->[founderName] a quitté sa planète natale arriérée et a diffusé les nouvelles techniques de forgeage d'armures dans toute la Bordure.</li>
+  <li>lessonIntro(tag=meme_Bulwark)         ->Le plus expérimenté des armuriers de notre communauté m'a un jour appris l'histoire de la forge, comment une armure bien conçue peut vous sauver la vie. Il m'a amené à comprendre que</li>
+  <li>lesson(tag=meme_Bulwark)              ->s'il y a des fissures dans votre armure, votre adversaire va les trouver</li>
+  <li>lessonReinforcement(tag=meme_Bulwark) ->La force est le maréchal de la pensée, l'armure la volonté et le fort la raison.</li>
+  <li>archistBasis(tag=meme_Bulwark)    ->Les archotechs sont des êtres suprêmes, et leur esprit repose dans des forteresses imprenables, tant au sens physique que métaversal.</li>
+  <li>archistFact(tag=meme_Bulwark)     ->Les archotechs ne nous respecteront pas du tout si nous ne nous défendons pas correctement. La Bordure est un endroit dangereux, et ceux qui n'ont pas une solide défense finissent par être malmenés par ceux qui sont plus forts.</li>
+  <li>archistProphecy(tag=meme_Bulwark) ->[inTheEnd], les archotechs n'autoriseront que ceux qui peuvent se défendre correctement à la transcendance.</li>
+  <li>animistBasis(tag=meme_Bulwark)    ->Les esprits apprécient la force. Mais pas seulement la force brute. Au contraire, ils apprécient ceux qui ont la force de savoir se défendre.</li>
+  <li>animistFact(tag=meme_Bulwark)     ->Les esprits ne nous respecteront pas du tout si nous ne nous défendons pas correctement.</li>
+  <li>animistProphecy(tag=meme_Bulwark) ->[itIsSaid] ceux qui sont capables de résister à tous les assauts qui leur sont lancés communieront un jour pleinement avec les esprits, ne faisant plus qu'un avec eux.</li>
+  <li>chthonianProphecy(tag=meme_Bulwark)->Les entités eldritch qui nous entourent nous attaqueront à tout moment, essayant d'affaiblir notre détermination. Nous serons le bastion qui résiste à leurs assauts.</li>
+  <li>esotericismProphecy(tag=meme_Bulwark)->Ces connaissances occultes sont précieuses pour beaucoup de gens, et ils essaieront de nous les voler. Ce n'est qu'en nous défendant correctement que nous pourrons résister à leurs lâches avances.</li>
+  <li>serketistProphecy(tag=meme_Bulwark)->[itIsSaid] nous nous défendrons comme les insectes, couverts par de merveilleuses carapaces métalliques de notre propre fabrication.</li>
+  <li>eschatologismFact(tag=meme_Bulwark)->Tout le monde essaiera de nous arrêter, mais ils seront écrasés par nos armures. On ne pourra pas nous arrêter.</li>
+  <li>introMemo(tag=meme_Bulwark)->Permettez-nous de vous rappeler que nous prenons les questions de sécurité très au sérieux au sein de l'entreprise. Pour éviter les récentes menaces de cybersécurité, nous instaurons une politique de changement de mot de passe toutes les deux semaines pour toute l'entreprise. Rappelez-vous, la meilleure défense est... une bonne défense !</li>
+  <li>alienistProphecy(tag=meme_Bulwark)->Ces formes de vie peuvent parfois nous être hostiles, et nous ferions bien de nous défendre correctement au cas où elles menaceraient nos colonies.</li>
 </AM_Bulwark.descriptionMaker.rules.rulesStrings>
 <!-- EN:
   <li>memeAdjective->protective</li>

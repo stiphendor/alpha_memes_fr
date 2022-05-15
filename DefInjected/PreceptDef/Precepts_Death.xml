@@ -4,7 +4,7 @@
 <!-- EN: desired -->
 <AM_Death_Desired.label>souhaité</AM_Death_Desired.label>
 <!-- EN: Death is what makes us truly human. It shouldn't be avoided, but actively sought.\n\n<color=#E5E54C&gt;Gameplay effect:</color>\n - Colonists will receive a positive mood if ANY human casualties take place on the colony. -->
-<AM_Death_Desired.description>La mort est ce qui nous rend vraiment humains. Elle ne doit pas être évitée, mais recherchée activement.\n\n&lt;color=#E5E54C&gt;Effet en jeu :&lt;/color&gt;\n - Les colons recevront une humeur positive si AUCUNE perte humaine n'a lieu dans votre colonie.</AM_Death_Desired.description>
+<AM_Death_Desired.description>La mort est ce qui nous rend vraiment humains. Elle ne doit pas être évitée, mais recherchée activement.\n\n&lt;color=#E5E54C&gt;Effet en jeu :&lt;/color&gt;\n - Les colons recevront une humeur positive lorsque n'importe quelle perte humaine aura lieu dans votre colonie.</AM_Death_Desired.description>
 
 
 </LanguageData>

@@ -527,29 +527,29 @@
   <li>alienistProphecy(tag=meme_Iconoclast)->These poor wayward creations of humanity remind us that science can have its own form of idolatry too, as obscene as the religious one.</li>
 -->
 <AM_Iconoclast.descriptionMaker.rules.rulesStrings>
-  <li>creation(tag=meme_Iconoclast)        ->[deity0_name]对[deity0_possessive]信徒们说：“汝等万不可建造吾之神像。偶像崇拜乃罪大恶极之事。”</li>
-  <li>episode(uses=1,tag=meme_Iconoclast)  ->[deity0_name]对[deity0_possessive]信徒们说：“圣物与符号乃污秽之物。为神明提供次席之位的人不会拥有任何席位。”</li>
-  <li>intro(tag=meme_Iconoclast)           ->[memberNamePlural]在[place_summary][place_name]上建造了一座巨大的神殿，这里彰显着[deity0_name]的荣耀。</li>
-  <li>conflict(tag=meme_Iconoclast)        ->年老体衰的[foeLeader]想要为[deity0_name]建造一尊神像，不过[memberNamePlural]们向[foeLeader_objective]发出了警告，这是他们文化信条所不允许的事情。争斗不断加剧，最终双方世代结仇。</li>
-  <li>founderJoin(tag=meme_Iconoclast)     ->伟大的神学家[founderName]与[foeLeader]进行了激烈的辩论，并解释说文化雕像对[deity0_name]来说是污秽之极的。</li>
-  <li>victory(tag=meme_Iconoclast)         ->[foeLeader]被这些论据所折服，随着时间的推移，[foeLeader_pronoun]也成为了[deity0_name]的圣职人员中最为出色的 反传统者之一。</li>
-  <li>setup(tag=meme_Iconoclast)           ->[founderName]是一位来自闪耀世界的神学家。[founder_pronoun]觉得，偶像崇拜的本质应该是崇拜那些应被我们使用的东西。</li>
-  <li>story(uses=1,tag=meme_Iconoclast)    ->[founderName]向我们证明了当教义真理被抬升至伪神的地位时，偶像崇拜会借此在文化团体中发挥广泛的作用。</li>
-  <li>lessonIntro(tag=meme_Iconoclast)         ->我们殖民地里最聪慧的人是一位专门研究文明史的学者，他的渊博学识可以追溯到古地球上的远古文化。他真正让我理解了</li>
-  <li>lesson(tag=meme_Iconoclast)              ->人类的思想就像是存满了偶像崇拜和迷信观念的仓库</li>
-  <li>lessonReinforcement(tag=meme_Iconoclast) ->或许逻辑学家们会对这些抽象概念进行推论，不过绝大部分人肯定都拥有形象。年龄或民族的不同都无法阻挡强烈偶像崇拜倾向的出现，这至今仍是个未解之谜。</li>
-  <li>archistBasis(tag=meme_Iconoclast)    ->超凡智能是至高无上的存在，是人类形象的映射，也是我们走向进化的下一个必然步骤。</li>
-  <li>archistFact(tag=meme_Iconoclast)     ->超凡智能并不喜欢偶像崇拜，因为崇拜某个雕像或圣物是毫无意义之事。</li>
-  <li>archistProphecy(tag=meme_Iconoclast) ->[inTheEnd]，只有那些拒绝偶像崇拜的人才能走向超越。</li>
-  <li>animistBasis(tag=meme_Iconoclast)    ->灵魂们并不喜欢偶像崇拜，因为崇拜某个雕像或圣物是毫无意义之事。</li>
-  <li>animistFact(tag=meme_Iconoclast)     ->由于灵魂们无处不在，我们必须要注意不要把对灵魂们的崇拜和对他们寄宿物品的崇拜相混淆。</li>
-  <li>animistProphecy(tag=meme_Iconoclast) ->[itIsSaid]我们中拒绝偶像崇拜的人终将与灵魂们畅谈并成为他们的一员。</li>
-  <li>serketistProphecy(tag=meme_Iconoclast)->[itIsSaid]我们必须摧毁和神圣虫族们有关的雕像，因为它们无法理解污秽至极的偶像崇拜。</li>
-  <li>chthonianProphecy(tag=meme_Iconoclast)->外神们的古老与邪恶超乎所有人的想象 。我们将毁掉有关祂们的所有雕像，因为刻画祂们的外观是最为污秽之事。</li>
-  <li>esotericismProphecy(tag=meme_Iconoclast)->这种神秘学知识只能用抽象的词语来形容。描绘它的形式是危险且污秽的。</li>
-  <li>eschatologismFact(tag=meme_Iconoclast)->我们将毁掉所有的符号、圣物和异端信仰的绘述，因为它们污秽之极。</li>
-  <li>introMemo(tag=meme_Iconoclast)->依据公司政策，员工们在装潢自己的工位时要讲究适度，在不阻碍其使用目的的情况下来凸显专业宜人的工作环境。挂一张你家人的照片就可以了。存有圣人遗骸的圣髑盒绝对不行。</li>
-  <li>alienistProphecy(tag=meme_Iconoclast)->这些不幸的怪异造物提醒了我们，科学也会有自己的偶像崇拜形式，这和宗教一样令人作呕。</li>
+  <li>creation(tag=meme_Iconoclast)        ->[deity0_name] a parlé à ses disciples : "Vous n'érigerez jamais une figure à mon image, car l'idolâtrie est le plus grand des péchés."</li>
+  <li>episode(uses=1,tag=meme_Iconoclast)  ->S'adressant aux fidèles, [deity0_name] a dit : "Les reliques et les symboles sont obscènes pour moi. Celui qui offre à Dieu une seconde place ne lui offre aucune place."</li>
+  <li>intro(tag=meme_Iconoclast)           ->Sur la [place_summary] [place_name], les [memberNamePlural] ont construit un temple immense, pour la gloire de [deity0_name].</li>
+  <li>conflict(tag=meme_Iconoclast)        ->Un vieux [foeLeader] voulait ériger une statue de [deity0_name], mais les [memberNamePlural] l'ont averti que cela était interdit par les principes de leur foi. Le désaccord s'est transformé en une querelle amère.</li>
+  <li>founderJoin(tag=meme_Iconoclast)     ->[founderName], un grand théologien, a raisonné le [foeLeader], en expliquant que les images étaient obscènes pour [deity0_name].</li>
+  <li>victory(tag=meme_Iconoclast)         ->Le [foeLeader] était convaincu, et avec le temps, [foeLeader_pronoun] est devenu l'un des meilleurs iconoclastes du clergé de [deity0_name].</li>
+  <li>setup(tag=meme_Iconoclast)           ->[founderName] était un théologien dans un Glitterworlds. [founder_pronoun] enseignait que l'idolâtrie consiste à vénérer tout ce qui devrait être utilisé, ou à utiliser tout ce qui est destiné à être vénéré.</li>
+  <li>story(uses=1,tag=meme_Iconoclast)    ->[founderName] nous a montré que l'idolâtrie fonctionne largement au sein des communautés religieuses lorsque la vérité doctrinale est élevée au rang de faux dieu.</li>
+  <li>lessonIntro(tag=meme_Iconoclast)         ->L'homme le plus sage de notre colonie était un érudit spécialisé dans l'histoire des civilisations, remontant jusqu'aux anciennes cultures de la vieille Terre. Il m'a appris que</li>
+  <li>lesson(tag=meme_Iconoclast)              ->l'esprit de l'homme est comme un magasin d'idolâtrie et de superstition</li>
+  <li>lessonReinforcement(tag=meme_Iconoclast) ->Les logiciens peuvent raisonner sur des abstractions. Mais la grande majorité des hommes doit avoir des images. La forte tendance de la multitude, à toutes les époques et dans toutes les nations, à l'idolâtrie ne peut s'expliquer par aucun autre principe.</li>
+  <li>archistBasis(tag=meme_Iconoclast)    ->Les archotechs sont des êtres suprêmes, un reflet de notre propre image humaine et la prochaine étape logique de notre évolution.</li>
+  <li>archistFact(tag=meme_Iconoclast)     ->Les archotechs désapprouvent l'idolâtrie, car vénérer une image ou une relique est indigne de notre intellect.</li>
+  <li>archistProphecy(tag=meme_Iconoclast) ->[inTheEnd], les archotechs ne permettront qu'à ceux qui fuient le culte des images matérielles de se transcender.</li>
+  <li>animistBasis(tag=meme_Iconoclast)    ->Les esprits désapprouvent l'idolâtrie, car vénérer une image ou une relique est indigne de notre intellect.</li>
+  <li>animistFact(tag=meme_Iconoclast)     ->Comme les esprits sont partout, il faut veiller à ne pas confondre le culte d'un esprit avec le culte de la chose qu'il habite.</li>
+  <li>animistProphecy(tag=meme_Iconoclast) ->[itIsSaid] seuls ceux qui évitent le culte des images matérielles pourront un jour communier pleinement avec les esprits, ne faisant plus qu'un avec eux.</li>
+  <li>serketistProphecy(tag=meme_Iconoclast)->[itIsSaid] nous détruirons toutes les images de nos saints insectes, car l'idolâtrie est obscène et incompréhensible pour eux.</li>
+  <li>chthonianProphecy(tag=meme_Iconoclast)->Les entités eldritch sont anciennes et maléfiques au-delà de toute imagination. Nous détruirons toutes les images d'elles, car la représentation de leur forme physique est infiniment obscène.</li>
+  <li>esotericismProphecy(tag=meme_Iconoclast)->On ne peut parler de ces connaissances occultes qu'en termes abstraits. La représentation de sa forme physique est dangereuse et obscène.</li>
+  <li>eschatologismFact(tag=meme_Iconoclast)->Nous mettrons en pièces toutes les images, reliques et représentations de croyances hérétiques, car elles sont obscènes.</li>
+  <li>introMemo(tag=meme_Iconoclast)->Conformément à la politique de l'entreprise, les employés doivent faire preuve de modération dans la décoration de leur espace de travail afin d'accentuer un environnement de travail professionnel et agréable sans inhiber ou perturber son utilisation prévue. Une photo de votre famille est acceptable. Un reliquaire avec les restes d'un saint est DÉFINITIVEMENT NON.</li>
+  <li>alienistProphecy(tag=meme_Iconoclast)->Ces pauvres créations dévoyées de l'humanité nous rappellent que la science peut aussi avoir sa propre forme d'idolâtrie, aussi obscène que la religion.</li>
 </AM_Iconoclast.descriptionMaker.rules.rulesStrings>
 <!-- EN:
   <li>memeAdjective->aniconic</li>
@@ -559,20 +559,20 @@
   <li>memeConcept->iconoclasm</li>
 -->
 <AM_Iconoclast.generalRules.rulesStrings>
-  <li>memeAdjective->偶像废除</li>
-  <li>memeAdjective->摧毁</li>
-  <li>memeAdjective->反偶像崇拜</li>
-  <li>memeConcept->符号毁坏</li>
-  <li>memeConcept->偶像废止</li>
+  <li>memeAdjective->aniconique</li>
+  <li>memeAdjective->destructeur</li>
+  <li>memeAdjective->anti-idolâtrie</li>
+  <li>memeConcept->destruction d'icônes religieuses</li>
+  <li>memeConcept->iconoclasme</li>
 </AM_Iconoclast.generalRules.rulesStrings>
 <!-- EN: iconoclast -->
-<AM_Iconoclast.symbolPacks.0.adjective>偶像废止</AM_Iconoclast.symbolPacks.0.adjective>
+<AM_Iconoclast.symbolPacks.0.adjective>iconoclaste</AM_Iconoclast.symbolPacks.0.adjective>
 <!-- EN: Iconoclasm -->
-<AM_Iconoclast.symbolPacks.0.ideoName>反偶像崇拜</AM_Iconoclast.symbolPacks.0.ideoName>
+<AM_Iconoclast.symbolPacks.0.ideoName>Iconoclasme</AM_Iconoclast.symbolPacks.0.ideoName>
 <!-- EN: iconoclast -->
-<AM_Iconoclast.symbolPacks.0.member>反偶像崇拜者</AM_Iconoclast.symbolPacks.0.member>
+<AM_Iconoclast.symbolPacks.0.member>iconoclaste</AM_Iconoclast.symbolPacks.0.member>
 <!-- EN: iconoclasm -->
-<AM_Iconoclast.symbolPacks.0.theme>偶像废止</AM_Iconoclast.symbolPacks.0.theme>
+<AM_Iconoclast.symbolPacks.0.theme>iconoclasme</AM_Iconoclast.symbolPacks.0.theme>
 
 <!-- EN: madness -->
 <AM_Madness.label>folie</AM_Madness.label>

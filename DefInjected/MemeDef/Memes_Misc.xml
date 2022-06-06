@@ -638,22 +638,22 @@
   <li>memeConcept->madness</li>
 -->
 <AM_Madness.generalRules.rulesStrings>
-  <li>memeAdjective->精神失常</li>
-  <li>memeAdjective->癫狂</li>
-  <li>memeAdjective->疯癫</li>
-  <li>memeLeaderNoun->癫狂者</li>
-  <li>memeMoralist->精神病人</li>
-  <li>memeMoralist->狂人</li>
-  <li>memeConcept->狂乱</li>
+  <li>memeAdjective->fou</li>
+  <li>memeAdjective->fou</li>
+  <li>memeAdjective->fou</li>
+  <li>memeLeaderNoun->fou</li>
+  <li>memeMoralist->maniaque</li>
+  <li>memeMoralist->lunatique</li>
+  <li>memeConcept->la folie</li>
 </AM_Madness.generalRules.rulesStrings>
 <!-- EN: insane -->
-<AM_Madness.symbolPacks.0.adjective>精神失常</AM_Madness.symbolPacks.0.adjective>
+<AM_Madness.symbolPacks.0.adjective>fou</AM_Madness.symbolPacks.0.adjective>
 <!-- EN: Madness -->
-<AM_Madness.symbolPacks.0.ideoName>疯癫</AM_Madness.symbolPacks.0.ideoName>
+<AM_Madness.symbolPacks.0.ideoName>folie</AM_Madness.symbolPacks.0.ideoName>
 <!-- EN: dement -->
-<AM_Madness.symbolPacks.0.member>疯子</AM_Madness.symbolPacks.0.member>
+<AM_Madness.symbolPacks.0.member>dément</AM_Madness.symbolPacks.0.member>
 <!-- EN: madness -->
-<AM_Madness.symbolPacks.0.theme>狂乱</AM_Madness.symbolPacks.0.theme>
+<AM_Madness.symbolPacks.0.theme>folie</AM_Madness.symbolPacks.0.theme>
 
 <!-- EN: monastic -->
 <AM_Monastic.label>monastique</AM_Monastic.label>
@@ -725,28 +725,28 @@
   <li>memeLeaderNoun->prior</li>
 -->
 <AM_Monastic.generalRules.rulesStrings>
-  <li>memeCreed->苦行清修</li>
-  <li>memeCreed->苦行生活</li>
-  <li>memeCreed->苦行</li>
-  <li>memeCreed->自律</li>
-  <li>memeCreed->简朴</li>
-  <li>memeConcept->节制</li>
-  <li>memeConcept->禁欲</li>
-  <li>memeAdjective->清修</li>
-  <li>memeAdjective->苦行</li>
-  <li>memeHyphenPrefix->僧侣</li>
-  <li>memeLeaderNoun->修士</li>
-  <li>memeLeaderNoun->寺院长老</li>
-  <li>memeLeaderNoun->苦行宗师</li>
+  <li>memeCreed->l'ascèse</li>
+  <li>memeCreed->vie monastique</li>
+  <li>memeCreed->austérité</li>
+  <li>memeCreed->autodiscipline</li>
+  <li>memeCreed->simplicité</li>
+  <li>memeConcept->modération</li>
+  <li>memeConcept->la maîtrise de soi</li>
+  <li>memeAdjectif->monastique</li>
+  <li>memeAdjectif->austère</li>
+  <li>memeHyphenPrefix->moine</li>
+  <li>memeLeaderNoun->frère</li>
+  <li>memeLeaderNoun->abbé</li>
+  <li>memeLeaderNoun->prêtre</li>
 </AM_Monastic.generalRules.rulesStrings>
 <!-- EN: monastic -->
-<AM_Monastic.symbolPacks.0.adjective>苦行清修</AM_Monastic.symbolPacks.0.adjective>
+<AM_Monastic.symbolPacks.0.adjective>monastique</AM_Monastic.symbolPacks.0.adjective>
 <!-- EN: Monasticism -->
-<AM_Monastic.symbolPacks.0.ideoName>苦行</AM_Monastic.symbolPacks.0.ideoName>
+<AM_Monastic.symbolPacks.0.ideoName>monasticisme</AM_Monastic.symbolPacks.0.ideoName>
 <!-- EN: monk -->
-<AM_Monastic.symbolPacks.0.member>僧侣</AM_Monastic.symbolPacks.0.member>
+<AM_Monastic.symbolPacks.0.member>moine</AM_Monastic.symbolPacks.0.member>
 <!-- EN: monasticism -->
-<AM_Monastic.symbolPacks.0.theme>禁欲</AM_Monastic.symbolPacks.0.theme>
+<AM_Monastic.symbolPacks.0.theme>monasticisme</AM_Monastic.symbolPacks.0.theme>
 
 <!-- EN: vow of nonviolence -->
 <AM_NonViolence.label>vœu de non-violence</AM_NonViolence.label>
@@ -811,21 +811,21 @@
   <li>memeConcept->nonviolence</li>
 -->
 <AM_NonViolence.generalRules.rulesStrings>
-  <li>memeAdjective->非暴力</li>
-  <li>memeAdjective->爱与希望</li>
-  <li>memeAdjective->和谐</li>
-  <li>memeLeaderNoun->反暴圣者</li>
-  <li>memeMoralist->抵制者</li>
-  <li>memeConcept->非暴力</li>
+  <li>memeAdjective->non-violent</li>
+  <li>memeAdjective->pacifique</li>
+  <li>memeAdjectif->harmonieux</li>
+  <li>memeLeaderNoun->objecteur de conscience</li>
+  <li>memeMoralist->résistant passif</li>
+  <li>memeConcept->non-violence</li>
 </AM_NonViolence.generalRules.rulesStrings>
 <!-- EN: nonviolent -->
-<AM_NonViolence.symbolPacks.0.adjective>爱与希望</AM_NonViolence.symbolPacks.0.adjective>
+<AM_NonViolence.symbolPacks.0.adjective>non-violent</AM_NonViolence.symbolPacks.0.adjective>
 <!-- EN: Nonviolence -->
-<AM_NonViolence.symbolPacks.0.ideoName>和谐</AM_NonViolence.symbolPacks.0.ideoName>
+<AM_NonViolence.symbolPacks.0.ideoName>non-violence</AM_NonViolence.symbolPacks.0.ideoName>
 <!-- EN: pacifist -->
-<AM_NonViolence.symbolPacks.0.member>和平主义者</AM_NonViolence.symbolPacks.0.member>
+<AM_NonViolence.symbolPacks.0.member>pacifiste</AM_NonViolence.symbolPacks.0.member>
 <!-- EN: nonviolence -->
-<AM_NonViolence.symbolPacks.0.theme>和平血誓</AM_NonViolence.symbolPacks.0.theme>
+<AM_NonViolence.symbolPacks.0.theme>non-violence</AM_NonViolence.symbolPacks.0.theme>
 
 <!-- EN: sadist -->
 <AM_Sadist.label>sadisme</AM_Sadist.label>
@@ -892,39 +892,39 @@
   <li>memeConcept->pain</li>
 -->
 <AM_Sadist.generalRules.rulesStrings>
-  <li>memeAdjective->施虐</li>
-  <li>memeAdjective->残忍</li>
-  <li>memeAdjective->无情</li>
-  <li>memeAdjective->虐待</li>
-  <li>memeAdjective->折磨</li>
-  <li>memeLeaderNoun->施虐大师</li>
-  <li>memeMoralist->精神病患</li>
-  <li>memeConcept->痛苦</li>
+  <li>memeAdjective->sadiste</li>
+  <li>memeAdjective->vicieux</li>
+  <li>memeAdjective->impitoyable</li>
+  <li>memeAdjectif->pervers</li>
+  <li>memeAdjective->impitoyable</li>
+  <li>memeLeaderNoun->apporteur de douleur</li>
+  <li>memeMoralist->psychopathe</li>
+  <li>memeConcept->douleur</li>
 </AM_Sadist.generalRules.rulesStrings>
 <!-- EN: sadist -->
-<AM_Sadist.symbolPacks.0.adjective>施虐</AM_Sadist.symbolPacks.0.adjective>
+<AM_Sadist.symbolPacks.0.adjective>sadique</AM_Sadist.symbolPacks.0.adjective>
 <!-- EN: Sadist -->
-<AM_Sadist.symbolPacks.0.ideoName>施虐</AM_Sadist.symbolPacks.0.ideoName>
+<AM_Sadist.symbolPacks.0.ideoName>sadisme</AM_Sadist.symbolPacks.0.ideoName>
 <!-- EN: sadist -->
-<AM_Sadist.symbolPacks.0.member>施虐者</AM_Sadist.symbolPacks.0.member>
+<AM_Sadist.symbolPacks.0.member>sadique</AM_Sadist.symbolPacks.0.member>
 <!-- EN: sadism -->
-<AM_Sadist.symbolPacks.0.theme>虐待</AM_Sadist.symbolPacks.0.theme>
+<AM_Sadist.symbolPacks.0.theme>sadisme</AM_Sadist.symbolPacks.0.theme>
 <!-- EN: ruthless -->
-<AM_Sadist.symbolPacks.1.adjective>残忍</AM_Sadist.symbolPacks.1.adjective>
+<AM_Sadist.symbolPacks.1.adjective>impitoyable</AM_Sadist.symbolPacks.1.adjective>
 <!-- EN: Ruthless -->
-<AM_Sadist.symbolPacks.1.ideoName>无情</AM_Sadist.symbolPacks.1.ideoName>
+<AM_Sadist.symbolPacks.1.ideoName>impitoyable</AM_Sadist.symbolPacks.1.ideoName>
 <!-- EN: ruthless -->
-<AM_Sadist.symbolPacks.1.member>无情者</AM_Sadist.symbolPacks.1.member>
+<AM_Sadist.symbolPacks.1.member>impitoyable</AM_Sadist.symbolPacks.1.member>
 <!-- EN: ruthlessness -->
-<AM_Sadist.symbolPacks.1.theme>凶残</AM_Sadist.symbolPacks.1.theme>
+<AM_Sadist.symbolPacks.1.theme>impitoyable</AM_Sadist.symbolPacks.1.theme>
 <!-- EN: perverse -->
-<AM_Sadist.symbolPacks.2.adjective>折磨</AM_Sadist.symbolPacks.2.adjective>
+<AM_Sadist.symbolPacks.2.adjective>pervers</AM_Sadist.symbolPacks.2.adjective>
 <!-- EN: Perverse -->
-<AM_Sadist.symbolPacks.2.ideoName>拷问</AM_Sadist.symbolPacks.2.ideoName>
+<AM_Sadist.symbolPacks.2.ideoName>perversité</AM_Sadist.symbolPacks.2.ideoName>
 <!-- EN: pervert -->
-<AM_Sadist.symbolPacks.2.member>拷问者</AM_Sadist.symbolPacks.2.member>
+<AM_Sadist.symbolPacks.2.member>pervers</AM_Sadist.symbolPacks.2.member>
 <!-- EN: perversity -->
-<AM_Sadist.symbolPacks.2.theme>折磨</AM_Sadist.symbolPacks.2.theme>
+<AM_Sadist.symbolPacks.2.theme>perversité</AM_Sadist.symbolPacks.2.theme>
 
 <!-- EN: sharpshooter -->
 <AM_Sharpshooter.label>tireur d'élite</AM_Sharpshooter.label>
@@ -991,23 +991,23 @@
   <li>memeLeaderNoun->sniper</li>
 -->
 <AM_Sharpshooter.generalRules.rulesStrings>
-  <li>memeAdjective->机敏</li>
-  <li>memeAdjective->寂静</li>
-  <li>memeAdjective->精准</li>
-  <li>memeAdjective->敏锐</li>
-  <li>memeLeaderAdjective->机敏</li>
-  <li>memeConcept->狙击步枪</li>
-  <li>memeConcept->精准</li>
-  <li>memeLeaderNoun->狙击手</li>
+  <li>memeAdjective->perçant</li>
+  <li>memeAdjectif->silencieux</li>
+  <li>memeAdjectif->précis</li>
+  <li>memeAdjectif->précis</li>
+  <li>memeLeaderAdjective->perçant</li>
+  <li>memeConcept->fusils sniper</li>
+  <li>memeConcept->précision</li>
+  <li>memeLeaderNoun->sniper</li>
 </AM_Sharpshooter.generalRules.rulesStrings>
 <!-- EN: sharpshooter -->
-<AM_Sharpshooter.symbolPacks.0.adjective>神射</AM_Sharpshooter.symbolPacks.0.adjective>
+<AM_Sharpshooter.symbolPacks.0.adjective>précis</AM_Sharpshooter.symbolPacks.0.adjective>
 <!-- EN: Sharpshooting -->
-<AM_Sharpshooter.symbolPacks.0.ideoName>狙击</AM_Sharpshooter.symbolPacks.0.ideoName>
+<AM_Sharpshooter.symbolPacks.0.ideoName>tir de précision</AM_Sharpshooter.symbolPacks.0.ideoName>
 <!-- EN: marksman -->
-<AM_Sharpshooter.symbolPacks.0.member>神射手</AM_Sharpshooter.symbolPacks.0.member>
+<AM_Sharpshooter.symbolPacks.0.member>tireur d'élite</AM_Sharpshooter.symbolPacks.0.member>
 <!-- EN: sharpshooting -->
-<AM_Sharpshooter.symbolPacks.0.theme>射击</AM_Sharpshooter.symbolPacks.0.theme>
+<AM_Sharpshooter.symbolPacks.0.theme>tir de précision</AM_Sharpshooter.symbolPacks.0.theme>
 
 <!-- EN: youth -->
 <AM_Youth.label>jeunisme</AM_Youth.label>
@@ -1072,21 +1072,21 @@
   <li>memeLeaderNoun->junior</li>
 -->
 <AM_Youth.generalRules.rulesStrings>
-  <li>memeAdjective->年轻</li>
-  <li>memeAdjective->青年</li>
-  <li>memeAdjective->少年</li>
-  <li>memeConcept->年龄</li>
-  <li>memeHyphenPrefix->年轻</li>
-  <li>memeLeaderNoun->年少子弟</li>
+  <li>memeAdjectif->jeune</li>
+  <li>memeAdjective->jeune</li>
+  <li>memeAdjective->jeune</li>
+  <li>memeConcept->âge</li>
+  <li>memeHyphenPrefix->jeune</li>
+  <li>memeLeaderNoun->junior</li>
 </AM_Youth.generalRules.rulesStrings>
 <!-- EN: young -->
-<AM_Youth.symbolPacks.0.adjective>年轻</AM_Youth.symbolPacks.0.adjective>
+<AM_Youth.symbolPacks.0.adjective>jeune</AM_Youth.symbolPacks.0.adjective>
 <!-- EN: Youth -->
-<AM_Youth.symbolPacks.0.ideoName>青年</AM_Youth.symbolPacks.0.ideoName>
+<AM_Youth.symbolPacks.0.ideoName>jeunesse</AM_Youth.symbolPacks.0.ideoName>
 <!-- EN: young one -->
-<AM_Youth.symbolPacks.0.member>年轻人</AM_Youth.symbolPacks.0.member>
+<AM_Youth.symbolPacks.0.member>jeune</AM_Youth.symbolPacks.0.member>
 <!-- EN: youth -->
-<AM_Youth.symbolPacks.0.theme>年少</AM_Youth.symbolPacks.0.theme>
+<AM_Youth.symbolPacks.0.theme>jeunesse</AM_Youth.symbolPacks.0.theme>
 
 
 </LanguageData>

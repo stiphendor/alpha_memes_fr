@@ -139,67 +139,67 @@
   <AM_Structure_Jewish.worshipRoomLabel>synagogue</AM_Structure_Jewish.worshipRoomLabel>
   
   <!-- EN: Kemetic origin -->
-  <AM_Structure_Kemetism.label>埃及教起源</AM_Structure_Kemetism.label>
+  <AM_Structure_Kemetism.label>origine kémitique</AM_Structure_Kemetism.label>
   <!-- EN: This ideoligion is a descendant of Egyptian Neopaganism, also known as Kemetism. It may have very different precepts than those of thousands of years ago, but its symbols are similar. -->
-  <AM_Structure_Kemetism.description>这种思想宗教是埃及新异教主义的延续。它的戒律可能与几千年前的戒律大不相同，但它的符号却很相似。</AM_Structure_Kemetism.description>
+  <AM_Structure_Kemetism.description>Cette idéologie est un descendant du néopaganisme égyptien, également connu sous le nom de kémitisme. Il peut avoir des préceptes très différents de ceux d'il y a des milliers d'années, mais ses symboles sont similaires.</AM_Structure_Kemetism.description>
   <!-- EN: The Creator God -->
-  <AM_Structure_Kemetism.fixedDeityNameTypes.0.type>造物主</AM_Structure_Kemetism.fixedDeityNameTypes.0.type>
+  <AM_Structure_Kemetism.fixedDeityNameTypes.0.type>Le Dieu Créateur</AM_Structure_Kemetism.fixedDeityNameTypes.0.type>
   <!-- EN: God of the Sun -->
-  <AM_Structure_Kemetism.fixedDeityNameTypes.1.type>太阳之神</AM_Structure_Kemetism.fixedDeityNameTypes.1.type>
+  <AM_Structure_Kemetism.fixedDeityNameTypes.1.type>Dieu du soleil</AM_Structure_Kemetism.fixedDeityNameTypes.1.type>
   <!-- EN: Goddess of Earth -->
-  <AM_Structure_Kemetism.fixedDeityNameTypes.2.type>大地女神</AM_Structure_Kemetism.fixedDeityNameTypes.2.type>
+  <AM_Structure_Kemetism.fixedDeityNameTypes.2.type>Déesse de la Terre</AM_Structure_Kemetism.fixedDeityNameTypes.2.type>
   <!-- EN: God of Air -->
-  <AM_Structure_Kemetism.fixedDeityNameTypes.3.type>空间之神</AM_Structure_Kemetism.fixedDeityNameTypes.3.type>
+  <AM_Structure_Kemetism.fixedDeityNameTypes.3.type>Dieu de l'air</AM_Structure_Kemetism.fixedDeityNameTypes.3.type>
   <!-- EN: Goddess of Moisture -->
-  <AM_Structure_Kemetism.fixedDeityNameTypes.4.type>水之女神</AM_Structure_Kemetism.fixedDeityNameTypes.4.type>
+  <AM_Structure_Kemetism.fixedDeityNameTypes.4.type>Déesse de l'humidité</AM_Structure_Kemetism.fixedDeityNameTypes.4.type>
   <!-- EN: God of Justice -->
-  <AM_Structure_Kemetism.fixedDeityNameTypes.5.type>正义之神</AM_Structure_Kemetism.fixedDeityNameTypes.5.type>
+  <AM_Structure_Kemetism.fixedDeityNameTypes.5.type>Dieu de la justice</AM_Structure_Kemetism.fixedDeityNameTypes.5.type>
   <!-- EN: Goddess of Motherhood -->
-  <AM_Structure_Kemetism.fixedDeityNameTypes.6.type>慈爱女神</AM_Structure_Kemetism.fixedDeityNameTypes.6.type>
+  <AM_Structure_Kemetism.fixedDeityNameTypes.6.type>Déesse de la maternité</AM_Structure_Kemetism.fixedDeityNameTypes.6.type>
   <!-- EN: God of the Sky -->
-  <AM_Structure_Kemetism.fixedDeityNameTypes.7.type>天空之神</AM_Structure_Kemetism.fixedDeityNameTypes.7.type>
+  <AM_Structure_Kemetism.fixedDeityNameTypes.7.type>Dieu du ciel</AM_Structure_Kemetism.fixedDeityNameTypes.7.type>
   <!-- EN: God of Deception -->
-  <AM_Structure_Kemetism.fixedDeityNameTypes.8.type>诡计之神</AM_Structure_Kemetism.fixedDeityNameTypes.8.type>
+  <AM_Structure_Kemetism.fixedDeityNameTypes.8.type>Dieu de la tromperie</AM_Structure_Kemetism.fixedDeityNameTypes.8.type>
   <!-- EN: Goddess of Balance -->
-  <AM_Structure_Kemetism.fixedDeityNameTypes.9.type>公平女神</AM_Structure_Kemetism.fixedDeityNameTypes.9.type>
+  <AM_Structure_Kemetism.fixedDeityNameTypes.9.type>Déesse de l'équilibre</AM_Structure_Kemetism.fixedDeityNameTypes.9.type>
   <!-- EN: God of Death -->
-  <AM_Structure_Kemetism.fixedDeityNameTypes.10.type>死亡之神</AM_Structure_Kemetism.fixedDeityNameTypes.10.type>
+  <AM_Structure_Kemetism.fixedDeityNameTypes.10.type>Dieu de la mort</AM_Structure_Kemetism.fixedDeityNameTypes.10.type>
   <!-- EN: Goddess of Funerals -->
-  <AM_Structure_Kemetism.fixedDeityNameTypes.11.type>丧葬女神</AM_Structure_Kemetism.fixedDeityNameTypes.11.type>
+  <AM_Structure_Kemetism.fixedDeityNameTypes.11.type>Déesse des funérailles</AM_Structure_Kemetism.fixedDeityNameTypes.11.type>
   <!-- EN: Goddess of Drunkenness -->
-  <AM_Structure_Kemetism.fixedDeityNameTypes.12.type>酒之女神</AM_Structure_Kemetism.fixedDeityNameTypes.12.type>
+  <AM_Structure_Kemetism.fixedDeityNameTypes.12.type>Déesse de l'ivresse</AM_Structure_Kemetism.fixedDeityNameTypes.12.type>
   <!-- EN: Goddess of Beauty -->
-  <AM_Structure_Kemetism.fixedDeityNameTypes.13.type>美之女神</AM_Structure_Kemetism.fixedDeityNameTypes.13.type>
+  <AM_Structure_Kemetism.fixedDeityNameTypes.13.type>Déesse de la beauté</AM_Structure_Kemetism.fixedDeityNameTypes.13.type>
   <!-- EN: God of Intellect -->
-  <AM_Structure_Kemetism.fixedDeityNameTypes.14.type>智慧之神</AM_Structure_Kemetism.fixedDeityNameTypes.14.type>
+  <AM_Structure_Kemetism.fixedDeityNameTypes.14.type>Dieu de l'Intellect</AM_Structure_Kemetism.fixedDeityNameTypes.14.type>
   <!-- EN: God of Memphis -->
-  <AM_Structure_Kemetism.fixedDeityNameTypes.15.type>孟菲斯之神</AM_Structure_Kemetism.fixedDeityNameTypes.15.type>
+  <AM_Structure_Kemetism.fixedDeityNameTypes.15.type>Dieu de Memphis</AM_Structure_Kemetism.fixedDeityNameTypes.15.type>
   <!-- EN: God of the Moon -->
-  <AM_Structure_Kemetism.fixedDeityNameTypes.16.type>月亮之神</AM_Structure_Kemetism.fixedDeityNameTypes.16.type>
+  <AM_Structure_Kemetism.fixedDeityNameTypes.16.type>Dieu de la Lune</AM_Structure_Kemetism.fixedDeityNameTypes.16.type>
   <!-- EN: God of Potters -->
-  <AM_Structure_Kemetism.fixedDeityNameTypes.17.type>陶艺之神</AM_Structure_Kemetism.fixedDeityNameTypes.17.type>
+  <AM_Structure_Kemetism.fixedDeityNameTypes.17.type>Dieu des potiers</AM_Structure_Kemetism.fixedDeityNameTypes.17.type>
   <!-- EN: God of Fertility -->
-  <AM_Structure_Kemetism.fixedDeityNameTypes.18.type>丰饶之神</AM_Structure_Kemetism.fixedDeityNameTypes.18.type>
+  <AM_Structure_Kemetism.fixedDeityNameTypes.18.type>Dieu de la fertilité</AM_Structure_Kemetism.fixedDeityNameTypes.18.type>
   <!-- EN: God of the Nile -->
-  <AM_Structure_Kemetism.fixedDeityNameTypes.19.type>尼罗河之神</AM_Structure_Kemetism.fixedDeityNameTypes.19.type>
+  <AM_Structure_Kemetism.fixedDeityNameTypes.19.type>Dieu du Ni</AM_Structure_Kemetism.fixedDeityNameTypes.19.type>
   <!-- EN: God of Entertainment -->
-  <AM_Structure_Kemetism.fixedDeityNameTypes.20.type>欢愉之神</AM_Structure_Kemetism.fixedDeityNameTypes.20.type>
+  <AM_Structure_Kemetism.fixedDeityNameTypes.20.type>Dieu du divertissement</AM_Structure_Kemetism.fixedDeityNameTypes.20.type>
   <!-- EN: Goddess of Childbirth -->
-  <AM_Structure_Kemetism.fixedDeityNameTypes.21.type>生育女神</AM_Structure_Kemetism.fixedDeityNameTypes.21.type>
+  <AM_Structure_Kemetism.fixedDeityNameTypes.21.type>Déesse de l'accouchement</AM_Structure_Kemetism.fixedDeityNameTypes.21.type>
   <!-- EN: Goddess of Arrows -->
-  <AM_Structure_Kemetism.fixedDeityNameTypes.22.type>箭术女神</AM_Structure_Kemetism.fixedDeityNameTypes.22.type>
+  <AM_Structure_Kemetism.fixedDeityNameTypes.22.type>Déesse des Flèches</AM_Structure_Kemetism.fixedDeityNameTypes.22.type>
   <!-- EN: Goddess of Vultures -->
-  <AM_Structure_Kemetism.fixedDeityNameTypes.23.type>欲望女神</AM_Structure_Kemetism.fixedDeityNameTypes.23.type>
+  <AM_Structure_Kemetism.fixedDeityNameTypes.23.type>Déesse des vautours</AM_Structure_Kemetism.fixedDeityNameTypes.23.type>
   <!-- EN: Goddess of Kingship -->
-  <AM_Structure_Kemetism.fixedDeityNameTypes.24.type>王权女神</AM_Structure_Kemetism.fixedDeityNameTypes.24.type>
+  <AM_Structure_Kemetism.fixedDeityNameTypes.24.type>Déesse de la royauté</AM_Structure_Kemetism.fixedDeityNameTypes.24.type>
   <!-- EN: God of the Underworld -->
-  <AM_Structure_Kemetism.fixedDeityNameTypes.25.type>地底之神</AM_Structure_Kemetism.fixedDeityNameTypes.25.type>
+  <AM_Structure_Kemetism.fixedDeityNameTypes.25.type>Dieu des enfers</AM_Structure_Kemetism.fixedDeityNameTypes.25.type>
   <!-- EN: God of Perfume -->
-  <AM_Structure_Kemetism.fixedDeityNameTypes.26.type>芳香之神</AM_Structure_Kemetism.fixedDeityNameTypes.26.type>
+  <AM_Structure_Kemetism.fixedDeityNameTypes.26.type>Dieu du Parfum</AM_Structure_Kemetism.fixedDeityNameTypes.26.type>
   <!-- EN: Goddess of Nursing -->
-  <AM_Structure_Kemetism.fixedDeityNameTypes.27.type>医护女神</AM_Structure_Kemetism.fixedDeityNameTypes.27.type>
+  <AM_Structure_Kemetism.fixedDeityNameTypes.27.type>Déesse des soins</AM_Structure_Kemetism.fixedDeityNameTypes.27.type>
   <!-- EN: God of Magic -->
-  <AM_Structure_Kemetism.fixedDeityNameTypes.28.type>魔法之神</AM_Structure_Kemetism.fixedDeityNameTypes.28.type>
+  <AM_Structure_Kemetism.fixedDeityNameTypes.28.type>Dieu de la magie</AM_Structure_Kemetism.fixedDeityNameTypes.28.type>
   <!-- EN:
     <li>memeAdjective->reconstructed</li>
     <li>memeAdjective->revised</li>
@@ -216,33 +216,33 @@
     <li>memeMoralist->swnw</li>
   -->
   <AM_Structure_Kemetism.generalRules.rulesStrings>
-    <li>memeAdjective->重构</li>
-    <li>memeAdjective->修正</li>
-    <li>memeHyphenPrefix->新生</li>
-    <li>memeLeaderNoun->法老</li>
-    <li>memeLeaderAdjective->肃穆</li>
-    <li>memeLeaderAdjective->真理</li>
-    <li>memeLeaderAdjective->神圣</li>
-    <li>memeMoralist->大祭司</li>
-    <li>memeMoralist->第一仆从</li>
-    <li>memeMoralist->瓦博大祭司</li>
-    <li>memeMoralist->塞姆大祭司</li>
-    <li>memeMoralist->卡大祭司</li>
-    <li>memeMoralist->医师</li>
+    <li>memeAdjective->reconstruit</li>
+    <li>memeAdjectif->révisé</li>
+    <li>memeHyphenPrefix->néo</li>
+    <li>memeLeaderNoun->pharaon</li>
+    <li>memeLeaderAdjective->solennel</li>
+    <li>memeLeaderAdjective->absolu</li>
+    <li>memeLeaderAdjective->divin</li>
+    <li>memeMoralist->prêtre lecteur</li>
+    <li>memeMoralist->hem-netjer</li>
+    <li>memeMoralist->prêtre wab</li>
+    <li>memeMoralist->prêtre sem</li>
+    <li>memeMoralist->ka-prêtre</li>
+    <li>memeMoralist->swnw</li>
   </AM_Structure_Kemetism.generalRules.rulesStrings>
   <!-- EN: kemetic -->
-  <AM_Structure_Kemetism.symbolPacks.0.adjective>埃及</AM_Structure_Kemetism.symbolPacks.0.adjective>
+  <AM_Structure_Kemetism.symbolPacks.0.adjective>kémitique</AM_Structure_Kemetism.symbolPacks.0.adjective>
   <!-- EN: kemetic -->
-  <AM_Structure_Kemetism.symbolPacks.0.member>埃及教徒</AM_Structure_Kemetism.symbolPacks.0.member>
+  <AM_Structure_Kemetism.symbolPacks.0.member>kémitiste</AM_Structure_Kemetism.symbolPacks.0.member>
   <!-- EN: kemetism -->
-  <AM_Structure_Kemetism.symbolPacks.0.theme>新异教</AM_Structure_Kemetism.symbolPacks.0.theme>
+  <AM_Structure_Kemetism.symbolPacks.0.theme>kémitisme</AM_Structure_Kemetism.symbolPacks.0.theme>
   <!-- EN: temple -->
-  <AM_Structure_Kemetism.worshipRoomLabel>神庙</AM_Structure_Kemetism.worshipRoomLabel>
+  <AM_Structure_Kemetism.worshipRoomLabel>temple</AM_Structure_Kemetism.worshipRoomLabel>
   
   <!-- EN: Sikh origin -->
-  <AM_Structure_Sikhism.label>锡克教起源</AM_Structure_Sikhism.label>
+  <AM_Structure_Sikhism.label>origine Sikh</AM_Structure_Sikhism.label>
   <!-- EN: This ideoligion is a descendant of ancient Sikhism. It may have very different precepts than those of thousands of years ago, but its symbols are similar. -->
-  <AM_Structure_Sikhism.description>这种思想宗教是远古锡克教的延续。它的戒律可能与几千年前的戒律大不相同，但它的符号却很相似。</AM_Structure_Sikhism.description>
+  <AM_Structure_Sikhism.description>Cette idéologie est un descendant de l'ancien sikhisme. Il peut avoir des préceptes très différents de ceux d'il y a des milliers d'années, mais ses symboles sont similaires.</AM_Structure_Sikhism.description>
   <!-- EN:
     <li>memeAdjective->true</li>
     <li>memeAdjective->righteous</li>
@@ -251,25 +251,25 @@
     <li>memeMoralist->Guru Granth Sahib scholar</li>
   -->
   <AM_Structure_Sikhism.generalRules.rulesStrings>
-    <li>memeAdjective->真理</li>
-    <li>memeAdjective->公正</li>
-    <li>memeAdjective->心灵</li>
-    <li>memeLeaderNoun->结</li>
-    <li>memeMoralist->锡克教圣书学者</li>
+    <li>memeAdjective->vrai</li>
+    <li>memeAdjective->juste</li>
+    <li>memeAdjectif->spirituel</li>
+    <li>memeLeaderNoun->granthi</li>
+    <li>memeMoralist->Érudit Guru Granth Sahib</li>
   </AM_Structure_Sikhism.generalRules.rulesStrings>
   <!-- EN: sikh -->
-  <AM_Structure_Sikhism.symbolPacks.0.adjective>锡克教</AM_Structure_Sikhism.symbolPacks.0.adjective>
+  <AM_Structure_Sikhism.symbolPacks.0.adjective>sikh</AM_Structure_Sikhism.symbolPacks.0.adjective>
   <!-- EN: sikh -->
-  <AM_Structure_Sikhism.symbolPacks.0.member>锡克教徒</AM_Structure_Sikhism.symbolPacks.0.member>
+  <AM_Structure_Sikhism.symbolPacks.0.member>Sikh</AM_Structure_Sikhism.symbolPacks.0.member>
   <!-- EN: sikhism -->
-  <AM_Structure_Sikhism.symbolPacks.0.theme>锡克教</AM_Structure_Sikhism.symbolPacks.0.theme>
+  <AM_Structure_Sikhism.symbolPacks.0.theme>Sikhisme</AM_Structure_Sikhism.symbolPacks.0.theme>
   <!-- EN: gurdwara -->
-  <AM_Structure_Sikhism.worshipRoomLabel>谒师所</AM_Structure_Sikhism.worshipRoomLabel>
+  <AM_Structure_Sikhism.worshipRoomLabel>gurdwara</AM_Structure_Sikhism.worshipRoomLabel>
   
   <!-- EN: steampunk revival -->
-  <AM_Structure_SteampunkRevival.label>蒸汽朋克</AM_Structure_SteampunkRevival.label>
+  <AM_Structure_SteampunkRevival.label>renouveau steampunk</AM_Structure_SteampunkRevival.label>
   <!-- EN: With the advent of zero-emissions steam engines powered by flameless ceramic heat cells in the 22nd century, steam powered technology experienced a sudden revival. This ideoligion has kept the overall style and sentiment of that era. -->
-  <AM_Structure_SteampunkRevival.description>在22世纪，随着由无焰陶瓷热能单元驱动的零排放蒸汽机的出现，蒸汽动力技术再次复兴于世。这种文化形态保留着那个时代的整体风格与情调观感。</AM_Structure_SteampunkRevival.description>
+  <AM_Structure_SteampunkRevival.description>Avec l'avènement des moteurs à vapeur à zéro émission alimentés par des cellules thermiques en céramique sans flamme au 22ème siècle, la technologie à vapeur a connu un renouveau soudain. Cette idéologie a gardé le style général et le sentiment de cette époque.</AM_Structure_SteampunkRevival.description>
   <!-- EN:
     <li>memeAdjective->steampunk</li>
     <li>memeAdjective->analytical</li>
@@ -281,22 +281,22 @@
     <li>memeMoralist->tinkerer</li>
   -->
   <AM_Structure_SteampunkRevival.generalRules.rulesStrings>
-    <li>memeAdjective->蒸汽朋克</li>
-    <li>memeAdjective->解析</li>
-    <li>memeAdjective->后现代主义</li>
-    <li>memeAdjective->以太</li>
-    <li>memeAdjective->新维多利亚时代</li>
-    <li>memeLeaderNoun->监工</li>
-    <li>memeLeaderNoun->齿轮大师</li>
-    <li>memeMoralist->蒸汽工匠</li>
+    <li>memeAdjective->steampunk</li>
+    <li>memeAdjectif->analytique</li>
+    <li>memeAdjective->rétrofuturiste</li>
+    <li>memeAdjective->éthérique</li>
+    <li>memeAdjective->néo-victorien</li>
+    <li>memeLeaderNoun->surveillant</li>
+    <li>memeLeaderNoun->cogmaster</li>
+    <li>memeMoralist->bricoleur</li>
   </AM_Structure_SteampunkRevival.generalRules.rulesStrings>
   <!-- EN: steampunk -->
-  <AM_Structure_SteampunkRevival.symbolPacks.0.adjective>蒸汽朋克</AM_Structure_SteampunkRevival.symbolPacks.0.adjective>
+  <AM_Structure_SteampunkRevival.symbolPacks.0.adjective>steampunk</AM_Structure_SteampunkRevival.symbolPacks.0.adjective>
   <!-- EN: worker -->
-  <AM_Structure_SteampunkRevival.symbolPacks.0.member>工匠</AM_Structure_SteampunkRevival.symbolPacks.0.member>
+  <AM_Structure_SteampunkRevival.symbolPacks.0.member>travailleur</AM_Structure_SteampunkRevival.symbolPacks.0.member>
   <!-- EN: steampunk -->
-  <AM_Structure_SteampunkRevival.symbolPacks.0.theme>蒸汽朋克</AM_Structure_SteampunkRevival.symbolPacks.0.theme>
+  <AM_Structure_SteampunkRevival.symbolPacks.0.theme>steampunk</AM_Structure_SteampunkRevival.symbolPacks.0.theme>
   <!-- EN: parlor -->
-  <AM_Structure_SteampunkRevival.worshipRoomLabel>会客厅</AM_Structure_SteampunkRevival.worshipRoomLabel>
+  <AM_Structure_SteampunkRevival.worshipRoomLabel>parloir</AM_Structure_SteampunkRevival.worshipRoomLabel>
   
 </LanguageData>
